@@ -1,12 +1,7 @@
-```css
-* {
-    box-sizing: border-box;
-}
-
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: #f2f2f2;
+    background: #f3f4f6;
     color: #222;
 }
 
@@ -14,12 +9,12 @@ header {
     background: #111;
     color: white;
     text-align: center;
-    padding: 25px 15px;
+    padding: 28px 15px;
 }
 
 header h1 {
     margin: 0;
-    font-size: 30px;
+    font-size: 32px;
 }
 
 header p {
@@ -28,65 +23,55 @@ header p {
 }
 
 main {
-    max-width: 800px;
+    max-width: 850px;
     margin: 25px auto;
     padding: 0 15px;
 }
 
 .noticias h2 {
-    font-size: 24px;
-    margin-bottom: 15px;
+    margin: 0 0 18px;
+    font-size: 25px;
 }
 
 .noticia {
     background: white;
-    padding: 18px;
-    margin-bottom: 15px;
+    margin-bottom: 14px;
+    padding: 18px 20px;
     border-radius: 10px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
 }
 
 .noticia h3 {
-    margin: 0 0 8px;
+    margin: 0 0 10px;
     font-size: 21px;
+    line-height: 1.35;
+}
+
+.noticia h3 a {
+    color: #222;
+    text-decoration: none;
+}
+
+.noticia h3 a:hover {
+    text-decoration: underline;
 }
 
 .fuente {
-    margin: 0 0 12px;
-    color: #666;
-    font-size: 14px;
-}
-
-.descripcion {
     margin: 0;
-    font-size: 16px;
-    line-height: 1.5;
-}
-
-footer {
-    text-align: center;
-    padding: 25px;
     color: #777;
     font-size: 14px;
 }
 
-@media (max-width: 600px) {
-
-    header h1 {
-        font-size: 25px;
-    }
-
-    header p {
-        font-size: 15px;
-    }
-
-    .noticia h3 {
-        font-size: 19px;
-    }
-
-    .descripcion {
-        font-size: 15px;
-    }
+#estado {
+    margin-top: 20px;
+    text-align: center;
+    color: #777;
+    font-size: 14px;
 }
-```
 
+footer {
+    text-align: center;
+    padding: 30px 15px;
+    color: #777;
+    font-size: 14px;
+}
