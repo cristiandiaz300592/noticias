@@ -1,7 +1,7 @@
 import json
 import urllib.request
 from html.parser import HTMLParser
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from urllib.parse import urljoin
 
 
@@ -381,9 +381,39 @@ for noticia in parser.noticias:
     })
 
 
+# Eliminar noticias con más de 48 horas de antigüedad
+ahora = datetime.now()
+
+limite = ahora - timedelta(hours=48)
+
+def fecha_noticia(fecha):
+
+    try:
+        if len(fecha) == 16:
+            return datetime.strptime(
+                fecha,
+                "%Y-%m-%d %H:%M"
+            )
+
+        return datetime.strptime(
+            fecha,
+            "%Y-%m-%d %H%M%S"
+        )
+
+    except ValueError:
+        return None
+
+
+noticias_finales = [
+    noticia
+    for noticia in noticias_finales
+    if fecha_noticia(noticia["fecha_publicacion"])
+    and fecha_noticia(noticia["fecha_publicacion"]) >= limite
+]
+
 # Ordenar todas las noticias por fecha, de más nueva a más antigua
 noticias_finales.sort(
-    key=lambda noticia: noticia["fecha_publicacion"],
+    key=lambda noticia: fecha_noticia(noticia["fecha_publicacion"]),
     reverse=True
 )
 
