@@ -35,15 +35,15 @@ main {
 
 .noticia {
     background: white;
-    margin-bottom: 14px;
-    padding: 18px 20px;
+    margin-bottom: 12px;
+    padding: 20px 22px;
     border-radius: 10px;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
 }
 
 .noticia h3 {
-    margin: 0 0 10px;
-    font-size: 21px;
+    margin: 0 0 8px;
+    font-size: 22px;
     line-height: 1.35;
 }
 
