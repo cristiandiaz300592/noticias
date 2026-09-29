@@ -131,7 +131,6 @@ noticias_finales = []
 vistos = set()
 
 for noticia in parser.noticias:
-
     if not es_noticia_chilena(noticia):
         continue
 
@@ -142,10 +141,11 @@ for noticia in parser.noticias:
 
     vistos.add(enlace)
 
-    noticias_finales.append({
+        noticias_finales.append({
         "titulo": noticia["titulo"],
         "fuente": "Cooperativa",
-        "enlace": enlace
+        "enlace": enlace,
+        "fecha_publicacion": enlace.split("/")[-2] + " " + enlace.split("/")[-1].replace(".html", "")
     })
 
     if len(noticias_finales) >= 20:
