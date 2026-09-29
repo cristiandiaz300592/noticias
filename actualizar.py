@@ -57,6 +57,105 @@ class NoticiasParser(HTMLParser):
             self.titulo_actual = []
             self.dentro_titulo = False
 
+class BioBioParser(HTMLParser):
+
+    def __init__(self):
+        super().__init__()
+
+        self.noticias = []
+
+        self.dentro_article = False
+        self.noticia_actual = None
+
+        self.dentro_titulo = False
+        self.dentro_fecha = False
+
+        self.titulo_actual = []
+        self.fecha_actual = []
+
+    def handle_starttag(self, tag, attrs):
+
+        attrs = dict(attrs)
+
+        # Comienza una noticia
+        if tag == "article" and not self.dentro_article:
+
+            self.dentro_article = True
+
+            self.noticia_actual = {
+                "titulo": "",
+                "enlace": "",
+                "fecha": ""
+            }
+
+        if not self.dentro_article:
+            return
+
+        # Enlace de la noticia
+        if tag == "a" and "href" in attrs:
+
+            href = attrs["href"]
+
+            if href.startswith("https://www.biobiochile.cl/noticias/"):
+                self.noticia_actual["enlace"] = href
+
+        # Título
+        if tag == "h2" and "class" in attrs:
+
+            if "article-title" in attrs["class"]:
+
+                self.dentro_titulo = True
+                self.titulo_actual = []
+
+        # Fecha
+        if tag == "div" and "class" in attrs:
+
+            if "article-date-hour" in attrs["class"]:
+
+                self.dentro_fecha = True
+                self.fecha_actual = []
+
+    def handle_data(self, data):
+
+        if self.dentro_titulo:
+            self.titulo_actual.append(data)
+
+        if self.dentro_fecha:
+            self.fecha_actual.append(data)
+
+    def handle_endtag(self, tag):
+
+        # Terminó título
+        if tag == "h2" and self.dentro_titulo:
+
+            self.noticia_actual["titulo"] = " ".join(
+                "".join(self.titulo_actual).split()
+            )
+
+            self.titulo_actual = []
+            self.dentro_titulo = False
+
+        # Terminó fecha
+        if tag == "div" and self.dentro_fecha:
+
+            self.noticia_actual["fecha"] = " ".join(
+                "".join(self.fecha_actual).split()
+            )
+
+            self.fecha_actual = []
+            self.dentro_fecha = False
+
+        # Terminó la noticia completa
+        if tag == "article" and self.dentro_article:
+
+            if (
+                self.noticia_actual["titulo"]
+                and self.noticia_actual["enlace"]
+            ):
+                self.noticias.append(self.noticia_actual)
+
+            self.noticia_actual = None
+            self.dentro_article = False
 
 def descargar():
 
@@ -121,6 +220,95 @@ def es_noticia_chilena(noticia):
 
     return True
 
+def fecha_biobio(fecha):
+
+    if not fecha:
+        return ""
+
+    try:
+        fecha_texto, hora = fecha.split("|")
+
+        partes = fecha_texto.strip().split()
+
+        dia = partes[1]
+        mes = partes[2].replace(",", "")
+        anio = partes[3]
+
+        meses = {
+            "Enero": "01",
+            "Febrero": "02",
+            "Marzo": "03",
+            "Abril": "04",
+            "Mayo": "05",
+            "Junio": "06",
+            "Julio": "07",
+            "Agosto": "08",
+            "Septiembre": "09",
+            "Octubre": "10",
+            "Noviembre": "11",
+            "Diciembre": "12"
+        }
+
+        return f"{anio}-{meses[mes]}-{dia.zfill(2)} {hora.strip()}"
+
+    except Exception:
+        return ""
+
+def es_noticia_chilena_biobio(noticia):
+
+    enlace = noticia["enlace"]
+    titulo = noticia["titulo"].lower()
+
+    # Noticias directamente relacionadas con La Roja
+    if "/deportes/futbol/la-roja/" in enlace:
+        return True
+
+    # Fútbol nacional chileno
+    if "/deportes/futbol/futbol-nacional/" in enlace:
+        return True
+
+    # Copa Chile
+    if "/deportes/futbol/copa-chile/" in enlace:
+        return True
+
+    # Ascenso chileno
+    if "/deportes/futbol/ascenso/" in enlace:
+        return True
+
+    # Liga de Primera
+    if "/deportes/futbol/liga-de-primera/" in enlace:
+        return True
+
+    # Noticias que representan directamente a Chile
+    if "/noticias/nacional/chile/" in enlace and "team chile" in titulo:
+        return True
+
+    # Eventos deportivos realizados en Chile
+    if "/deportes/mas-deportes/" in enlace:
+
+        eventos_chile = [
+            "rallymobil",
+            "titan forest",
+            "en chile",
+            "en santiago",
+            "en rancagua",
+            "en viña",
+            "en valparaíso",
+            "en concepción",
+            "en temuco",
+            "en puerto montt"
+        ]
+
+        if any(evento in titulo for evento in eventos_chile):
+            return True
+
+    # Artículos de servicio sobre partidos de Chile
+    if "/noticias/servicios/toma-nota/" in enlace:
+
+        if "chile" in titulo:
+            return True
+
+    return False
 
 html = descargar()
 
@@ -130,7 +318,51 @@ parser.feed(html)
 noticias_finales = []
 vistos = set()
 
+# BioBioChile
+url_biobio = "https://www.biobiochile.cl/lista/categorias/deportes"
+
+req_biobio = urllib.request.Request(
+    url_biobio,
+    headers={"User-Agent": "Mozilla/5.0"}
+)
+
+with urllib.request.urlopen(url_biobio, timeout=20) as respuesta:
+    html_biobio = respuesta.read().decode("utf-8")
+
+parser_biobio = BioBioParser()
+parser_biobio.feed(html_biobio)
+
+for noticia in parser_biobio.noticias:
+
+    if not noticia["fecha"]:
+        continue
+
+    if not es_noticia_chilena_biobio(noticia):
+        continue
+
+    enlace = noticia["enlace"]
+
+    if enlace in vistos:
+        continue
+
+    fecha = fecha_biobio(noticia["fecha"])
+
+    if not fecha:
+        continue
+
+    vistos.add(enlace)
+
+    noticias_finales.append({
+        "titulo": noticia["titulo"],
+        "fuente": "BioBioChile",
+        "enlace": enlace,
+        "fecha_publicacion": fecha
+    })
+
+
+# Cooperativa
 for noticia in parser.noticias:
+
     if not es_noticia_chilena(noticia):
         continue
 
@@ -141,15 +373,22 @@ for noticia in parser.noticias:
 
     vistos.add(enlace)
 
-        noticias_finales.append({
+    noticias_finales.append({
         "titulo": noticia["titulo"],
         "fuente": "Cooperativa",
         "enlace": enlace,
         "fecha_publicacion": enlace.split("/")[-2] + " " + enlace.split("/")[-1].replace(".html", "")
     })
 
-    if len(noticias_finales) >= 20:
-        break
+
+# Ordenar todas las noticias por fecha, de más nueva a más antigua
+noticias_finales.sort(
+    key=lambda noticia: noticia["fecha_publicacion"],
+    reverse=True
+)
+
+# Mostrar solamente las 20 más recientes
+noticias_finales = noticias_finales[:20]
 
 
 datos = {
@@ -173,4 +412,4 @@ print(f"Noticias chilenas seleccionadas: {len(noticias_finales)}")
 print()
 
 for noticia in noticias_finales:
-    print("-", noticia["titulo"])
+    print("-", noticia["fuente"], "|", noticia["fecha_publicacion"], "|", noticia["titulo"])
