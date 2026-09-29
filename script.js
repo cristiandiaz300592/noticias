@@ -24,8 +24,13 @@ fetch("./noticias.json")
                     </a>
                 </h3>
 
-                <p class="fuente">
-    ${noticia.fuente} · ${noticia.fecha_publicacion.substring(11, 13)}:${noticia.fecha_publicacion.substring(13, 15)}
+    <p class="fuente">
+    ${noticia.fuente} · ${
+        noticia.fecha_publicacion.split(" ")[1].includes(":")
+            ? noticia.fecha_publicacion.split(" ")[1].substring(0, 5)
+            : noticia.fecha_publicacion.split(" ")[1].substring(0, 2) + ":" +
+              noticia.fecha_publicacion.split(" ")[1].substring(2, 4)
+    }
 </p>
             `;
 
