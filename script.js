@@ -25,8 +25,8 @@ fetch("./noticias.json")
                 </h3>
 
                 <p class="fuente">
-                    ${noticia.fuente}
-                </p>
+    ${noticia.fuente} · ${noticia.fecha_publicacion.substring(11, 13)}:${noticia.fecha_publicacion.substring(13, 15)}
+</p>
             `;
 
             contenedor.appendChild(articulo);

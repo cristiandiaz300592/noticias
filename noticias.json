@@ -1,80 +1,101 @@
 {
-  "actualizado": "2026-09-29T09:10:13.954825+00:00",
+  "actualizado": "2026-09-29T11:20:06.919714+00:00",
   "noticias": [
     {
       "titulo": "Colo Colo quiere mantener su paso ganador en Copa Chile ante el aguerrido Puerto Montt",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-quiere-mantener-su-paso-ganador-en-copa-chile-ante-el/2026-09-28/221032.html"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-quiere-mantener-su-paso-ganador-en-copa-chile-ante-el/2026-09-28/221032.html",
+      "fecha_publicacion": "2026-09-28 221032"
     },
     {
       "titulo": "Nicolás Córdova: El sello en la selección es que compiten y son agresivos",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nicolas-cordova-el-sello-en-la-seleccion-es-que-compiten-y-son/2026-09-28/201758.html"
-    },
-    {
-      "titulo": "¿Cuándo se reanuda? La programación de la fecha 24 de la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cuando-se-reanuda-la-programacion-de-la-fecha-24-de-la-liga-de-primera/2026-09-13/225555.html"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nicolas-cordova-el-sello-en-la-seleccion-es-que-compiten-y-son/2026-09-28/201758.html",
+      "fecha_publicacion": "2026-09-28 201758"
     },
     {
       "titulo": "¿Cuándo y dónde ver el amistoso de La Roja ante Estados Unidos?",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-amistoso-de-la-roja-ante-estados-unidos/2026-09-26/185231.html"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-amistoso-de-la-roja-ante-estados-unidos/2026-09-26/185231.html",
+      "fecha_publicacion": "2026-09-26 185231"
+    },
+    {
+      "titulo": "¿Cuándo se reanuda? La programación de la fecha 24 de la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cuando-se-reanuda-la-programacion-de-la-fecha-24-de-la-liga-de-primera/2026-09-13/225555.html",
+      "fecha_publicacion": "2026-09-13 225555"
     },
     {
       "titulo": "¿Alexis aprobó al \"Tano\" Ortiz como candidato a la banca de La Roja?",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/alexis-aprobo-al-tano-ortiz-como-candidato-a-la-banca-de-la-roja/2026-09-28/210154.html"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/alexis-aprobo-al-tano-ortiz-como-candidato-a-la-banca-de-la-roja/2026-09-28/210154.html",
+      "fecha_publicacion": "2026-09-28 210154"
+    },
+    {
+      "titulo": "Galería a 25 mil pesos: Puerto Montt causó revuelo por el precio de las entradas ante Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/galeria-a-25-mil-pesos-puerto-montt-causo-revuelo-por-el-precio-de-las/2026-09-28/191407.html",
+      "fecha_publicacion": "2026-09-28 191407"
     },
     {
       "titulo": "La U y Antofagasta conocieron la programación para su llave de Copa Chile",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-y-antofagasta-conocieron-la-programacion-para-su-llave-de-copa-chile/2026-09-28/173727.html"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-y-antofagasta-conocieron-la-programacion-para-su-llave-de-copa-chile/2026-09-28/173727.html",
+      "fecha_publicacion": "2026-09-28 173727"
     },
     {
       "titulo": "Igor Lichnovsky fue nominado por Nicolás Córdova para integrarse a la gira de la Roja",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/igor-lichnovsky-fue-nominado-por-nicolas-cordova-para-integrarse-a-la/2026-09-28/114533.html"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/igor-lichnovsky-fue-nominado-por-nicolas-cordova-para-integrarse-a-la/2026-09-28/114533.html",
+      "fecha_publicacion": "2026-09-28 114533"
     },
     {
       "titulo": "Ortiz y la resolución del Everton-la U: No me gustó, tiene que sancionarse deportivamente",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-la-resolucion-del-everton-la-u-no-me-gusto-tiene-que/2026-09-28/143358.html"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-la-resolucion-del-everton-la-u-no-me-gusto-tiene-que/2026-09-28/143358.html",
+      "fecha_publicacion": "2026-09-28 143358"
     },
     {
-      "titulo": "Lucas Barrera figura en ranking de los mejores volantes menores de 22 años del mundo",
+      "titulo": "¿Cuándo y dónde ver la ida entre Puerto Montt y Colo Colo en cuartos de la Copa Chile?",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lucas-barrera-figura-en-ranking-de-los-mejores-volantes-menores-de-22/2026-09-28/192226.html"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-ida-entre-puerto-montt-y-colo-colo-en-cuartos-de/2026-09-28/162200.html",
+      "fecha_publicacion": "2026-09-28 162200"
     },
     {
       "titulo": "\"Al menos seis bengalas\": el lapidario informe de la suspensión del Everton vs. la U",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/al-menos-seis-bengalas-el-lapidario-informe-de-la-suspension-del/2026-09-28/140028.html"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/al-menos-seis-bengalas-el-lapidario-informe-de-la-suspension-del/2026-09-28/140028.html",
+      "fecha_publicacion": "2026-09-28 140028"
     },
     {
       "titulo": "Modo DT: Arturo Vidal propuso su formación para el amistoso de La Roja y Estados Unidos",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/modo-dt-arturo-vidal-propuso-su-formacion-para-el-amistoso-de-la-roja-y/2026-09-28/181220.html"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/modo-dt-arturo-vidal-propuso-su-formacion-para-el-amistoso-de-la-roja-y/2026-09-28/181220.html",
+      "fecha_publicacion": "2026-09-28 181220"
     },
     {
       "titulo": "Las llaves de cuartos de final de la Copa Chile 2026",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/las-llaves-de-cuartos-de-final-de-la-copa-chile-2026/2026-09-26/164613.html"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/las-llaves-de-cuartos-de-final-de-la-copa-chile-2026/2026-09-26/164613.html",
+      "fecha_publicacion": "2026-09-26 164613"
     },
     {
       "titulo": "Arturo Vidal criticó a Córdova: A Marcelino yo lo pongo de 6",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/arturo-vidal-critico-a-cordova-a-marcelino-yo-lo-pongo-de-6/2026-09-28/102748.html"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/arturo-vidal-critico-a-cordova-a-marcelino-yo-lo-pongo-de-6/2026-09-28/102748.html",
+      "fecha_publicacion": "2026-09-28 102748"
     },
     {
       "titulo": "Directorio de la Federación analiza denunciar al capitán de Everton",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/directorio-de-la-federacion-analiza-denunciar-al-capitan-de-everton/2026-09-28/150445.html"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/directorio-de-la-federacion-analiza-denunciar-al-capitan-de-everton/2026-09-28/150445.html",
+      "fecha_publicacion": "2026-09-28 150445"
     },
     {
       "titulo": "Giani, Avilés y Maxi Romero figuran como los jugadores más valiosos de la Liga de Primera",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/giani-aviles-y-maxi-romero-figuran-como-los-jugadores-mas-valiosos-de/2026-09-25/214813.html"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/giani-aviles-y-maxi-romero-figuran-como-los-jugadores-mas-valiosos-de/2026-09-25/214813.html",
+      "fecha_publicacion": "2026-09-25 214813"
     }
   ]
 }
