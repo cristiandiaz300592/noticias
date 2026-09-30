@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-09-30T04:01:13.326250+00:00",
+  "actualizado": "2026-09-30T10:35:48.090202+00:00",
   "noticias": [
+    {
+      "titulo": "Vidal criticó los cambios y la estrategia defensiva de Córdova ante Estados Unidos",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-critico-los-cambios-y-la-estrategia-defensiva-de-cordova-ante/2026-09-30/010734.html",
+      "fecha_publicacion": "2026-09-30 010734"
+    },
     {
       "titulo": "Córdova: Estos partidos son para que Osorio tome responsabilidad, es un jugador de Premier",
       "fuente": "Cooperativa",
@@ -68,6 +74,12 @@
       "fecha_publicacion": "2026-09-29 191827"
     },
     {
+      "titulo": "¿Cuándo y dónde ver la ida entre D. Concepción y O'Higgins en cuartos de la Copa Chile?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-ida-entre-d-concepcion-y-o-higgins-en-cuartos-de/2026-09-29/191052.html",
+      "fecha_publicacion": "2026-09-29 191052"
+    },
+    {
       "titulo": "Tras criticarlo y recibir respuesta desde Brasil: Paredes pidió que Pulgar sea capitán de La Roja",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/09/29/tras-criticarlo-y-recibir-respuesta-desde-brasil-paredes-pidio-que-pulgar-sea-capitan-de-la-roja.shtml",
@@ -108,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sub-17-logro-su-primer-triunfo-en-la-gira-preparatoria-para-el/2026-09-29/133545.html",
       "fecha_publicacion": "2026-09-29 133545"
-    },
-    {
-      "titulo": "¿Un duro golpe para La Roja? Revelan los cupos que tendrá Conmebol en las Clasificatorias 2030",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/un-duro-golpe-para-la-roja-revelan-los-cupos-que-tendra-conmebol-en/2026-09-29/100714.html",
-      "fecha_publicacion": "2026-09-29 100714"
     }
   ]
 }
