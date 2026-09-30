@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-09-29T23:59:13.960747+00:00",
+  "actualizado": "2026-09-30T04:01:13.326250+00:00",
   "noticias": [
+    {
+      "titulo": "Córdova: Estos partidos son para que Osorio tome responsabilidad, es un jugador de Premier",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-estos-partidos-son-para-que-osorio-tome-responsabilidad-es-un/2026-09-30/004411.html",
+      "fecha_publicacion": "2026-09-30 004411"
+    },
+    {
+      "titulo": "Córdova y la caída ante Estados Unidos: La única forma que los chicos crezcan es con estos...",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-la-caida-ante-estados-unidos-la-unica-forma-que-los-chicos/2026-09-30/003653.html",
+      "fecha_publicacion": "2026-09-30 003653"
+    },
+    {
+      "titulo": "[VIDEO] Como el \"palo de Pinilla\": El travesaño le negó un golazo a Brereton ante Estados Unidos",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/video-como-el-palo-de-pinilla-el-travesano-le-nego-un-golazo-a/2026-09-30/002335.html",
+      "fecha_publicacion": "2026-09-30 002335"
+    },
+    {
+      "titulo": "Chile sufrió otra dura derrota en Norteamérica: Ahora Estados Unidos fue el verdugo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/chile-sufrio-otra-dura-derrota-en-norteamerica-ahora-estados-unidos-fue/2026-09-29/231431.html",
+      "fecha_publicacion": "2026-09-29 231431"
+    },
+    {
+      "titulo": "Chile se ilusionó con buen fútbol, pero terminó cayendo en un partidazo ante EEUU en Misuri",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/09/29/chile-se-ilusiono-con-buen-futbol-pero-termino-cayendo-en-un-partidazo-ante-eeuu-en-misuri.shtml",
+      "fecha_publicacion": "2026-09-29 23:06"
+    },
+    {
+      "titulo": "Derechazo infernal: así fue el golazo de Maxi Gutiérrez para una ventaja que le duró poco a La Roja",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/09/29/derechazo-infernal-asi-fue-el-golazo-de-maxi-gutierrez-para-una-ventaja-que-le-duro-poco-a-la-roja.shtml",
+      "fecha_publicacion": "2026-09-29 22:28"
+    },
+    {
+      "titulo": "Chile lo empata con pundonor ante EEUU: Diego Ulloa puso justicia al filo del descanso en St. Louis",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/09/29/chile-lo-empata-con-pundonor-ante-eeuu-diego-ulloa-puso-justicia-en-un-partidazo-en-st-louis.shtml",
+      "fecha_publicacion": "2026-09-29 22:02"
+    },
+    {
+      "titulo": "Ortiz fue cauto sobre Puerto Montt: Aún queda la vuelta y hay que tener cuidado",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-fue-cauto-sobre-puerto-montt-aun-queda-la-vuelta-y-hay-que-tener/2026-09-29/214359.html",
+      "fecha_publicacion": "2026-09-29 214359"
+    },
     {
       "titulo": "Colo Colo golpeó en el cierre y venció a Puerto Montt en Chinquihue",
       "fuente": "Cooperativa",
@@ -14,28 +62,16 @@
       "fecha_publicacion": "2026-09-29 20:03"
     },
     {
-      "titulo": "[VIDEO] Pastrán apareció al final y anotó el gol del triunfo de Colo Colo ante Puerto Montt",
+      "titulo": "¿Cuándo y dónde ver el amistoso de La Roja ante México?",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/video-pastran-aparecio-al-final-y-anoto-el-gol-del-triunfo-de-colo/2026-09-29/195712.html",
-      "fecha_publicacion": "2026-09-29 195712"
-    },
-    {
-      "titulo": "[VIDEO] Colo Colo lamentó gol anulado a Marchant por posición de adelanto ante Puerto Montt",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-colo-colo-lamento-gol-anulado-a-marchant-por-posicion-de/2026-09-29/194306.html",
-      "fecha_publicacion": "2026-09-29 194306"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-amistoso-de-la-roja-ante-mexico/2026-09-29/191827.html",
+      "fecha_publicacion": "2026-09-29 191827"
     },
     {
       "titulo": "Tras criticarlo y recibir respuesta desde Brasil: Paredes pidió que Pulgar sea capitán de La Roja",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/09/29/tras-criticarlo-y-recibir-respuesta-desde-brasil-paredes-pidio-que-pulgar-sea-capitan-de-la-roja.shtml",
       "fecha_publicacion": "2026-09-29 18:08"
-    },
-    {
-      "titulo": "Copa Chile: Los resultados de los partidos de ida de los cuartos de final",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/copa-chile-los-resultados-de-los-partidos-de-ida-de-los-cuartos-de-final/2026-09-29/171158.html",
-      "fecha_publicacion": "2026-09-29 171158"
     },
     {
       "titulo": "Final de Copa de la Liga no se jugará en Valparaíso: ANFP activa ’Plan B’ para Coquimbo vs O’Higgins",
@@ -68,34 +104,16 @@
       "fecha_publicacion": "2026-09-29 15:32"
     },
     {
-      "titulo": "Esteban Paredes sobre Erick Pulgar: \"La selección lo necesita, tiene que ser el capitán\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/esteban-paredes-sobre-erick-pulgar-la-seleccion-lo-necesita-tiene-que/2026-09-29/152424.html",
-      "fecha_publicacion": "2026-09-29 152424"
-    },
-    {
-      "titulo": "Representante de Iván Román negó supuesto insulto racista a jugador de Canadá",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/representante-de-ivan-roman-nego-supuesto-insulto-racista-a-jugador-de/2026-09-29/134425.html",
-      "fecha_publicacion": "2026-09-29 134425"
-    },
-    {
       "titulo": "La Roja sub 17 logró su primer triunfo en la gira preparatoria para el Mundial",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sub-17-logro-su-primer-triunfo-en-la-gira-preparatoria-para-el/2026-09-29/133545.html",
       "fecha_publicacion": "2026-09-29 133545"
     },
     {
-      "titulo": "A qué hora juegan y dónde ver en vivo el Chile vs Estados Unidos por amistoso Fecha FIFA",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/09/29/a-que-hora-juegan-y-donde-ver-en-vivo-el-chile-vs-estados-unidos-por-amistoso-fecha-fifa.shtml",
-      "fecha_publicacion": "2026-09-29 13:28"
-    },
-    {
-      "titulo": "[Radio en vivo🎙] La Roja enfrenta a Estados Unidos en su segundo amistoso de la fecha FIFA",
+      "titulo": "¿Un duro golpe para La Roja? Revelan los cupos que tendrá Conmebol en las Clasificatorias 2030",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/radio-en-vivo-la-roja-enfrenta-a-estados-unidos-en-su-segundo/2026-09-29/073246.html",
-      "fecha_publicacion": "2026-09-29 073246"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/un-duro-golpe-para-la-roja-revelan-los-cupos-que-tendra-conmebol-en/2026-09-29/100714.html",
+      "fecha_publicacion": "2026-09-29 100714"
     }
   ]
 }
