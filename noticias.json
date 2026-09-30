@@ -1,11 +1,71 @@
 {
-  "actualizado": "2026-09-30T10:35:48.090202+00:00",
+  "actualizado": "2026-09-30T16:32:14.993307+00:00",
   "noticias": [
     {
-      "titulo": "Vidal criticó los cambios y la estrategia defensiva de Córdova ante Estados Unidos",
+      "titulo": "TAS deja en el suelo a La Calera: desestima reclamo por puntos y le ordena pagar a ANFP y clubes",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/30/tas-deja-en-el-suelo-a-la-calera-desestima-reclamo-por-puntos-y-le-ordena-pagar-a-anfp-y-clubes.shtml",
+      "fecha_publicacion": "2026-09-30 13:10"
+    },
+    {
+      "titulo": "\"A lo vieja escuela\": video muestra a hinchas de Puerto Montt y Colo-Colo peleándose por un lienzo",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/30/a-lo-vieja-escuela-video-muestra-a-hinchas-de-puerto-montt-y-colo-colo-peleandose-por-un-lienzo.shtml",
+      "fecha_publicacion": "2026-09-30 12:33"
+    },
+    {
+      "titulo": "Tribunal tomó una primera decisión por incidentes en Sausalito",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-critico-los-cambios-y-la-estrategia-defensiva-de-cordova-ante/2026-09-30/010734.html",
-      "fecha_publicacion": "2026-09-30 010734"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/tribunal-tomo-una-primera-decision-por-incidentes-en-sausalito/2026-09-30/114024.html",
+      "fecha_publicacion": "2026-09-30 114024"
+    },
+    {
+      "titulo": "\"Yo lo veo que está verde\": Arturo Vidal evaluó a Osorio y apuntó a que debe ’madurar’ para competir",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/09/30/yo-lo-veo-que-esta-verde-arturo-vidal-evaluo-a-osorio-y-apunta-a-que-debe-madurar-para-competir.shtml",
+      "fecha_publicacion": "2026-09-30 10:49"
+    },
+    {
+      "titulo": "Claudio Bravo criticó conformismo en La Roja de Córdova: excapitán llamó a no normalizar las derrotas",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/30/claudio-bravo-critico-conformismo-en-la-roja-de-cordova-excapitan-llamo-a-no-normalizar-las-derrotas.shtml",
+      "fecha_publicacion": "2026-09-30 10:35"
+    },
+    {
+      "titulo": "Vidal pide a la Generación Dorada: \"No entiendo la manía con el recambio\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-pide-a-la-generacion-dorada-no-entiendo-la-mania-con-el-recambio/2026-09-30/102410.html",
+      "fecha_publicacion": "2026-09-30 102410"
+    },
+    {
+      "titulo": "Felipe Loyola: \"Este equipo tiene mucho margen de mejora\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/felipe-loyola-este-equipo-tiene-mucho-margen-de-mejora/2026-09-30/095555.html",
+      "fecha_publicacion": "2026-09-30 095555"
+    },
+    {
+      "titulo": "Claudio Bravo y nueva caída de la Roja: Mayor autocrítica y no normalizar las derrotas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/claudio-bravo-y-nueva-caida-de-la-roja-mayor-autocritica-y-no/2026-09-30/092931.html",
+      "fecha_publicacion": "2026-09-30 092931"
+    },
+    {
+      "titulo": "Darío Osorio lamentó derrota pero destacó alza de La Roja: \"Merecíamos un poco más\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/dario-osorio-lamento-derrota-pero-destaco-alza-de-la-roja-mereciamos/2026-09-30/083921.html",
+      "fecha_publicacion": "2026-09-30 083921"
+    },
+    {
+      "titulo": "’Canchereo’ de arquero y toque de Hernández: así se desató la pelea de EEUU y Chile en amistoso",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/09/30/canchereo-de-arquero-y-toque-de-hernandez-asi-se-desato-la-pelea-de-eeuu-y-chile-en-amistoso.shtml",
+      "fecha_publicacion": "2026-09-30 08:33"
+    },
+    {
+      "titulo": "Córdova elogia a La Roja tras caída con EEUU: \"Sería fácil jugar contra selecciones inferiores\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/09/30/cordova-elogia-a-la-roja-tras-caida-con-eeuu-seria-facil-jugar-contra-selecciones-inferiores.shtml",
+      "fecha_publicacion": "2026-09-30 07:52"
     },
     {
       "titulo": "Córdova: Estos partidos son para que Osorio tome responsabilidad, es un jugador de Premier",
@@ -14,22 +74,16 @@
       "fecha_publicacion": "2026-09-30 004411"
     },
     {
-      "titulo": "Córdova y la caída ante Estados Unidos: La única forma que los chicos crezcan es con estos...",
+      "titulo": "Córdova y la caída ante EE.UU.: La única forma que los chicos crezcan es con estos partidos",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-la-caida-ante-estados-unidos-la-unica-forma-que-los-chicos/2026-09-30/003653.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-la-caida-ante-ee-uu-la-unica-forma-que-los-chicos-crezcan-es/2026-09-30/003653.html",
       "fecha_publicacion": "2026-09-30 003653"
     },
     {
-      "titulo": "[VIDEO] Como el \"palo de Pinilla\": El travesaño le negó un golazo a Brereton ante Estados Unidos",
+      "titulo": "Los memes apuntaron a Nico Córdova y sus métricas tras la caída de La Roja ante Estados Unidos",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/video-como-el-palo-de-pinilla-el-travesano-le-nego-un-golazo-a/2026-09-30/002335.html",
-      "fecha_publicacion": "2026-09-30 002335"
-    },
-    {
-      "titulo": "Chile sufrió otra dura derrota en Norteamérica: Ahora Estados Unidos fue el verdugo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/chile-sufrio-otra-dura-derrota-en-norteamerica-ahora-estados-unidos-fue/2026-09-29/231431.html",
-      "fecha_publicacion": "2026-09-29 231431"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/los-memes-apuntaron-a-nico-cordova-y-sus-metricas-tras-la-caida-de-la/2026-09-29/234528.html",
+      "fecha_publicacion": "2026-09-29 234528"
     },
     {
       "titulo": "Chile se ilusionó con buen fútbol, pero terminó cayendo en un partidazo ante EEUU en Misuri",
@@ -50,12 +104,6 @@
       "fecha_publicacion": "2026-09-29 22:02"
     },
     {
-      "titulo": "Ortiz fue cauto sobre Puerto Montt: Aún queda la vuelta y hay que tener cuidado",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-fue-cauto-sobre-puerto-montt-aun-queda-la-vuelta-y-hay-que-tener/2026-09-29/214359.html",
-      "fecha_publicacion": "2026-09-29 214359"
-    },
-    {
       "titulo": "Colo Colo golpeó en el cierre y venció a Puerto Montt en Chinquihue",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-golpeo-en-el-cierre-y-vencio-a-puerto-montt-en-chinquihue/2026-09-29/201039.html",
@@ -72,54 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-amistoso-de-la-roja-ante-mexico/2026-09-29/191827.html",
       "fecha_publicacion": "2026-09-29 191827"
-    },
-    {
-      "titulo": "¿Cuándo y dónde ver la ida entre D. Concepción y O'Higgins en cuartos de la Copa Chile?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-ida-entre-d-concepcion-y-o-higgins-en-cuartos-de/2026-09-29/191052.html",
-      "fecha_publicacion": "2026-09-29 191052"
-    },
-    {
-      "titulo": "Tras criticarlo y recibir respuesta desde Brasil: Paredes pidió que Pulgar sea capitán de La Roja",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/09/29/tras-criticarlo-y-recibir-respuesta-desde-brasil-paredes-pidio-que-pulgar-sea-capitan-de-la-roja.shtml",
-      "fecha_publicacion": "2026-09-29 18:08"
-    },
-    {
-      "titulo": "Final de Copa de la Liga no se jugará en Valparaíso: ANFP activa ’Plan B’ para Coquimbo vs O’Higgins",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/29/final-copa-de-la-liga-no-autorizan-valparaiso-y-anfp-evalua-estadios.shtml",
-      "fecha_publicacion": "2026-09-29 16:44"
-    },
-    {
-      "titulo": "Vidal encabezó el equipo ideal de los octavos de final en la Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/vidal-encabezo-el-equipo-ideal-de-los-octavos-de-final-en-la-copa-chile/2026-09-29/164209.html",
-      "fecha_publicacion": "2026-09-29 164209"
-    },
-    {
-      "titulo": "La Roja en alerta: filtran el complejo panorama que tendrá Chile para llegar al Mundial 2030",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/09/29/la-roja-en-alerta-filtran-el-complejo-panorama-que-tendra-chile-para-llegar-al-mundial-2030.shtml",
-      "fecha_publicacion": "2026-09-29 16:19"
-    },
-    {
-      "titulo": "Iván Román fue acusado de racismo contra jugador canadiense en amistoso: representante negó polémica",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/09/29/ivan-roman-fue-acusado-de-racismo-contra-jugador-canadiense-en-amistoso-representante-nego-polemica.shtml",
-      "fecha_publicacion": "2026-09-29 16:08"
-    },
-    {
-      "titulo": "Puerto Montt vs Colo Colo por cuartos de Copa Chile: a qué hora juegan y dónde verlo en vivo",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/09/29/puerto-montt-vs-colo-colo-por-cuartos-de-copa-chile-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
-      "fecha_publicacion": "2026-09-29 15:32"
-    },
-    {
-      "titulo": "La Roja sub 17 logró su primer triunfo en la gira preparatoria para el Mundial",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sub-17-logro-su-primer-triunfo-en-la-gira-preparatoria-para-el/2026-09-29/133545.html",
-      "fecha_publicacion": "2026-09-29 133545"
     }
   ]
 }
