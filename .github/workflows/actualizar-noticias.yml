@@ -2,7 +2,8 @@ name: Actualizar noticias
 
 on:
   schedule:
-   - cron: "7,37 * * * *"
+    - cron: "7,37 * * * *"
+      timezone: "America/Santiago"
   workflow_dispatch:
 
 permissions:
