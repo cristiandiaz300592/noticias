@@ -1,8 +1,26 @@
 {
-  "actualizado": "2026-10-01T06:38:29.353123+00:00",
+  "actualizado": "2026-10-01T13:28:39.625804+00:00",
   "noticias": [
     {
-      "titulo": "Casi terminó a los golpes: El motivo de la salida de Marcelino Núñez de la concentración de La Roja",
+      "titulo": "Prensa inglesa reaccionó con sorpresa a la repentina salida de Marcelino Núñez de la Roja",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/prensa-inglesa-reacciono-con-sorpresa-a-la-repentina-salida-de-marcelino/2026-10-01/093838.html",
+      "fecha_publicacion": "2026-10-01 093838"
+    },
+    {
+      "titulo": "Tras bajarse de La Roja: aseguran que Marcelino Núñez se molestó con Córdova y casi peleó con Cepeda",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/01/tras-bajarese-de-la-roja-aseguran-que-marcelino-nunez-se-molesto-con-cordova-y-casi-peleo-con-cepeda.shtml",
+      "fecha_publicacion": "2026-10-01 08:03"
+    },
+    {
+      "titulo": "Palestino pisó fuerte en Perú y venció a Alianza Lima en amistoso internacional",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/palestino-piso-fuerte-en-peru-y-vencio-a-alianza-lima-en-amistoso/2026-10-01/072822.html",
+      "fecha_publicacion": "2026-10-01 072822"
+    },
+    {
+      "titulo": "Casi terminó a los golpes: El motivo de la salida de Marcelino Núñez de La Roja",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/casi-termino-a-los-golpes-el-motivo-de-la-salida-de-marcelino-nunez-de/2026-10-01/010606.html",
       "fecha_publicacion": "2026-10-01 010606"
@@ -14,22 +32,10 @@
       "fecha_publicacion": "2026-09-30 22:45"
     },
     {
-      "titulo": "La agenda de los cuartos de final de la Copa Chile 2026",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-agenda-de-los-cuartos-de-final-de-la-copa-chile-2026/2026-09-30/223436.html",
-      "fecha_publicacion": "2026-09-30 223436"
-    },
-    {
       "titulo": "Copa Chile: O’Higgins golpea en la última jugada y vence a Concepción para acariciar las semifinales",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/30/copa-chile-ohiggins-golpea-en-la-ultima-jugada-y-vence-a-concepcion-para-acariciar-las-semifinales.shtml",
       "fecha_publicacion": "2026-09-30 22:24"
-    },
-    {
-      "titulo": "Copa Chile: O'Higgins batió en la agonía a D. Concepción y tomó ventaja en cuartos",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/copa-chile-o-higgins-batio-en-la-agonia-a-d-concepcion-y-tomo-ventaja/2026-09-30/221742.html",
-      "fecha_publicacion": "2026-09-30 221742"
     },
     {
       "titulo": "Marcelino Núñez fue liberado de La Roja para el amistoso contra México",
@@ -68,46 +74,16 @@
       "fecha_publicacion": "2026-09-30 140621"
     },
     {
-      "titulo": "TAS deja en el suelo a La Calera: desestima reclamo por puntos y le ordena pagar a ANFP y clubes",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/30/tas-deja-en-el-suelo-a-la-calera-desestima-reclamo-por-puntos-y-le-ordena-pagar-a-anfp-y-clubes.shtml",
-      "fecha_publicacion": "2026-09-30 13:10"
-    },
-    {
       "titulo": "Tribunal tomó una primera decisión por incidentes en Sausalito",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/tribunal-tomo-una-primera-decision-por-incidentes-en-sausalito/2026-09-30/114024.html",
       "fecha_publicacion": "2026-09-30 114024"
     },
     {
-      "titulo": "Vidal pide a la Generación Dorada: \"No entiendo la manía con el recambio\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-pide-a-la-generacion-dorada-no-entiendo-la-mania-con-el-recambio/2026-09-30/102410.html",
-      "fecha_publicacion": "2026-09-30 102410"
-    },
-    {
-      "titulo": "Claudio Bravo y nueva caída de la Roja: Mayor autocrítica y no normalizar las derrotas",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/claudio-bravo-y-nueva-caida-de-la-roja-mayor-autocritica-y-no/2026-09-30/092931.html",
-      "fecha_publicacion": "2026-09-30 092931"
-    },
-    {
-      "titulo": "Darío Osorio lamentó derrota pero destacó alza de La Roja: \"Merecíamos un poco más\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/dario-osorio-lamento-derrota-pero-destaco-alza-de-la-roja-mereciamos/2026-09-30/083921.html",
-      "fecha_publicacion": "2026-09-30 083921"
-    },
-    {
       "titulo": "¿Cuándo y dónde ver el amistoso de La Roja ante México?",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-amistoso-de-la-roja-ante-mexico/2026-09-29/191827.html",
       "fecha_publicacion": "2026-09-29 191827"
-    },
-    {
-      "titulo": "Copa Chile: Los resultados de los duelos de ida de cuartos de final",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/copa-chile-los-resultados-de-los-duelos-de-ida-de-cuartos-de-final/2026-09-29/171158.html",
-      "fecha_publicacion": "2026-09-29 171158"
     }
   ]
 }
