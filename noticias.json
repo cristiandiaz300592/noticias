@@ -1,17 +1,23 @@
 {
-  "actualizado": "2026-10-01T14:11:49.697348+00:00",
+  "actualizado": "2026-10-01T15:10:40.542823+00:00",
   "noticias": [
+    {
+      "titulo": "Figura de Concepción destrozó a Garay tras caída ante O'Higgins por Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/figura-de-concepcion-destrozo-a-garay-tras-caida-ante-o-higgins-por-copa/2026-10-01/115118.html",
+      "fecha_publicacion": "2026-10-01 115118"
+    },
+    {
+      "titulo": "Los dichos de Córdova que habrían molestado a Marcelino Núñez y todas las versiones por su salida de la \"Roja\"",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/01/1212924/cordova-marcelino-seleccion-versiones-pelea.html",
+      "fecha_publicacion": "2026-10-01 11:46"
+    },
     {
       "titulo": "Jarry anunció que volverá a jugar antes de fin de año: Los torneos en los que regresaría",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/01/1212921/torneos-que-disputaria-jarry-tenis.html",
       "fecha_publicacion": "2026-10-01 10:22"
-    },
-    {
-      "titulo": "Prensa inglesa reaccionó con sorpresa a la repentina salida de Marcelino Núñez de la Roja",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/prensa-inglesa-reacciono-con-sorpresa-a-la-repentina-salida-de-marcelino/2026-10-01/093838.html",
-      "fecha_publicacion": "2026-10-01 093838"
     },
     {
       "titulo": "Lo que les queda a Cobreloa, Wanderers y San Luis en la recta final por volver a Primera y cómo se definiría si hay empate",
@@ -30,12 +36,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/palestino-piso-fuerte-en-peru-y-vencio-a-alianza-lima-en-amistoso/2026-10-01/072822.html",
       "fecha_publicacion": "2026-10-01 072822"
-    },
-    {
-      "titulo": "\"Casi a los golpes\": Se disparan los rumores por la salida de Marcelino Núñez de la \"Roja\"",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/01/1212905/marcelino-nunez-liberado-seleccion-pelea.html",
-      "fecha_publicacion": "2026-10-01 06:30"
     },
     {
       "titulo": "Casi terminó a los golpes: El motivo de la salida de Marcelino Núñez de La Roja",
@@ -62,22 +62,10 @@
       "fecha_publicacion": "2026-09-30 221742"
     },
     {
-      "titulo": "Claudio Borghi propuso a Marcelo Bielsa como candidato a la banca de La Roja",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/claudio-borghi-propuso-a-marcelo-bielsa-como-candidato-a-la-banca-de-la/2026-09-30/212520.html",
-      "fecha_publicacion": "2026-09-30 212520"
-    },
-    {
       "titulo": "San Luis venció a San Felipe y entró de lleno a lucha por el título: así quedó la tabla de Primera B",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/30/san-luis-vencio-a-san-felipe-y-entro-de-lleno-a-lucha-por-el-titulo-asi-quedo-la-tabla-de-primera-b.shtml",
       "fecha_publicacion": "2026-09-30 20:37"
-    },
-    {
-      "titulo": "Zuqui repasó la eliminación de la UC de Copa Chile: \"Duele mucho no cumplir los objetivos\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/zuqui-repaso-la-eliminacion-de-la-uc-de-copa-chile-duele-mucho-no/2026-09-30/143619.html",
-      "fecha_publicacion": "2026-09-30 143619"
     },
     {
       "titulo": "TAS ratificó resta de puntos a La Calera y complicó más su lucha por la permanencia",
@@ -90,12 +78,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/tribunal-tomo-una-primera-decision-por-incidentes-en-sausalito/2026-09-30/114024.html",
       "fecha_publicacion": "2026-09-30 114024"
-    },
-    {
-      "titulo": "¿Cuándo y dónde ver el amistoso de La Roja ante México?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-amistoso-de-la-roja-ante-mexico/2026-09-29/191827.html",
-      "fecha_publicacion": "2026-09-29 191827"
     }
   ]
 }
