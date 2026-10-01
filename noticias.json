@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-10-01T13:28:39.625804+00:00",
+  "actualizado": "2026-10-01T14:11:49.697348+00:00",
   "noticias": [
+    {
+      "titulo": "Jarry anunció que volverá a jugar antes de fin de año: Los torneos en los que regresaría",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/01/1212921/torneos-que-disputaria-jarry-tenis.html",
+      "fecha_publicacion": "2026-10-01 10:22"
+    },
     {
       "titulo": "Prensa inglesa reaccionó con sorpresa a la repentina salida de Marcelino Núñez de la Roja",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/prensa-inglesa-reacciono-con-sorpresa-a-la-repentina-salida-de-marcelino/2026-10-01/093838.html",
       "fecha_publicacion": "2026-10-01 093838"
+    },
+    {
+      "titulo": "Lo que les queda a Cobreloa, Wanderers y San Luis en la recta final por volver a Primera y cómo se definiría si hay empate",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/01/1212919/cobreloa-wanderers-sanluis-tabla-partidos.html",
+      "fecha_publicacion": "2026-10-01 09:26"
     },
     {
       "titulo": "Tras bajarse de La Roja: aseguran que Marcelino Núñez se molestó con Córdova y casi peleó con Cepeda",
@@ -18,6 +30,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/palestino-piso-fuerte-en-peru-y-vencio-a-alianza-lima-en-amistoso/2026-10-01/072822.html",
       "fecha_publicacion": "2026-10-01 072822"
+    },
+    {
+      "titulo": "\"Casi a los golpes\": Se disparan los rumores por la salida de Marcelino Núñez de la \"Roja\"",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/01/1212905/marcelino-nunez-liberado-seleccion-pelea.html",
+      "fecha_publicacion": "2026-10-01 06:30"
     },
     {
       "titulo": "Casi terminó a los golpes: El motivo de la salida de Marcelino Núñez de La Roja",
@@ -38,10 +56,10 @@
       "fecha_publicacion": "2026-09-30 22:24"
     },
     {
-      "titulo": "Marcelino Núñez fue liberado de La Roja para el amistoso contra México",
+      "titulo": "Copa Chile: O'Higgins batió en la agonía a D. Concepción y tomó ventaja en cuartos",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/marcelino-nunez-fue-liberado-de-la-roja-para-el-amistoso-contra-mexico/2026-09-30/215347.html",
-      "fecha_publicacion": "2026-09-30 215347"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/copa-chile-o-higgins-batio-en-la-agonia-a-d-concepcion-y-tomo-ventaja/2026-09-30/221742.html",
+      "fecha_publicacion": "2026-09-30 221742"
     },
     {
       "titulo": "Claudio Borghi propuso a Marcelo Bielsa como candidato a la banca de La Roja",
@@ -54,12 +72,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/30/san-luis-vencio-a-san-felipe-y-entro-de-lleno-a-lucha-por-el-titulo-asi-quedo-la-tabla-de-primera-b.shtml",
       "fecha_publicacion": "2026-09-30 20:37"
-    },
-    {
-      "titulo": "FIFA revalidó la certificación de calidad de la cancha del Claro Arena",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/fifa-revalido-la-certificacion-de-calidad-de-la-cancha-del-claro-arena/2026-09-30/174749.html",
-      "fecha_publicacion": "2026-09-30 174749"
     },
     {
       "titulo": "Zuqui repasó la eliminación de la UC de Copa Chile: \"Duele mucho no cumplir los objetivos\"",

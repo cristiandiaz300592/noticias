@@ -3,6 +3,7 @@ import urllib.request
 from html.parser import HTMLParser
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urljoin
+import re
 
 
 URL = "https://www.cooperativa.cl/noticias/deportes"
@@ -157,6 +158,94 @@ class BioBioParser(HTMLParser):
             self.noticia_actual = None
             self.dentro_article = False
 
+class EmolParser(HTMLParser):
+
+    def __init__(self):
+        super().__init__()
+
+        self.noticias = []
+
+        self.dentro_titulo = False
+        self.titulo_actual = []
+        self.enlace_actual = ""
+
+        self.dentro_hora = False
+        self.hora_actual = ""
+
+        self.noticia_actual = None
+
+    def handle_starttag(self, tag, attrs):
+
+        attrs = dict(attrs)
+
+        if tag in ("h1", "h3"):
+
+            self.dentro_titulo = True
+            self.titulo_actual = []
+            self.enlace_actual = ""
+
+        if self.dentro_titulo and tag == "a" and "href" in attrs:
+
+            self.enlace_actual = urljoin(
+                "https://www.emol.com",
+                attrs["href"]
+            )
+
+        if tag == "span" and "class" in attrs:
+
+            if "color_hora2008" in attrs["class"]:
+
+                self.dentro_hora = True
+                self.hora_actual = ""
+
+    def handle_data(self, data):
+
+        if self.dentro_titulo:
+            self.titulo_actual.append(data)
+
+        if self.dentro_hora:
+
+            texto = data.strip()
+
+            if re.match(r"^\d{2}:\d{2}", texto):
+
+                self.hora_actual = texto[:5]
+
+    def handle_endtag(self, tag):
+
+        if tag in ("h1", "h3") and self.dentro_titulo:
+
+            titulo = " ".join(
+                "".join(self.titulo_actual).split()
+            )
+
+            if titulo and self.enlace_actual:
+
+                self.noticia_actual = {
+                    "titulo": titulo,
+                    "enlace": self.enlace_actual,
+                    "hora": ""
+                }
+
+            self.titulo_actual = []
+            self.enlace_actual = ""
+            self.dentro_titulo = False
+
+        if tag == "span" and self.dentro_hora:
+
+            if self.noticia_actual:
+
+                self.noticia_actual["hora"] = self.hora_actual
+
+                self.noticias.append(
+                    self.noticia_actual
+                )
+
+                self.noticia_actual = None
+
+            self.hora_actual = ""
+            self.dentro_hora = False
+
 def descargar():
 
     req = urllib.request.Request(
@@ -310,6 +399,82 @@ def es_noticia_chilena_biobio(noticia):
 
     return False
 
+def es_noticia_chilena_emol(noticia):
+
+    titulo = noticia["titulo"].lower()
+    enlace = noticia["enlace"].lower()
+
+    # No aceptar páginas especiales de Emol
+    if "/especiales/" in enlace:
+        return False
+
+    # Selección chilena / La Roja / Team Chile
+    palabras_chile = [
+        "la roja",
+        "selección chilena",
+        "seleccion chilena",
+        "team chile",
+        "marcelino núñez",
+        "marcelino nunez"
+    ]
+
+    if any(palabra in titulo for palabra in palabras_chile):
+        return True
+
+    # Copa Chile
+    if "copa chile" in titulo or "copa-chile" in enlace:
+        return True
+
+    # Clubes y fútbol chileno
+    clubes_chilenos = [
+        "colo colo",
+        "universidad de chile",
+        "universidad católica",
+        "universidad catolica",
+        "cobreloa",
+        "wanderers",
+        "santiago wanderers",
+        "san luis",
+        "everton",
+        "audax",
+        "palestino",
+        "huachipato",
+        "ohiggins",
+        "o'higgins",
+        "unión española",
+        "union española",
+        "unión la calera",
+        "union la calera",
+        "coquimbo unido",
+        "la serena",
+        "nublense",
+        "ñublense",
+        "puerto montt",
+        "santiago morning",
+        "san felipe",
+        "deportes temuco",
+        "deportes iquique"
+    ]
+
+    if any(club in titulo for club in clubes_chilenos):
+        return True
+
+    # Deportistas chilenos
+    deportistas_chilenos = [
+        "jarry",
+        "tabilo",
+        "garín",
+        "garin",
+        "nicolás jarry",
+        "nicolas jarry",
+        "alejandro tabilo"
+    ]
+
+    if any(nombre in titulo for nombre in deportistas_chilenos):
+        return True
+
+    return False
+
 html = descargar()
 
 parser = NoticiasParser()
@@ -380,6 +545,58 @@ for noticia in parser.noticias:
         "fecha_publicacion": enlace.split("/")[-2] + " " + enlace.split("/")[-1].replace(".html", "")
     })
 
+# Emol
+url_emol = "https://www.emol.com/deportes/"
+
+req_emol = urllib.request.Request(
+    url_emol,
+    headers={"User-Agent": "Mozilla/5.0"}
+)
+
+with urllib.request.urlopen(req_emol, timeout=20) as respuesta:
+    html_emol = respuesta.read().decode("utf-8")
+
+parser_emol = EmolParser()
+parser_emol.feed(html_emol)
+
+for noticia in parser_emol.noticias:
+
+    if not es_noticia_chilena_emol(noticia):
+        continue
+
+    enlace = noticia["enlace"]
+
+    if enlace in vistos:
+        continue
+
+    # Obtener fecha desde la URL de Emol
+    partes_url = enlace.split("/")
+
+    try:
+        indice_deportes = partes_url.index("Deportes")
+
+        anio = partes_url[indice_deportes + 1]
+        mes = partes_url[indice_deportes + 2]
+        dia = partes_url[indice_deportes + 3]
+
+    except (ValueError, IndexError):
+        continue
+
+    hora = noticia["hora"]
+
+    if not hora:
+        continue
+
+    fecha = f"{anio}-{mes}-{dia} {hora}"
+
+    vistos.add(enlace)
+
+    noticias_finales.append({
+        "titulo": noticia["titulo"],
+        "fuente": "Emol",
+        "enlace": enlace,
+        "fecha_publicacion": fecha
+    })
 
 # Eliminar noticias con más de 48 horas de antigüedad
 ahora = datetime.now()
