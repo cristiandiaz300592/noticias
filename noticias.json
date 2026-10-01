@@ -1,17 +1,23 @@
 {
-  "actualizado": "2026-09-30T21:04:39.083973+00:00",
+  "actualizado": "2026-10-01T00:38:00.829294+00:00",
   "noticias": [
+    {
+      "titulo": "Claudio Borghi propuso a Marcelo Bielsa como candidato a la banca de La Roja",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/claudio-borghi-propuso-a-marcelo-bielsa-como-candidato-a-la-banca-de-la/2026-09-30/212520.html",
+      "fecha_publicacion": "2026-09-30 212520"
+    },
+    {
+      "titulo": "San Luis venció a San Felipe y entró de lleno a lucha por el título: así quedó la tabla de Primera B",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/30/san-luis-vencio-a-san-felipe-y-entro-de-lleno-a-lucha-por-el-titulo-asi-quedo-la-tabla-de-primera-b.shtml",
+      "fecha_publicacion": "2026-09-30 20:37"
+    },
     {
       "titulo": "FIFA revalidó la certificación de calidad de la cancha del Claro Arena",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/fifa-revalido-la-certificacion-de-calidad-de-la-cancha-del-claro-arena/2026-09-30/174749.html",
       "fecha_publicacion": "2026-09-30 174749"
-    },
-    {
-      "titulo": "¿En qué está el proceso de venta del paquete accionario de Azul Azul?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/en-que-esta-el-proceso-de-venta-del-paquete-accionario-de-azul-azul/2026-09-30/152725.html",
-      "fecha_publicacion": "2026-09-30 152725"
     },
     {
       "titulo": "Colo Colo definió el escenario de la revancha ante Puerto Montt por Copa Chile",
@@ -50,12 +56,6 @@
       "fecha_publicacion": "2026-09-30 114024"
     },
     {
-      "titulo": "\"Yo lo veo que está verde\": Arturo Vidal evaluó a Osorio y apuntó a que debe ’madurar’ para competir",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/09/30/yo-lo-veo-que-esta-verde-arturo-vidal-evaluo-a-osorio-y-apunta-a-que-debe-madurar-para-competir.shtml",
-      "fecha_publicacion": "2026-09-30 10:49"
-    },
-    {
       "titulo": "Vidal pide a la Generación Dorada: \"No entiendo la manía con el recambio\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-pide-a-la-generacion-dorada-no-entiendo-la-mania-con-el-recambio/2026-09-30/102410.html",
@@ -84,6 +84,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-amistoso-de-la-roja-ante-mexico/2026-09-29/191827.html",
       "fecha_publicacion": "2026-09-29 191827"
+    },
+    {
+      "titulo": "Copa Chile: Deportes Concepción iguala con O'Higgins por la ida de los cuartos de final",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/copa-chile-deportes-concepcion-iguala-con-o-higgins-por-la-ida-de-los/2026-09-29/171158.html",
+      "fecha_publicacion": "2026-09-29 171158"
     }
   ]
 }
