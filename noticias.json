@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-02T18:00:31.564855+00:00",
+  "actualizado": "2026-10-02T18:30:27.044516+00:00",
   "noticias": [
+    {
+      "titulo": "Árbitros chilenos votan masivamente por la huelga y emplazan a ANFP en medio de negociación colectiva",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/arbitros-chilenos-votan-masivamente-por-la-huelga-y-emplazan-a-anfp-en-medio-de-negociacion-colectiva.shtml",
+      "fecha_publicacion": "2026-10-02 15:08"
+    },
+    {
+      "titulo": "Tomás Alarcón y la vuelta con Puerto Montt: La cancha se va a notar, nos va a favorecer",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/tomas-alarcon-y-la-vuelta-con-puerto-montt-la-cancha-se-va-a-notar-nos/2026-10-02/150638.html",
+      "fecha_publicacion": "2026-10-02 150638"
+    },
     {
       "titulo": "Destapan la frase de Nicolás Córdova que colmó a Marcelino Núñez: volante dejó La Roja con ’amenaza’",
       "fuente": "BioBioChile",
@@ -96,12 +108,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/01/muere-caupolican-pena-a-los-96-anos-una-vida-ligada-a-colo-colo-la-roja-y-el-futbol-chileno.shtml",
       "fecha_publicacion": "2026-10-01 18:56"
-    },
-    {
-      "titulo": "¿Hay molestia del plantel con Nicolás Córdova por sus críticas públicas?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/hay-molestia-del-plantel-con-nicolas-cordova-por-sus-criticas/2026-10-01/141221.html",
-      "fecha_publicacion": "2026-10-01 141221"
     }
   ]
 }
