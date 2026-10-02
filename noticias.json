@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T14:00:29.834272+00:00",
+  "actualizado": "2026-10-02T14:30:30.175479+00:00",
   "noticias": [
     {
       "titulo": "Denuncia lista y citación a tribunal: Santiago City más cerca de la desafiliación del fútbol chileno",
@@ -68,12 +68,6 @@
       "fecha_publicacion": "2026-10-01 20:27"
     },
     {
-      "titulo": "¿Cuándo y dónde ver la vuelta entre O'Higgins y Deportes Concepción en Copa Chile?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-vuelta-entre-o-higgins-y-deportes-concepcion-en/2026-10-01/193732.html",
-      "fecha_publicacion": "2026-10-01 193732"
-    },
-    {
       "titulo": "Mario Lepe defendió a Marcelino: Cuando pasa algo así, es porque hay una situación muy fuerte",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/mario-lepe-defendio-a-marcelino-cuando-pasa-algo-asi-es-porque-hay-una/2026-10-01/192529.html",
@@ -120,6 +114,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/01/de-la-cancha-a-clases-medallista-de-plata-con-la-roja-en-odesur-vivio-emotivo-recibimiento-en-liceo.shtml",
       "fecha_publicacion": "2026-10-01 12:48"
+    },
+    {
+      "titulo": "Palestino pisó fuerte en Perú y venció a Alianza Lima en amistoso internacional",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/palestino-piso-fuerte-en-peru-y-vencio-a-alianza-lima-en-amistoso/2026-10-01/072822.html",
+      "fecha_publicacion": "2026-10-01 072822"
     }
   ]
 }
