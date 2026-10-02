@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T12:30:27.541699+00:00",
+  "actualizado": "2026-10-02T12:51:25.905553+00:00",
   "noticias": [
     {
       "titulo": "Vidal volvió a criticar a Córdova: No puedes ser el DT y hablar mal de tus jugadores",
@@ -80,12 +80,6 @@
       "fecha_publicacion": "2026-10-01 185000"
     },
     {
-      "titulo": "Fallece Caupolicán Peña, histórico jugador de Colo Colo y ex DT de la selección chilena",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/01/1213006/fallece-caupolican-pena-colocolo-seleccion.html",
-      "fecha_publicacion": "2026-10-01 18:30"
-    },
-    {
       "titulo": "En Colo Colo hay molestia con Córdova por dichos sobre Leandro Hernández",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/en-colo-colo-hay-molestia-con-cordova-por-dichos-sobre-leandro-hernandez/2026-10-01/172224.html",
@@ -120,6 +114,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/01/santiago-city-al-borde-de-la-desafiliacion-escandalo-con-documentos-falsos-peritaje-y-querella.shtml",
       "fecha_publicacion": "2026-10-01 13:11"
+    },
+    {
+      "titulo": "De la cancha a clases: medallista de plata con La Roja en Odesur vivió emotivo recibimiento en liceo",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/01/de-la-cancha-a-clases-medallista-de-plata-con-la-roja-en-odesur-vivio-emotivo-recibimiento-en-liceo.shtml",
+      "fecha_publicacion": "2026-10-01 12:48"
     }
   ]
 }
