@@ -1,17 +1,35 @@
 {
-  "actualizado": "2026-10-01T23:59:35.146272+00:00",
+  "actualizado": "2026-10-02T05:53:10.688733+00:00",
   "noticias": [
+    {
+      "titulo": "Marcelo Díaz criticó a Córdova: Le está faltando el respeto a los jugadores que convoca",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/marcelo-diaz-critico-a-cordova-le-esta-faltando-el-respeto-a-los/2026-10-01/225000.html",
+      "fecha_publicacion": "2026-10-01 225000"
+    },
+    {
+      "titulo": "Surgen nuevas versiones sobre la salida de Marcelino Núñez de la \"Roja\" y Marcelo Díaz lanza ácida crítica a Nicolás Córdova",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/01/1213015/marcelino-nunez-nicolas-cordova-seleccion.html",
+      "fecha_publicacion": "2026-10-01 22:36"
+    },
+    {
+      "titulo": "U. de Concepción se pone al día en la Liga de Primera con una \"final\" ante Huachipato",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/u-de-concepcion-se-pone-al-dia-en-la-liga-de-primera-con-una-final/2026-10-01/213901.html",
+      "fecha_publicacion": "2026-10-01 213901"
+    },
+    {
+      "titulo": "Óscar Wirth arremete por escándalo en La Roja: cuestiona a Marcelino Núñez y el manejo de Córdova",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/01/oscar-wirth-arremete-por-escandalo-en-la-roja-cuestiona-a-marcelino-nunez-y-el-manejo-de-cordova.shtml",
+      "fecha_publicacion": "2026-10-01 21:26"
+    },
     {
       "titulo": "La demanda de notario que acusa que Santiago City falsificó su firma para burlar a Tribunal ANFP",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/01/la-demanda-de-notario-que-acusa-que-santiago-city-falsifico-su-firma-para-burlar-a-tribunal-anfp.shtml",
       "fecha_publicacion": "2026-10-01 20:27"
-    },
-    {
-      "titulo": "¿Cuándo y dónde ver la vuelta entre O'Higgins y Deportes Concepción en Copa Chile?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-vuelta-entre-o-higgins-y-deportes-concepcion-en/2026-10-01/193732.html",
-      "fecha_publicacion": "2026-10-01 193732"
     },
     {
       "titulo": "Mario Lepe defendió a Marcelino: Cuando pasa algo así, es porque hay una situación muy fuerte",
@@ -80,18 +98,6 @@
       "fecha_publicacion": "2026-10-01 12:48"
     },
     {
-      "titulo": "Figura de Concepción destrozó a Garay tras caída ante O'Higgins por Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/figura-de-concepcion-destrozo-a-garay-tras-caida-ante-o-higgins-por-copa/2026-10-01/115118.html",
-      "fecha_publicacion": "2026-10-01 115118"
-    },
-    {
-      "titulo": "Prensa inglesa reaccionó con sorpresa a la repentina salida de Marcelino Núñez de la Roja",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/prensa-inglesa-reacciono-con-sorpresa-a-la-repentina-salida-de-marcelino/2026-10-01/093838.html",
-      "fecha_publicacion": "2026-10-01 093838"
-    },
-    {
       "titulo": "Tras bajarse de La Roja: aseguran que Marcelino Núñez se molestó con Córdova y casi peleó con Cepeda",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/01/tras-bajarese-de-la-roja-aseguran-que-marcelino-nunez-se-molesto-con-cordova-y-casi-peleo-con-cepeda.shtml",
@@ -114,12 +120,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/09/30/no-estara-ante-mexico-marcelino-nunez-fue-liberado-de-la-roja-por-motivos-personales.shtml",
       "fecha_publicacion": "2026-09-30 22:45"
-    },
-    {
-      "titulo": "Copa Chile: O’Higgins golpea en la última jugada y vence a Concepción para acariciar las semifinales",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/30/copa-chile-ohiggins-golpea-en-la-ultima-jugada-y-vence-a-concepcion-para-acariciar-las-semifinales.shtml",
-      "fecha_publicacion": "2026-09-30 22:24"
     }
   ]
 }
