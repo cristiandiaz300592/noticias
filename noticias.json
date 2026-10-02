@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-10-02T19:00:29.033997+00:00",
+  "actualizado": "2026-10-02T19:30:27.571553+00:00",
   "noticias": [
+    {
+      "titulo": "[ESTADISTICAS] La tabla de posiciones tras el duelo pendiente de U. de Concepción y Huachipato",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-tras-el-duelo-pendiente-de-u-de/2026-10-02/160339.html",
+      "fecha_publicacion": "2026-10-02 160339"
+    },
     {
       "titulo": "Tras suspensión y cambio de sede: final de la primera Copa de la Liga ya tiene fecha, hora y estadio",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/tras-suspension-y-cambio-de-sede-final-de-la-primera-copa-de-la-liga-ya-tiene-fecha-hora-y-estadio.shtml",
       "fecha_publicacion": "2026-10-02 15:56"
+    },
+    {
+      "titulo": "Universidad de Concepción y Huachipato se enfrentan en duelo pendiente de la fecha 23",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/universidad-de-concepcion-y-huachipato-se-enfrentan-en-duelo-pendiente/2026-10-02/154754.html",
+      "fecha_publicacion": "2026-10-02 154754"
     },
     {
       "titulo": "Árbitros chilenos votan masivamente por la huelga y emplazan a ANFP en medio de negociación colectiva",
@@ -84,12 +96,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/el-detalle-que-delato-a-santiago-city-informe-con-firma-duplicada-tiene-a-club-contra-las-cuerdas.shtml",
       "fecha_publicacion": "2026-10-02 06:40"
-    },
-    {
-      "titulo": "U. de Concepción se pone al día en la Liga de Primera con una \"final\" ante Huachipato",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/u-de-concepcion-se-pone-al-dia-en-la-liga-de-primera-con-una-final/2026-10-01/213901.html",
-      "fecha_publicacion": "2026-10-01 213901"
     },
     {
       "titulo": "Óscar Wirth arremete por escándalo en La Roja: cuestiona a Marcelino Núñez y el manejo de Córdova",
