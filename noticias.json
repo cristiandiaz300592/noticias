@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T23:04:44.988375+00:00",
+  "actualizado": "2026-10-02T23:31:02.851568+00:00",
   "noticias": [
     {
       "titulo": "Gabriel Suazo contó su versión de lo sucedido entre Marcelino y Cepeda: \"No pasó ni a mayores\"",
@@ -20,6 +20,12 @@
       "fecha_publicacion": "2026-10-02 190544"
     },
     {
+      "titulo": "Gabriel Suazo rompe el silencio en la \"Roja\": Habla de la salida de Marcelino Núñez y de la pelea del ex UC con Lucas Cepeda",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/02/1213121/gabriel-suazo-marcelino-nunez-seleccion.html",
+      "fecha_publicacion": "2026-10-02 18:55"
+    },
+    {
       "titulo": "Gabriel Suazo le bajó perfil a ’pelea’ entre Núñez y Cepeda en La Roja: \"No fueron ni diez segundos\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/02/gabriel-suazo-confirma-pelea-nunez-cepeda-pero-le-resta-importancia.shtml",
@@ -38,9 +44,9 @@
       "fecha_publicacion": "2026-10-02 15:56"
     },
     {
-      "titulo": "Universidad de Concepción y Huachipato se enfrentan en duelo pendiente de la fecha 23",
+      "titulo": "Huachipato iguala con U. de Concepción en su duelo pendiente de la fecha 23",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/universidad-de-concepcion-y-huachipato-se-enfrentan-en-duelo-pendiente/2026-10-02/154754.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-iguala-con-u-de-concepcion-en-su-duelo-pendiente-de-la-fecha/2026-10-02/154754.html",
       "fecha_publicacion": "2026-10-02 154754"
     },
     {
@@ -54,12 +60,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/02/destapan-frase-de-nicolas-cordova-que-aburrio-a-marcelino-nunez.shtml",
       "fecha_publicacion": "2026-10-02 13:34"
-    },
-    {
-      "titulo": "A qué hora juega Alejandro Tabilo por los octavos de final del ATP de Tokio y el especial rival que tendrá",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/02/1213072/tabilo-horario-shapovalov-atp-tokio.html",
-      "fecha_publicacion": "2026-10-02 12:45"
     },
     {
       "titulo": "La Roja sub 17 logró su segundo triunfo en la gira preparatoria para el Mundial",
@@ -102,12 +102,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-volvio-a-criticar-a-cordova-no-puedes-ser-el-dt-y-hablar-mal-de/2026-10-02/090020.html",
       "fecha_publicacion": "2026-10-02 090020"
-    },
-    {
-      "titulo": "Santiago City responde a las acusaciones: \"Hay un derecho a defenderse que vamos a ejercer con fuerza\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/santiago-city-se-defiende-de-acusaciones-hay-un-derecho-a-defenderse-que-vamos-a-ejercer-con-fuerza.shtml",
-      "fecha_publicacion": "2026-10-02 08:30"
     }
   ]
 }
