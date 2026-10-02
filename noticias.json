@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-02T21:00:28.705875+00:00",
+  "actualizado": "2026-10-02T21:30:28.945607+00:00",
   "noticias": [
+    {
+      "titulo": "Suazo alzó la voz por salida de Marcelino de La Roja: Respetamos su decisión y lo queremos mucho",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/suazo-alzo-la-voz-por-salida-de-marcelino-de-la-roja-respetamos-su/2026-10-02/181823.html",
+      "fecha_publicacion": "2026-10-02 181823"
+    },
     {
       "titulo": "Marcelo Díaz le bajó el pulgar a Vidal para La Roja: \"Yo llevo a Vargas y Charles\"",
       "fuente": "Cooperativa",
@@ -30,12 +36,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/arbitros-chilenos-votan-masivamente-por-la-huelga-y-emplazan-a-anfp-en-medio-de-negociacion-colectiva.shtml",
       "fecha_publicacion": "2026-10-02 15:08"
-    },
-    {
-      "titulo": "Tomás Alarcón y la vuelta con Puerto Montt: La cancha se va a notar, nos va a favorecer",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/tomas-alarcon-y-la-vuelta-con-puerto-montt-la-cancha-se-va-a-notar-nos/2026-10-02/150638.html",
-      "fecha_publicacion": "2026-10-02 150638"
     },
     {
       "titulo": "Destapan la frase de Nicolás Córdova que colmó a Marcelino Núñez: volante dejó La Roja con ’amenaza’",
@@ -96,12 +96,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/santiago-city-se-defiende-de-acusaciones-hay-un-derecho-a-defenderse-que-vamos-a-ejercer-con-fuerza.shtml",
       "fecha_publicacion": "2026-10-02 08:30"
-    },
-    {
-      "titulo": "¿Cuándo y dónde ver la vuelta entre O'Higgins y Deportes Concepción en Copa Chile?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-vuelta-entre-o-higgins-y-deportes-concepcion-en/2026-10-01/193732.html",
-      "fecha_publicacion": "2026-10-01 193732"
     }
   ]
 }
