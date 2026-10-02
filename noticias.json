@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-02T20:00:27.918856+00:00",
+  "actualizado": "2026-10-02T20:30:28.272112+00:00",
   "noticias": [
+    {
+      "titulo": "Hinchas de la U tendrán acceso a entradas para la visita a Antofagasta en Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/hinchas-de-la-u-tendran-acceso-a-entradas-para-la-visita-a-antofagasta/2026-10-02/165134.html",
+      "fecha_publicacion": "2026-10-02 165134"
+    },
     {
       "titulo": "[ESTADISTICAS] La tabla de posiciones tras el duelo pendiente de U. de Concepción y Huachipato",
       "fuente": "Cooperativa",
@@ -96,12 +102,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/el-detalle-que-delato-a-santiago-city-informe-con-firma-duplicada-tiene-a-club-contra-las-cuerdas.shtml",
       "fecha_publicacion": "2026-10-02 06:40"
-    },
-    {
-      "titulo": "Óscar Wirth arremete por escándalo en La Roja: cuestiona a Marcelino Núñez y el manejo de Córdova",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/01/oscar-wirth-arremete-por-escandalo-en-la-roja-cuestiona-a-marcelino-nunez-y-el-manejo-de-cordova.shtml",
-      "fecha_publicacion": "2026-10-01 21:26"
     },
     {
       "titulo": "¿Cuándo y dónde ver la vuelta entre O'Higgins y Deportes Concepción en Copa Chile?",
