@@ -1,17 +1,35 @@
 {
-  "actualizado": "2026-10-02T05:53:10.688733+00:00",
+  "actualizado": "2026-10-02T12:00:30.464201+00:00",
   "noticias": [
+    {
+      "titulo": "Santiago City responde a las acusaciones: \"Hay un derecho a defenderse que vamos a ejercer con fuerza\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/santiago-city-se-defiende-de-acusaciones-hay-un-derecho-a-defenderse-que-vamos-a-ejercer-con-fuerza.shtml",
+      "fecha_publicacion": "2026-10-02 08:30"
+    },
+    {
+      "titulo": "La camiseta de Palestino se tomó el Tiny Desk junto a banda mexicana de ska",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/la-camiseta-de-palestino-se-tomo-el-tiny-desk-junto-a-banda-mexicana-de/2026-10-02/073143.html",
+      "fecha_publicacion": "2026-10-02 073143"
+    },
+    {
+      "titulo": "El detalle que delató a Santiago City: el peritaje que asegura firma duplicada y tiene a club en jaque",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/el-detalle-que-delato-a-santiago-city-informe-con-firma-duplicada-tiene-a-club-contra-las-cuerdas.shtml",
+      "fecha_publicacion": "2026-10-02 06:40"
+    },
+    {
+      "titulo": "\"Podridos\": El caso Marcelino Núñez provoca un quiebre potente en la \"Roja\", mientras exigen sanción al jugador",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/02/1213022/marcelino-roja-cordova-sancion.html",
+      "fecha_publicacion": "2026-10-02 06:30"
+    },
     {
       "titulo": "Marcelo Díaz criticó a Córdova: Le está faltando el respeto a los jugadores que convoca",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/marcelo-diaz-critico-a-cordova-le-esta-faltando-el-respeto-a-los/2026-10-01/225000.html",
       "fecha_publicacion": "2026-10-01 225000"
-    },
-    {
-      "titulo": "Surgen nuevas versiones sobre la salida de Marcelino Núñez de la \"Roja\" y Marcelo Díaz lanza ácida crítica a Nicolás Córdova",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/01/1213015/marcelino-nunez-nicolas-cordova-seleccion.html",
-      "fecha_publicacion": "2026-10-01 22:36"
     },
     {
       "titulo": "U. de Concepción se pone al día en la Liga de Primera con una \"final\" ante Huachipato",
@@ -30,6 +48,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/01/la-demanda-de-notario-que-acusa-que-santiago-city-falsifico-su-firma-para-burlar-a-tribunal-anfp.shtml",
       "fecha_publicacion": "2026-10-01 20:27"
+    },
+    {
+      "titulo": "¿Cuándo y dónde ver la vuelta entre O'Higgins y Deportes Concepción en Copa Chile?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-vuelta-entre-o-higgins-y-deportes-concepcion-en/2026-10-01/193732.html",
+      "fecha_publicacion": "2026-10-01 193732"
     },
     {
       "titulo": "Mario Lepe defendió a Marcelino: Cuando pasa algo así, es porque hay una situación muy fuerte",
@@ -96,30 +120,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/01/de-la-cancha-a-clases-medallista-de-plata-con-la-roja-en-odesur-vivio-emotivo-recibimiento-en-liceo.shtml",
       "fecha_publicacion": "2026-10-01 12:48"
-    },
-    {
-      "titulo": "Tras bajarse de La Roja: aseguran que Marcelino Núñez se molestó con Córdova y casi peleó con Cepeda",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/01/tras-bajarese-de-la-roja-aseguran-que-marcelino-nunez-se-molesto-con-cordova-y-casi-peleo-con-cepeda.shtml",
-      "fecha_publicacion": "2026-10-01 08:03"
-    },
-    {
-      "titulo": "Palestino pisó fuerte en Perú y venció a Alianza Lima en amistoso internacional",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/palestino-piso-fuerte-en-peru-y-vencio-a-alianza-lima-en-amistoso/2026-10-01/072822.html",
-      "fecha_publicacion": "2026-10-01 072822"
-    },
-    {
-      "titulo": "Casi terminó a los golpes: El motivo de la salida de Marcelino Núñez de La Roja",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/casi-termino-a-los-golpes-el-motivo-de-la-salida-de-marcelino-nunez-de/2026-10-01/010606.html",
-      "fecha_publicacion": "2026-10-01 010606"
-    },
-    {
-      "titulo": "No estará ante México: Marcelino Núñez fue liberado de La Roja por \"motivos personales\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/09/30/no-estara-ante-mexico-marcelino-nunez-fue-liberado-de-la-roja-por-motivos-personales.shtml",
-      "fecha_publicacion": "2026-09-30 22:45"
     }
   ]
 }
