@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-02T13:00:29.404403+00:00",
+  "actualizado": "2026-10-02T13:30:27.875052+00:00",
   "noticias": [
+    {
+      "titulo": "\"Si con eso no me consideran, sigan con su interinato\": Marco Antonio Figueroa se volvió a...",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/si-con-eso-no-me-consideran-sigan-con-su-interinato-marco-antonio/2026-10-02/100757.html",
+      "fecha_publicacion": "2026-10-02 100757"
+    },
     {
       "titulo": "Vidal volvió a criticar a Córdova: No puedes ser el DT y hablar mal de tus jugadores",
       "fuente": "Cooperativa",
@@ -114,12 +120,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/01/santiago-city-al-borde-de-la-desafiliacion-escandalo-con-documentos-falsos-peritaje-y-querella.shtml",
       "fecha_publicacion": "2026-10-01 13:11"
-    },
-    {
-      "titulo": "De la cancha a clases: medallista de plata con La Roja en Odesur vivió emotivo recibimiento en liceo",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/01/de-la-cancha-a-clases-medallista-de-plata-con-la-roja-en-odesur-vivio-emotivo-recibimiento-en-liceo.shtml",
-      "fecha_publicacion": "2026-10-01 12:48"
     }
   ]
 }
