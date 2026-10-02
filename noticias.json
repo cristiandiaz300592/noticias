@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-02T13:30:27.875052+00:00",
+  "actualizado": "2026-10-02T14:00:29.834272+00:00",
   "noticias": [
+    {
+      "titulo": "Denuncia lista y citación a tribunal: Santiago City más cerca de la desafiliación del fútbol chileno",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/denuncia-lista-y-citacion-a-tribunal-santiago-city-mas-cerca-de-la-desafiliacion-del-futbol-chileno.shtml",
+      "fecha_publicacion": "2026-10-02 10:43"
+    },
     {
       "titulo": "\"Si con eso no me consideran, sigan con su interinato\": Marco Antonio Figueroa se volvió a...",
       "fuente": "Cooperativa",
@@ -80,12 +86,6 @@
       "fecha_publicacion": "2026-10-01 18:56"
     },
     {
-      "titulo": "Beausejour criticó dichos de Córdova: Yo creo que sí se puede competir con jugadores de la liga local",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/beausejour-critico-dichos-de-cordova-yo-creo-que-si-se-puede-competir/2026-10-01/185000.html",
-      "fecha_publicacion": "2026-10-01 185000"
-    },
-    {
       "titulo": "En Colo Colo hay molestia con Córdova por dichos sobre Leandro Hernández",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/en-colo-colo-hay-molestia-con-cordova-por-dichos-sobre-leandro-hernandez/2026-10-01/172224.html",
@@ -104,12 +104,6 @@
       "fecha_publicacion": "2026-10-01 15:50"
     },
     {
-      "titulo": "\"No aguanto más\": La discusión que provocó salida de Marcelino Núñez de la Roja",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/no-aguanto-mas-la-discusion-que-provoco-salida-de-marcelino-nunez-de/2026-10-01/142250.html",
-      "fecha_publicacion": "2026-10-01 142250"
-    },
-    {
       "titulo": "¿Hay molestia del plantel con Nicolás Córdova por sus críticas públicas?",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/hay-molestia-del-plantel-con-nicolas-cordova-por-sus-criticas/2026-10-01/141221.html",
@@ -120,6 +114,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/01/santiago-city-al-borde-de-la-desafiliacion-escandalo-con-documentos-falsos-peritaje-y-querella.shtml",
       "fecha_publicacion": "2026-10-01 13:11"
+    },
+    {
+      "titulo": "De la cancha a clases: medallista de plata con La Roja en Odesur vivió emotivo recibimiento en liceo",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/01/de-la-cancha-a-clases-medallista-de-plata-con-la-roja-en-odesur-vivio-emotivo-recibimiento-en-liceo.shtml",
+      "fecha_publicacion": "2026-10-01 12:48"
     }
   ]
 }
