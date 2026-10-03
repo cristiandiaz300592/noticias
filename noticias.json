@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-03T13:00:33.879223+00:00",
+  "actualizado": "2026-10-03T13:30:23.605844+00:00",
   "noticias": [
     {
       "titulo": "Alejandro Tabilo es eliminado por Denis Shapovalov en el ATP de Tokio",
@@ -68,12 +68,6 @@
       "fecha_publicacion": "2026-10-02 165134"
     },
     {
-      "titulo": "[ESTADISTICAS] La tabla de posiciones tras el duelo pendiente de U. de Concepción y Huachipato",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-tras-el-duelo-pendiente-de-u-de/2026-10-02/160339.html",
-      "fecha_publicacion": "2026-10-02 160339"
-    },
-    {
       "titulo": "Tras suspensión y cambio de sede: final de la primera Copa de la Liga ya tiene fecha, hora y estadio",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/tras-suspension-y-cambio-de-sede-final-de-la-primera-copa-de-la-liga-ya-tiene-fecha-hora-y-estadio.shtml",
@@ -120,6 +114,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-volvio-a-criticar-a-cordova-no-puedes-ser-el-dt-y-hablar-mal-de/2026-10-02/090020.html",
       "fecha_publicacion": "2026-10-02 090020"
+    },
+    {
+      "titulo": "Así quedó la tabla del Torneo tras la victoria de Huachipato frente a la UdeC",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/02/1213129/tabla-campeonato-nacional-huachipato-udec.html",
+      "fecha_publicacion": "2026-10-02 08:48"
     }
   ]
 }
