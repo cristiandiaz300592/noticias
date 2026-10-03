@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-03T12:30:30.385074+00:00",
+  "actualizado": "2026-10-03T13:00:33.879223+00:00",
   "noticias": [
     {
       "titulo": "Alejandro Tabilo es eliminado por Denis Shapovalov en el ATP de Tokio",
@@ -80,12 +80,6 @@
       "fecha_publicacion": "2026-10-02 15:56"
     },
     {
-      "titulo": "Huachipato venció a U. de Concepción en su duelo pendiente de la fecha 23",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-vencio-a-u-de-concepcion-en-su-duelo-pendiente-de-la-fecha-23/2026-10-02/154754.html",
-      "fecha_publicacion": "2026-10-02 154754"
-    },
-    {
       "titulo": "Árbitros chilenos votan masivamente por la huelga y emplazan a ANFP en medio de negociación colectiva",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/arbitros-chilenos-votan-masivamente-por-la-huelga-y-emplazan-a-anfp-en-medio-de-negociacion-colectiva.shtml",
@@ -116,10 +110,16 @@
       "fecha_publicacion": "2026-10-02 11:58"
     },
     {
-      "titulo": "\"Error jurídico y contable\": Primera Sala multa a San Marcos pero no acredita documentación falsa",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/tribunal-rechazo-primera-denuncia-contra-san-marcos-de-arica-por-documentacion-falsa.shtml",
-      "fecha_publicacion": "2026-10-02 11:52"
+      "titulo": "\"Si con eso no me consideran, sigan con su interinato\": Marco Antonio Figueroa se volvió a postular a La Roja",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/si-con-eso-no-me-consideran-sigan-con-su-interinato-marco-antonio/2026-10-02/100757.html",
+      "fecha_publicacion": "2026-10-02 100757"
+    },
+    {
+      "titulo": "Vidal volvió a criticar a Córdova: No puedes ser el DT y hablar mal de tus jugadores",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-volvio-a-criticar-a-cordova-no-puedes-ser-el-dt-y-hablar-mal-de/2026-10-02/090020.html",
+      "fecha_publicacion": "2026-10-02 090020"
     }
   ]
 }
