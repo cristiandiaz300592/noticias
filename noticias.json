@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-03T20:30:26.449869+00:00",
+  "actualizado": "2026-10-03T21:00:34.344934+00:00",
   "noticias": [
+    {
+      "titulo": "Primera B: Wanderers perdió ante Recoleta, hipotecó el liderato y registró tercera derrota consecutiva",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/03/primera-b-wanderers-perdio-ante-recoleta-hipoteco-el-liderato-y-registro-tercera-derrota-consecutiva.shtml",
+      "fecha_publicacion": "2026-10-03 17:30"
+    },
     {
       "titulo": "\"Algo pasó\": DT de Canadá evocó cruce entre jugadores de La Roja y Canadá durante amistoso",
       "fuente": "BioBioChile",
@@ -68,6 +74,12 @@
       "fecha_publicacion": "2026-10-02 19:20"
     },
     {
+      "titulo": "La Federación de Chile definió postura sobre el futuro de Nicolás Córdova en La Roja",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-federacion-de-chile-definio-postura-sobre-el-futuro-de-nicolas/2026-10-02/190544.html",
+      "fecha_publicacion": "2026-10-02 190544"
+    },
+    {
       "titulo": "Gabriel Suazo le bajó perfil a ’pelea’ entre Núñez y Cepeda en La Roja: \"No fueron ni diez segundos\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/02/gabriel-suazo-confirma-pelea-nunez-cepeda-pero-le-resta-importancia.shtml",
@@ -84,12 +96,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/tras-suspension-y-cambio-de-sede-final-de-la-primera-copa-de-la-liga-ya-tiene-fecha-hora-y-estadio.shtml",
       "fecha_publicacion": "2026-10-02 15:56"
-    },
-    {
-      "titulo": "Árbitros chilenos votan masivamente por la huelga y emplazan a ANFP en medio de negociación colectiva",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/arbitros-chilenos-votan-masivamente-por-la-huelga-y-emplazan-a-anfp-en-medio-de-negociacion-colectiva.shtml",
-      "fecha_publicacion": "2026-10-02 15:08"
     }
   ]
 }
