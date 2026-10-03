@@ -1,17 +1,29 @@
 {
-  "actualizado": "2026-10-03T01:00:35.313035+00:00",
+  "actualizado": "2026-10-03T01:30:24.604594+00:00",
   "noticias": [
     {
-      "titulo": "La Roja Sub 17 vuelve a sonreir en Croacia: goleó a Catar y se ilusiona antes del Mundial",
+      "titulo": "Huachipato superó a U. de Concepción en duelo pendiente y se ilusiona con la zona de copas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-supero-a-u-de-concepcion-en-duelo-pendiente-y-se-ilusiona/2026-10-02/221908.html",
+      "fecha_publicacion": "2026-10-02 221908"
+    },
+    {
+      "titulo": "Así quedó la tabla del Torneo tras la victoria de Huachipato frente a la UdeC",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/02/1213129/tabla-campeonato-nacional-huachipato-udec.html",
+      "fecha_publicacion": "2026-10-02 22:05"
+    },
+    {
+      "titulo": "Huachipato venció a UdeC y sueña con copas: Campanil terminó con 9 y se complica en la parte baja",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/huachipato-vencio-a-udec-y-suena-con-copas-campanil-termino-con-9-y-se-complica-en-la-parte-baja.shtml",
+      "fecha_publicacion": "2026-10-02 22:02"
+    },
+    {
+      "titulo": "La Roja Sub 17 vuelve a sonreír en Croacia: goleó a Catar y se ilusiona antes del Mundial",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/02/la-roja-sub-17-vuelve-a-sonreir-en-croacia-goleo-a-catar-y-se-ilusiona-antes-del-mundial.shtml",
       "fecha_publicacion": "2026-10-02 20:54"
-    },
-    {
-      "titulo": "Una buena para Colo Colo: Joaquín Sosa volvió a los entrenamientos",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/una-buena-para-colo-colo-joaquin-sosa-volvio-a-los-entrenamientos/2026-10-02/202007.html",
-      "fecha_publicacion": "2026-10-02 202007"
     },
     {
       "titulo": "Gabriel Suazo contó su versión de lo sucedido entre Marcelino y Cepeda: \"No pasó ni a mayores\"",
@@ -62,9 +74,9 @@
       "fecha_publicacion": "2026-10-02 15:56"
     },
     {
-      "titulo": "Huachipato vence a U. de Concepción en su duelo pendiente de la fecha 23",
+      "titulo": "Huachipato venció a U. de Concepción en su duelo pendiente de la fecha 23",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-vence-a-u-de-concepcion-en-su-duelo-pendiente-de-la-fecha-23/2026-10-02/154754.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-vencio-a-u-de-concepcion-en-su-duelo-pendiente-de-la-fecha-23/2026-10-02/154754.html",
       "fecha_publicacion": "2026-10-02 154754"
     },
     {
@@ -108,18 +120,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/denuncia-lista-y-citacion-a-tribunal-santiago-city-mas-cerca-de-la-desafiliacion-del-futbol-chileno.shtml",
       "fecha_publicacion": "2026-10-02 10:43"
-    },
-    {
-      "titulo": "\"Si con eso no me consideran, sigan con su interinato\": Marco Antonio Figueroa se volvió a postular a La Roja",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/si-con-eso-no-me-consideran-sigan-con-su-interinato-marco-antonio/2026-10-02/100757.html",
-      "fecha_publicacion": "2026-10-02 100757"
-    },
-    {
-      "titulo": "Vidal volvió a criticar a Córdova: No puedes ser el DT y hablar mal de tus jugadores",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-volvio-a-criticar-a-cordova-no-puedes-ser-el-dt-y-hablar-mal-de/2026-10-02/090020.html",
-      "fecha_publicacion": "2026-10-02 090020"
     }
   ]
 }
