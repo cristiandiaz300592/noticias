@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-03T14:30:27.299881+00:00",
+  "actualizado": "2026-10-03T15:00:29.249305+00:00",
   "noticias": [
+    {
+      "titulo": "Heller defendió venta de Azul Azul a Tactical Sport: \"No teníamos cómo saber quiénes eran\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/heller-defendio-venta-de-azul-azul-a-tactical-sport-no-teniamos-como/2026-10-03/112354.html",
+      "fecha_publicacion": "2026-10-03 112354"
+    },
     {
       "titulo": "Alejandro Tabilo es eliminado por Denis Shapovalov en el ATP de Tokio",
       "fuente": "Emol",
@@ -42,12 +48,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/02/la-roja-zanja-futuro-de-cordova-tras-polemica-con-marcelino-nunez-y-caidas-ante-canada-y-eeuu.shtml",
       "fecha_publicacion": "2026-10-02 19:20"
-    },
-    {
-      "titulo": "La Federación de Chile definió postura sobre el futuro de Nicolás Córdova en La Roja",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-federacion-de-chile-definio-postura-sobre-el-futuro-de-nicolas/2026-10-02/190544.html",
-      "fecha_publicacion": "2026-10-02 190544"
     },
     {
       "titulo": "Gabriel Suazo rompe el silencio en la \"Roja\": Habla de la salida de Marcelino Núñez y de la pelea del ex UC con Lucas Cepeda",
