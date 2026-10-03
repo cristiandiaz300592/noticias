@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-03T20:00:28.723659+00:00",
+  "actualizado": "2026-10-03T20:30:26.449869+00:00",
   "noticias": [
     {
       "titulo": "\"Algo pasó\": DT de Canadá evocó cruce entre jugadores de La Roja y Canadá durante amistoso",
@@ -68,16 +68,16 @@
       "fecha_publicacion": "2026-10-02 19:20"
     },
     {
-      "titulo": "La Federación de Chile definió postura sobre el futuro de Nicolás Córdova en La Roja",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-federacion-de-chile-definio-postura-sobre-el-futuro-de-nicolas/2026-10-02/190544.html",
-      "fecha_publicacion": "2026-10-02 190544"
-    },
-    {
       "titulo": "Gabriel Suazo le bajó perfil a ’pelea’ entre Núñez y Cepeda en La Roja: \"No fueron ni diez segundos\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/02/gabriel-suazo-confirma-pelea-nunez-cepeda-pero-le-resta-importancia.shtml",
       "fecha_publicacion": "2026-10-02 18:31"
+    },
+    {
+      "titulo": "Suazo alzó la voz por salida de Marcelino de La Roja: Respetamos su decisión y lo queremos mucho",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/suazo-alzo-la-voz-por-salida-de-marcelino-de-la-roja-respetamos-su/2026-10-02/181823.html",
+      "fecha_publicacion": "2026-10-02 181823"
     },
     {
       "titulo": "Tras suspensión y cambio de sede: final de la primera Copa de la Liga ya tiene fecha, hora y estadio",
@@ -90,12 +90,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/02/arbitros-chilenos-votan-masivamente-por-la-huelga-y-emplazan-a-anfp-en-medio-de-negociacion-colectiva.shtml",
       "fecha_publicacion": "2026-10-02 15:08"
-    },
-    {
-      "titulo": "Vidal volvió a criticar a Córdova: No puedes ser el DT y hablar mal de tus jugadores",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-volvio-a-criticar-a-cordova-no-puedes-ser-el-dt-y-hablar-mal-de/2026-10-02/090020.html",
-      "fecha_publicacion": "2026-10-02 090020"
     }
   ]
 }
