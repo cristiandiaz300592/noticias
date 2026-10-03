@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-03T16:00:32.285440+00:00",
+  "actualizado": "2026-10-03T16:30:26.472757+00:00",
   "noticias": [
+    {
+      "titulo": "Guarello remata a Córdova y revela balazo en los pies del DT por líos en La Roja: \"Se puso complicado\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/03/guarello-remata-a-cordova-y-revela-balazo-en-los-pies-del-dt-en-lio-de-marcelino-se-puso-complicado.shtml",
+      "fecha_publicacion": "2026-10-03 13:06"
+    },
     {
       "titulo": "Fallecimiento de joven futbolista enluta a UdeC: jugadora Sub 16 fue víctima de atropello",
       "fuente": "BioBioChile",
@@ -14,10 +20,10 @@
       "fecha_publicacion": "2026-10-03 112354"
     },
     {
-      "titulo": "Alejandro Tabilo es eliminado por Denis Shapovalov en el ATP de Tokio",
+      "titulo": "Jefe de las cadetes de O'Higgins hace crudo análisis sobre el fútbol joven en Chile y traza comparación con Argentina",
       "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/03/1213133/tabilo-shapovalov-tokio-marcador-resultado.html",
-      "fecha_publicacion": "2026-10-03 01:33"
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/03/1213149/futbol-joven-chile-ohiggins-argentina.html",
+      "fecha_publicacion": "2026-10-03 10:35"
     },
     {
       "titulo": "Huachipato superó a U. de Concepción en duelo pendiente y se ilusiona con la zona de copas",
@@ -56,22 +62,16 @@
       "fecha_publicacion": "2026-10-02 19:20"
     },
     {
-      "titulo": "Gabriel Suazo rompe el silencio en la \"Roja\": Habla de la salida de Marcelino Núñez y de la pelea del ex UC con Lucas Cepeda",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/02/1213121/gabriel-suazo-marcelino-nunez-seleccion.html",
-      "fecha_publicacion": "2026-10-02 18:55"
-    },
-    {
       "titulo": "Gabriel Suazo le bajó perfil a ’pelea’ entre Núñez y Cepeda en La Roja: \"No fueron ni diez segundos\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/02/gabriel-suazo-confirma-pelea-nunez-cepeda-pero-le-resta-importancia.shtml",
       "fecha_publicacion": "2026-10-02 18:31"
     },
     {
-      "titulo": "Hinchas de la U tendrán acceso a entradas para la visita a Antofagasta en Copa Chile",
+      "titulo": "Suazo alzó la voz por salida de Marcelino de La Roja: Respetamos su decisión y lo queremos mucho",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/hinchas-de-la-u-tendran-acceso-a-entradas-para-la-visita-a-antofagasta/2026-10-02/165134.html",
-      "fecha_publicacion": "2026-10-02 165134"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/suazo-alzo-la-voz-por-salida-de-marcelino-de-la-roja-respetamos-su/2026-10-02/181823.html",
+      "fecha_publicacion": "2026-10-02 181823"
     },
     {
       "titulo": "Tras suspensión y cambio de sede: final de la primera Copa de la Liga ya tiene fecha, hora y estadio",
@@ -102,18 +102,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-volvio-a-criticar-a-cordova-no-puedes-ser-el-dt-y-hablar-mal-de/2026-10-02/090020.html",
       "fecha_publicacion": "2026-10-02 090020"
-    },
-    {
-      "titulo": "Así quedó la tabla del Torneo tras la victoria de Huachipato frente a la UdeC",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/02/1213129/tabla-campeonato-nacional-huachipato-udec.html",
-      "fecha_publicacion": "2026-10-02 08:48"
-    },
-    {
-      "titulo": "¿Cuándo y dónde ver la vuelta entre O'Higgins y Deportes Concepción en Copa Chile?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-vuelta-entre-o-higgins-y-deportes-concepcion-en/2026-10-01/193732.html",
-      "fecha_publicacion": "2026-10-01 193732"
     }
   ]
 }
