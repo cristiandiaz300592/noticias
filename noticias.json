@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-03T13:31:15.205864+00:00",
+  "actualizado": "2026-10-03T14:00:32.139523+00:00",
   "noticias": [
     {
       "titulo": "Alejandro Tabilo es eliminado por Denis Shapovalov en el ATP de Tokio",
@@ -98,12 +98,6 @@
       "fecha_publicacion": "2026-10-02 12:15"
     },
     {
-      "titulo": "\"No son opiniones de un líder\": Marcelo Díaz cuestionó a Córdova y respaldó a jugadores de La Roja",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/02/no-son-opiniones-de-un-lider-marcelo-diaz-cuestiono-a-cordova-y-respaldo-a-jugadores-de-la-roja.shtml",
-      "fecha_publicacion": "2026-10-02 11:58"
-    },
-    {
       "titulo": "\"Si con eso no me consideran, sigan con su interinato\": Marco Antonio Figueroa se volvió a postular a La Roja",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/si-con-eso-no-me-consideran-sigan-con-su-interinato-marco-antonio/2026-10-02/100757.html",
@@ -120,6 +114,12 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/02/1213129/tabla-campeonato-nacional-huachipato-udec.html",
       "fecha_publicacion": "2026-10-02 08:48"
+    },
+    {
+      "titulo": "¿Cuándo y dónde ver la vuelta entre O'Higgins y Deportes Concepción en Copa Chile?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-vuelta-entre-o-higgins-y-deportes-concepcion-en/2026-10-01/193732.html",
+      "fecha_publicacion": "2026-10-01 193732"
     }
   ]
 }
