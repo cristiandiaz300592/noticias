@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-04T20:30:26.000711+00:00",
+  "actualizado": "2026-10-04T21:00:27.743057+00:00",
   "noticias": [
+    {
+      "titulo": "O'Higgins eliminó a Deportes Concepción y se metió en semifinales de Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/o-higgins-elimino-a-deportes-concepcion-y-se-metio-en-semifinales-de/2026-10-04/174619.html",
+      "fecha_publicacion": "2026-10-04 174619"
+    },
+    {
+      "titulo": "O’Higgins liquidó la serie en Rancagua ante Concepción y alcanzó la semifinal de Copa Chile",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/04/ohiggins-liquido-la-serie-en-rancagua-ante-concepcion-y-alcanzo-la-semifinal-de-copa-chile.shtml",
+      "fecha_publicacion": "2026-10-04 17:38"
+    },
     {
       "titulo": "¿Cuándo y dónde ver la revancha de Colo Colo y Puerto Montt en Copa Chile?",
       "fuente": "Cooperativa",
@@ -66,12 +78,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/03/guarello-remata-a-cordova-y-revela-balazo-en-los-pies-del-dt-en-lio-de-marcelino-se-puso-complicado.shtml",
       "fecha_publicacion": "2026-10-03 13:06"
-    },
-    {
-      "titulo": "Fallecimiento de joven futbolista enluta a UdeC: jugadora Sub 16 fue víctima de atropello",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/03/fallecimiento-de-joven-futbolista-enluta-a-udec-jugadora-sub-16-fue-victima-de-atropello.shtml",
-      "fecha_publicacion": "2026-10-03 12:04"
     },
     {
       "titulo": "Huachipato superó a U. de Concepción en duelo pendiente y se ilusiona con la zona de copas",
