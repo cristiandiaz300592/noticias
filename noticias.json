@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-04T16:00:28.007229+00:00",
+  "actualizado": "2026-10-04T16:30:23.218958+00:00",
   "noticias": [
+    {
+      "titulo": "Medel contesta a Vidal por pedir vuelta de Generación Dorada a La Roja: \"No sacamos nada con discutir\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/04/medel-frena-a-vidal-por-pedir-retorno-de-generacion-dorada-a-la-roja-no-sacamos-nada-con-discutir.shtml",
+      "fecha_publicacion": "2026-10-04 13:16"
+    },
+    {
+      "titulo": "Medel y la idea de Vidal de incluir a la Generación Dorada en La Roja: Yo ni loco volvería",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/medel-y-la-idea-de-vidal-de-incluir-a-la-generacion-dorada-en-la-roja/2026-10-04/131122.html",
+      "fecha_publicacion": "2026-10-04 131122"
+    },
     {
       "titulo": "Ernesto Díaz Correa se ofreció para ir a buscar Marcelo Bielsa: \"Yo podría hablar con él\"",
       "fuente": "Cooperativa",
@@ -60,12 +72,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-supero-a-u-de-concepcion-en-duelo-pendiente-y-se-ilusiona/2026-10-02/221908.html",
       "fecha_publicacion": "2026-10-02 221908"
-    },
-    {
-      "titulo": "Gabriel Suazo contó su versión de lo sucedido entre Marcelino y Cepeda: \"No pasó ni a mayores\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/gabriel-suazo-conto-su-version-de-lo-sucedido-entre-marcelino-y-cepeda/2026-10-02/192935.html",
-      "fecha_publicacion": "2026-10-02 192935"
     }
   ]
 }
