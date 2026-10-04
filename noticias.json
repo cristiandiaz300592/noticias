@@ -1,11 +1,17 @@
 {
-  "actualizado": "2026-10-04T22:00:29.191487+00:00",
+  "actualizado": "2026-10-04T22:30:28.670948+00:00",
   "noticias": [
     {
       "titulo": "O'Higgins eliminó a Deportes Concepción y se metió en semifinales de Copa Chile",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/o-higgins-elimino-a-deportes-concepcion-y-se-metio-en-semifinales-de/2026-10-04/174619.html",
       "fecha_publicacion": "2026-10-04 174619"
+    },
+    {
+      "titulo": "O'Higgins se convirtió en el primer semifinalista: Cómo van las llaves de cuartos y el cuadro de la Copa Chile",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/04/1213216/ohiggins-semifinalista-copa-chile-cuadro.html",
+      "fecha_publicacion": "2026-10-04 17:43"
     },
     {
       "titulo": "O’Higgins liquidó la serie en Rancagua ante Concepción y alcanzó la semifinal de Copa Chile",
@@ -50,12 +56,6 @@
       "fecha_publicacion": "2026-10-04 124054"
     },
     {
-      "titulo": "Sorpresa: Vozinha regresó de inmediato a Chile tras la fecha FIFA con Cabo Verde",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/sorpresa-vozinha-regreso-de-inmediato-a-chile-tras-la-fecha-fifa-con/2026-10-04/104451.html",
-      "fecha_publicacion": "2026-10-04 104451"
-    },
-    {
       "titulo": "Cobreloa anotó en los descuentos y triunfó de visita en Temuco: así quedó la tabla de Primera B",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/03/cobreloa-anoto-en-los-descuentos-y-triunfo-de-visita-en-temuco-asi-quedo-la-tabla-de-primera-b.shtml",
@@ -72,18 +72,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/03/algo-paso-dt-de-canada-evoco-y-detallo-cruce-entre-jugadores-de-la-roja-y-canada-durante-amistoso.shtml",
       "fecha_publicacion": "2026-10-03 14:51"
-    },
-    {
-      "titulo": "Guarello remata a Córdova y revela balazo en los pies del DT por líos en La Roja: \"Se puso complicado\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/03/guarello-remata-a-cordova-y-revela-balazo-en-los-pies-del-dt-en-lio-de-marcelino-se-puso-complicado.shtml",
-      "fecha_publicacion": "2026-10-03 13:06"
-    },
-    {
-      "titulo": "Huachipato superó a U. de Concepción en duelo pendiente y se ilusiona con la zona de copas",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-supero-a-u-de-concepcion-en-duelo-pendiente-y-se-ilusiona/2026-10-02/221908.html",
-      "fecha_publicacion": "2026-10-02 221908"
     }
   ]
 }
