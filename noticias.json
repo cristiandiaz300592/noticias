@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-05T15:30:28.119487+00:00",
+  "actualizado": "2026-10-05T16:01:06.286977+00:00",
   "noticias": [
+    {
+      "titulo": "Fernando Ortiz: A todo técnico le gustaría dirigir una selección",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fernando-ortiz-a-todo-tecnico-le-gustaria-dirigir-una-seleccion/2026-10-05/124434.html",
+      "fecha_publicacion": "2026-10-05 124434"
+    },
+    {
+      "titulo": "Deportes Linares deja en manos de la ANFP veredicto de Santiago City: SADP se desligó de denuncia",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/05/deportes-linares-deja-en-manos-de-la-anfp-veredicto-de-santiago-city-sadp-se-desligo-de-denuncia.shtml",
+      "fecha_publicacion": "2026-10-05 12:36"
+    },
     {
       "titulo": "Pese a que adelantó su regreso, Vozinha quedará fuera del partido con Puerto Montt",
       "fuente": "Cooperativa",
@@ -72,6 +84,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/04/ohiggins-liquido-la-serie-en-rancagua-ante-concepcion-y-alcanzo-la-semifinal-de-copa-chile.shtml",
       "fecha_publicacion": "2026-10-04 17:38"
+    },
+    {
+      "titulo": "¿Cuándo y dónde ver la revancha de Colo Colo y Puerto Montt en Copa Chile?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-revancha-de-colo-colo-y-puerto-montt-en-copa/2026-10-04/165219.html",
+      "fecha_publicacion": "2026-10-04 165219"
     },
     {
       "titulo": "Valentina Toro exhibió la camiseta personalizada que le regaló Universidad de Chile",
