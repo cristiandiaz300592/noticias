@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-10-05T19:00:36.819499+00:00",
+  "actualizado": "2026-10-05T20:40:44.715289+00:00",
   "noticias": [
+    {
+      "titulo": "\"Solo quieres ver cómo gira la bola\": Emiliano Vecchio reveló cómo la ludopatía consumió su vida",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/05/solo-quieres-ver-como-gira-la-bola-emiliano-vecchio-revelo-como-la-ludopatia-consumio-su-vida.shtml",
+      "fecha_publicacion": "2026-10-05 17:35"
+    },
+    {
+      "titulo": "El camino de Alejandro Tabilo en el Masters de Shanghai: Revisa el cuadro",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/05/1213294/tabilo-shanghai-rival-camino.html",
+      "fecha_publicacion": "2026-10-05 17:02"
+    },
+    {
+      "titulo": "Fernando Ortiz reacciona al guiño de Alexis Sánchez y aborda opción de llegar al banco de La Roja",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/05/fernando-ortiz-reacciona-al-guino-de-alexis-sanchez-y-aborda-opcion-de-llegar-al-banco-de-la-roja.shtml",
+      "fecha_publicacion": "2026-10-05 16:08"
+    },
+    {
+      "titulo": "Vecchio contó que la Garra Blanca quiso matar a un jugador de Colo Colo: \"Lo estaban esperando\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vecchio-conto-que-la-garra-blanca-quiso-matar-a-un-jugador-de-colo-colo/2026-10-05/152738.html",
+      "fecha_publicacion": "2026-10-05 152738"
+    },
     {
       "titulo": "Vecchio y sus córners contra Unión Española: A Católica la odiaba",
       "fuente": "Cooperativa",
@@ -50,22 +74,10 @@
       "fecha_publicacion": "2026-10-05 10:23"
     },
     {
-      "titulo": "Con regresos y cambios: Córdova mueve la pizarra y desliza posible formación de La Roja ante México",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/05/con-regresos-y-cambios-cordova-mueve-la-pizarra-y-desliza-posible-formacion-de-la-roja-ante-mexico.shtml",
-      "fecha_publicacion": "2026-10-05 08:48"
-    },
-    {
-      "titulo": "Arnaldo Castillo se pone a la orden de La Roja y sueña con llamado de Córdova: \"Si me necesita, voy\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/05/arnaldo-castillo-se-pone-a-la-orden-de-la-roja-y-suena-con-llamado-de-cordova-si-me-necesita-voy.shtml",
-      "fecha_publicacion": "2026-10-05 07:34"
-    },
-    {
-      "titulo": "\"Tenemos que trabajar, pero hay calidad\": Elías Figueroa abordó la situación actual de La Roja",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/04/tenemos-que-trabajar-pero-hay-calidad-elias-figueroa-abordo-la-situacion-actual-de-la-roja.shtml",
-      "fecha_publicacion": "2026-10-04 23:05"
+      "titulo": "Elías Figueroa sobre el presente de la Roja: Tenemos jugadores que hay que trabajar",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/elias-figueroa-sobre-el-presente-de-la-roja-tenemos-jugadores-que-hay/2026-10-05/090059.html",
+      "fecha_publicacion": "2026-10-05 090059"
     },
     {
       "titulo": "¿Cuándo y dónde ver la revancha entre Coquimbo Unido y Cobreloa por Copa Chile?",
