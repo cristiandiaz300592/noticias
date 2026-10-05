@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-05T14:30:33.173062+00:00",
+  "actualizado": "2026-10-05T15:00:33.746790+00:00",
   "noticias": [
     {
       "titulo": "Chile vs México en su último amistoso en Norteamérica: a qué hora juegan y dónde ver en vivo",
@@ -44,6 +44,12 @@
       "fecha_publicacion": "2026-10-04 23:05"
     },
     {
+      "titulo": "¿Cuándo y dónde ver la revancha entre Coquimbo Unido y Cobreloa por Copa Chile?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-revancha-entre-coquimbo-unido-y-cobreloa-por-copa/2026-10-04/224105.html",
+      "fecha_publicacion": "2026-10-04 224105"
+    },
+    {
       "titulo": "\"Soy poco de emocionarme\": Humberto \"Chupete\" Suazo da la clave para el gran momento de San Luis en la Primera B",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/04/1213222/chupete-suazo-sanluis-cobreloa-primerab.html",
@@ -54,6 +60,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/04/primera-b-san-luis-se-hizo-fuerte-en-quillota-vencio-a-union-espanola-y-es-el-nuevo-escolta.shtml",
       "fecha_publicacion": "2026-10-04 19:32"
+    },
+    {
+      "titulo": "Se acabó la espera: La programación de la fecha 24 de la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/se-acabo-la-espera-la-programacion-de-la-fecha-24-de-la-liga-de-primera/2026-10-04/192333.html",
+      "fecha_publicacion": "2026-10-04 192333"
     },
     {
       "titulo": "O’Higgins liquidó la serie en Rancagua ante Concepción y alcanzó la semifinal de Copa Chile",
