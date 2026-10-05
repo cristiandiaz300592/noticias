@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-05T10:30:32.662458+00:00",
+  "actualizado": "2026-10-05T11:00:35.018580+00:00",
   "noticias": [
+    {
+      "titulo": "Arnaldo Castillo se pone a la orden de La Roja y sueña con llamado de Córdova: \"Si me necesita, voy\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/05/arnaldo-castillo-se-pone-a-la-orden-de-la-roja-y-suena-con-llamado-de-cordova-si-me-necesita-voy.shtml",
+      "fecha_publicacion": "2026-10-05 07:34"
+    },
     {
       "titulo": "¿Cuándo y dónde ver la ida entre Antofagasta y la U por cuartos de la Copa Chile?",
       "fuente": "Cooperativa",
@@ -84,12 +90,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/03/cobreloa-anoto-en-los-descuentos-y-triunfo-de-visita-en-temuco-asi-quedo-la-tabla-de-primera-b.shtml",
       "fecha_publicacion": "2026-10-03 19:43"
-    },
-    {
-      "titulo": "Primera B: Wanderers cayó ante Recoleta e hipotecó el liderato a falta de cuatro fechas para el final",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/03/primera-b-wanderers-perdio-ante-recoleta-hipoteco-el-liderato-y-registro-tercera-derrota-consecutiva.shtml",
-      "fecha_publicacion": "2026-10-03 17:30"
     }
   ]
 }
