@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-05T15:00:33.746790+00:00",
+  "actualizado": "2026-10-05T15:30:28.119487+00:00",
   "noticias": [
+    {
+      "titulo": "Pese a que adelantó su regreso, Vozinha quedará fuera del partido con Puerto Montt",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/pese-a-que-adelanto-su-regreso-vozinha-quedara-fuera-del-partido-con/2026-10-05/115638.html",
+      "fecha_publicacion": "2026-10-05 115638"
+    },
     {
       "titulo": "Chile vs México en su último amistoso en Norteamérica: a qué hora juegan y dónde ver en vivo",
       "fuente": "BioBioChile",
@@ -50,12 +56,6 @@
       "fecha_publicacion": "2026-10-04 224105"
     },
     {
-      "titulo": "\"Soy poco de emocionarme\": Humberto \"Chupete\" Suazo da la clave para el gran momento de San Luis en la Primera B",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/04/1213222/chupete-suazo-sanluis-cobreloa-primerab.html",
-      "fecha_publicacion": "2026-10-04 21:35"
-    },
-    {
       "titulo": "Primera B: San Luis se hizo fuerte en Quillota, venció a Unión Española y es el nuevo escolta",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/04/primera-b-san-luis-se-hizo-fuerte-en-quillota-vencio-a-union-espanola-y-es-el-nuevo-escolta.shtml",
@@ -78,12 +78,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/valentina-toro-exhibio-la-camiseta-personalizada-que-le-regalo/2026-10-04/152944.html",
       "fecha_publicacion": "2026-10-04 152944"
-    },
-    {
-      "titulo": "Medel contesta a Vidal por pedir vuelta de Generación Dorada a La Roja: \"No sacamos nada con discutir\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/04/medel-frena-a-vidal-por-pedir-retorno-de-generacion-dorada-a-la-roja-no-sacamos-nada-con-discutir.shtml",
-      "fecha_publicacion": "2026-10-04 13:16"
     }
   ]
 }
