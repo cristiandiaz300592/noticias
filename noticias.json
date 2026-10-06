@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-10-06T10:00:33.440275+00:00",
+  "actualizado": "2026-10-06T10:30:27.788924+00:00",
   "noticias": [
+    {
+      "titulo": "Nicolás Córdova rompió el silencio tras salida de Marcelino Núñez: \"Yo no lo eché de la selección\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nicolas-cordova-rompio-el-silencio-tras-salida-de-marcelino-nunez-yo/2026-10-06/071901.html",
+      "fecha_publicacion": "2026-10-06 071901"
+    },
     {
       "titulo": "ANFP y un día clave por elecciones: las listas que asoman y los bloques con clubes grandes en ’pugna’",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/06/anfp-y-un-dia-clave-por-elecciones-las-listas-que-asoman-y-los-bloques-con-clubes-grandes-en-pugna.shtml",
       "fecha_publicacion": "2026-10-06 06:46"
+    },
+    {
+      "titulo": "Nicolás Córdova responde por la bullada salida de Marcelino Núñez de la \"Roja\"",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/06/1213336/cordova-marcelino-seleccion.html",
+      "fecha_publicacion": "2026-10-06 06:30"
     },
     {
       "titulo": "Pellegrini es la prioridad, pero ... ANFP suma tres nuevos candidatos para asumir en La Roja",
@@ -32,6 +44,12 @@
       "fecha_publicacion": "2026-10-05 185316"
     },
     {
+      "titulo": "Sólo por HBO Max: ¿Cuándo ver el duelo entre Antofagasta y la U en la Copa Chile?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/solo-por-hbo-max-cuando-ver-el-duelo-entre-antofagasta-y-la-u-en-la/2026-10-05/182249.html",
+      "fecha_publicacion": "2026-10-05 182249"
+    },
+    {
       "titulo": "Amistoso de La Roja y México tendrá histórica transmisión con lengua de señas",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/amistoso-de-la-roja-y-mexico-tendra-historica-transmision-con-lengua-de/2026-10-05/174731.html",
@@ -44,7 +62,7 @@
       "fecha_publicacion": "2026-10-05 17:35"
     },
     {
-      "titulo": "La Roja saldrá a sacudirse de las polémicas y cerrar con un triunfo ante México la gira por Norteamérica",
+      "titulo": "La Roja saldrá a sacudirse de las polémicas y cerrar con un triunfo ante México la gira por...",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-saldra-a-sacudirse-de-las-polemicas-y-cerrar-con-un-triunfo-ante/2026-10-05/172254.html",
       "fecha_publicacion": "2026-10-05 172254"
@@ -86,10 +104,10 @@
       "fecha_publicacion": "2026-10-05 090059"
     },
     {
-      "titulo": "Se acabó la espera: La programación de la fecha 24 de la Liga de Primera",
+      "titulo": "¿Cuándo y dónde ver la revancha entre Coquimbo Unido y Cobreloa por Copa Chile?",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/se-acabo-la-espera-la-programacion-de-la-fecha-24-de-la-liga-de-primera/2026-10-04/192333.html",
-      "fecha_publicacion": "2026-10-04 192333"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-revancha-entre-coquimbo-unido-y-cobreloa-por-copa/2026-10-04/224105.html",
+      "fecha_publicacion": "2026-10-04 224105"
     },
     {
       "titulo": "¿Cuándo y dónde ver la revancha de Colo Colo y Puerto Montt en Copa Chile?",
