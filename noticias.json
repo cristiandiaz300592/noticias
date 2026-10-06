@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T15:00:34.340922+00:00",
+  "actualizado": "2026-10-06T15:30:26.090107+00:00",
   "noticias": [
     {
       "titulo": "Filtran que la U alista un remake de la camiseta de la Copa Sudamericana 2011",
@@ -68,6 +68,12 @@
       "fecha_publicacion": "2026-10-05 21:52"
     },
     {
+      "titulo": "Coté López contó que tuvo un romance con Ronaldinho",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-comunico-una-renuncia-en-medio-de-su-mal-momento/2026-10-05/205959.html",
+      "fecha_publicacion": "2026-10-05 205959"
+    },
+    {
       "titulo": "Marcelo Díaz: Ojalá que mis cenizas las tiren al estadio de la U",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/marcelo-diaz-ojala-que-mis-cenizas-las-tiren-al-estadio-de-la-u/2026-10-05/192942.html",
@@ -96,12 +102,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-saldra-a-sacudirse-de-las-polemicas-y-cerrar-con-un-triunfo-ante/2026-10-05/172254.html",
       "fecha_publicacion": "2026-10-05 172254"
-    },
-    {
-      "titulo": "Fernando Ortiz reacciona al guiño de Alexis Sánchez y aborda opción de llegar al banco de La Roja",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/05/fernando-ortiz-reacciona-al-guino-de-alexis-sanchez-y-aborda-opcion-de-llegar-al-banco-de-la-roja.shtml",
-      "fecha_publicacion": "2026-10-05 16:08"
     },
     {
       "titulo": "Pese a que adelantó su regreso, Vozinha quedará fuera del partido con Puerto Montt",
