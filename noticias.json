@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-06T19:00:35.459285+00:00",
+  "actualizado": "2026-10-06T19:30:25.658755+00:00",
   "noticias": [
+    {
+      "titulo": "Zaldivia puso la mira en la Copa Chile: \"Es un objetivo salir campeón\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/zaldivia-puso-la-mira-en-la-copa-chile-es-un-objetivo-salir-campeon/2026-10-06/160730.html",
+      "fecha_publicacion": "2026-10-06 160730"
+    },
+    {
+      "titulo": "Charles Aránguiz quedó fuera del duelo frente a Antofagasta por Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/charles-aranguiz-quedo-fuera-del-duelo-frente-a-antofagasta-por-copa/2026-10-06/155340.html",
+      "fecha_publicacion": "2026-10-06 155340"
+    },
     {
       "titulo": "A qué hora juegan y dónde ver en vivo el Chile vs México en último amistoso de La Roja en Norteamérica",
       "fuente": "BioBioChile",
@@ -24,6 +36,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/los-nombres-que-comenzaron-a-sonar-en-torno-a-la-banca-de-la-seleccion/2026-10-06/142913.html",
       "fecha_publicacion": "2026-10-06 142913"
+    },
+    {
+      "titulo": "Filtran que la U alista un remake de la camiseta de la Copa Sudamericana 2011",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/filtran-que-la-u-alista-un-remake-de-la-camiseta-de-la-copa-sudamericana/2026-10-06/114518.html",
+      "fecha_publicacion": "2026-10-06 114518"
     },
     {
       "titulo": "La Roja Sub 17 va por la revancha en Qatar: conoce sus rivales y fechas para el Mundial",
@@ -90,12 +108,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-quiere-sellar-ante-puerto-montt-el-pasaje-a-semifinales-de-la/2026-10-05/201154.html",
       "fecha_publicacion": "2026-10-05 201154"
-    },
-    {
-      "titulo": "Sólo por HBO Max: ¿Cuándo ver el duelo entre Antofagasta y la U en la Copa Chile?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/solo-por-hbo-max-cuando-ver-el-duelo-entre-antofagasta-y-la-u-en-la/2026-10-05/182249.html",
-      "fecha_publicacion": "2026-10-05 182249"
     },
     {
       "titulo": "La Roja saldrá a sacudirse de las polémicas y cerrar con un triunfo ante México la gira por Norteamérica",
