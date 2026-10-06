@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-06T14:30:34.173268+00:00",
+  "actualizado": "2026-10-06T15:00:34.340922+00:00",
   "noticias": [
+    {
+      "titulo": "Filtran que la U alista un remake de la camiseta de la Copa Sudamericana 2011",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/filtran-que-la-u-alista-un-remake-de-la-camiseta-de-la-copa-sudamericana/2026-10-06/114518.html",
+      "fecha_publicacion": "2026-10-06 114518"
+    },
+    {
+      "titulo": "La Roja Sub 17 va por la revancha en Qatar: conoce sus rivales y fechas para el Mundial",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/06/la-roja-sub-17-va-por-la-revancha-en-qatar-conoce-sus-rivales-y-fechas-para-el-mundial.shtml",
+      "fecha_publicacion": "2026-10-06 11:42"
+    },
     {
       "titulo": "Colo Colo vs Puerto Montt por cuartos de vuelta de Copa Chile: a qué hora juegan y dónde verlo en vivo",
       "fuente": "BioBioChile",
@@ -26,19 +38,13 @@
       "fecha_publicacion": "2026-10-06 091349"
     },
     {
-      "titulo": "Córdova y su continuidad en La Roja: \"No tengo el ego para pedir quedarme en la selección adulta\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-su-continuidad-en-la-roja-no-tengo-el-ego-para-pedir/2026-10-06/082031.html",
-      "fecha_publicacion": "2026-10-06 082031"
-    },
-    {
       "titulo": "Córdova asegura que se \"enteró después\" de salida de Marcelino en La Roja y responsabiliza al jugador",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/06/cordova-asegura-que-se-entero-despues-de-salida-de-marcelino-en-la-roja-y-responsabiliza-al-jugador.shtml",
       "fecha_publicacion": "2026-10-06 07:49"
     },
     {
-      "titulo": "Nicolás Córdova rompió el silencio tras salida de Marcelino Núñez: \"Yo no lo eché de la selección\"",
+      "titulo": "Nicolás Córdova rompió el silencio tras salida de Marcelino Núñez: \"Yo no lo eché de la...",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nicolas-cordova-rompio-el-silencio-tras-salida-de-marcelino-nunez-yo/2026-10-06/071901.html",
       "fecha_publicacion": "2026-10-06 071901"
@@ -62,22 +68,10 @@
       "fecha_publicacion": "2026-10-05 21:52"
     },
     {
-      "titulo": "Colo Colo quiere sellar ante Puerto Montt el pasaje a semifinales de la Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-quiere-sellar-ante-puerto-montt-el-pasaje-a-semifinales-de-la/2026-10-05/201154.html",
-      "fecha_publicacion": "2026-10-05 201154"
-    },
-    {
       "titulo": "Marcelo Díaz: Ojalá que mis cenizas las tiren al estadio de la U",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/marcelo-diaz-ojala-que-mis-cenizas-las-tiren-al-estadio-de-la-u/2026-10-05/192942.html",
       "fecha_publicacion": "2026-10-05 192942"
-    },
-    {
-      "titulo": "La FIFA confirmó el calendario de La Roja para el Mundial femenino sub 17",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-fifa-confirmo-el-calendario-de-la-roja-para-el-mundial-femenino-sub-17/2026-10-05/185316.html",
-      "fecha_publicacion": "2026-10-05 185316"
     },
     {
       "titulo": "Sólo por HBO Max: ¿Cuándo ver el duelo entre Antofagasta y la U en la Copa Chile?",
@@ -110,16 +104,22 @@
       "fecha_publicacion": "2026-10-05 16:08"
     },
     {
-      "titulo": "Vecchio contó que la Garra Blanca quiso matar a un jugador de Colo Colo: \"Lo estaban esperando\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vecchio-conto-que-la-garra-blanca-quiso-matar-a-un-jugador-de-colo-colo/2026-10-05/152738.html",
-      "fecha_publicacion": "2026-10-05 152738"
-    },
-    {
       "titulo": "Pese a que adelantó su regreso, Vozinha quedará fuera del partido con Puerto Montt",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/pese-a-que-adelanto-su-regreso-vozinha-quedara-fuera-del-partido-con/2026-10-05/115638.html",
       "fecha_publicacion": "2026-10-05 115638"
+    },
+    {
+      "titulo": "Elías Figueroa sobre el presente de la Roja: Tenemos jugadores que hay que trabajar",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/elias-figueroa-sobre-el-presente-de-la-roja-tenemos-jugadores-que-hay/2026-10-05/090059.html",
+      "fecha_publicacion": "2026-10-05 090059"
+    },
+    {
+      "titulo": "Se acabó la espera: La programación de la fecha 24 de la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/se-acabo-la-espera-la-programacion-de-la-fecha-24-de-la-liga-de-primera/2026-10-04/192333.html",
+      "fecha_publicacion": "2026-10-04 192333"
     }
   ]
 }
