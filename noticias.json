@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-06T14:00:31.643260+00:00",
+  "actualizado": "2026-10-06T14:30:34.173268+00:00",
   "noticias": [
+    {
+      "titulo": "Colo Colo vs Puerto Montt por cuartos de vuelta de Copa Chile: a qué hora juegan y dónde verlo en vivo",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/10/06/colo-colo-vs-puerto-montt-por-cuartos-de-vuelta-de-copa-chile-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
+      "fecha_publicacion": "2026-10-06 11:00"
+    },
     {
       "titulo": "La trama y la reconstrucción de cómo fue la bullada salida de Marcelino Núñez de la \"Roja\"",
       "fuente": "Emol",
@@ -80,6 +86,12 @@
       "fecha_publicacion": "2026-10-05 182249"
     },
     {
+      "titulo": "Amistoso de La Roja y México tendrá histórica transmisión con lengua de señas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/amistoso-de-la-roja-y-mexico-tendra-historica-transmision-con-lengua-de/2026-10-05/174731.html",
+      "fecha_publicacion": "2026-10-05 174731"
+    },
+    {
       "titulo": "\"Solo quieres ver cómo gira la bola\": Emiliano Vecchio reveló cómo la ludopatía consumió su vida",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/05/solo-quieres-ver-como-gira-la-bola-emiliano-vecchio-revelo-como-la-ludopatia-consumio-su-vida.shtml",
@@ -104,22 +116,10 @@
       "fecha_publicacion": "2026-10-05 152738"
     },
     {
-      "titulo": "Elías Figueroa sobre el presente de la Roja: Tenemos jugadores que hay que trabajar",
+      "titulo": "Pese a que adelantó su regreso, Vozinha quedará fuera del partido con Puerto Montt",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/elias-figueroa-sobre-el-presente-de-la-roja-tenemos-jugadores-que-hay/2026-10-05/090059.html",
-      "fecha_publicacion": "2026-10-05 090059"
-    },
-    {
-      "titulo": "¿Cuándo y dónde ver la revancha entre Coquimbo Unido y Cobreloa por Copa Chile?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-revancha-entre-coquimbo-unido-y-cobreloa-por-copa/2026-10-04/224105.html",
-      "fecha_publicacion": "2026-10-04 224105"
-    },
-    {
-      "titulo": "Se acabó la espera: La programación de la fecha 24 de la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/se-acabo-la-espera-la-programacion-de-la-fecha-24-de-la-liga-de-primera/2026-10-04/192333.html",
-      "fecha_publicacion": "2026-10-04 192333"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/pese-a-que-adelanto-su-regreso-vozinha-quedara-fuera-del-partido-con/2026-10-05/115638.html",
+      "fecha_publicacion": "2026-10-05 115638"
     }
   ]
 }
