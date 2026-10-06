@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-06T00:00:32.845248+00:00",
+  "actualizado": "2026-10-06T00:30:28.521403+00:00",
   "noticias": [
+    {
+      "titulo": "Unión Española comunicó una renuncia en medio de su mal momento deportivo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-comunico-una-renuncia-en-medio-de-su-mal-momento/2026-10-05/205959.html",
+      "fecha_publicacion": "2026-10-05 205959"
+    },
     {
       "titulo": "Maxi Romero se lesionó y será baja en la revancha entre Colo Colo y Puerto Montt",
       "fuente": "Cooperativa",
@@ -18,12 +24,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-fifa-confirmo-el-calendario-de-la-roja-para-el-mundial-femenino-sub-17/2026-10-05/185316.html",
       "fecha_publicacion": "2026-10-05 185316"
-    },
-    {
-      "titulo": "Sólo por HBO Max: ¿Cuándo ver el duelo entre Antofagasta y la U en la Copa Chile?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/solo-por-hbo-max-cuando-ver-el-duelo-entre-antofagasta-y-la-u-en-la/2026-10-05/182249.html",
-      "fecha_publicacion": "2026-10-05 182249"
     },
     {
       "titulo": "Amistoso de La Roja y México tendrá histórica transmisión con lengua de señas",
@@ -86,12 +86,6 @@
       "fecha_publicacion": "2026-10-05 10:43"
     },
     {
-      "titulo": "Previo a amistoso con La Roja: medios apuntan al \"fantasma\" del 0-7 que persigue al DT mexicano",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/05/previo-a-amistoso-con-la-roja-medios-apuntan-al-fantasma-del-0-7-que-persigue-al-dt-mexicano.shtml",
-      "fecha_publicacion": "2026-10-05 10:23"
-    },
-    {
       "titulo": "Elías Figueroa sobre el presente de la Roja: Tenemos jugadores que hay que trabajar",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/elias-figueroa-sobre-el-presente-de-la-roja-tenemos-jugadores-que-hay/2026-10-05/090059.html",
@@ -108,12 +102,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/se-acabo-la-espera-la-programacion-de-la-fecha-24-de-la-liga-de-primera/2026-10-04/192333.html",
       "fecha_publicacion": "2026-10-04 192333"
-    },
-    {
-      "titulo": "Valentina Toro exhibió la camiseta personalizada que le regaló Universidad de Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/valentina-toro-exhibio-la-camiseta-personalizada-que-le-regalo/2026-10-04/152944.html",
-      "fecha_publicacion": "2026-10-04 152944"
     }
   ]
 }
