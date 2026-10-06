@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T01:00:28.452735+00:00",
+  "actualizado": "2026-10-06T01:30:26.257989+00:00",
   "noticias": [
     {
       "titulo": "Pellegrini es la prioridad, pero ... ANFP suma tres nuevos candidatos para asumir en La Roja",
@@ -8,28 +8,22 @@
       "fecha_publicacion": "2026-10-05 21:52"
     },
     {
-      "titulo": "Unión Española comunicó una renuncia en medio de su mal momento deportivo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-comunico-una-renuncia-en-medio-de-su-mal-momento/2026-10-05/205959.html",
-      "fecha_publicacion": "2026-10-05 205959"
-    },
-    {
       "titulo": "Maxi Romero se lesionó y será baja en la revancha entre Colo Colo y Puerto Montt",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/maxi-romero-se-lesiono-y-sera-baja-en-la-revancha-entre-colo-colo-y/2026-10-05/202001.html",
       "fecha_publicacion": "2026-10-05 202001"
     },
     {
+      "titulo": "Colo Colo quiere sellar ante Puerto Montt el pasaje a semifinales de la Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-quiere-sellar-ante-puerto-montt-el-pasaje-a-semifinales-de-la/2026-10-05/201154.html",
+      "fecha_publicacion": "2026-10-05 201154"
+    },
+    {
       "titulo": "Marcelo Díaz: Ojalá que mis cenizas las tiren al estadio de la U",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/marcelo-diaz-ojala-que-mis-cenizas-las-tiren-al-estadio-de-la-u/2026-10-05/192942.html",
       "fecha_publicacion": "2026-10-05 192942"
-    },
-    {
-      "titulo": "La FIFA confirmó el calendario de La Roja para el Mundial femenino sub 17",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-fifa-confirmo-el-calendario-de-la-roja-para-el-mundial-femenino-sub-17/2026-10-05/185316.html",
-      "fecha_publicacion": "2026-10-05 185316"
     },
     {
       "titulo": "Amistoso de La Roja y México tendrá histórica transmisión con lengua de señas",
@@ -44,10 +38,10 @@
       "fecha_publicacion": "2026-10-05 17:35"
     },
     {
-      "titulo": "El camino de Alejandro Tabilo en el Masters de Shanghai: Revisa el cuadro",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/05/1213294/tabilo-shanghai-rival-camino.html",
-      "fecha_publicacion": "2026-10-05 17:02"
+      "titulo": "La Roja saldrá a sacudirse de las polémicas y cerrar con un triunfo ante México la gira por Norteamérica",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-saldra-a-sacudirse-de-las-polemicas-y-cerrar-con-un-triunfo-ante/2026-10-05/172254.html",
+      "fecha_publicacion": "2026-10-05 172254"
     },
     {
       "titulo": "Fernando Ortiz reacciona al guiño de Alexis Sánchez y aborda opción de llegar al banco de La Roja",
@@ -66,12 +60,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vecchio-y-sus-corners-contra-union-espanola-a-catolica-la-odiaba/2026-10-05/150214.html",
       "fecha_publicacion": "2026-10-05 150214"
-    },
-    {
-      "titulo": "Ortiz por dichos de Nicolás Córdova: Tengo mi opinión, obviamente me la guardo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-por-dichos-de-nicolas-cordova-tengo-mi-opinion-obviamente-me-la/2026-10-05/134153.html",
-      "fecha_publicacion": "2026-10-05 134153"
     },
     {
       "titulo": "Deportes Linares deja en manos de la ANFP veredicto de Santiago City: SADP se desligó de denuncia",
@@ -108,6 +96,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/se-acabo-la-espera-la-programacion-de-la-fecha-24-de-la-liga-de-primera/2026-10-04/192333.html",
       "fecha_publicacion": "2026-10-04 192333"
+    },
+    {
+      "titulo": "¿Cuándo y dónde ver la revancha de Colo Colo y Puerto Montt en Copa Chile?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-revancha-de-colo-colo-y-puerto-montt-en-copa/2026-10-04/165219.html",
+      "fecha_publicacion": "2026-10-04 165219"
     }
   ]
 }
