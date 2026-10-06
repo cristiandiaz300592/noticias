@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-06T23:00:29.577210+00:00",
+  "actualizado": "2026-10-06T23:30:28.138796+00:00",
   "noticias": [
+    {
+      "titulo": "Aníbal Mosa pide a la ANFP \"escuchar a la calle\" y jugársela por Marcelo Bielsa: \"Chile lo necesita\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/06/anibal-mosa-se-la-juega-por-marcelo-bielsa-a-la-roja.shtml",
+      "fecha_publicacion": "2026-10-06 20:20"
+    },
+    {
+      "titulo": "Fuera de Santiago: La U confirmó estadio para recibir a Ñublense por la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fuera-de-santiago-la-u-confirmo-estadio-para-recibir-a-nublense-por-la/2026-10-06/201136.html",
+      "fecha_publicacion": "2026-10-06 201136"
+    },
     {
       "titulo": "Aníbal Mosa y La Roja: \"Yo iría a buscar a Marcelo Bielsa\"",
       "fuente": "Cooperativa",
@@ -62,28 +74,10 @@
       "fecha_publicacion": "2026-10-06 11:42"
     },
     {
-      "titulo": "Colo Colo vs Puerto Montt por cuartos de vuelta de Copa Chile: a qué hora juegan y dónde verlo en vivo",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/10/06/colo-colo-vs-puerto-montt-por-cuartos-de-vuelta-de-copa-chile-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
-      "fecha_publicacion": "2026-10-06 11:00"
-    },
-    {
-      "titulo": "La trama y la reconstrucción de cómo fue la bullada salida de Marcelino Núñez de la \"Roja\"",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/06/1213352/historia-marcelino-nunez-roja.html",
-      "fecha_publicacion": "2026-10-06 10:32"
-    },
-    {
       "titulo": "Claudio Bravo se la jugó por Pellegrini para la Roja: \"Necesitamos de su prestigio\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/claudio-bravo-se-la-jugo-por-pellegrini-para-la-roja-necesitamos-de-su/2026-10-06/094752.html",
       "fecha_publicacion": "2026-10-06 094752"
-    },
-    {
-      "titulo": "Villagra respaldó críticas de Córdova: \"Si marca falencias con nombre, es por el bien de la selección\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/villagra-respaldo-criticas-de-cordova-si-marca-falencias-con-nombre/2026-10-06/091349.html",
-      "fecha_publicacion": "2026-10-06 091349"
     },
     {
       "titulo": "Colo Colo quiere sellar ante Puerto Montt el pasaje a semifinales de la Copa Chile",
