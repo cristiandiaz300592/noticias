@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-06T11:00:32.876365+00:00",
+  "actualizado": "2026-10-06T11:30:30.963054+00:00",
   "noticias": [
+    {
+      "titulo": "Córdova y su continuidad en La Roja: \"No tengo el ego para pedir quedarme en la selección adulta\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-su-continuidad-en-la-roja-no-tengo-el-ego-para-pedir/2026-10-06/082031.html",
+      "fecha_publicacion": "2026-10-06 082031"
+    },
     {
       "titulo": "Córdova asegura que se \"enteró después\" de salida de Marcelino en La Roja y responsabiliza al jugador",
       "fuente": "BioBioChile",
@@ -104,22 +110,16 @@
       "fecha_publicacion": "2026-10-05 115638"
     },
     {
-      "titulo": "Elías Figueroa sobre el presente de la Roja: Tenemos jugadores que hay que trabajar",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/elias-figueroa-sobre-el-presente-de-la-roja-tenemos-jugadores-que-hay/2026-10-05/090059.html",
-      "fecha_publicacion": "2026-10-05 090059"
-    },
-    {
       "titulo": "¿Cuándo y dónde ver la revancha entre Coquimbo Unido y Cobreloa por Copa Chile?",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-revancha-entre-coquimbo-unido-y-cobreloa-por-copa/2026-10-04/224105.html",
       "fecha_publicacion": "2026-10-04 224105"
     },
     {
-      "titulo": "¿Cuándo y dónde ver la revancha de Colo Colo y Puerto Montt en Copa Chile?",
+      "titulo": "Se acabó la espera: La programación de la fecha 24 de la Liga de Primera",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/cuando-y-donde-ver-la-revancha-de-colo-colo-y-puerto-montt-en-copa/2026-10-04/165219.html",
-      "fecha_publicacion": "2026-10-04 165219"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/se-acabo-la-espera-la-programacion-de-la-fecha-24-de-la-liga-de-primera/2026-10-04/192333.html",
+      "fecha_publicacion": "2026-10-04 192333"
     }
   ]
 }
