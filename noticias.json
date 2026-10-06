@@ -1,17 +1,23 @@
 {
-  "actualizado": "2026-10-06T18:00:31.815718+00:00",
+  "actualizado": "2026-10-06T18:30:32.479343+00:00",
   "noticias": [
+    {
+      "titulo": "A qué hora juegan y dónde ver en vivo el Chile vs México en último amistoso de La Roja en Norteamérica",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/10/06/a-que-hora-juegan-y-donde-ver-en-vivo-el-chile-vs-mexico-en-ultimo-amistoso-de-la-roja-en-norteamerica.shtml",
+      "fecha_publicacion": "2026-10-06 15:24"
+    },
+    {
+      "titulo": "Cuatro clubes contra uno: Unión San Felipe presiona y se une a denuncia contra Puerto Montt en la B",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/06/cuatro-clubes-contra-uno-union-san-felipe-presiona-y-se-une-a-denuncia-contra-puerto-montt-en-la-b.shtml",
+      "fecha_publicacion": "2026-10-06 15:12"
+    },
     {
       "titulo": "Esteban Paredes arremete contra Córdova por su manejo en La Roja: \"Se cree más que los jugadores\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/06/esteban-paredes-arremete-contra-cordova-por-su-manejo-en-la-roja-se-cree-mas-que-los-jugadores.shtml",
       "fecha_publicacion": "2026-10-06 14:57"
-    },
-    {
-      "titulo": "Filtran que la U alista un remake de la camiseta de la Copa Sudamericana 2011",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/filtran-que-la-u-alista-un-remake-de-la-camiseta-de-la-copa-sudamericana/2026-10-06/114518.html",
-      "fecha_publicacion": "2026-10-06 114518"
     },
     {
       "titulo": "La Roja Sub 17 va por la revancha en Qatar: conoce sus rivales y fechas para el Mundial",
@@ -92,12 +98,6 @@
       "fecha_publicacion": "2026-10-05 182249"
     },
     {
-      "titulo": "\"Solo quieres ver cómo gira la bola\": Emiliano Vecchio reveló cómo la ludopatía consumió su vida",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/05/solo-quieres-ver-como-gira-la-bola-emiliano-vecchio-revelo-como-la-ludopatia-consumio-su-vida.shtml",
-      "fecha_publicacion": "2026-10-05 17:35"
-    },
-    {
       "titulo": "La Roja saldrá a sacudirse de las polémicas y cerrar con un triunfo ante México la gira por Norteamérica",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-saldra-a-sacudirse-de-las-polemicas-y-cerrar-con-un-triunfo-ante/2026-10-05/172254.html",
@@ -108,12 +108,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/pese-a-que-adelanto-su-regreso-vozinha-quedara-fuera-del-partido-con/2026-10-05/115638.html",
       "fecha_publicacion": "2026-10-05 115638"
-    },
-    {
-      "titulo": "Se acabó la espera: La programación de la fecha 24 de la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/se-acabo-la-espera-la-programacion-de-la-fecha-24-de-la-liga-de-primera/2026-10-04/192333.html",
-      "fecha_publicacion": "2026-10-04 192333"
     }
   ]
 }
