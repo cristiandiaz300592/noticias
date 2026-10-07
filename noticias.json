@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-07T17:30:29.917088+00:00",
+  "actualizado": "2026-10-07T18:00:33.555536+00:00",
   "noticias": [
+    {
+      "titulo": "\"Soy malo, culiao\": informe detalla insultos y agresión de Osvaldo González a árbitro en caída de UdeC",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/07/informe-detalla-insultos-y-agresion-osvaldo-gonzalez-a-arbitro-udec-huachipato.shtml",
+      "fecha_publicacion": "2026-10-07 14:52"
+    },
     {
       "titulo": "Tribunal tomó resolución contra la U y sancionó a 5.001 hinchas",
       "fuente": "Cooperativa",
@@ -80,6 +86,12 @@
       "fecha_publicacion": "2026-10-07 01:39"
     },
     {
+      "titulo": "La Roja se desahogó con un triunfo sobre México en el fin de su gira por Norteamérica",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-se-desahogo-con-un-triunfo-sobre-mexico-en-el-fin-de-su-gira-por/2026-10-07/013725.html",
+      "fecha_publicacion": "2026-10-07 013725"
+    },
+    {
       "titulo": "Asistencia de Osorio y Pizarro definió como ’9’: el gol con que Chile aumentó ante México en amistoso",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/amistoso-chile-mexico-asistencia-de-osorio-gol-de-pizarro.shtml",
@@ -108,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/antofagasta-quiere-aprovechar-la-localia-ante-la-u-en-la-ida-de-cuartos/2026-10-06/194001.html",
       "fecha_publicacion": "2026-10-06 194001"
-    },
-    {
-      "titulo": "Aníbal Mosa y La Roja: \"Yo iría a buscar a Marcelo Bielsa\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/anibal-mosa-y-la-roja-yo-iria-a-buscar-a-marcelo-bielsa/2026-10-06/193509.html",
-      "fecha_publicacion": "2026-10-06 193509"
     }
   ]
 }
