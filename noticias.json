@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-07T19:00:36.918127+00:00",
+  "actualizado": "2026-10-07T19:30:31.141301+00:00",
   "noticias": [
     {
       "titulo": "ANFP castiga a casi 3.000 hinchas de Coquimbo Unido por incidentes donde fue herido Christian Bravo",
@@ -92,22 +92,10 @@
       "fecha_publicacion": "2026-10-07 015239"
     },
     {
-      "titulo": "La Roja volvió a abrazarse: Chile mostró una sólida imagen y venció a México en amistoso",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/la-roja-volvio-a-abrazarse-chile-vencio-a-mexico-amistoso.shtml",
-      "fecha_publicacion": "2026-10-07 01:39"
-    },
-    {
       "titulo": "La Roja se desahogó con un triunfo sobre México en el fin de su gira por Norteamérica",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-se-desahogo-con-un-triunfo-sobre-mexico-en-el-fin-de-su-gira-por/2026-10-07/013725.html",
       "fecha_publicacion": "2026-10-07 013725"
-    },
-    {
-      "titulo": "Asistencia de Osorio y Pizarro definió como ’9’: el gol con que Chile aumentó ante México en amistoso",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/amistoso-chile-mexico-asistencia-de-osorio-gol-de-pizarro.shtml",
-      "fecha_publicacion": "2026-10-07 01:18"
     },
     {
       "titulo": "¿Cuándo y dónde volverá a jugar La Roja adulta?",
@@ -120,6 +108,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fuera-de-santiago-la-u-confirmo-estadio-para-recibir-a-nublense-por-la/2026-10-06/201136.html",
       "fecha_publicacion": "2026-10-06 201136"
+    },
+    {
+      "titulo": "Antofagasta quiere aprovechar la localía ante la U en la ida de cuartos en Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/antofagasta-quiere-aprovechar-la-localia-ante-la-u-en-la-ida-de-cuartos/2026-10-06/194001.html",
+      "fecha_publicacion": "2026-10-06 194001"
     }
   ]
 }
