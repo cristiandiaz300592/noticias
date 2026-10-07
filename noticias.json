@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-10-07T01:00:27.830163+00:00",
+  "actualizado": "2026-10-07T01:30:26.867764+00:00",
   "noticias": [
+    {
+      "titulo": "Jorge Yunge oficializa su lista para elecciones de ANFP y dos candidatos se bajan ’sobre la hora’",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/06/jorge-yunge-oficializa-su-lista-para-elecciones-de-anfp-y-dos-candidatos-se-bajan-sobre-la-hora.shtml",
+      "fecha_publicacion": "2026-10-06 22:10"
+    },
+    {
+      "titulo": "Arbitro y el Colo Colo vs. Puerto Montt: Suspendimos para resguardar la integridad de los jugadores",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/arbitro-y-el-colo-colo-vs-puerto-montt-suspendimos-para-resguardar-la/2026-10-06/220605.html",
+      "fecha_publicacion": "2026-10-06 220605"
+    },
+    {
+      "titulo": "Colo Colo le ganaba a Puerto Montt por la Copa Chile, pero el partido se suspendió por el mal estado de la cancha del Monumental",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/06/1213441/colocolo-puertomontt-cancha-monumental.html",
+      "fecha_publicacion": "2026-10-06 21:56"
+    },
+    {
+      "titulo": "[VIDEO] La pelota no rodaba: La revisión a la cancha del suspendido Colo Colo vs. Puerto Montt",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/video-la-pelota-no-rodaba-la-revision-a-la-cancha-del-suspendido-colo/2026-10-06/215257.html",
+      "fecha_publicacion": "2026-10-06 215257"
+    },
     {
       "titulo": "La lluvia obligó a suspender la revancha copera entre Colo Colo y Puerto Montt",
       "fuente": "Cooperativa",
@@ -38,12 +62,6 @@
       "fecha_publicacion": "2026-10-06 17:07"
     },
     {
-      "titulo": "Zaldivia puso la mira en la Copa Chile: \"Es un objetivo salir campeón\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/zaldivia-puso-la-mira-en-la-copa-chile-es-un-objetivo-salir-campeon/2026-10-06/160730.html",
-      "fecha_publicacion": "2026-10-06 160730"
-    },
-    {
       "titulo": "A qué hora juegan y dónde ver en vivo el Chile vs México en último amistoso de La Roja en Norteamérica",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/10/06/a-que-hora-juegan-y-donde-ver-en-vivo-el-chile-vs-mexico-en-ultimo-amistoso-de-la-roja-en-norteamerica.shtml",
@@ -62,9 +80,9 @@
       "fecha_publicacion": "2026-10-06 14:57"
     },
     {
-      "titulo": "La Roja se mide a México en su último amistoso de la gira por Norteamérica",
+      "titulo": "La Roja confirmó formación para enfrentar a México en su último amistoso",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-se-mide-a-mexico-en-su-ultimo-amistoso-de-la-gira-por/2026-10-06/125811.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-confirmo-formacion-para-enfrentar-a-mexico-en-su-ultimo/2026-10-06/125811.html",
       "fecha_publicacion": "2026-10-06 125811"
     },
     {
