@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-07T14:30:26.851160+00:00",
+  "actualizado": "2026-10-07T15:00:32.073933+00:00",
   "noticias": [
     {
       "titulo": "Deportes Antofagasta vs U de Chile por cuartos de ida de Copa Chile: a qué hora juegan y dónde verlo",
@@ -12,12 +12,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/cordova-impulso-su-proyecto-y-se-desahogo-tras-duelo-con-mexico-pizarro-develo-impacto-por-polemica.shtml",
       "fecha_publicacion": "2026-10-07 11:08"
-    },
-    {
-      "titulo": "[VIDEO] Graves incidentes: Hinchas chilenos y mexicanos protagonizaron violenta pelea en Los Angeles",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/video-graves-incidentes-hinchas-chilenos-y-mexicanos-protagonizaron/2026-10-07/093203.html",
-      "fecha_publicacion": "2026-10-07 093203"
     },
     {
       "titulo": "ANFP tendría fecha para reanudar Colo Colo-Puerto Montt de Copa Chile: duelo se suspendió por lluvias",
@@ -62,12 +56,6 @@
       "fecha_publicacion": "2026-10-07 021011"
     },
     {
-      "titulo": "Vidal tras la victoria sobre México: Falta creer un poco más y darle más confianza a los que están",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-tras-la-victoria-sobre-mexico-falta-creer-un-poco-mas-y-darle-mas/2026-10-07/015239.html",
-      "fecha_publicacion": "2026-10-07 015239"
-    },
-    {
       "titulo": "La Roja volvió a abrazarse: Chile mostró una sólida imagen y venció a México en amistoso",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/la-roja-volvio-a-abrazarse-chile-vencio-a-mexico-amistoso.shtml",
@@ -110,16 +98,28 @@
       "fecha_publicacion": "2026-10-06 21:43"
     },
     {
-      "titulo": "La Roja anunció su nómina para el Mundial femenino sub 17",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-anuncio-su-nomina-para-el-mundial-femenino-sub-17/2026-10-06/212601.html",
-      "fecha_publicacion": "2026-10-06 212601"
-    },
-    {
       "titulo": "Fuera de Santiago: La U confirmó estadio para recibir a Ñublense por la Liga de Primera",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fuera-de-santiago-la-u-confirmo-estadio-para-recibir-a-nublense-por-la/2026-10-06/201136.html",
       "fecha_publicacion": "2026-10-06 201136"
+    },
+    {
+      "titulo": "Antofagasta quiere aprovechar la localía ante la U en la ida de cuartos en Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/antofagasta-quiere-aprovechar-la-localia-ante-la-u-en-la-ida-de-cuartos/2026-10-06/194001.html",
+      "fecha_publicacion": "2026-10-06 194001"
+    },
+    {
+      "titulo": "Aníbal Mosa y La Roja: \"Yo iría a buscar a Marcelo Bielsa\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/anibal-mosa-y-la-roja-yo-iria-a-buscar-a-marcelo-bielsa/2026-10-06/193509.html",
+      "fecha_publicacion": "2026-10-06 193509"
+    },
+    {
+      "titulo": "Sólo por HBO Max: ¿Cuándo ver el duelo entre Antofagasta y la U en la Copa Chile?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/solo-por-hbo-max-cuando-ver-el-duelo-entre-antofagasta-y-la-u-en-la/2026-10-05/182249.html",
+      "fecha_publicacion": "2026-10-05 182249"
     }
   ]
 }
