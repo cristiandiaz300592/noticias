@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-07T20:00:31.780358+00:00",
+  "actualizado": "2026-10-07T20:30:30.127078+00:00",
   "noticias": [
+    {
+      "titulo": "Videos muestran cómo jugadores de La Roja intervinieron por pelea de hinchas con mexicanos en amistoso",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/videos-muestran-a-jugadores-de-la-roja-interviniendo-pelea-hinchas-mexico-chile.shtml",
+      "fecha_publicacion": "2026-10-07 17:16"
+    },
     {
       "titulo": "Coquimbo la sacó barata: casi 3 mil hinchas castigados por incidentes donde fue herido Christian Bravo",
       "fuente": "BioBioChile",
@@ -68,22 +74,10 @@
       "fecha_publicacion": "2026-10-07 08:55"
     },
     {
-      "titulo": "A golpes y con proyectiles: la pelea entre hinchas chilenos y mexicanos tras amistoso que TV no mostró",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/a-golpes-y-con-proyectiles-la-pelea-entre-hinchas-chilenos-y-mexicanos-tras-amistoso-que-tv-no-mostro.shtml",
-      "fecha_publicacion": "2026-10-07 08:25"
-    },
-    {
       "titulo": "Vicente Pizarro: \"Nos dimos cuenta de que podemos competir\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vicente-pizarro-nos-dimos-cuenta-de-que-podemos-competir/2026-10-07/082128.html",
       "fecha_publicacion": "2026-10-07 082128"
-    },
-    {
-      "titulo": "Prensa mexicana destroza a su Selección y enrostra triunfo de \"una de las peores versiones\" de La Roja",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/prensa-mexicana-destroza-a-seleccion-y-enrostra-triunfo-de-una-de-las-peores-versiones-de-la-roja.shtml",
-      "fecha_publicacion": "2026-10-07 07:43"
     },
     {
       "titulo": "Vidal tras la victoria sobre México: Falta creer un poco más y darle más confianza a los que están",
@@ -108,12 +102,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fuera-de-santiago-la-u-confirmo-estadio-para-recibir-a-nublense-por-la/2026-10-06/201136.html",
       "fecha_publicacion": "2026-10-06 201136"
-    },
-    {
-      "titulo": "Antofagasta quiere aprovechar la localía ante la U en la ida de cuartos en Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/antofagasta-quiere-aprovechar-la-localia-ante-la-u-en-la-ida-de-cuartos/2026-10-06/194001.html",
-      "fecha_publicacion": "2026-10-06 194001"
     }
   ]
 }
