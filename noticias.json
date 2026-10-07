@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-07T18:30:29.770306+00:00",
+  "actualizado": "2026-10-07T19:00:36.918127+00:00",
   "noticias": [
+    {
+      "titulo": "ANFP castiga a casi 3.000 hinchas de Coquimbo Unido por incidentes donde fue herido Christian Bravo",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/07/castigan-a-mas-de-dos-mil-hinchas-coquimbo-unido-por-bombas-ruido-huachipato.shtml",
+      "fecha_publicacion": "2026-10-07 15:49"
+    },
+    {
+      "titulo": "Multa a UdeC y sanción a 5 mil hinchas de La U: Primera Sala entregó fallo por incidentes en Ester Roa",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/07/multa-a-udec-y-sancion-a-5-mil-hinchas-de-la-u-primera-sala-entrego-fallo-por-incidentes-en-ester-roa.shtml",
+      "fecha_publicacion": "2026-10-07 15:38"
+    },
+    {
+      "titulo": "La Roja perdió un casillero en la nueva actualización del Ranking FIFA",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-perdio-un-casillero-en-la-nueva-actualizacion-del-ranking-fifa/2026-10-07/153441.html",
+      "fecha_publicacion": "2026-10-07 153441"
+    },
     {
       "titulo": "\"Soy malo, culiao\": informe detalla insultos y agresión de Osvaldo González a árbitro en caída de UdeC",
       "fuente": "BioBioChile",
@@ -12,12 +30,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/tribunal-tomo-resolucion-contra-la-u-y-sanciono-a-5-001-hinchas/2026-10-07/141123.html",
       "fecha_publicacion": "2026-10-07 141123"
-    },
-    {
-      "titulo": "[VIDEO] \"Un crack\": Paulo Díaz sacó aplausos por arriesgada jugada en el duelo ante México",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/video-un-crack-paulo-diaz-saco-aplausos-por-arriesgada-jugada-en-el/2026-10-07/140110.html",
-      "fecha_publicacion": "2026-10-07 140110"
     },
     {
       "titulo": "Arturo Vidal analizó a La Roja y abordó amistosos ante Colombia: \"Es una selección en construcción\"",
@@ -98,12 +110,6 @@
       "fecha_publicacion": "2026-10-07 01:18"
     },
     {
-      "titulo": "Combinación letal y golazo de Gutiérrez: el tanto de Chile para aventajarse en amistoso ante México",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/amistoso-chile-mexico-gol-maxi-gutierrez.shtml",
-      "fecha_publicacion": "2026-10-07 01:05"
-    },
-    {
       "titulo": "¿Cuándo y dónde volverá a jugar La Roja adulta?",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-volvera-a-jugar-la-roja-adulta/2026-10-07/000207.html",
@@ -114,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fuera-de-santiago-la-u-confirmo-estadio-para-recibir-a-nublense-por-la/2026-10-06/201136.html",
       "fecha_publicacion": "2026-10-06 201136"
-    },
-    {
-      "titulo": "Antofagasta quiere aprovechar la localía ante la U en la ida de cuartos en Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/antofagasta-quiere-aprovechar-la-localia-ante-la-u-en-la-ida-de-cuartos/2026-10-06/194001.html",
-      "fecha_publicacion": "2026-10-06 194001"
     }
   ]
 }
