@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-07T21:00:32.714847+00:00",
+  "actualizado": "2026-10-07T21:30:27.659346+00:00",
   "noticias": [
+    {
+      "titulo": "Deportes Antofagasta recibe a U. de Chile por la ida de cuartos en la Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/deportes-antofagasta-recibe-a-u-de-chile-por-la-ida-de-cuartos-en-la/2026-10-07/182108.html",
+      "fecha_publicacion": "2026-10-07 182108"
+    },
+    {
+      "titulo": "Coquimbo Unido y Cobreloa chocan en la revancha de octavos en la Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-unido-y-cobreloa-chocan-en-la-revancha-de-octavos-en-la-copa-chile/2026-10-07/181659.html",
+      "fecha_publicacion": "2026-10-07 181659"
+    },
+    {
+      "titulo": "ANFP confirma día y horario para completar llave de Colo Colo y Puerto Montt por Copa Chile",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/07/copa-chile-anfp-confirma-dia-y-horario-para-retomar-colo-colo-puerto-montt.shtml",
+      "fecha_publicacion": "2026-10-07 18:00"
+    },
     {
       "titulo": "Pese a vencer a México: La Roja vuelve a caer en Ranking FIFA y es superada por Venezuela",
       "fuente": "BioBioChile",
@@ -72,12 +90,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/cordova-impulso-su-proyecto-y-se-desahogo-tras-duelo-con-mexico-pizarro-develo-impacto-por-polemica.shtml",
       "fecha_publicacion": "2026-10-07 11:08"
-    },
-    {
-      "titulo": "ANFP tendría fecha para reanudar Colo Colo-Puerto Montt de Copa Chile: duelo se suspendió por lluvias",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/07/anfp-tendria-fecha-para-reanudar-colo-colo-puerto-montt-de-copa-chile-duelo-se-suspendio-por-lluvias.shtml",
-      "fecha_publicacion": "2026-10-07 08:55"
     },
     {
       "titulo": "Vicente Pizarro: \"Nos dimos cuenta de que podemos competir\"",
