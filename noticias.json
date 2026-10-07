@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-10-07T11:30:30.475803+00:00",
+  "actualizado": "2026-10-07T12:00:34.602426+00:00",
   "noticias": [
+    {
+      "titulo": "ANFP tendría fecha para reanudar Colo Colo-Puerto Montt de Copa Chile: duelo se suspendió por lluvias",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/07/anfp-tendria-fecha-para-reanudar-colo-colo-puerto-montt-de-copa-chile-duelo-se-suspendio-por-lluvias.shtml",
+      "fecha_publicacion": "2026-10-07 08:55"
+    },
     {
       "titulo": "A golpes y con proyectiles: la pelea entre hinchas chilenos y mexicanos tras amistoso que TV no mostró",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/a-golpes-y-con-proyectiles-la-pelea-entre-hinchas-chilenos-y-mexicanos-tras-amistoso-que-tv-no-mostro.shtml",
       "fecha_publicacion": "2026-10-07 08:25"
+    },
+    {
+      "titulo": "Vicente Pizarro: \"Nos dimos cuenta de que podemos competir\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vicente-pizarro-nos-dimos-cuenta-de-que-podemos-competir/2026-10-07/082128.html",
+      "fecha_publicacion": "2026-10-07 082128"
     },
     {
       "titulo": "Prensa mexicana destroza a su Selección y enrostra triunfo de \"una de las peores versiones\" de La Roja",
@@ -86,6 +98,12 @@
       "fecha_publicacion": "2026-10-06 21:43"
     },
     {
+      "titulo": "La Roja anunció su nómina para el Mundial femenino sub 17",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-anuncio-su-nomina-para-el-mundial-femenino-sub-17/2026-10-06/212601.html",
+      "fecha_publicacion": "2026-10-06 212601"
+    },
+    {
       "titulo": "Aníbal Mosa pide a la ANFP \"escuchar a la calle\" y jugársela por Marcelo Bielsa: \"Chile lo necesita\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/06/anibal-mosa-se-la-juega-por-marcelo-bielsa-a-la-roja.shtml",
@@ -102,18 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/antofagasta-quiere-aprovechar-la-localia-ante-la-u-en-la-ida-de-cuartos/2026-10-06/194001.html",
       "fecha_publicacion": "2026-10-06 194001"
-    },
-    {
-      "titulo": "Aníbal Mosa y La Roja: \"Yo iría a buscar a Marcelo Bielsa\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/anibal-mosa-y-la-roja-yo-iria-a-buscar-a-marcelo-bielsa/2026-10-06/193509.html",
-      "fecha_publicacion": "2026-10-06 193509"
-    },
-    {
-      "titulo": "Sólo por HBO Max: ¿Cuándo ver el duelo entre Antofagasta y la U en la Copa Chile?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/solo-por-hbo-max-cuando-ver-el-duelo-entre-antofagasta-y-la-u-en-la/2026-10-05/182249.html",
-      "fecha_publicacion": "2026-10-05 182249"
     }
   ]
 }
