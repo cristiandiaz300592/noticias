@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-07T05:00:33.765812+00:00",
+  "actualizado": "2026-10-07T05:30:27.551259+00:00",
   "noticias": [
+    {
+      "titulo": "\"Las métricas estarán crujientes\": Los memes por la victoria de La Roja sobre México",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/las-metricas-estaran-crujientes-los-memes-por-la-victoria-de-la-roja/2026-10-07/021011.html",
+      "fecha_publicacion": "2026-10-07 021011"
+    },
+    {
+      "titulo": "Vidal tras la victoria sobre México: Falta creer un poco más y darle más confianza a los que están",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-tras-la-victoria-sobre-mexico-falta-creer-un-poco-mas-y-darle-mas/2026-10-07/015239.html",
+      "fecha_publicacion": "2026-10-07 015239"
+    },
     {
       "titulo": "La Roja volvió a abrazarse: Chile mostró una sólida imagen y venció a México en amistoso",
       "fuente": "BioBioChile",
@@ -32,10 +44,10 @@
       "fecha_publicacion": "2026-10-07 01:05"
     },
     {
-      "titulo": "[VIDEO] Gutiérrez definió tras asistencia de Tapia y anotó para La Roja ante México",
+      "titulo": "¿Cuándo y dónde volverá a jugar La Roja adulta?",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/video-gutierrez-definio-tras-asistencia-de-tapia-y-anoto-para-la-roja/2026-10-07/010401.html",
-      "fecha_publicacion": "2026-10-07 010401"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-volvera-a-jugar-la-roja-adulta/2026-10-07/000207.html",
+      "fecha_publicacion": "2026-10-07 000207"
     },
     {
       "titulo": "Jorge Yunge oficializa su lista para elecciones de ANFP y dos candidatos se bajan ’sobre la hora’",
@@ -84,6 +96,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fuera-de-santiago-la-u-confirmo-estadio-para-recibir-a-nublense-por-la/2026-10-06/201136.html",
       "fecha_publicacion": "2026-10-06 201136"
+    },
+    {
+      "titulo": "Antofagasta quiere aprovechar la localía ante la U en la ida de cuartos en Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/antofagasta-quiere-aprovechar-la-localia-ante-la-u-en-la-ida-de-cuartos/2026-10-06/194001.html",
+      "fecha_publicacion": "2026-10-06 194001"
     },
     {
       "titulo": "Aníbal Mosa y La Roja: \"Yo iría a buscar a Marcelo Bielsa\"",
