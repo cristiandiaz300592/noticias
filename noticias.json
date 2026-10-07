@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-07T16:40:02.236322+00:00",
+  "actualizado": "2026-10-07T17:30:29.917088+00:00",
   "noticias": [
+    {
+      "titulo": "Tribunal tomó resolución contra la U y sancionó a 5.001 hinchas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/tribunal-tomo-resolucion-contra-la-u-y-sanciono-a-5-001-hinchas/2026-10-07/141123.html",
+      "fecha_publicacion": "2026-10-07 141123"
+    },
+    {
+      "titulo": "[VIDEO] \"Un crack\": Paulo Díaz sacó aplausos por arriesgada jugada en el duelo ante México",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/video-un-crack-paulo-diaz-saco-aplausos-por-arriesgada-jugada-en-el/2026-10-07/140110.html",
+      "fecha_publicacion": "2026-10-07 140110"
+    },
     {
       "titulo": "Arturo Vidal analizó a La Roja y abordó amistosos ante Colombia: \"Es una selección en construcción\"",
       "fuente": "BioBioChile",
@@ -8,22 +20,10 @@
       "fecha_publicacion": "2026-10-07 13:34"
     },
     {
-      "titulo": "[VIDEO] Gabriel Suazo recibió un duro puñetazo en el rostro que solo terminó en amarilla",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/video-gabriel-suazo-recibio-un-duro-punetazo-en-el-rostro-que-solo/2026-10-07/125334.html",
-      "fecha_publicacion": "2026-10-07 125334"
-    },
-    {
       "titulo": "Arturo Vidal en modo ’gurú’: volante predijo fórmula de gol de La Roja y sacó pizarra en stream",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/arturo-vidal-en-modo-guru-volante-predijo-formula-de-gol-de-la-roja-saco-pizarra-y-deslizo-critica.shtml",
       "fecha_publicacion": "2026-10-07 12:51"
-    },
-    {
-      "titulo": "Alerta en la U y Everton: Tribunal dejó \"en acuerdo\" causas por incidentes en Sausalito",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/alerta-en-la-u-y-everton-tribunal-dejo-en-acuerdo-causas-por/2026-10-07/123453.html",
-      "fecha_publicacion": "2026-10-07 123453"
     },
     {
       "titulo": "Deportes Antofagasta vs U de Chile por cuartos de ida de Copa Chile: a qué hora juegan y dónde verlo",
