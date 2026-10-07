@@ -1,8 +1,14 @@
 {
-  "actualizado": "2026-10-07T10:00:34.994534+00:00",
+  "actualizado": "2026-10-07T10:30:30.490219+00:00",
   "noticias": [
     {
-      "titulo": "Nicolás Córdova elogió a Diego Ulloa y aseguró que los jugadores fueron lo más afectados por la situación con Marcelino Núñez",
+      "titulo": "Nicolás Córdova valoró el triunfo ante México: \"Competimos los 90 minutos\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nicolas-cordova-valoro-el-triunfo-ante-mexico-competimos-los-90/2026-10-07/071733.html",
+      "fecha_publicacion": "2026-10-07 071733"
+    },
+    {
+      "titulo": "Córdova elogió a Ulloa y aseguró que los jugadores fueron lo más afectados por la situación con Marcelino Núñez",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/07/1213455/nicolas-cordova-chile-diego-ulloa.html",
       "fecha_publicacion": "2026-10-07 02:14"
@@ -38,12 +44,6 @@
       "fecha_publicacion": "2026-10-07 01:18"
     },
     {
-      "titulo": "[VIDEO] Vicente Pizarro combinó con Darío Osorio y anotó un golazo ante México",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/video-vicente-pizarro-combino-con-dario-osorio-y-anoto-un-golazo-ante/2026-10-07/011341.html",
-      "fecha_publicacion": "2026-10-07 011341"
-    },
-    {
       "titulo": "Combinación letal y golazo de Gutiérrez: el tanto de Chile para aventajarse en amistoso ante México",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/amistoso-chile-mexico-gol-maxi-gutierrez.shtml",
@@ -62,18 +62,6 @@
       "fecha_publicacion": "2026-10-06 22:10"
     },
     {
-      "titulo": "Arbitro y el Colo Colo vs. Puerto Montt: Suspendimos para resguardar la integridad de los jugadores",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/arbitro-y-el-colo-colo-vs-puerto-montt-suspendimos-para-resguardar-la/2026-10-06/220605.html",
-      "fecha_publicacion": "2026-10-06 220605"
-    },
-    {
-      "titulo": "Colo Colo le ganaba a Puerto Montt por la Copa Chile, pero el partido se suspendió por el mal estado de la cancha del Monumental",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/06/1213441/colocolo-puertomontt-cancha-monumental.html",
-      "fecha_publicacion": "2026-10-06 21:56"
-    },
-    {
       "titulo": "La lluvia obligó a suspender la revancha copera entre Colo Colo y Puerto Montt",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-lluvia-obligo-a-suspender-la-revancha-copera-entre-colo-colo-y-puerto/2026-10-06/214323.html",
@@ -84,12 +72,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/06/suspenden-segundo-tiempo-de-colo-colo-puerto-montt-por-copa-chile-lluvia-inundo-cancha-del-monumental.shtml",
       "fecha_publicacion": "2026-10-06 21:43"
-    },
-    {
-      "titulo": "La Roja anunció su nómina para el Mundial femenino sub 17",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-anuncio-su-nomina-para-el-mundial-femenino-sub-17/2026-10-06/212601.html",
-      "fecha_publicacion": "2026-10-06 212601"
     },
     {
       "titulo": "Aníbal Mosa pide a la ANFP \"escuchar a la calle\" y jugársela por Marcelo Bielsa: \"Chile lo necesita\"",
@@ -108,12 +90,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/antofagasta-quiere-aprovechar-la-localia-ante-la-u-en-la-ida-de-cuartos/2026-10-06/194001.html",
       "fecha_publicacion": "2026-10-06 194001"
-    },
-    {
-      "titulo": "Aníbal Mosa y La Roja: \"Yo iría a buscar a Marcelo Bielsa\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/anibal-mosa-y-la-roja-yo-iria-a-buscar-a-marcelo-bielsa/2026-10-06/193509.html",
-      "fecha_publicacion": "2026-10-06 193509"
     },
     {
       "titulo": "Sólo por HBO Max: ¿Cuándo ver el duelo entre Antofagasta y la U en la Copa Chile?",
