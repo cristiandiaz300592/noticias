@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-07T04:30:30.512385+00:00",
+  "actualizado": "2026-10-07T05:00:33.765812+00:00",
   "noticias": [
+    {
+      "titulo": "La Roja volvió a abrazarse: Chile mostró una sólida imagen y venció a México en amistoso",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/la-roja-volvio-a-abrazarse-chile-vencio-a-mexico-amistoso.shtml",
+      "fecha_publicacion": "2026-10-07 01:39"
+    },
+    {
+      "titulo": "La Roja se desahogó con un triunfo sobre México en el fin de su gira por Norteamérica",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-se-desahogo-con-un-triunfo-sobre-mexico-en-el-fin-de-su-gira-por/2026-10-07/013725.html",
+      "fecha_publicacion": "2026-10-07 013725"
+    },
     {
       "titulo": "Asistencia de Osorio y Pizarro definió como ’9’: el gol con que Chile aumentó ante México en amistoso",
       "fuente": "BioBioChile",
@@ -24,12 +36,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/video-gutierrez-definio-tras-asistencia-de-tapia-y-anoto-para-la-roja/2026-10-07/010401.html",
       "fecha_publicacion": "2026-10-07 010401"
-    },
-    {
-      "titulo": "Vidal criticó el planteamiento de La Roja ante México en la primera parte: Hay que ser más agresivo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-critico-el-planteamiento-de-la-roja-ante-mexico-en-la-primera/2026-10-07/005003.html",
-      "fecha_publicacion": "2026-10-07 005003"
     },
     {
       "titulo": "Jorge Yunge oficializa su lista para elecciones de ANFP y dos candidatos se bajan ’sobre la hora’",
@@ -84,24 +90,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/anibal-mosa-y-la-roja-yo-iria-a-buscar-a-marcelo-bielsa/2026-10-06/193509.html",
       "fecha_publicacion": "2026-10-06 193509"
-    },
-    {
-      "titulo": "[Radio en vivo🎙] La Roja vence a México en su último amistoso por Norteamérica",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/radio-en-vivo-la-roja-vence-a-mexico-en-su-ultimo-amistoso-por/2026-10-06/125811.html",
-      "fecha_publicacion": "2026-10-06 125811"
-    },
-    {
-      "titulo": "Filtran que la U alista un remake de la camiseta de la Copa Sudamericana 2011",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/filtran-que-la-u-alista-un-remake-de-la-camiseta-de-la-copa-sudamericana/2026-10-06/114518.html",
-      "fecha_publicacion": "2026-10-06 114518"
-    },
-    {
-      "titulo": "Claudio Bravo se la jugó por Pellegrini para la Roja: \"Necesitamos de su prestigio\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/claudio-bravo-se-la-jugo-por-pellegrini-para-la-roja-necesitamos-de-su/2026-10-06/094752.html",
-      "fecha_publicacion": "2026-10-06 094752"
     },
     {
       "titulo": "Sólo por HBO Max: ¿Cuándo ver el duelo entre Antofagasta y la U en la Copa Chile?",
