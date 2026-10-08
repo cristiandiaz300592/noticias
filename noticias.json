@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T15:30:30.501685+00:00",
+  "actualizado": "2026-10-08T16:00:29.251719+00:00",
   "noticias": [
     {
       "titulo": "[VIDEO] Palestino realizó minuto de silencio en honor a las víctimas de Gaza a tres años del inicio de la guerra",
@@ -32,12 +32,6 @@
       "fecha_publicacion": "2026-10-08 10:22"
     },
     {
-      "titulo": "DT de Antofagasta tras triunfo ante la U: \"Es un premio para los muchachos\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/dt-de-antofagasta-tras-triunfo-ante-la-u-es-un-premio-para-los-muchachos/2026-10-08/100205.html",
-      "fecha_publicacion": "2026-10-08 100205"
-    },
-    {
       "titulo": "Claudio Bravo evaluó el desempeño de Vigoroux en gira por Norteamérica: \"Se ganó una camiseta\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/08/claudio-bravo-evaluo-el-desempeno-de-vigoroux-en-gira-por-norteamerica-se-gano-una-camiseta.shtml",
@@ -50,12 +44,6 @@
       "fecha_publicacion": "2026-10-08 093710"
     },
     {
-      "titulo": "La fuerte autocrítica de Gago, el lamento de Marcelo Díaz: Las frases que dejó caída de la U por Copa Chile ante Antofagasta",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/07/1213567/gago-diaz-udechile-copachile-antofagasta.html",
-      "fecha_publicacion": "2026-10-07 23:09"
-    },
-    {
       "titulo": "Bravo elogió a Vigouroux: Sus presentaciones fueron espléndidas",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/bravo-elogio-a-vigouroux-sus-presentaciones-fueron-esplendidas/2026-10-07/230023.html",
@@ -66,12 +54,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-tras-la-caida-contra-antofagasta-en-copa-chile-todavia-no-esta/2026-10-07/220635.html",
       "fecha_publicacion": "2026-10-07 220635"
-    },
-    {
-      "titulo": "Marcelo Díaz lamentó la caída con Antofagasta: Hicimos un mal partido",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/marcelo-diaz-lamento-la-caida-con-antofagasta-hicimos-un-mal-partido/2026-10-07/212006.html",
-      "fecha_publicacion": "2026-10-07 212006"
     },
     {
       "titulo": "Coquimbo eliminó a Cobreloa y es el último clasificado a cuartos de final de Copa Chile",
@@ -98,18 +80,6 @@
       "fecha_publicacion": "2026-10-07 21:00"
     },
     {
-      "titulo": "Coquimbo Unido remontó ante Cobreloa y se quedó con el último cupo a cuartos en Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-unido-remonto-ante-cobreloa-y-se-quedo-con-el-ultimo-cupo-a/2026-10-07/204833.html",
-      "fecha_publicacion": "2026-10-07 204833"
-    },
-    {
-      "titulo": "Colo Colo y Puerto Montt tienen fecha para reanudar su partido de Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-y-puerto-montt-tienen-fecha-para-reanudar-su-partido-de-copa/2026-10-07/183216.html",
-      "fecha_publicacion": "2026-10-07 183216"
-    },
-    {
       "titulo": "ANFP confirma día y horario para completar llave de Colo Colo y Puerto Montt por Copa Chile",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/07/copa-chile-anfp-confirma-dia-y-horario-para-retomar-colo-colo-puerto-montt.shtml",
@@ -120,6 +90,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/pese-a-vencer-a-mexico-la-roja-vuelve-a-caer-en-ranking-fifa-y-es-superada-por-venezuela.shtml",
       "fecha_publicacion": "2026-10-07 17:32"
+    },
+    {
+      "titulo": "Fuera de Santiago: La U confirmó estadio para recibir a Ñublense por la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fuera-de-santiago-la-u-confirmo-estadio-para-recibir-a-nublense-por-la/2026-10-06/201136.html",
+      "fecha_publicacion": "2026-10-06 201136"
     }
   ]
 }
