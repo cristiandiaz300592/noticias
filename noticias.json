@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-08T01:00:45.712835+00:00",
+  "actualizado": "2026-10-08T01:30:32.943727+00:00",
   "noticias": [
+    {
+      "titulo": "Gago tras la caída contra Antofagasta en Copa Chile: \"Todavía no está cerrada la serie\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-tras-la-caida-contra-antofagasta-en-copa-chile-todavia-no-esta/2026-10-07/220635.html",
+      "fecha_publicacion": "2026-10-07 220635"
+    },
     {
       "titulo": "Las llaves de cuartos de final de la Copa Chile",
       "fuente": "Cooperativa",
@@ -56,18 +62,6 @@
       "fecha_publicacion": "2026-10-07 183216"
     },
     {
-      "titulo": "[Radio en vivo🎙] Antofagasta venció a la U por la ida de cuartos en la Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/radio-en-vivo-antofagasta-vencio-a-la-u-por-la-ida-de-cuartos-en-la/2026-10-07/182108.html",
-      "fecha_publicacion": "2026-10-07 182108"
-    },
-    {
-      "titulo": "Coquimbo Unido venció a Cobreloa en la revancha de octavos en la Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-unido-vencio-a-cobreloa-en-la-revancha-de-octavos-en-la-copa/2026-10-07/181659.html",
-      "fecha_publicacion": "2026-10-07 181659"
-    },
-    {
       "titulo": "ANFP confirma día y horario para completar llave de Colo Colo y Puerto Montt por Copa Chile",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/07/copa-chile-anfp-confirma-dia-y-horario-para-retomar-colo-colo-puerto-montt.shtml",
@@ -116,10 +110,16 @@
       "fecha_publicacion": "2026-10-07 141123"
     },
     {
-      "titulo": "Arturo Vidal analizó a La Roja y abordó amistosos ante Colombia: \"Es una selección en construcción\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/arturo-vidal-analizo-a-la-roja-y-abordo-amistosos-ante-colombia-es-una-seleccion-en-construccion.shtml",
-      "fecha_publicacion": "2026-10-07 13:34"
+      "titulo": "Vicente Pizarro: \"Nos dimos cuenta de que podemos competir\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vicente-pizarro-nos-dimos-cuenta-de-que-podemos-competir/2026-10-07/082128.html",
+      "fecha_publicacion": "2026-10-07 082128"
+    },
+    {
+      "titulo": "Nicolás Córdova valoró el triunfo ante México: \"Competimos los 90 minutos\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nicolas-cordova-valoro-el-triunfo-ante-mexico-competimos-los-90/2026-10-07/071733.html",
+      "fecha_publicacion": "2026-10-07 071733"
     }
   ]
 }
