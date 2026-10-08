@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-08T18:30:30.334183+00:00",
+  "actualizado": "2026-10-08T19:00:29.120371+00:00",
   "noticias": [
+    {
+      "titulo": "¿Gustavo Quinteros toma fuerza como posible técnico de la Roja?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/gustavo-quinteros-toma-fuerza-como-posible-tecnico-de-la-roja/2026-10-08/151147.html",
+      "fecha_publicacion": "2026-10-08 151147"
+    },
+    {
+      "titulo": "Julio Rodríguez: Los dos primeros arqueros de Colo Colo deben ser De Paul y Vozinha",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/julio-rodriguez-los-dos-primeros-arqueros-de-colo-colo-deben-ser-de/2026-10-08/150351.html",
+      "fecha_publicacion": "2026-10-08 150351"
+    },
     {
       "titulo": "Leandro Fernández recordó su paso por la U: Fueron tres años hermosos de principio a fin",
       "fuente": "Cooperativa",
@@ -48,12 +60,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/07/copa-chile-coquimbo-elimino-a-cobreloa-y-se-metio-a-cuartos-de-final.shtml",
       "fecha_publicacion": "2026-10-07 21:11"
-    },
-    {
-      "titulo": "Antofagasta golpeó a la U y tomó ventaja en cuartos de final de la Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/antofagasta-golpeo-a-la-u-y-tomo-ventaja-en-cuartos-de-final-de-la-copa/2026-10-07/210259.html",
-      "fecha_publicacion": "2026-10-07 210259"
     },
     {
       "titulo": "Santiago United Academy: más de 100 jóvenes coparon pruebas de academia que gana terreno en Chile",
