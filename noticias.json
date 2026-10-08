@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T12:00:33.464776+00:00",
+  "actualizado": "2026-10-08T12:30:28.692833+00:00",
   "noticias": [
     {
       "titulo": "La fuerte autocrítica de Fernando Gago, el lamento de Marcelo Díaz: Las frases que dejó caída de la U por Copa Chile ante Antofagasta",
@@ -92,18 +92,6 @@
       "fecha_publicacion": "2026-10-07 15:49"
     },
     {
-      "titulo": "Multa a UdeC y sanción a 5 mil hinchas de La U: Primera Sala entregó fallo por incidentes en Ester Roa",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/07/multa-a-udec-y-sancion-a-5-mil-hinchas-de-la-u-primera-sala-entrego-fallo-por-incidentes-en-ester-roa.shtml",
-      "fecha_publicacion": "2026-10-07 15:38"
-    },
-    {
-      "titulo": "La Roja perdió un casillero en la nueva actualización del Ranking FIFA",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-perdio-un-casillero-en-la-nueva-actualizacion-del-ranking-fifa/2026-10-07/153441.html",
-      "fecha_publicacion": "2026-10-07 153441"
-    },
-    {
       "titulo": "Vicente Pizarro: \"Nos dimos cuenta de que podemos competir\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vicente-pizarro-nos-dimos-cuenta-de-que-podemos-competir/2026-10-07/082128.html",
@@ -120,6 +108,12 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/07/1213565/cuadro-copa-chile-cruce-cuartos.html",
       "fecha_publicacion": "2026-10-07 07:03"
+    },
+    {
+      "titulo": "Fuera de Santiago: La U confirmó estadio para recibir a Ñublense por la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fuera-de-santiago-la-u-confirmo-estadio-para-recibir-a-nublense-por-la/2026-10-06/201136.html",
+      "fecha_publicacion": "2026-10-06 201136"
     }
   ]
 }
