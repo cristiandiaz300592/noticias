@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-08T13:00:34.714301+00:00",
+  "actualizado": "2026-10-08T13:30:31.113653+00:00",
   "noticias": [
+    {
+      "titulo": "DT de Antofagasta tras triunfo ante la U: \"Es un premio para los muchachos\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/dt-de-antofagasta-tras-triunfo-ante-la-u-es-un-premio-para-los-muchachos/2026-10-08/100205.html",
+      "fecha_publicacion": "2026-10-08 100205"
+    },
     {
       "titulo": "Claudio Bravo evaluó el desempeño de Vigoroux en gira por Norteamérica: \"Se ganó una camiseta\"",
       "fuente": "BioBioChile",
@@ -114,12 +120,6 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/07/1213565/cuadro-copa-chile-cruce-cuartos.html",
       "fecha_publicacion": "2026-10-07 07:03"
-    },
-    {
-      "titulo": "Fuera de Santiago: La U confirmó estadio para recibir a Ñublense por la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fuera-de-santiago-la-u-confirmo-estadio-para-recibir-a-nublense-por-la/2026-10-06/201136.html",
-      "fecha_publicacion": "2026-10-06 201136"
     }
   ]
 }
