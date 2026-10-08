@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-08T00:30:25.752427+00:00",
+  "actualizado": "2026-10-08T01:00:45.712835+00:00",
   "noticias": [
+    {
+      "titulo": "Las llaves de cuartos de final de la Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/las-llaves-de-cuartos-de-final-de-la-copa-chile/2026-10-07/214931.html",
+      "fecha_publicacion": "2026-10-07 214931"
+    },
     {
       "titulo": "La U perdió con Antofagasta y se complicó en los cuartos de final de la Copa Chile",
       "fuente": "Emol",
@@ -42,12 +48,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-unido-remonto-ante-cobreloa-y-se-quedo-con-el-ultimo-cupo-a/2026-10-07/204833.html",
       "fecha_publicacion": "2026-10-07 204833"
-    },
-    {
-      "titulo": "[VIDEO] Antofagasta remeció a la U en Copa Chile con goles de Bastián Tapia y José Bandez",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/video-antofagasta-remecio-a-la-u-en-copa-chile-con-goles-de-bastian/2026-10-07/201932.html",
-      "fecha_publicacion": "2026-10-07 201932"
     },
     {
       "titulo": "Colo Colo y Puerto Montt tienen fecha para reanudar su partido de Copa Chile",
