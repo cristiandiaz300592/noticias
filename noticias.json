@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-08T15:00:29.622487+00:00",
+  "actualizado": "2026-10-08T15:30:30.501685+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEO] Palestino realizó minuto de silencio en honor a las víctimas de Gaza a tres años del inicio de la guerra",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/video-palestino-realizo-minuto-de-silencio-en-honor-a-las-victimas-de/2026-10-08/122112.html",
+      "fecha_publicacion": "2026-10-08 122112"
+    },
+    {
+      "titulo": "Agustín Farías apuntó al calendario de la UC: \"Se hace largo jugar dos partidos al mes\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/agustin-farias-apunto-al-calendario-de-la-uc-se-hace-largo-jugar-dos/2026-10-08/115750.html",
+      "fecha_publicacion": "2026-10-08 115750"
+    },
     {
       "titulo": "Padre de Vigouroux: \"A Córdova nadie lo quiere, pero estoy agradecido por darle una oportunidad a mi hijo\"",
       "fuente": "Cooperativa",
@@ -108,18 +120,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/pese-a-vencer-a-mexico-la-roja-vuelve-a-caer-en-ranking-fifa-y-es-superada-por-venezuela.shtml",
       "fecha_publicacion": "2026-10-07 17:32"
-    },
-    {
-      "titulo": "Videos muestran cómo jugadores de La Roja intervinieron por pelea de hinchas con mexicanos en amistoso",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/videos-muestran-a-jugadores-de-la-roja-interviniendo-pelea-hinchas-mexico-chile.shtml",
-      "fecha_publicacion": "2026-10-07 17:16"
-    },
-    {
-      "titulo": "Nicolás Córdova valoró el triunfo ante México: \"Competimos los 90 minutos\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nicolas-cordova-valoro-el-triunfo-ante-mexico-competimos-los-90/2026-10-07/071733.html",
-      "fecha_publicacion": "2026-10-07 071733"
     }
   ]
 }
