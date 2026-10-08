@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T10:00:36.802958+00:00",
+  "actualizado": "2026-10-08T10:30:31.155206+00:00",
   "noticias": [
     {
       "titulo": "La fuerte autocrítica de Fernando Gago, el lamento de Marcelo Díaz: Las frases que dejó caída de la U por Copa Chile ante Antofagasta",
@@ -20,22 +20,10 @@
       "fecha_publicacion": "2026-10-07 220635"
     },
     {
-      "titulo": "Coquimbo Unido eliminó a Cobreloa: Cómo va el cuadro de la Copa Chile",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/07/1213565/cuadro-copa-chile-cruce-cuartos.html",
-      "fecha_publicacion": "2026-10-07 21:56"
-    },
-    {
       "titulo": "Las llaves de cuartos de final de la Copa Chile",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/las-llaves-de-cuartos-de-final-de-la-copa-chile/2026-10-07/214931.html",
       "fecha_publicacion": "2026-10-07 214931"
-    },
-    {
-      "titulo": "La U perdió con Antofagasta y se complicó en los cuartos de final de la Copa Chile",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/07/1213563/antofagasta-udechile-cuartos-copa-chile.html",
-      "fecha_publicacion": "2026-10-07 21:21"
     },
     {
       "titulo": "Marcelo Díaz lamentó la caída con Antofagasta: Hicimos un mal partido",
@@ -120,6 +108,18 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/07/informe-detalla-insultos-y-agresion-osvaldo-gonzalez-a-arbitro-udec-huachipato.shtml",
       "fecha_publicacion": "2026-10-07 14:52"
+    },
+    {
+      "titulo": "Tribunal tomó resolución contra la U y sancionó a 5.001 hinchas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/tribunal-tomo-resolucion-contra-la-u-y-sanciono-a-5-001-hinchas/2026-10-07/141123.html",
+      "fecha_publicacion": "2026-10-07 141123"
+    },
+    {
+      "titulo": "Vicente Pizarro: \"Nos dimos cuenta de que podemos competir\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vicente-pizarro-nos-dimos-cuenta-de-que-podemos-competir/2026-10-07/082128.html",
+      "fecha_publicacion": "2026-10-07 082128"
     }
   ]
 }
