@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-10-08T00:00:35.293942+00:00",
+  "actualizado": "2026-10-08T00:30:25.752427+00:00",
   "noticias": [
+    {
+      "titulo": "La U perdió con Antofagasta y se complicó en los cuartos de final de la Copa Chile",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/07/1213563/antofagasta-udechile-cuartos-copa-chile.html",
+      "fecha_publicacion": "2026-10-07 21:21"
+    },
+    {
+      "titulo": "Marcelo Díaz lamentó la caída con Antofagasta: Hicimos un mal partido",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/marcelo-diaz-lamento-la-caida-con-antofagasta-hicimos-un-mal-partido/2026-10-07/212006.html",
+      "fecha_publicacion": "2026-10-07 212006"
+    },
+    {
+      "titulo": "Coquimbo eliminó a Cobreloa y es el último clasificado a cuartos de final de Copa Chile",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/07/copa-chile-coquimbo-elimino-a-cobreloa-y-se-metio-a-cuartos-de-final.shtml",
+      "fecha_publicacion": "2026-10-07 21:11"
+    },
+    {
+      "titulo": "Antofagasta golpeó a la U y tomó ventaja en cuartos de final de la Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/antofagasta-golpeo-a-la-u-y-tomo-ventaja-en-cuartos-de-final-de-la-copa/2026-10-07/210259.html",
+      "fecha_publicacion": "2026-10-07 210259"
+    },
+    {
+      "titulo": "Santiago United Academy: más de 100 jóvenes coparon pruebas de academia que gana terreno en Chile",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/07/santiago-united-academy-mas-de-100-participantes-en-pruebas-de-academia-que-gana-terreno-en-chile.shtml",
+      "fecha_publicacion": "2026-10-07 21:00"
+    },
+    {
+      "titulo": "Zarpazo de realidad a La U: Antofagasta dio el golpe y venció a los azules por Copa Chile",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/07/copa-chile-antofagasta-la-u-cuartos-de-final-ida.shtml",
+      "fecha_publicacion": "2026-10-07 21:00"
+    },
+    {
+      "titulo": "Coquimbo Unido remontó ante Cobreloa y se quedó con el último cupo a cuartos en Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-unido-remonto-ante-cobreloa-y-se-quedo-con-el-ultimo-cupo-a/2026-10-07/204833.html",
+      "fecha_publicacion": "2026-10-07 204833"
+    },
     {
       "titulo": "[VIDEO] Antofagasta remeció a la U en Copa Chile con goles de Bastián Tapia y José Bandez",
       "fuente": "Cooperativa",
@@ -20,9 +62,9 @@
       "fecha_publicacion": "2026-10-07 182108"
     },
     {
-      "titulo": "Coquimbo Unido vence a Cobreloa en la revancha de octavos en la Copa Chile",
+      "titulo": "Coquimbo Unido venció a Cobreloa en la revancha de octavos en la Copa Chile",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-unido-vence-a-cobreloa-en-la-revancha-de-octavos-en-la-copa-chile/2026-10-07/181659.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-unido-vencio-a-cobreloa-en-la-revancha-de-octavos-en-la-copa/2026-10-07/181659.html",
       "fecha_publicacion": "2026-10-07 181659"
     },
     {
@@ -78,36 +120,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/arturo-vidal-analizo-a-la-roja-y-abordo-amistosos-ante-colombia-es-una-seleccion-en-construccion.shtml",
       "fecha_publicacion": "2026-10-07 13:34"
-    },
-    {
-      "titulo": "Arturo Vidal en modo ’gurú’: volante predijo fórmula de gol de La Roja y sacó pizarra en stream",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/07/arturo-vidal-en-modo-guru-volante-predijo-formula-de-gol-de-la-roja-saco-pizarra-y-deslizo-critica.shtml",
-      "fecha_publicacion": "2026-10-07 12:51"
-    },
-    {
-      "titulo": "Alerta en la U y Everton: Tribunal dejó \"en acuerdo\" causas por incidentes en Sausalito",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/alerta-en-la-u-y-everton-tribunal-dejo-en-acuerdo-causas-por/2026-10-07/123453.html",
-      "fecha_publicacion": "2026-10-07 123453"
-    },
-    {
-      "titulo": "Vicente Pizarro: \"Nos dimos cuenta de que podemos competir\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vicente-pizarro-nos-dimos-cuenta-de-que-podemos-competir/2026-10-07/082128.html",
-      "fecha_publicacion": "2026-10-07 082128"
-    },
-    {
-      "titulo": "La Roja se desahogó con un triunfo sobre México en el fin de su gira por Norteamérica",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-se-desahogo-con-un-triunfo-sobre-mexico-en-el-fin-de-su-gira-por/2026-10-07/013725.html",
-      "fecha_publicacion": "2026-10-07 013725"
-    },
-    {
-      "titulo": "Fuera de Santiago: La U confirmó estadio para recibir a Ñublense por la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fuera-de-santiago-la-u-confirmo-estadio-para-recibir-a-nublense-por-la/2026-10-06/201136.html",
-      "fecha_publicacion": "2026-10-06 201136"
     }
   ]
 }
