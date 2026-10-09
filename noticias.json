@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-09T17:30:30.769255+00:00",
+  "actualizado": "2026-10-09T18:00:37.120243+00:00",
   "noticias": [
+    {
+      "titulo": "’Nano’ Díaz golpea la mesa en Concepción tras destaparse reunión de directiva lila con Meneghini",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/09/fernando-diaz-golpea-la-mesa-deportes-concepcion-tras-destaparse-reunion-dirigentes-meneghini.shtml",
+      "fecha_publicacion": "2026-10-09 14:43"
+    },
+    {
+      "titulo": "\"Si opinamos, somos castigados\": El dardo de Fernando Ortiz en la previa del duelo de Colo Colo con Coquimbo Unido",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/09/1213761/fernando-ortiz-colocolo-coquimbo-unido.html",
+      "fecha_publicacion": "2026-10-09 14:21"
+    },
     {
       "titulo": "Candidato a presidencia de ANFP pierde un voto: San Luis le ’hizo la cruz’ y apuntó contra dirigente",
       "fuente": "BioBioChile",
@@ -44,12 +56,6 @@
       "fecha_publicacion": "2026-10-09 12:05"
     },
     {
-      "titulo": "Vozinha volverá a ser suplente en Colo Colo y Gabriel Maureira recuperará la titularidad",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-volvera-a-ser-suplente-en-colo-colo-y-gabriel-maureira/2026-10-09/115534.html",
-      "fecha_publicacion": "2026-10-09 115534"
-    },
-    {
       "titulo": "Suspendido U. Católica vs. Audax por el grave aluvión en San Carlos de Apoquindo",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/suspendido-u-catolica-vs-audax-por-el-grave-aluvion-en-san-carlos-de/2026-10-09/103029.html",
@@ -78,12 +84,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-unido-y-la-calera-ya-tienen-programacion-para-su-llave-de-copa/2026-10-09/092609.html",
       "fecha_publicacion": "2026-10-09 092609"
-    },
-    {
-      "titulo": "\"Si no sigue, lo más probable\": Lanzan una \"bomba\" en medio de las dudas por el futuro de Vidal en Colo Colo",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/09/1213694/futuro-arturo-vidal-colocolo-messi.html",
-      "fecha_publicacion": "2026-10-09 06:30"
     },
     {
       "titulo": "Duelo UC-Audax en duda: ANFP evalúa suspensión por emergencia de aluvión en Las Condes",
