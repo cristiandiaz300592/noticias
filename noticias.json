@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-09T21:30:25.980400+00:00",
+  "actualizado": "2026-10-09T22:00:31.382143+00:00",
   "noticias": [
+    {
+      "titulo": "Gedeón Díaz firmó su primer contrato profesional con Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/gedeon-diaz-firmo-su-primer-contrato-profesional-con-colo-colo/2026-10-09/185228.html",
+      "fecha_publicacion": "2026-10-09 185228"
+    },
+    {
+      "titulo": "Juan José Ribera palpitó el duelo contra la U: Jugar con un grande es un estímulo mayor",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/nublense/juan-jose-ribera-palpito-el-duelo-contra-la-u-jugar-con-un-grande-es-un/2026-10-09/183512.html",
+      "fecha_publicacion": "2026-10-09 183512"
+    },
     {
       "titulo": "La Roja Femenina venció a Marruecos en su preparación para el Mundial Sub 17",
       "fuente": "Cooperativa",
@@ -26,12 +38,6 @@
       "fecha_publicacion": "2026-10-09 13:24"
     },
     {
-      "titulo": "Ortiz por calendarización del fútbol chileno: Si opinamos somos castigados",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-por-calendarizacion-del-futbol-chileno-si-opinamos-somos/2026-10-09/131835.html",
-      "fecha_publicacion": "2026-10-09 131835"
-    },
-    {
       "titulo": "Djokovic sufre dura derrota en el Masters de Shanghai, mientras Tabilo ya tiene horario para su debut",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/09/1213736/djokovic-shanghai.html",
@@ -48,12 +54,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/juan-martin-lucero-se-que-no-ha-sido-mi-mejor-ano-desde-que-juego-al/2026-10-09/122533.html",
       "fecha_publicacion": "2026-10-09 122533"
-    },
-    {
-      "titulo": "Lucero admitió que hubo una oferta desde Argentina: Dejé todo en manos de la U",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lucero-admitio-que-hubo-una-oferta-desde-argentina-deje-todo-en-manos/2026-10-09/121732.html",
-      "fecha_publicacion": "2026-10-09 121732"
     },
     {
       "titulo": "Final de Copa de la Liga en suspenso por aluvión: ANFP revela plazo para decisión definitiva",
@@ -90,6 +90,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-unido-y-la-calera-ya-tienen-programacion-para-su-llave-de-copa/2026-10-09/092609.html",
       "fecha_publicacion": "2026-10-09 092609"
+    },
+    {
+      "titulo": "[VIDEO] Terremoto en Panamá obligó a periodistas deportivos abandonar una transmisión en vivo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/leandro-fernandez-recordo-su-paso-por-la-u-fueron-tres-anos-hermosos-de/2026-10-08/133134.html",
+      "fecha_publicacion": "2026-10-08 133134"
     }
   ]
 }
