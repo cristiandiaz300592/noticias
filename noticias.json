@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T16:30:32.132741+00:00",
+  "actualizado": "2026-10-09T17:00:29.061105+00:00",
   "noticias": [
     {
       "titulo": "Candidato a presidencia de ANFP pierde un voto: San Luis le ’hizo la cruz’ y apuntó contra dirigente",
@@ -32,6 +32,12 @@
       "fecha_publicacion": "2026-10-09 122533"
     },
     {
+      "titulo": "Lucero admitió que hubo una oferta desde Argentina: Dejé todo en manos de la U",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lucero-admitio-que-hubo-una-oferta-desde-argentina-deje-todo-en-manos/2026-10-09/121732.html",
+      "fecha_publicacion": "2026-10-09 121732"
+    },
+    {
       "titulo": "Final de Copa de la Liga en suspenso por aluvión: ANFP revela plazo para decisión definitiva",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/09/final-de-copa-de-la-liga-en-suspenso-por-aluvion-cercano-al-claro-arena-anfp-evaluara-seguridad.shtml",
@@ -44,9 +50,9 @@
       "fecha_publicacion": "2026-10-09 115534"
     },
     {
-      "titulo": "ANFP suspendió el U. Católica-Audax Italiano por grave aluvión en San Carlos de Apoquindo",
+      "titulo": "Suspendido U. Católica vs. Audax por el grave aluvión en San Carlos de Apoquindo",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/anfp-suspendio-el-u-catolica-audax-italiano-por-grave-aluvion-en-san/2026-10-09/103029.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/suspendido-u-catolica-vs-audax-por-el-grave-aluvion-en-san-carlos-de/2026-10-09/103029.html",
       "fecha_publicacion": "2026-10-09 103029"
     },
     {
@@ -68,6 +74,12 @@
       "fecha_publicacion": "2026-10-09 09:47"
     },
     {
+      "titulo": "Coquimbo Unido y La Calera ya tienen programación para su llave de Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-unido-y-la-calera-ya-tienen-programacion-para-su-llave-de-copa/2026-10-09/092609.html",
+      "fecha_publicacion": "2026-10-09 092609"
+    },
+    {
       "titulo": "\"Si no sigue, lo más probable\": Lanzan una \"bomba\" en medio de las dudas por el futuro de Vidal en Colo Colo",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/09/1213694/futuro-arturo-vidal-colocolo-messi.html",
@@ -84,18 +96,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/08/santiago-morning-denuncia-a-ist-por-negar-atencion-a-jugador-lesionado.shtml",
       "fecha_publicacion": "2026-10-08 19:38"
-    },
-    {
-      "titulo": "¿Qué partido será transmitido por TV abierta en la fecha 24 de la Liga de Primera?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/que-partido-sera-transmitido-por-tv-abierta-en-la-fecha-24-de-la-liga/2026-10-08/185452.html",
-      "fecha_publicacion": "2026-10-08 185452"
-    },
-    {
-      "titulo": "La UC informó situación del Claro Arena tras aluvión en San Carlos de Apoquindo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/la-uc-informo-situacion-del-claro-arena-tras-aluvion-en-san-carlos-de/2026-10-08/181836.html",
-      "fecha_publicacion": "2026-10-08 181836"
     }
   ]
 }
