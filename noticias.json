@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-09T16:21:36.764708+00:00",
+  "actualizado": "2026-10-09T16:30:32.132741+00:00",
   "noticias": [
+    {
+      "titulo": "Candidato a presidencia de ANFP pierde un voto: San Luis le ’hizo la cruz’ y apuntó contra dirigente",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/09/candidato-a-presidencia-de-anfp-pierde-un-voto-san-luis-le-hizo-la-cruz-y-apunto-contra-dirigente.shtml",
+      "fecha_publicacion": "2026-10-09 13:24"
+    },
+    {
+      "titulo": "Ortiz por calendarización del fútbol chileno: Si opinamos somos castigados",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-por-calendarizacion-del-futbol-chileno-si-opinamos-somos/2026-10-09/131835.html",
+      "fecha_publicacion": "2026-10-09 131835"
+    },
     {
       "titulo": "Djokovic sufre dura derrota en el Masters de Shanghai, mientras Tabilo ya tiene horario para su debut",
       "fuente": "Emol",
@@ -84,12 +96,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/la-uc-informo-situacion-del-claro-arena-tras-aluvion-en-san-carlos-de/2026-10-08/181836.html",
       "fecha_publicacion": "2026-10-08 181836"
-    },
-    {
-      "titulo": "Garnero reafirmó el objetivo en la UC: Clasificar a la Libertadores y jugar mejor",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-reafirmo-el-objetivo-en-la-uc-clasificar-a-la-libertadores-y/2026-10-08/171431.html",
-      "fecha_publicacion": "2026-10-08 171431"
     }
   ]
 }
