@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T11:30:28.911257+00:00",
+  "actualizado": "2026-10-09T12:00:28.437597+00:00",
   "noticias": [
     {
       "titulo": "\"Si no sigue, lo más probable\": Lanzan una \"bomba\" en medio de las dudas por el futuro de Vidal en Colo Colo",
@@ -32,6 +32,12 @@
       "fecha_publicacion": "2026-10-08 181836"
     },
     {
+      "titulo": "Garnero reafirmó el objetivo en la UC: Clasificar a la Libertadores y jugar mejor",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-reafirmo-el-objetivo-en-la-uc-clasificar-a-la-libertadores-y/2026-10-08/171431.html",
+      "fecha_publicacion": "2026-10-08 171431"
+    },
+    {
       "titulo": "[VIDEO] La Cobra se burló de influencer mexicano por caída ante La Roja: \"¿Aún hay traumas del 7-0?\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/video-la-cobra-se-burlo-de-influencer-mexicano-por-caida-ante-la-roja/2026-10-08/162608.html",
@@ -56,22 +62,10 @@
       "fecha_publicacion": "2026-10-08 133134"
     },
     {
-      "titulo": "Agustín Farías apuntó al calendario de la UC: \"Se hace largo jugar dos partidos al mes\"",
+      "titulo": "Padre de Vigouroux: \"A Córdova nadie lo quiere, pero estoy agradecido por darle una oportunidad a mi hijo\"",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/agustin-farias-apunto-al-calendario-de-la-uc-se-hace-largo-jugar-dos/2026-10-08/115750.html",
-      "fecha_publicacion": "2026-10-08 115750"
-    },
-    {
-      "titulo": "Jonathan Villagra en el retorno de la Roja a Chile: Hay que sacar cosas positivas",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/jonathan-villagra-en-el-retorno-de-la-roja-a-chile-hay-que-sacar-cosas/2026-10-08/103503.html",
-      "fecha_publicacion": "2026-10-08 103503"
-    },
-    {
-      "titulo": "Gabriel Suazo reflexionó tras gira de la Roja: \"Los momentos difíciles también construyen\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/gabriel-suazo-reflexiono-tras-gira-de-la-roja-los-momentos-dificiles/2026-10-08/093710.html",
-      "fecha_publicacion": "2026-10-08 093710"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/padre-de-vigouroux-a-cordova-nadie-lo-quiere-pero-estoy-agradecido/2026-10-08/111817.html",
+      "fecha_publicacion": "2026-10-08 111817"
     }
   ]
 }
