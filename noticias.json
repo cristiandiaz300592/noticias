@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-09T13:30:27.410466+00:00",
+  "actualizado": "2026-10-09T14:00:30.817844+00:00",
   "noticias": [
+    {
+      "titulo": "ANFP suspendió el U. Católica-Audax Italiano por grave aluvión en San Carlos de Apoquindo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/anfp-suspendio-el-u-catolica-audax-italiano-por-grave-aluvion-en-san/2026-10-09/103029.html",
+      "fecha_publicacion": "2026-10-09 103029"
+    },
+    {
+      "titulo": "Católica-Audax fue suspendido por ANFP tras aluvión en Las Condes",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/09/catolica-audax-fue-suspendido-por-anfp-tras-aluvion-en-las-condes.shtml",
+      "fecha_publicacion": "2026-10-09 10:30"
+    },
     {
       "titulo": "Larcamón respondió a rumores de La Roja: Estoy cien por ciento comprometido con Sporting",
       "fuente": "Cooperativa",
@@ -32,16 +44,16 @@
       "fecha_publicacion": "2026-10-08 22:42"
     },
     {
-      "titulo": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 24",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-24/2026-10-08/214656.html",
-      "fecha_publicacion": "2026-10-08 214656"
-    },
-    {
       "titulo": "Santiago Morning denuncia al IST por negar atención a jugador lesionado: aún no accede a tratamiento",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/08/santiago-morning-denuncia-a-ist-por-negar-atencion-a-jugador-lesionado.shtml",
       "fecha_publicacion": "2026-10-08 19:38"
+    },
+    {
+      "titulo": "¿Qué partido será transmitido por TV abierta en la fecha 24 de la Liga de Primera?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/que-partido-sera-transmitido-por-tv-abierta-en-la-fecha-24-de-la-liga/2026-10-08/185452.html",
+      "fecha_publicacion": "2026-10-08 185452"
     },
     {
       "titulo": "La UC informó situación del Claro Arena tras aluvión en San Carlos de Apoquindo",
@@ -60,12 +72,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/leandro-fernandez-recordo-su-paso-por-la-u-fueron-tres-anos-hermosos-de/2026-10-08/133134.html",
       "fecha_publicacion": "2026-10-08 133134"
-    },
-    {
-      "titulo": "Padre de Vigouroux: \"A Córdova nadie lo quiere, pero estoy agradecido por darle una oportunidad a mi hijo\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/padre-de-vigouroux-a-cordova-nadie-lo-quiere-pero-estoy-agradecido/2026-10-08/111817.html",
-      "fecha_publicacion": "2026-10-08 111817"
     }
   ]
 }
