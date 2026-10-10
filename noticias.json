@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-10T12:30:27.375604+00:00",
+  "actualizado": "2026-10-10T13:00:31.114855+00:00",
   "noticias": [
+    {
+      "titulo": "Tabilo sufre dura remontada y queda eliminado en su debut en el Masters de Shanghai",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/10/1213807/tabilo-derrota-shanghai-carreno-busta.html",
+      "fecha_publicacion": "2026-10-10 08:30"
+    },
     {
       "titulo": "Las alternativas que maneja la ANFP en caso de no poder jugar la final de la Copa de la Liga en el Claro Arena y qué pasará con el UC vs Audax",
       "fuente": "Emol",
@@ -42,12 +48,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/09/fernando-diaz-golpea-la-mesa-deportes-concepcion-tras-destaparse-reunion-dirigentes-meneghini.shtml",
       "fecha_publicacion": "2026-10-09 14:43"
-    },
-    {
-      "titulo": "Candidato a presidencia de ANFP pierde un voto: San Luis le ’hizo la cruz’ y apuntó contra dirigente",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/09/candidato-a-presidencia-de-anfp-pierde-un-voto-san-luis-le-hizo-la-cruz-y-apunto-contra-dirigente.shtml",
-      "fecha_publicacion": "2026-10-09 13:24"
     },
     {
       "titulo": "Vozinha volverá a ser suplente en Colo Colo: Maureira recupera la titularidad",
