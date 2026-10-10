@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T18:42:48.948159+00:00",
+  "actualizado": "2026-10-10T19:00:27.942805+00:00",
   "noticias": [
     {
       "titulo": "¿Aníbal Mosa apunta a la presidencia de la Federación de Fútbol de Chile?",
@@ -14,9 +14,9 @@
       "fecha_publicacion": "2026-10-10 15:18"
     },
     {
-      "titulo": "Cobresal recibe a Universidad de Concepción en el inicio de la fecha 24 de la Liga",
+      "titulo": "Cobresal iguala con Universidad de Concepción en el inicio de la fecha 24 de la Liga",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cobresal-recibe-a-universidad-de-concepcion-en-el-inicio-de-la-fecha-24/2026-10-10/130440.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cobresal-iguala-con-universidad-de-concepcion-en-el-inicio-de-la-fecha/2026-10-10/130440.html",
       "fecha_publicacion": "2026-10-10 130440"
     },
     {
@@ -44,16 +44,16 @@
       "fecha_publicacion": "2026-10-09 131835"
     },
     {
+      "titulo": "Suspendido U. Católica vs. Audax por el grave aluvión en San Carlos de Apoquindo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/suspendido-u-catolica-vs-audax-por-el-grave-aluvion-en-san-carlos-de/2026-10-09/103029.html",
+      "fecha_publicacion": "2026-10-09 103029"
+    },
+    {
       "titulo": "Larcamón respondió a rumores de La Roja: Estoy cien por ciento comprometido con Sporting",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/larcamon-respondio-a-rumores-de-la-roja-estoy-cien-por-ciento/2026-10-09/101519.html",
       "fecha_publicacion": "2026-10-09 101519"
-    },
-    {
-      "titulo": "Coquimbo Unido y La Calera ya tienen programación para su llave de Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-unido-y-la-calera-ya-tienen-programacion-para-su-llave-de-copa/2026-10-09/092609.html",
-      "fecha_publicacion": "2026-10-09 092609"
     }
   ]
 }
