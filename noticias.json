@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-10T18:30:26.024482+00:00",
+  "actualizado": "2026-10-10T18:42:48.948159+00:00",
   "noticias": [
+    {
+      "titulo": "¿Aníbal Mosa apunta a la presidencia de la Federación de Fútbol de Chile?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/anibal-mosa-apunta-a-la-presidencia-de-la-federacion-de-futbol-de/2026-10-10/153101.html",
+      "fecha_publicacion": "2026-10-10 153101"
+    },
     {
       "titulo": "Primera B: Magallanes sorprendió a Recoleta y remece la categoría por el cupo del ascenso directo",
       "fuente": "BioBioChile",
@@ -30,12 +36,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/nublense/juan-jose-ribera-palpito-el-duelo-contra-la-u-jugar-con-un-grande-es-un/2026-10-09/183512.html",
       "fecha_publicacion": "2026-10-09 183512"
-    },
-    {
-      "titulo": "La Roja Femenina venció a Marruecos en su preparación para el Mundial Sub 17",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-femenina-vencio-a-marruecos-en-su-preparacion-para-el-mundial/2026-10-09/162024.html",
-      "fecha_publicacion": "2026-10-09 162024"
     },
     {
       "titulo": "Ortiz por calendarización del fútbol chileno: Si opinamos somos castigados",
