@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-10T00:00:35.398657+00:00",
+  "actualizado": "2026-10-10T00:30:24.390137+00:00",
   "noticias": [
+    {
+      "titulo": "Cobresal y Universidad Concepción luchan en un duelo clave por la permanencia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cobresal-y-universidad-concepcion-luchan-en-un-duelo-clave-por-la/2026-10-09/192751.html",
+      "fecha_publicacion": "2026-10-09 192751"
+    },
     {
       "titulo": "Gedeón Díaz firmó su primer contrato profesional con Colo Colo",
       "fuente": "Cooperativa",
@@ -48,12 +54,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/09/gustavo-alvarez-aborda-opcion-de-llegar-a-la-roja-y-fue-tajante-que-no-se-manosee-mi-nombre.shtml",
       "fecha_publicacion": "2026-10-09 13:12"
-    },
-    {
-      "titulo": "Juan Martín Lucero: Sé que no ha sido mi mejor año desde que juego al fútbol",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/juan-martin-lucero-se-que-no-ha-sido-mi-mejor-ano-desde-que-juego-al/2026-10-09/122533.html",
-      "fecha_publicacion": "2026-10-09 122533"
     },
     {
       "titulo": "Final de Copa de la Liga en suspenso por aluvión: ANFP revela plazo para decisión definitiva",
