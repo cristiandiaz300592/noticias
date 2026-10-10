@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-10T20:00:29.450813+00:00",
+  "actualizado": "2026-10-10T20:30:24.060738+00:00",
   "noticias": [
+    {
+      "titulo": "Wanderers cayó con Curicó y cedió terreno en el Ascenso: golazo de Fernández dio triunfo a ’torteros’",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/10/con-golazo-de-nico-fernandez-curico-gano-a-wanderers-liga-ascenso.shtml",
+      "fecha_publicacion": "2026-10-10 17:28"
+    },
+    {
+      "titulo": "Cobresal se mantuvo fuera de zona de descenso tras agónico empate con la complicada U. de Conce",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cobresal-se-mantuvo-fuera-de-zona-de-descenso-tras-agonico-empate-con-la/2026-10-10/170922.html",
+      "fecha_publicacion": "2026-10-10 170922"
+    },
+    {
+      "titulo": "En duelo crucial por el descenso: Cobresal igualó en la agonía ante UdeC por Liga de Primera",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/10/liga-de-primera-fecha-24-cobresal-u-de-concepcion.shtml",
+      "fecha_publicacion": "2026-10-10 17:05"
+    },
     {
       "titulo": "¿Aníbal Mosa apunta a la presidencia de la Federación de Fútbol de Chile?",
       "fuente": "Cooperativa",
@@ -14,16 +32,10 @@
       "fecha_publicacion": "2026-10-10 15:18"
     },
     {
-      "titulo": "Cobresal cae con Universidad de Concepción en el inicio de la fecha 24 de la Liga",
+      "titulo": "[RADIO EN VIVO] Huachipato recibe a O'Higgins por la fecha 24 en la Liga de Primera",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cobresal-cae-con-universidad-de-concepcion-en-el-inicio-de-la-fecha-24/2026-10-10/130440.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-huachipato-recibe-a-o-higgins-por-la-fecha-24-en-la-liga/2026-10-10/130440.html",
       "fecha_publicacion": "2026-10-10 130440"
-    },
-    {
-      "titulo": "Sorpresiva ausencia de Marcelino Núñez en el Ipswich días después de su lío en la \"Roja\"",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/10/1213820/marcelino-ipswich-roja-premier.html",
-      "fecha_publicacion": "2026-10-10 11:41"
     },
     {
       "titulo": "Las estrellas internacionales que tendrá Titan Forest Patagonia en su segunda edición en Aysén",
@@ -36,12 +48,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/nublense/juan-jose-ribera-palpito-el-duelo-contra-la-u-jugar-con-un-grande-es-un/2026-10-09/183512.html",
       "fecha_publicacion": "2026-10-09 183512"
-    },
-    {
-      "titulo": "Suspendido U. Católica vs. Audax por el grave aluvión en San Carlos de Apoquindo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/suspendido-u-catolica-vs-audax-por-el-grave-aluvion-en-san-carlos-de/2026-10-09/103029.html",
-      "fecha_publicacion": "2026-10-09 103029"
     },
     {
       "titulo": "Larcamón respondió a rumores de La Roja: Estoy cien por ciento comprometido con Sporting",
