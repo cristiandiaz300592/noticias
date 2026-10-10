@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T19:30:28.950965+00:00",
+  "actualizado": "2026-10-10T20:00:29.450813+00:00",
   "noticias": [
     {
       "titulo": "¿Aníbal Mosa apunta a la presidencia de la Federación de Fútbol de Chile?",
@@ -14,9 +14,9 @@
       "fecha_publicacion": "2026-10-10 15:18"
     },
     {
-      "titulo": "Cobresal iguala con Universidad de Concepción en el inicio de la fecha 24 de la Liga",
+      "titulo": "Cobresal cae con Universidad de Concepción en el inicio de la fecha 24 de la Liga",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cobresal-iguala-con-universidad-de-concepcion-en-el-inicio-de-la-fecha/2026-10-10/130440.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cobresal-cae-con-universidad-de-concepcion-en-el-inicio-de-la-fecha-24/2026-10-10/130440.html",
       "fecha_publicacion": "2026-10-10 130440"
     },
     {
@@ -38,12 +38,6 @@
       "fecha_publicacion": "2026-10-09 183512"
     },
     {
-      "titulo": "Ortiz por calendarización del fútbol chileno: Si opinamos somos castigados",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-por-calendarizacion-del-futbol-chileno-si-opinamos-somos/2026-10-09/131835.html",
-      "fecha_publicacion": "2026-10-09 131835"
-    },
-    {
       "titulo": "Suspendido U. Católica vs. Audax por el grave aluvión en San Carlos de Apoquindo",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/suspendido-u-catolica-vs-audax-por-el-grave-aluvion-en-san-carlos-de/2026-10-09/103029.html",
@@ -54,6 +48,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/larcamon-respondio-a-rumores-de-la-roja-estoy-cien-por-ciento/2026-10-09/101519.html",
       "fecha_publicacion": "2026-10-09 101519"
+    },
+    {
+      "titulo": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 24",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-24/2026-10-08/214656.html",
+      "fecha_publicacion": "2026-10-08 214656"
     }
   ]
 }
