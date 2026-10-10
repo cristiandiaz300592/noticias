@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-10T14:30:30.174166+00:00",
+  "actualizado": "2026-10-10T15:00:28.639762+00:00",
   "noticias": [
+    {
+      "titulo": "Sorpresiva ausencia de Marcelino Núñez en el Ipswich días después de su lío en la \"Roja\"",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/10/1213820/marcelino-ipswich-roja-premier.html",
+      "fecha_publicacion": "2026-10-10 11:41"
+    },
     {
       "titulo": "Tabilo sufre dura remontada y queda eliminado en su debut en el Masters de Shanghai",
       "fuente": "Emol",
@@ -24,12 +30,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cobresal-y-universidad-concepcion-luchan-en-un-duelo-clave-por-la/2026-10-09/192751.html",
       "fecha_publicacion": "2026-10-09 192751"
-    },
-    {
-      "titulo": "Gedeón Díaz firmó su primer contrato profesional con Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/gedeon-diaz-firmo-su-primer-contrato-profesional-con-colo-colo/2026-10-09/185228.html",
-      "fecha_publicacion": "2026-10-09 185228"
     },
     {
       "titulo": "Juan José Ribera palpitó el duelo contra la U: Jugar con un grande es un estímulo mayor",
@@ -56,28 +56,10 @@
       "fecha_publicacion": "2026-10-09 115534"
     },
     {
-      "titulo": "Suspendido U. Católica vs. Audax por el grave aluvión en San Carlos de Apoquindo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/suspendido-u-catolica-vs-audax-por-el-grave-aluvion-en-san-carlos-de/2026-10-09/103029.html",
-      "fecha_publicacion": "2026-10-09 103029"
-    },
-    {
       "titulo": "Larcamón respondió a rumores de La Roja: Estoy cien por ciento comprometido con Sporting",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/larcamon-respondio-a-rumores-de-la-roja-estoy-cien-por-ciento/2026-10-09/101519.html",
       "fecha_publicacion": "2026-10-09 101519"
-    },
-    {
-      "titulo": "Coquimbo Unido y La Calera ya tienen programación para su llave de Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-unido-y-la-calera-ya-tienen-programacion-para-su-llave-de-copa/2026-10-09/092609.html",
-      "fecha_publicacion": "2026-10-09 092609"
-    },
-    {
-      "titulo": "¿Qué partido será transmitido por TV abierta en la fecha 24 de la Liga de Primera?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/que-partido-sera-transmitido-por-tv-abierta-en-la-fecha-24-de-la-liga/2026-10-08/185452.html",
-      "fecha_publicacion": "2026-10-08 185452"
     }
   ]
 }
