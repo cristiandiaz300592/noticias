@@ -1,11 +1,17 @@
 {
-  "actualizado": "2026-10-10T10:30:26.884821+00:00",
+  "actualizado": "2026-10-10T11:00:30.584774+00:00",
   "noticias": [
     {
       "titulo": "Las alternativas que maneja la ANFP en caso de no poder jugar la final de la Copa de la Liga en el Claro Arena y qué pasará con el UC vs Audax",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/09/1213799/claro-arena-aluvion-anfp-futbol.html",
       "fecha_publicacion": "2026-10-09 22:14"
+    },
+    {
+      "titulo": "Las estrellas internacionales que tendrá Titan Forest Patagonia en su segunda edición en Aysén",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/10/09/titan-forest-patagonia-los-ciclistas-de-elite-que-encabezaran-evento-en-aysen.shtml",
+      "fecha_publicacion": "2026-10-09 21:47"
     },
     {
       "titulo": "Cobresal y Universidad Concepción luchan en un duelo clave por la permanencia",
@@ -48,12 +54,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/09/gustavo-alvarez-aborda-opcion-de-llegar-a-la-roja-y-fue-tajante-que-no-se-manosee-mi-nombre.shtml",
       "fecha_publicacion": "2026-10-09 13:12"
-    },
-    {
-      "titulo": "Final de Copa de la Liga en suspenso por aluvión: ANFP revela plazo para decisión definitiva",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/09/final-de-copa-de-la-liga-en-suspenso-por-aluvion-cercano-al-claro-arena-anfp-evaluara-seguridad.shtml",
-      "fecha_publicacion": "2026-10-09 12:05"
     },
     {
       "titulo": "Vozinha volverá a ser suplente en Colo Colo: Maureira recupera la titularidad",
