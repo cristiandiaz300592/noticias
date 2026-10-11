@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-11T21:00:35.401964+00:00",
+  "actualizado": "2026-10-11T21:30:26.911541+00:00",
   "noticias": [
+    {
+      "titulo": "Vidal apuntó a los recesos tras caída con Coquimbo: Perdimos el hilo de lo que veníamos haciendo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-apunto-a-los-recesos-tras-caida-con-coquimbo-perdimos-el-hilo-de/2026-10-11/180641.html",
+      "fecha_publicacion": "2026-10-11 180641"
+    },
+    {
+      "titulo": "Ortiz tras la caída en Coquimbo: \"Todo campeón siempre tiene partidos buenos, regulares y malos\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-tras-la-caida-en-coquimbo-todo-campeon-siempre-tiene-partidos/2026-10-11/175844.html",
+      "fecha_publicacion": "2026-10-11 175844"
+    },
     {
       "titulo": "Copiapó superó a Cobreloa y deja ’la B’ al rojo vivo: San Luis puede alcanzar liderato esta fecha",
       "fuente": "BioBioChile",
@@ -38,12 +50,6 @@
       "fecha_publicacion": "2026-10-11 17:00"
     },
     {
-      "titulo": "[VIDEO] Coquimbo Unido noqueó a Colo Colo con una contra letal de Lucas Pratto",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-coquimbo-unido-noqueo-a-colo-colo-con-una-contra-letal-de-lucas/2026-10-11/164607.html",
-      "fecha_publicacion": "2026-10-11 164607"
-    },
-    {
       "titulo": "Triunfazo ruletero: Everton remontó dos veces para derrotar a La Serena y se ilusiona con el ’Chile 2’",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/triunfazo-ruletero-everton-remonto-dos-veces-para-derrotar-a-la-serena-y-se-ilusiona-con-el-chile-2.shtml",
@@ -68,22 +74,10 @@
       "fecha_publicacion": "2026-10-11 08:38"
     },
     {
-      "titulo": "Huachipato batió a O'Higgins y presiona en la zona de Copa Sudamericana",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-batio-a-o-higgins-y-presiona-en-la-zona-de-copa-sudamericana/2026-10-10/193958.html",
-      "fecha_publicacion": "2026-10-10 193958"
-    },
-    {
       "titulo": "Huachipato ganó a O’Higgins y escaló lugares en Liga de Primera: celestes se complicaron con descenso",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/10/liga-de-primera-huachipato-ohiggins-fecha-24.shtml",
       "fecha_publicacion": "2026-10-10 19:30"
-    },
-    {
-      "titulo": "¿Aníbal Mosa apunta a la presidencia de la Federación de Fútbol de Chile?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/anibal-mosa-apunta-a-la-presidencia-de-la-federacion-de-futbol-de/2026-10-10/153101.html",
-      "fecha_publicacion": "2026-10-10 153101"
     },
     {
       "titulo": "Deportes Concepción iguala con Unión La Calera en la fecha 24 de la Liga",
