@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-11T20:30:28.896268+00:00",
+  "actualizado": "2026-10-11T21:00:35.401964+00:00",
   "noticias": [
+    {
+      "titulo": "Copiapó superó a Cobreloa y deja ’la B’ al rojo vivo: San Luis puede alcanzar liderato esta fecha",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/copiapo-supero-a-cobreloa-y-deja-la-b-al-rojo-vivo-san-luis-puede-alcanzar-liderato-esta-fecha.shtml",
+      "fecha_publicacion": "2026-10-11 17:49"
+    },
+    {
+      "titulo": "[VIDEO] ¿Era penal? La mano que pudo cambiar el rumbo del partido entre Coquimbo y Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-era-penal-la-mano-que-pudo-cambiar-el-rumbo-del-partido-entre/2026-10-11/173157.html",
+      "fecha_publicacion": "2026-10-11 173157"
+    },
+    {
+      "titulo": "El líder Colo Colo es goleado por el campeón Coquimbo Unido y cede su largo invicto de 14 partidos en el Torneo",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/11/1213883/coquimbo-unido-colocolo-campeonato-nacional.html",
+      "fecha_publicacion": "2026-10-11 17:17"
+    },
     {
       "titulo": "Colo Colo perdió su larga racha en la Liga tras ser goleado por Coquimbo Unido",
       "fuente": "Cooperativa",
@@ -24,18 +42,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-coquimbo-unido-noqueo-a-colo-colo-con-una-contra-letal-de-lucas/2026-10-11/164607.html",
       "fecha_publicacion": "2026-10-11 164607"
-    },
-    {
-      "titulo": "[VIDEO] Chandía aprovechó un rebote en el palo y marcó el cuarto gol de Coquimbo ante Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-chandia-aprovecho-un-rebote-en-el-palo-y-marco-el-cuarto-gol-de/2026-10-11/162959.html",
-      "fecha_publicacion": "2026-10-11 162959"
-    },
-    {
-      "titulo": "[VIDEO] ¡Golazo al ángulo! Vidal mostró su jerarquía y descontó para Colo Colo ante Coquimbo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-golazo-al-angulo-vidal-mostro-su-jerarquia-y-desconto-para/2026-10-11/161658.html",
-      "fecha_publicacion": "2026-10-11 161658"
     },
     {
       "titulo": "Triunfazo ruletero: Everton remontó dos veces para derrotar a La Serena y se ilusiona con el ’Chile 2’",
@@ -80,9 +86,9 @@
       "fecha_publicacion": "2026-10-10 153101"
     },
     {
-      "titulo": "Deportes Concepción enfrenta a Unión La Calera en la fecha 24 de la Liga",
+      "titulo": "Deportes Concepción iguala con Unión La Calera en la fecha 24 de la Liga",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-concepcion-enfrenta-a-union-la-calera-en-la-fecha-24-de-la-liga/2026-10-10/130440.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-concepcion-iguala-con-union-la-calera-en-la-fecha-24-de-la-liga/2026-10-10/130440.html",
       "fecha_publicacion": "2026-10-10 130440"
     }
   ]
