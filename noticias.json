@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-11T22:30:24.825001+00:00",
+  "actualizado": "2026-10-11T23:00:28.185178+00:00",
   "noticias": [
+    {
+      "titulo": "Unión La Calera amargó en la última jugada a Concepción: lilas perdonaron y lo pagaron caro en Collao",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/union-la-calera-amargo-en-la-ultima-jugada-a-concepcion-lilas-perdonaron-y-lo-pagaron-caro-en-collao.shtml",
+      "fecha_publicacion": "2026-10-11 19:46"
+    },
+    {
+      "titulo": "Unión La Calera rescató un valioso punto y amargó con agónico empate a Deportes Concepción",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/union-la-calera-rescato-un-valioso-punto-y-amargo-con-agonico-empate-a/2026-10-11/194134.html",
+      "fecha_publicacion": "2026-10-11 194134"
+    },
     {
       "titulo": "La fuerte queja de Arturo Vidal tras la goleada que sufrió Colo Colo en Coquimbo y las frases sobre su futuro",
       "fuente": "Emol",
@@ -24,12 +36,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/copiapo-supero-a-cobreloa-y-deja-la-b-al-rojo-vivo-san-luis-puede-alcanzar-liderato-esta-fecha.shtml",
       "fecha_publicacion": "2026-10-11 17:49"
-    },
-    {
-      "titulo": "[VIDEO] ¿Era penal? La mano que pudo cambiar el rumbo del partido entre Coquimbo y Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-era-penal-la-mano-que-pudo-cambiar-el-rumbo-del-partido-entre/2026-10-11/173157.html",
-      "fecha_publicacion": "2026-10-11 173157"
     },
     {
       "titulo": "El líder Colo Colo es goleado por el campeón Coquimbo Unido y cede su largo invicto de 14 partidos en el Torneo",
@@ -80,15 +86,9 @@
       "fecha_publicacion": "2026-10-11 08:38"
     },
     {
-      "titulo": "Deportes Concepción igualó con Unión La Calera en la fecha 24 de la Liga",
+      "titulo": "Deportes Limache se mide ante Palestino en la fecha 24 de la Liga",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-concepcion-igualo-con-union-la-calera-en-la-fecha-24-de-la-liga/2026-10-10/130440.html",
-      "fecha_publicacion": "2026-10-10 130440"
-    },
-    {
-      "titulo": "Deportes Concepción vence a Unión La Calera en la fecha 24 de la Liga",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-concepcion-vence-a-union-la-calera-en-la-fecha-24-de-la-liga/2026-10-10/130440.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-limache-se-mide-ante-palestino-en-la-fecha-24-de-la-liga/2026-10-10/130440.html",
       "fecha_publicacion": "2026-10-10 130440"
     }
   ]
