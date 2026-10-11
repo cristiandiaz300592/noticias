@@ -1,17 +1,23 @@
 {
-  "actualizado": "2026-10-11T17:30:24.176280+00:00",
+  "actualizado": "2026-10-11T18:00:34.470220+00:00",
   "noticias": [
+    {
+      "titulo": "Triunfazo ruletero: Everton remontó dos veces para derrotar a La Serena y se ilusiona con el ’Chile 2’",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/triunfazo-ruletero-everton-remonto-dos-veces-para-derrotar-a-la-serena-y-se-ilusiona-con-el-chile-2.shtml",
+      "fecha_publicacion": "2026-10-11 14:47"
+    },
+    {
+      "titulo": "Everton venció a La Serena y mantuvo vivo el sueño de acceder a Copa Libertadores",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/everton-vencio-a-la-serena-y-mantuvo-vivo-el-sueno-de-acceder-a-copa/2026-10-11/142454.html",
+      "fecha_publicacion": "2026-10-11 142454"
+    },
     {
       "titulo": "\"Con la franja a todos lados\": Juan Tagle lució camiseta de la UC en la Gran Muralla China",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/con-la-franja-a-todos-lados-juan-tagle-lucio-camiseta-de-la-uc-en-la/2026-10-11/134237.html",
       "fecha_publicacion": "2026-10-11 134237"
-    },
-    {
-      "titulo": "Tensión total en Wanderers tras nueva derrota en la Primera B",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/11/1213855/wanderers-primerab-derrota-hinchas-tecnico.html",
-      "fecha_publicacion": "2026-10-11 09:20"
     },
     {
       "titulo": "Hinchas de S. Wanderers pierden la paciencia: encaran a jugador y piden la salida del DT Palladino",
@@ -56,9 +62,15 @@
       "fecha_publicacion": "2026-10-10 17:05"
     },
     {
-      "titulo": "Everton venció a Deportes La Serena por la fecha 24 de la Liga de Primera",
+      "titulo": "¿Aníbal Mosa apunta a la presidencia de la Federación de Fútbol de Chile?",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/everton-vencio-a-deportes-la-serena-por-la-fecha-24-de-la-liga-de-primera/2026-10-10/130440.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/anibal-mosa-apunta-a-la-presidencia-de-la-federacion-de-futbol-de/2026-10-10/153101.html",
+      "fecha_publicacion": "2026-10-10 153101"
+    },
+    {
+      "titulo": "[Radio en vivo 🎙] Colo Colo visita a Coquimbo Unido por la fecha 24 de la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-colo-colo-visita-a-coquimbo-unido-por-la-fecha-24-de/2026-10-10/130440.html",
       "fecha_publicacion": "2026-10-10 130440"
     },
     {
