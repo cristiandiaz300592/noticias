@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-11T21:30:26.911541+00:00",
+  "actualizado": "2026-10-11T22:00:32.440241+00:00",
   "noticias": [
+    {
+      "titulo": "La fuerte queja de Arturo Vidal tras la goleada que sufrió Colo Colo en Coquimbo y las frases sobre su futuro",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/11/1213888/arturo-vidal-frases-coquimbo-colocolo.html",
+      "fecha_publicacion": "2026-10-11 18:29"
+    },
     {
       "titulo": "Vidal apuntó a los recesos tras caída con Coquimbo: Perdimos el hilo de lo que veníamos haciendo",
       "fuente": "Cooperativa",
@@ -74,15 +80,9 @@
       "fecha_publicacion": "2026-10-11 08:38"
     },
     {
-      "titulo": "Huachipato ganó a O’Higgins y escaló lugares en Liga de Primera: celestes se complicaron con descenso",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/10/liga-de-primera-huachipato-ohiggins-fecha-24.shtml",
-      "fecha_publicacion": "2026-10-10 19:30"
-    },
-    {
-      "titulo": "Deportes Concepción iguala con Unión La Calera en la fecha 24 de la Liga",
+      "titulo": "Deportes Concepción vence a Unión La Calera en la fecha 24 de la Liga",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-concepcion-iguala-con-union-la-calera-en-la-fecha-24-de-la-liga/2026-10-10/130440.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-concepcion-vence-a-union-la-calera-en-la-fecha-24-de-la-liga/2026-10-10/130440.html",
       "fecha_publicacion": "2026-10-10 130440"
     }
   ]
