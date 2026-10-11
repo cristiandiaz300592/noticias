@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-10-11T20:00:33.300324+00:00",
+  "actualizado": "2026-10-11T20:23:51.629129+00:00",
   "noticias": [
+    {
+      "titulo": "Colo Colo perdió su larga racha en la Liga tras ser goleado por Coquimbo Unido",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/colo-colo-perdio-su-larga-racha-en-la-liga-tras-ser-goleado-por-coquimbo/2026-10-11/171232.html",
+      "fecha_publicacion": "2026-10-11 171232"
+    },
     {
       "titulo": "Errores de Maureira y Vidal: Mira los goles de Coquimbo a Colo Colo",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/11/1213878/goles-colocolo-coquimbo-maureira-vidal.html",
-      "fecha_publicacion": "2026-10-11 16:53"
+      "fecha_publicacion": "2026-10-11 17:02"
+    },
+    {
+      "titulo": "Colo Colo sufrió en visita a Coquimbo: ’piratas’ le dieron una paliza al líder y escoltas se ilusionan",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/colo-colo-sufrio-en-visita-a-coquimbo-piratas-le-dieron-una-paliza-al-lider-y-escoltas-se-ilusionan.shtml",
+      "fecha_publicacion": "2026-10-11 17:00"
     },
     {
       "titulo": "[VIDEO] Chandía aprovechó un rebote en el palo y marcó el cuarto gol de Coquimbo ante Colo Colo",
@@ -56,27 +68,15 @@
       "fecha_publicacion": "2026-10-10 19:30"
     },
     {
-      "titulo": "Wanderers cayó con Curicó y cedió terreno en el Ascenso: golazo de Fernández dio triunfo a ’torteros’",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/10/con-golazo-de-nico-fernandez-curico-gano-a-wanderers-liga-ascenso.shtml",
-      "fecha_publicacion": "2026-10-10 17:28"
-    },
-    {
-      "titulo": "Cobresal se mantuvo fuera de zona de descenso tras agónico empate con la complicada U. de Conce",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cobresal-se-mantuvo-fuera-de-zona-de-descenso-tras-agonico-empate-con-la/2026-10-10/170922.html",
-      "fecha_publicacion": "2026-10-10 170922"
-    },
-    {
       "titulo": "¿Aníbal Mosa apunta a la presidencia de la Federación de Fútbol de Chile?",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/anibal-mosa-apunta-a-la-presidencia-de-la-federacion-de-futbol-de/2026-10-10/153101.html",
       "fecha_publicacion": "2026-10-10 153101"
     },
     {
-      "titulo": "[Radio en vivo 🎙] Colo Colo visita a Coquimbo Unido por la fecha 24 de la Liga de Primera",
+      "titulo": "Deportes Concepción enfrenta a Unión La Calera en la fecha 24 de la Liga",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-colo-colo-visita-a-coquimbo-unido-por-la-fecha-24-de/2026-10-10/130440.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-concepcion-enfrenta-a-union-la-calera-en-la-fecha-24-de-la-liga/2026-10-10/130440.html",
       "fecha_publicacion": "2026-10-10 130440"
     }
   ]
