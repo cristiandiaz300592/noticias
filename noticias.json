@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-12T20:00:30.490049+00:00",
+  "actualizado": "2026-10-12T20:30:31.814362+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEO] Arce asistió y Guerrero sacó un tiro rasante para abrir la cuenta de la U ante Ñublense",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-arce-asistio-y-guerrero-saco-un-tiro-rasante-para-abrir-la/2026-10-12/171923.html",
+      "fecha_publicacion": "2026-10-12 171923"
+    },
+    {
+      "titulo": "Rangers vapuleó a San Felipe en ’final’ por permanencia en la B y acecha en lucha por la salvación",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/12/rangers-vapuleo-a-san-felipe-en-final-por-permanencia-en-la-b-y-acecha-en-lucha-por-la-salvacion.shtml",
+      "fecha_publicacion": "2026-10-12 17:08"
+    },
     {
       "titulo": "¿Se \"limpian\" para el clásico con la UC? Los jugadores de la U al borde de la suspensión",
       "fuente": "Cooperativa",
@@ -36,12 +48,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/union-la-calera-amargo-en-la-ultima-jugada-a-concepcion-lilas-perdonaron-y-lo-pagaron-caro-en-collao.shtml",
       "fecha_publicacion": "2026-10-11 19:46"
-    },
-    {
-      "titulo": "Vidal apuntó a los recesos tras caída con Coquimbo: Perdimos el hilo de lo que veníamos haciendo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-apunto-a-los-recesos-tras-caida-con-coquimbo-perdimos-el-hilo-de/2026-10-11/180641.html",
-      "fecha_publicacion": "2026-10-11 180641"
     }
   ]
 }
