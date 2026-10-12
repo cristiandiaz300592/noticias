@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T17:00:32.930344+00:00",
+  "actualizado": "2026-10-12T17:30:29.654590+00:00",
   "noticias": [
     {
       "titulo": "Con una renovada imagen: La Roja Femenina aplastó a Bolivia en amistoso",
@@ -32,12 +32,6 @@
       "fecha_publicacion": "2026-10-11 19:46"
     },
     {
-      "titulo": "Unión La Calera rescató un valioso punto y amargó con agónico empate a Deportes Concepción",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/union-la-calera-rescato-un-valioso-punto-y-amargo-con-agonico-empate-a/2026-10-11/194134.html",
-      "fecha_publicacion": "2026-10-11 194134"
-    },
-    {
       "titulo": "Vidal apuntó a los recesos tras caída con Coquimbo: Perdimos el hilo de lo que veníamos haciendo",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-apunto-a-los-recesos-tras-caida-con-coquimbo-perdimos-el-hilo-de/2026-10-11/180641.html",
@@ -56,28 +50,10 @@
       "fecha_publicacion": "2026-10-11 17:49"
     },
     {
-      "titulo": "Colo Colo perdió su larga racha en la Liga tras ser goleado por Coquimbo Unido",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/colo-colo-perdio-su-larga-racha-en-la-liga-tras-ser-goleado-por-coquimbo/2026-10-11/171232.html",
-      "fecha_publicacion": "2026-10-11 171232"
-    },
-    {
       "titulo": "Colo Colo sufrió en visita a Coquimbo: ’piratas’ le dieron una paliza al líder y escoltas se ilusionan",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/colo-colo-sufrio-en-visita-a-coquimbo-piratas-le-dieron-una-paliza-al-lider-y-escoltas-se-ilusionan.shtml",
       "fecha_publicacion": "2026-10-11 17:00"
-    },
-    {
-      "titulo": "Everton venció a La Serena y mantuvo vivo el sueño de acceder a Copa Libertadores",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/everton-vencio-a-la-serena-y-mantuvo-vivo-el-sueno-de-acceder-a-copa/2026-10-11/142454.html",
-      "fecha_publicacion": "2026-10-11 142454"
-    },
-    {
-      "titulo": "\"Con la franja a todos lados\": Juan Tagle lució camiseta de la UC en la Gran Muralla China",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/con-la-franja-a-todos-lados-juan-tagle-lucio-camiseta-de-la-uc-en-la/2026-10-11/134237.html",
-      "fecha_publicacion": "2026-10-11 134237"
     }
   ]
 }
