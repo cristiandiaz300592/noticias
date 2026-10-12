@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-12T00:30:24.849238+00:00",
+  "actualizado": "2026-10-12T01:00:28.041521+00:00",
   "noticias": [
+    {
+      "titulo": "La U sale a recortar distancias con el líder de la Liga en su encuentro con Ñublense",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-sale-a-recortar-distancias-con-el-lider-de-la-liga-en-su-encuentro/2026-10-11/213326.html",
+      "fecha_publicacion": "2026-10-11 213326"
+    },
     {
       "titulo": "Unión La Calera amargó en la última jugada a Concepción: lilas perdonaron y lo pagaron caro en Collao",
       "fuente": "BioBioChile",
@@ -86,9 +92,9 @@
       "fecha_publicacion": "2026-10-11 08:38"
     },
     {
-      "titulo": "Deportes Limache vence a Palestino en la fecha 24 de la Liga",
+      "titulo": "Deportes Limache igualó con Palestino en la fecha 24 de la Liga",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-limache-vence-a-palestino-en-la-fecha-24-de-la-liga/2026-10-10/130440.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-limache-igualo-con-palestino-en-la-fecha-24-de-la-liga/2026-10-10/130440.html",
       "fecha_publicacion": "2026-10-10 130440"
     }
   ]
