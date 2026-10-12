@@ -1,17 +1,23 @@
 {
-  "actualizado": "2026-10-12T17:30:29.654590+00:00",
+  "actualizado": "2026-10-12T18:00:28.377823+00:00",
   "noticias": [
+    {
+      "titulo": "Lo celebra Chupete: San Luis es nuevo líder del Ascenso tras triunfazo ante Puerto Montt",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/12/lo-celebra-chupete-san-luis-es-nuevo-lider-del-ascenso-tras-triunfazo-ante-puerto-montt.shtml",
+      "fecha_publicacion": "2026-10-12 14:47"
+    },
+    {
+      "titulo": "U de Chile vs Ñublense por el torneo local: a qué hora juegan y dónde verlo en vivo",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/10/12/u-de-chile-vs-nublense-por-el-torneo-local-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
+      "fecha_publicacion": "2026-10-12 14:30"
+    },
     {
       "titulo": "Con una renovada imagen: La Roja Femenina aplastó a Bolivia en amistoso",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/12/la-roja-femenina-aplasto-a-bolivia-en-amistoso.shtml",
       "fecha_publicacion": "2026-10-12 08:33"
-    },
-    {
-      "titulo": "Palestino salvó el empate ante Deportes Limache y mantuvo su sitial en la zona de copas",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/palestino-salvo-el-empate-ante-deportes-limache-y-mantuvo-su-sitial-en/2026-10-11/221831.html",
-      "fecha_publicacion": "2026-10-11 221831"
     },
     {
       "titulo": "Deportes Limache y Palestino igualaron en un intenso y atractivo duelo de La Liga de Primera",
@@ -48,12 +54,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/copiapo-supero-a-cobreloa-y-deja-la-b-al-rojo-vivo-san-luis-puede-alcanzar-liderato-esta-fecha.shtml",
       "fecha_publicacion": "2026-10-11 17:49"
-    },
-    {
-      "titulo": "Colo Colo sufrió en visita a Coquimbo: ’piratas’ le dieron una paliza al líder y escoltas se ilusionan",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/colo-colo-sufrio-en-visita-a-coquimbo-piratas-le-dieron-una-paliza-al-lider-y-escoltas-se-ilusionan.shtml",
-      "fecha_publicacion": "2026-10-11 17:00"
     }
   ]
 }
