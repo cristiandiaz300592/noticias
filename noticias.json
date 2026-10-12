@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-12T22:00:31.110645+00:00",
+  "actualizado": "2026-10-12T22:30:27.269341+00:00",
   "noticias": [
+    {
+      "titulo": "La U aplastó con seis goles a Ñublense y se acercó a Colo Colo en la pelea por el título",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-aplasto-con-seis-goles-a-nublense-y-se-acerco-a-colo-colo-en-la/2026-10-12/191020.html",
+      "fecha_publicacion": "2026-10-12 191020"
+    },
+    {
+      "titulo": "La U humilla a Ñublense en Rancagua y corta la diferencia con el líder Colo Colo en el Campeonato Nacional",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/12/1213935/udechile-nublense-campeonato-nacional-goles.html",
+      "fecha_publicacion": "2026-10-12 19:10"
+    },
     {
       "titulo": "[VIDEOS] La U desató la fiesta azul ante Ñublense con goles de Gonzalo Reyna y Eduardo Vargas",
       "fuente": "Cooperativa",
@@ -8,28 +20,16 @@
       "fecha_publicacion": "2026-10-12 184506"
     },
     {
-      "titulo": "[VIDEO] ¡Misil al ángulo! Agustín Arce deslumbró con golazo para la U ante Ñublense",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-misil-al-angulo-agustin-arce-deslumbro-con-golazo-para-la-u/2026-10-12/182459.html",
-      "fecha_publicacion": "2026-10-12 182459"
-    },
-    {
-      "titulo": "[VIDEO] Ñublense quedó con uno menos ante la U por expulsión de Pablo Calderón",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-nublense-quedo-con-uno-menos-ante-la-u-por-expulsion-de-pablo/2026-10-12/180842.html",
-      "fecha_publicacion": "2026-10-12 180842"
-    },
-    {
-      "titulo": "[VIDEO] Guerrero le pegó de primera desde fuera del área y estiró la ventaja de la U ante Ñublense",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-guerrero-le-pego-de-primera-desde-fuera-del-area-y-estiro-la/2026-10-12/175454.html",
-      "fecha_publicacion": "2026-10-12 175454"
-    },
-    {
       "titulo": "Rangers vapuleó a San Felipe en ’final’ por permanencia en la B y acecha en lucha por la salvación",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/12/rangers-vapuleo-a-san-felipe-en-final-por-permanencia-en-la-b-y-acecha-en-lucha-por-la-salvacion.shtml",
       "fecha_publicacion": "2026-10-12 17:08"
+    },
+    {
+      "titulo": "¿Cuándo se juega la fecha 25 de la Liga de Primera?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cuando-se-juega-la-fecha-25-de-la-liga-de-primera/2026-10-12/154542.html",
+      "fecha_publicacion": "2026-10-12 154542"
     },
     {
       "titulo": "¿Se \"limpian\" para el clásico con la UC? Los jugadores de la U al borde de la suspensión",
@@ -60,12 +60,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/deportes-limache-y-palestino-igualaron-en-un-intenso-y-atractivo-duelo-de-la-liga-de-primera.shtml",
       "fecha_publicacion": "2026-10-11 22:12"
-    },
-    {
-      "titulo": "Unión La Calera amargó en la última jugada a Concepción: lilas perdonaron y lo pagaron caro en Collao",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/union-la-calera-amargo-en-la-ultima-jugada-a-concepcion-lilas-perdonaron-y-lo-pagaron-caro-en-collao.shtml",
-      "fecha_publicacion": "2026-10-11 19:46"
     }
   ]
 }
