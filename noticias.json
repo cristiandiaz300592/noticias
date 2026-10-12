@@ -1,11 +1,35 @@
 {
-  "actualizado": "2026-10-12T01:00:28.041521+00:00",
+  "actualizado": "2026-10-12T01:30:27.732430+00:00",
   "noticias": [
+    {
+      "titulo": "Palestino salvó el empate ante Deportes Limache y mantuvo su sitial en la zona de copas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/palestino-salvo-el-empate-ante-deportes-limache-y-mantuvo-su-sitial-en/2026-10-11/221831.html",
+      "fecha_publicacion": "2026-10-11 221831"
+    },
+    {
+      "titulo": "Deportes Limache y Palestino igualaron en un intenso y atractivo duelo de La Liga de Primera",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/deportes-limache-y-palestino-igualaron-en-un-intenso-y-atractivo-duelo-de-la-liga-de-primera.shtml",
+      "fecha_publicacion": "2026-10-11 22:12"
+    },
+    {
+      "titulo": "La molestia de Vidal, el \"dolor\" de Ortiz: Las frases de la goleada de Coquimbo ante Colo Colo",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/11/1213887/frases-coquimbo-colocolo-campeonato-nacional.html",
+      "fecha_publicacion": "2026-10-11 22:04"
+    },
     {
       "titulo": "La U sale a recortar distancias con el líder de la Liga en su encuentro con Ñublense",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-sale-a-recortar-distancias-con-el-lider-de-la-liga-en-su-encuentro/2026-10-11/213326.html",
       "fecha_publicacion": "2026-10-11 213326"
+    },
+    {
+      "titulo": "Resumen: Colo Colo fue goleado por Coquimbo y sus escoltas tienen la oportunidad de acercarse",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-fue-goleado-por-coquimbo-y-sus-escoltas-tienen-la/2026-10-11/212215.html",
+      "fecha_publicacion": "2026-10-11 212215"
     },
     {
       "titulo": "Unión La Calera amargó en la última jugada a Concepción: lilas perdonaron y lo pagaron caro en Collao",
@@ -56,12 +80,6 @@
       "fecha_publicacion": "2026-10-11 171232"
     },
     {
-      "titulo": "Errores de Maureira y Vidal: Mira los goles de Coquimbo a Colo Colo",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/11/1213878/goles-colocolo-coquimbo-maureira-vidal.html",
-      "fecha_publicacion": "2026-10-11 17:02"
-    },
-    {
       "titulo": "Colo Colo sufrió en visita a Coquimbo: ’piratas’ le dieron una paliza al líder y escoltas se ilusionan",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/colo-colo-sufrio-en-visita-a-coquimbo-piratas-le-dieron-una-paliza-al-lider-y-escoltas-se-ilusionan.shtml",
@@ -92,9 +110,9 @@
       "fecha_publicacion": "2026-10-11 08:38"
     },
     {
-      "titulo": "Deportes Limache igualó con Palestino en la fecha 24 de la Liga",
+      "titulo": "Los resultados de la fecha 24 de la Liga de Primera 2026",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-limache-igualo-con-palestino-en-la-fecha-24-de-la-liga/2026-10-10/130440.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-24-de-la-liga-de-primera-2026/2026-10-10/130440.html",
       "fecha_publicacion": "2026-10-10 130440"
     }
   ]
