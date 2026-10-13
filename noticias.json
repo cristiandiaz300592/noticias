@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-13T18:00:38.315423+00:00",
+  "actualizado": "2026-10-13T18:30:27.299771+00:00",
   "noticias": [
+    {
+      "titulo": "Bianneider Tamayo realiza un plan especial en la U tras viaje con la selección",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/bianneider-tamayo-realiza-un-plan-especial-en-la-u-tras-viaje-con-la/2026-10-13/151739.html",
+      "fecha_publicacion": "2026-10-13 151739"
+    },
     {
       "titulo": "Primer castigo a Santiago City: ANFP sanciona a club por incumplimientos financieros en Segunda",
       "fuente": "BioBioChile",
@@ -14,19 +20,13 @@
       "fecha_publicacion": "2026-10-13 14:16"
     },
     {
-      "titulo": "[VIDEO] Hinchas de Colo Colo realizaron \"arengazo\" al plantel femenino de cara a la Libertadores",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-hinchas-de-colo-colo-realizaron-arengazo-al-plantel-femenino/2026-10-13/131409.html",
-      "fecha_publicacion": "2026-10-13 131409"
-    },
-    {
       "titulo": "El consejo de Claudio Bravo a Gabriel Maureira tras recibir cinco goles en Colo Colo",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/13/1213995/bravo-maureira-colocolo-arquero.html",
       "fecha_publicacion": "2026-10-13 13:08"
     },
     {
-      "titulo": "\"Son entero malos, son un desastre\": Informe reveló frase que provocó expulsión en La Serena",
+      "titulo": "Netflix adquiere derechos de transmisión del Mundial de Fútbol 2030",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/la-serena/son-entero-malos-son-un-desastre-informe-revelo-frase-que-provoco/2026-10-13/114152.html",
       "fecha_publicacion": "2026-10-13 114152"
@@ -90,12 +90,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-sufrio-con-coquimbo-y-la-u-recorto-distancia-con/2026-10-12/171150.html",
       "fecha_publicacion": "2026-10-12 171150"
-    },
-    {
-      "titulo": "Rangers vapuleó a San Felipe en ’final’ por permanencia en la B y acecha en lucha por la salvación",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/12/rangers-vapuleo-a-san-felipe-en-final-por-permanencia-en-la-b-y-acecha-en-lucha-por-la-salvacion.shtml",
-      "fecha_publicacion": "2026-10-12 17:08"
     }
   ]
 }
