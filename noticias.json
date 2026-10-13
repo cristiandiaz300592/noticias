@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-13T16:00:30.737458+00:00",
+  "actualizado": "2026-10-13T16:30:26.820305+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEO] Hinchas de Colo Colo realizaron \"arengazo\" al plantel femenino de cara a la Libertadores",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-hinchas-de-colo-colo-realizaron-arengazo-al-plantel-femenino/2026-10-13/131409.html",
+      "fecha_publicacion": "2026-10-13 131409"
+    },
+    {
+      "titulo": "El consejo de Claudio Bravo a Gabriel Maureira tras recibir cinco goles en Colo Colo",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/13/1213995/bravo-maureira-colocolo-arquero.html",
+      "fecha_publicacion": "2026-10-13 13:08"
+    },
     {
       "titulo": "\"Son entero malos, son un desastre\": Informe reveló frase que provocó expulsión en La Serena",
       "fuente": "Cooperativa",
@@ -84,12 +96,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/12/lo-celebra-chupete-san-luis-es-nuevo-lider-del-ascenso-tras-triunfazo-ante-puerto-montt.shtml",
       "fecha_publicacion": "2026-10-12 14:47"
-    },
-    {
-      "titulo": "U de Chile vs Ñublense por el torneo local: a qué hora juegan y dónde verlo en vivo",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/10/12/u-de-chile-vs-nublense-por-el-torneo-local-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
-      "fecha_publicacion": "2026-10-12 14:30"
     }
   ]
 }
