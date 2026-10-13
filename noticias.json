@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-12T23:30:23.996259+00:00",
+  "actualizado": "2026-10-13T00:00:36.656988+00:00",
   "noticias": [
+    {
+      "titulo": "Juan José Ribera deja la banca de Ñublense tras caer goleado frente a la Universidad de Chile",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/12/juan-jose-ribera-deja-la-banca-de-nublense-tras-caer-goleado-frente-a-la-universidad-de-chile.shtml",
+      "fecha_publicacion": "2026-10-12 20:51"
+    },
+    {
+      "titulo": "[VIDEO] Fabián Hormazábal selló la goleada de la U ante Ñublense en Rancagua",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/video-fabian-hormazabal-sello-la-goleada-de-la-u-ante-nublense-en/2026-10-12/204232.html",
+      "fecha_publicacion": "2026-10-12 204232"
+    },
     {
       "titulo": "Ribera y su continuidad en Ñublense tras la goleada de la U: Con este resultado, todo queda en duda",
       "fuente": "Cooperativa",
@@ -24,6 +36,12 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/12/1213935/udechile-nublense-campeonato-nacional-goles.html",
       "fecha_publicacion": "2026-10-12 19:10"
+    },
+    {
+      "titulo": "Resumen: Colo Colo sufrió con Coquimbo y la U recortó distancias con una paliza a Ñublense",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-sufrio-con-coquimbo-y-la-u-recorto-distancias-con-una/2026-10-12/171150.html",
+      "fecha_publicacion": "2026-10-12 171150"
     },
     {
       "titulo": "Rangers vapuleó a San Felipe en ’final’ por permanencia en la B y acecha en lucha por la salvación",
