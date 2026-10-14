@@ -1,17 +1,11 @@
 {
-  "actualizado": "2026-10-14T12:30:26.739493+00:00",
+  "actualizado": "2026-10-14T13:00:32.344806+00:00",
   "noticias": [
     {
       "titulo": "\"Una mancha para el fútbol\": Coquimbo lamenta suspensión de final de Copa de Liga y clama por solución",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/14/una-mancha-para-el-futbol-coquimbo-lamenta-suspension-de-final-de-copa-de-liga-y-clama-por-solucion.shtml",
       "fecha_publicacion": "2026-10-14 09:27"
-    },
-    {
-      "titulo": "Nicolás Jarry vuelve a las pistas: El torneo que disputará gracias a una invitación y cuándo es",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/13/1214034/nicolas-jarry-tenis-challenger-guayaquil.html",
-      "fecha_publicacion": "2026-10-13 21:26"
     },
     {
       "titulo": "ANFP confirmó suspensión de final de Copa de la Liga y expone que Delegación no autorizó el encuentro",
@@ -30,6 +24,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/13/pese-a-seguidilla-de-derrotas-wanderers-respalda-a-dt-palladino-y-lo-ratifica-para-final-del-ascenso.shtml",
       "fecha_publicacion": "2026-10-13 16:40"
+    },
+    {
+      "titulo": "Bianneider Tamayo realiza un plan especial en la U tras viaje con la selección",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/bianneider-tamayo-realiza-un-plan-especial-en-la-u-tras-viaje-con-la/2026-10-13/151739.html",
+      "fecha_publicacion": "2026-10-13 151739"
     },
     {
       "titulo": "Primer castigo a Santiago City: ANFP sanciona a club por incumplimientos financieros en Segunda",
