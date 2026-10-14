@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-14T15:30:48.018827+00:00",
+  "actualizado": "2026-10-14T16:00:31.527415+00:00",
   "noticias": [
+    {
+      "titulo": "Tribunal castigó a hinchas de la U por incidentes del Sausalito",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/tribunal-castigo-a-hinchas-de-la-u-por-incidentes-del-sausalito/2026-10-14/125018.html",
+      "fecha_publicacion": "2026-10-14 125018"
+    },
+    {
+      "titulo": "Fue subcampeón mundial en Chile: Gran Bretaña veta a ciclista Matthew Richardson por racismo",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/10/14/gran-bretana-veta-a-ciclista-matthew-richardson-por-comentarios-racistas.shtml",
+      "fecha_publicacion": "2026-10-14 11:22"
+    },
     {
       "titulo": "\"Una mancha para el fútbol\": Coquimbo lamenta suspensión de final de Copa de Liga y clama por solución",
       "fuente": "BioBioChile",
@@ -20,12 +32,6 @@
       "fecha_publicacion": "2026-10-13 174339"
     },
     {
-      "titulo": "Pese a seguidilla de derrotas: Wanderers respalda a DT Palladino y lo ratifica para final del Ascenso",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/13/pese-a-seguidilla-de-derrotas-wanderers-respalda-a-dt-palladino-y-lo-ratifica-para-final-del-ascenso.shtml",
-      "fecha_publicacion": "2026-10-13 16:40"
-    },
-    {
       "titulo": "Gonzalo Reyna y la ilusión de la U tras golear a Ñublense: \"Estamos en la lucha por el torneo\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gonzalo-reyna-y-la-ilusion-de-la-u-tras-golear-a-nublense-estamos-en/2026-10-13/092919.html",
@@ -36,12 +42,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-sufrio-con-coquimbo-y-la-u-recorto-distancia-con/2026-10-12/171150.html",
       "fecha_publicacion": "2026-10-12 171150"
-    },
-    {
-      "titulo": "¿Cuándo se juega la fecha 25 de la Liga de Primera?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cuando-se-juega-la-fecha-25-de-la-liga-de-primera/2026-10-12/154542.html",
-      "fecha_publicacion": "2026-10-12 154542"
     }
   ]
 }
