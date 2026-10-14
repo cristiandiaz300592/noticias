@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-14T20:00:30.044106+00:00",
+  "actualizado": "2026-10-14T20:30:29.596954+00:00",
   "noticias": [
+    {
+      "titulo": "Milad lanza ’palo’ a Delegación por suspensión de final de Copa de Liga: \"Los recitales sí se pueden\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/14/milad-lanza-palo-a-delegacion-por-suspension-de-final-de-copa-de-liga-los-recitales-si-se-pueden.shtml",
+      "fecha_publicacion": "2026-10-14 17:18"
+    },
     {
       "titulo": "Gremio de agentes amenaza con demandar a la UdeC: ’Campanil’ podría sufrir resta de puntos",
       "fuente": "BioBioChile",
@@ -54,12 +60,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/10/14/gran-bretana-veta-a-ciclista-matthew-richardson-por-comentarios-racistas.shtml",
       "fecha_publicacion": "2026-10-14 11:22"
-    },
-    {
-      "titulo": "\"Una mancha para el fútbol\": Coquimbo lamenta suspensión de final de Copa de Liga y clama por solución",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/14/una-mancha-para-el-futbol-coquimbo-lamenta-suspension-de-final-de-copa-de-liga-y-clama-por-solucion.shtml",
-      "fecha_publicacion": "2026-10-14 09:27"
     }
   ]
 }
