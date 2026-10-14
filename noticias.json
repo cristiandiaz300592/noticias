@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-14T17:30:32.453971+00:00",
+  "actualizado": "2026-10-14T18:00:29.507999+00:00",
   "noticias": [
+    {
+      "titulo": "De un Everton ’superado’ a La U pidiendo absolución: la defensa de los clubes por incidentes en Viña",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/14/de-un-everton-superado-a-la-u-pidiendo-absolucion-la-defensa-de-los-clubes-por-incidentes-en-vina.shtml",
+      "fecha_publicacion": "2026-10-14 15:00"
+    },
+    {
+      "titulo": "Pablo Milad saca pecho por su gestión, habla de los candidatos a reemplazarlo y de Marcelino Núñez: \"Me parece extraño\"",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/14/1214121/milad-gestion-anfp-salida.html",
+      "fecha_publicacion": "2026-10-14 14:34"
+    },
     {
       "titulo": "Tribunal castigó a hinchas de la U por incidentes del Sausalito",
       "fuente": "Cooperativa",
@@ -26,22 +38,10 @@
       "fecha_publicacion": "2026-10-14 09:27"
     },
     {
-      "titulo": "ANFP confirmó suspensión de final de Copa de la Liga y expone que Delegación no autorizó el encuentro",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/13/anfp-confirmo-suspension-de-final-de-copa-de-la-liga-delegacion-metropolitana-no-autorizo-evento.shtml",
-      "fecha_publicacion": "2026-10-13 18:47"
-    },
-    {
       "titulo": "La lluvia obligó a cancelar amistoso de La Roja femenina ante Bolivia",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-lluvia-obligo-a-cancelar-amistoso-de-la-roja-femenina-ante-bolivia/2026-10-13/174339.html",
       "fecha_publicacion": "2026-10-13 174339"
-    },
-    {
-      "titulo": "Gonzalo Reyna y la ilusión de la U tras golear a Ñublense: \"Estamos en la lucha por el torneo\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gonzalo-reyna-y-la-ilusion-de-la-u-tras-golear-a-nublense-estamos-en/2026-10-13/092919.html",
-      "fecha_publicacion": "2026-10-13 092919"
     }
   ]
 }
