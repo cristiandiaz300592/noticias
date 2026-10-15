@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-15T18:00:35.254475+00:00",
+  "actualizado": "2026-10-15T18:30:33.466144+00:00",
   "noticias": [
+    {
+      "titulo": "Fernández Vial e Iberia deberán esperar: suspenden duelo clave que definía el último cupo a liguilla",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/15/fernandez-vial-e-iberia-deberan-esperar-suspenden-duelo-clave-que-definia-el-ultimo-cupo-a-liguilla.shtml",
+      "fecha_publicacion": "2026-10-15 15:19"
+    },
     {
       "titulo": "Filtran la camiseta que vestirá Universidad de Chile para conmemorar los 100 años del club",
       "fuente": "Cooperativa",
@@ -18,12 +24,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-desmintio-tenso-cruce-con-jorge-uauy-en-reunion-de-fifa/2026-10-15/130219.html",
       "fecha_publicacion": "2026-10-15 130219"
-    },
-    {
-      "titulo": "La U y rumor sobre cambio de nombre: \"Ni siquiera en tono de broma\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-u-y-rumor-sobre-cambio-de-nombre-ni-siquiera-en-tono-de-broma/2026-10-15/123715.html",
-      "fecha_publicacion": "2026-10-15 123715"
     },
     {
       "titulo": "Con detalles conmemorativos: filtran modelos de camiseta que utilizará La U en su Centenario",
@@ -48,18 +48,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/15/reunion-fifa-y-anfp-termina-en-despelote-y-milad-al-mando-de-federacion.shtml",
       "fecha_publicacion": "2026-10-15 09:10"
-    },
-    {
-      "titulo": "Tras dos suspensiones: Coquimbo y O’Higgins ya tienen nueva fecha y sede para final de Copa de la Liga",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/15/tras-dos-suspensiones-coquimbo-y-ohiggins-ya-tienen-nueva-fecha-y-sede-para-final-de-copa-de-la-liga.shtml",
-      "fecha_publicacion": "2026-10-15 08:44"
-    },
-    {
-      "titulo": "Tribunal castigó a hinchas de la U por incidentes del Sausalito",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/tribunal-castigo-a-hinchas-de-la-u-por-incidentes-del-sausalito/2026-10-14/125018.html",
-      "fecha_publicacion": "2026-10-14 125018"
     }
   ]
 }
