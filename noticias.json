@@ -1,11 +1,17 @@
 {
-  "actualizado": "2026-10-15T20:30:29.509219+00:00",
+  "actualizado": "2026-10-15T21:00:30.345936+00:00",
   "noticias": [
     {
       "titulo": "Se juega en Santa Laura: ANFP confirmó recinto que recibirá a Palestino y Colo Colo en Liga de Primera",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/15/se-juega-en-santa-laura-anfp-confirmo-recinto-que-recibira-a-palestino-y-colo-colo-en-liga-de-primera.shtml",
       "fecha_publicacion": "2026-10-15 17:29"
+    },
+    {
+      "titulo": "Oficial: Vozinha firmó un nuevo contrato",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/oficial-vozinha-firmo-un-nuevo-contrato/2026-10-15/172646.html",
+      "fecha_publicacion": "2026-10-15 172646"
     },
     {
       "titulo": "Interés desde México pone en riesgo continuidad de Fernando Ortiz en Colo Colo",
@@ -24,12 +30,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/15/fernandez-vial-e-iberia-deberan-esperar-suspenden-duelo-clave-que-definia-el-ultimo-cupo-a-liguilla.shtml",
       "fecha_publicacion": "2026-10-15 15:19"
-    },
-    {
-      "titulo": "Filtran la camiseta que vestirá Universidad de Chile para conmemorar los 100 años del club",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/filtran-la-camiseta-que-vestira-universidad-de-chile-para-conmemorar-los/2026-10-15/134124.html",
-      "fecha_publicacion": "2026-10-15 134124"
     },
     {
       "titulo": "Branco Ampuero: Nuestro único foco es ir a La Calera y quedarnos con los tres puntos",
@@ -60,12 +60,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/esteban-gonzalez-comento-la-opcion-de-llegar-a-la-roja-claramente-uno/2026-10-15/114903.html",
       "fecha_publicacion": "2026-10-15 114903"
-    },
-    {
-      "titulo": "Matías Rodríguez palpitó su adiós y evocó hitos: citación a Argentina estuvo sobre la Sudamericana",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/matias-rodriguez-palpito-su-adios-y-evoco-hitos-citacion-a-argentina/2026-10-15/111924.html",
-      "fecha_publicacion": "2026-10-15 111924"
     }
   ]
 }
