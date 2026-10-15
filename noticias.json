@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-15T02:30:25.816904+00:00",
+  "actualizado": "2026-10-15T03:00:31.613896+00:00",
   "noticias": [
+    {
+      "titulo": "Anuncian fecha y estadio para jugar la final de la Copa de la Liga entre O'Higgins y Coquimbo Unido",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/14/1214162/ohiggins-coquimbo-final-copadelaliga-fecha.html",
+      "fecha_publicacion": "2026-10-14 21:57"
+    },
     {
       "titulo": "Ingeniera a cargo de cancha del Estadio Nacional anticipó cómo quedará tras shows de BTS",
       "fuente": "BioBioChile",
@@ -48,12 +54,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/milad-y-el-futuro-dt-de-la-roja-se-que-ha-habido-conversaciones-con/2026-10-14/144547.html",
       "fecha_publicacion": "2026-10-14 144547"
-    },
-    {
-      "titulo": "Pablo Milad saca pecho por su gestión, habla de los candidatos a reemplazarlo y de Marcelino Núñez: \"Me parece extraño\"",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/14/1214121/milad-gestion-anfp-salida.html",
-      "fecha_publicacion": "2026-10-14 14:34"
     }
   ]
 }
