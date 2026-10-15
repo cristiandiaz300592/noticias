@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-15T12:00:34.561824+00:00",
+  "actualizado": "2026-10-15T12:30:27.083069+00:00",
   "noticias": [
+    {
+      "titulo": "Reunión entre FIFA y ANFP terminó en bochorno: dirigentes enfrentados y Pablo Milad ’aferrado’ a cargo",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/15/reunion-fifa-y-anfp-termina-en-despelote-y-milad-al-mando-de-federacion.shtml",
+      "fecha_publicacion": "2026-10-15 09:10"
+    },
     {
       "titulo": "Tras dos suspensiones: Coquimbo y O’Higgins ya tienen nueva fecha y sede para final de Copa de la Liga",
       "fuente": "BioBioChile",
@@ -30,6 +36,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/milad-y-el-futuro-dt-de-la-roja-se-que-ha-habido-conversaciones-con/2026-10-14/144547.html",
       "fecha_publicacion": "2026-10-14 144547"
+    },
+    {
+      "titulo": "Tribunal castigó a hinchas de la U por incidentes del Sausalito",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/tribunal-castigo-a-hinchas-de-la-u-por-incidentes-del-sausalito/2026-10-14/125018.html",
+      "fecha_publicacion": "2026-10-14 125018"
     }
   ]
 }
