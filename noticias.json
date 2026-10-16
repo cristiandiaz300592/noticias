@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-16T11:30:28.357103+00:00",
+  "actualizado": "2026-10-16T12:30:31.953730+00:00",
   "noticias": [
+    {
+      "titulo": "En medio de su gran momento en México: Esteban González abre su opción como técnico de la selección chilena",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/16/1214296/esteban-gonzalez-seleccion-chilena-futuro.html",
+      "fecha_publicacion": "2026-10-16 09:17"
+    },
+    {
+      "titulo": "Navia liquidó a Córdova y contó que DT le escribió tras crítica por ’matar’ jugadores: \"Yo lo encaro\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/16/navia-liquido-a-cordova-y-conto-que-dt-le-escribio-tras-critica-por-matar-jugadores-yo-lo-encaro.shtml",
+      "fecha_publicacion": "2026-10-16 08:57"
+    },
     {
       "titulo": "El eterno interinato de Córdova: ¿Quién elige al DT de La Roja tras separación de ANFP-Federación?",
       "fuente": "BioBioChile",
@@ -44,12 +56,6 @@
       "fecha_publicacion": "2026-10-15 16:04"
     },
     {
-      "titulo": "Fernández Vial e Iberia deberán esperar: suspenden duelo clave que definía el último cupo a liguilla",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/15/fernandez-vial-e-iberia-deberan-esperar-suspenden-duelo-clave-que-definia-el-ultimo-cupo-a-liguilla.shtml",
-      "fecha_publicacion": "2026-10-15 15:19"
-    },
-    {
       "titulo": "Filtran la camiseta que vestirá Universidad de Chile para conmemorar los 100 años del club",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/filtran-la-camiseta-que-vestira-universidad-de-chile-para-conmemorar-los/2026-10-15/134124.html",
@@ -66,12 +72,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-desmintio-tenso-cruce-con-jorge-uauy-en-reunion-de-fifa/2026-10-15/130219.html",
       "fecha_publicacion": "2026-10-15 130219"
-    },
-    {
-      "titulo": "La U y rumor sobre cambio de nombre: \"Ni siquiera en tono de broma\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-u-y-rumor-sobre-cambio-de-nombre-ni-siquiera-en-tono-de-broma/2026-10-15/123715.html",
-      "fecha_publicacion": "2026-10-15 123715"
     },
     {
       "titulo": "Esteban González comentó la opción de llegar a la Roja: Claramente uno se proyecta",
