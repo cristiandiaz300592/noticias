@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-16T18:30:28.616421+00:00",
+  "actualizado": "2026-10-16T19:00:29.020947+00:00",
   "noticias": [
+    {
+      "titulo": "San Felipe, el club que ha sobrevivido entre ’escritoriazos’ en la B con maniobras y demandas",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/16/san-felipe-el-club-que-ha-sobrevivido-entre-escritoriazos-en-la-b-con-maniobras-y-demandas.shtml",
+      "fecha_publicacion": "2026-10-16 15:51"
+    },
+    {
+      "titulo": "La U confirmó estadio y horario para la revancha con Deportes Antofagasta",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-confirmo-estadio-y-horario-para-la-revancha-con-deportes-antofagasta/2026-10-16/152921.html",
+      "fecha_publicacion": "2026-10-16 152921"
+    },
     {
       "titulo": "Aquino dio un paso clave para volver a las canchas en Colo Colo",
       "fuente": "Cooperativa",
@@ -78,12 +90,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/15/es-extrano-yo-no-conozco-otros-casos-borghi-manifesto-desacuerdo-con-transmisiones-de-arturo-vidal.shtml",
       "fecha_publicacion": "2026-10-15 21:31"
-    },
-    {
-      "titulo": "UdeC emitió comunicado en Redes: desmintió riesgo de pérdida de puntos por reclamos de representantes",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/15/udec-emitio-comunicado-en-redes-desmintio-riesgo-de-perdida-de-puntos-por-reclamos-de-representantes.shtml",
-      "fecha_publicacion": "2026-10-15 18:51"
     }
   ]
 }
