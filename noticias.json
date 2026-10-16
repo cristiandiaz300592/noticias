@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-16T23:00:30.432691+00:00",
+  "actualizado": "2026-10-16T23:30:27.045257+00:00",
   "noticias": [
+    {
+      "titulo": "Wanderers goleó a Rangers y arremete en la pelea por el liderato de la ’B’: piducanos siguen colistas",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/16/wanderers-goleo-a-rangers-y-arremete-en-la-pelea-por-el-liderato-de-la-b-piducanos-siguen-colistas.shtml",
+      "fecha_publicacion": "2026-10-16 20:10"
+    },
     {
       "titulo": "Azul Azul aseguró continuidad operativa de la U ante la salida de su directorio",
       "fuente": "Cooperativa",
@@ -44,10 +50,10 @@
       "fecha_publicacion": "2026-10-16 16:43"
     },
     {
-      "titulo": "Corte Suprema ratificó revés para Clark ante la CMF por la adquisición de Azul Azul",
+      "titulo": "Ronald Fuentes dio \"tirón de orejas\" a Patricio Rubio por asistir al partido de la U",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/corte-suprema-ratifico-reves-para-clark-ante-la-cmf-por-la-adquisicion/2026-10-16/162718.html",
-      "fecha_publicacion": "2026-10-16 162718"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/ronald-fuentes-dio-tiron-de-orejas-a-patricio-rubio-por-asistir-al/2026-10-16/160757.html",
+      "fecha_publicacion": "2026-10-16 160757"
     },
     {
       "titulo": "Sede y horario confirmado: La U oficializó programación para recibir a Antofagasta por Copa Chile",
@@ -114,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-como-estas-compadrito-vozinha-fue-ovacionado-en-concierto/2026-10-16/095448.html",
       "fecha_publicacion": "2026-10-16 095448"
-    },
-    {
-      "titulo": "Pellegrini y la banca de La Roja: Es importante que Nicolás Córdova siga haciendo su trabajo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/pellegrini-y-la-banca-de-la-roja-es-importante-que-nicolas-cordova-siga/2026-10-16/093121.html",
-      "fecha_publicacion": "2026-10-16 093121"
     }
   ]
 }
