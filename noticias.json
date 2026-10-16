@@ -1,11 +1,17 @@
 {
-  "actualizado": "2026-10-16T20:00:31.030729+00:00",
+  "actualizado": "2026-10-16T20:30:29.433268+00:00",
   "noticias": [
     {
       "titulo": "Ministro Riveros destacó cumbre con ANFP, FFCh y FIFA: \"Fue una reunión en muy buenos términos\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/16/ministro-riveros-destaco-cumbre-con-anfp-ffch-y-fifa-fue-una-reunion-en-muy-buenos-terminos.shtml",
       "fecha_publicacion": "2026-10-16 16:43"
+    },
+    {
+      "titulo": "Corte Suprema ratificó revés para Clark ante la CMF por la adquisición de Azul Azul",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/corte-suprema-ratifico-reves-para-clark-ante-la-cmf-por-la-adquisicion/2026-10-16/162718.html",
+      "fecha_publicacion": "2026-10-16 162718"
     },
     {
       "titulo": "Clave por el segundo puesto: Clásico universitario tiene programación confirmada",
@@ -96,12 +102,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/16/navia-liquido-a-cordova-y-conto-que-dt-le-escribio-tras-critica-por-matar-jugadores-yo-lo-encaro.shtml",
       "fecha_publicacion": "2026-10-16 08:57"
-    },
-    {
-      "titulo": "El eterno interinato de Córdova: ¿Quién elige al DT de La Roja tras separación de ANFP-Federación?",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/16/la-roja-el-eterno-interinato-de-nico-cordova-quien-elige-dt-de-chile-tras-separacion-de-anfp-federacion.shtml",
-      "fecha_publicacion": "2026-10-16 06:40"
     }
   ]
 }
