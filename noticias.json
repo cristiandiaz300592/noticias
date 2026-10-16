@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-16T21:30:25.024522+00:00",
+  "actualizado": "2026-10-16T22:00:30.208369+00:00",
   "noticias": [
+    {
+      "titulo": "Azul Azul aseguró continuidad operativa de la U ante la salida de su directorio",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/azul-azul-aseguro-continuidad-operativa-de-la-u-ante-la-salida-de-su/2026-10-16/183349.html",
+      "fecha_publicacion": "2026-10-16 183349"
+    },
+    {
+      "titulo": "Laura Fingerhuth y Gael Arias: Los abanderados del Team Chile de cara a los Juegos Olímpicos de la Juventud 2026",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/16/1214361/juegos-olimpicos-de-la-juventud.html",
+      "fecha_publicacion": "2026-10-16 18:14"
+    },
     {
       "titulo": "Se acaba el ciclo de Cecilia Pérez: Directorio de Azul Azul fue revocado",
       "fuente": "Cooperativa",
@@ -38,12 +50,6 @@
       "fecha_publicacion": "2026-10-16 162718"
     },
     {
-      "titulo": "Ronald Fuentes dio \"tirón de orejas\" a Patricio Rubio por asistir al partido de la U",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/ronald-fuentes-dio-tiron-de-orejas-a-patricio-rubio-por-asistir-al/2026-10-16/160757.html",
-      "fecha_publicacion": "2026-10-16 160757"
-    },
-    {
       "titulo": "Sede y horario confirmado: La U oficializó programación para recibir a Antofagasta por Copa Chile",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/16/sede-y-horario-confirmado-la-u-oficializo-programacion-para-recibir-a-antofagasta-por-copa-chile.shtml",
@@ -56,10 +62,22 @@
       "fecha_publicacion": "2026-10-16 15:51"
     },
     {
+      "titulo": "La U confirmó estadio y horario para la revancha con Deportes Antofagasta",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-confirmo-estadio-y-horario-para-la-revancha-con-deportes-antofagasta/2026-10-16/152921.html",
+      "fecha_publicacion": "2026-10-16 152921"
+    },
+    {
       "titulo": "Aquino dio un paso clave para volver a las canchas en Colo Colo",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/aquino-dio-un-paso-clave-para-volver-a-las-canchas-en-colo-colo/2026-10-16/152011.html",
       "fecha_publicacion": "2026-10-16 152011"
+    },
+    {
+      "titulo": "Matías Rodríguez habló de la presencia de Beccacece y ausencia de Sampaoli en su despedida",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/matias-rodriguez-hablo-de-la-presencia-de-beccacece-y-ausencia-de/2026-10-16/144143.html",
+      "fecha_publicacion": "2026-10-16 144143"
     },
     {
       "titulo": "La incertidumbre que aparece en Colo Colo por el futuro de Fernando Ortiz y el equipo mexicano que vendría a buscarlo",
@@ -102,18 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/pellegrini-y-la-banca-de-la-roja-es-importante-que-nicolas-cordova-siga/2026-10-16/093121.html",
       "fecha_publicacion": "2026-10-16 093121"
-    },
-    {
-      "titulo": "En medio de su gran momento en México: Esteban González abre su opción como técnico de la selección chilena",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/16/1214296/esteban-gonzalez-seleccion-chilena-futuro.html",
-      "fecha_publicacion": "2026-10-16 09:17"
-    },
-    {
-      "titulo": "Navia liquidó a Córdova y contó que DT le escribió tras crítica por ’matar’ jugadores: \"Yo lo encaro\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/16/navia-liquido-a-cordova-y-conto-que-dt-le-escribio-tras-critica-por-matar-jugadores-yo-lo-encaro.shtml",
-      "fecha_publicacion": "2026-10-16 08:57"
     }
   ]
 }
