@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-10-16T21:00:27.491114+00:00",
+  "actualizado": "2026-10-16T21:23:32.265881+00:00",
   "noticias": [
+    {
+      "titulo": "Se acaba el ciclo de Cecilia Pérez: Directorio de Azul Azul fue revocado",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/se-acaba-el-ciclo-de-cecilia-perez-directorio-de-azul-azul-fue-revocado/2026-10-16/181028.html",
+      "fecha_publicacion": "2026-10-16 181028"
+    },
+    {
+      "titulo": "Beccacece espera que Pellegrini asuma en La Roja",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/beccacece-espera-que-pellegrini-asuma-en-la-roja/2026-10-16/180021.html",
+      "fecha_publicacion": "2026-10-16 180021"
+    },
+    {
+      "titulo": "Rock N’Roll Running Series alista su fiesta en Santiago: 6 mil inscritos en corrida con concierto",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/10/16/rock-nroll-running-series-alista-su-fiesta-en-santiago-6-mil-inscritos-en-corrida-con-concierto.shtml",
+      "fecha_publicacion": "2026-10-16 17:38"
+    },
+    {
+      "titulo": "Héctor Tapia y los jóvenes en Colo Colo: La sub 21 es prácticamente sub 18, aceleramos el proceso",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/hector-tapia-y-los-jovenes-en-colo-colo-la-sub-21-es-practicamente-sub/2026-10-16/172725.html",
+      "fecha_publicacion": "2026-10-16 172725"
+    },
     {
       "titulo": "Ministro Riveros destacó cumbre con ANFP, FFCh y FIFA: \"Fue una reunión en muy buenos términos\"",
       "fuente": "BioBioChile",
@@ -12,12 +36,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/corte-suprema-ratifico-reves-para-clark-ante-la-cmf-por-la-adquisicion/2026-10-16/162718.html",
       "fecha_publicacion": "2026-10-16 162718"
-    },
-    {
-      "titulo": "Clave por el segundo puesto: Clásico universitario tiene programación confirmada",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/clave-por-el-segundo-puesto-clasico-universitario-tiene-programacion/2026-10-16/162709.html",
-      "fecha_publicacion": "2026-10-16 162709"
     },
     {
       "titulo": "Ronald Fuentes dio \"tirón de orejas\" a Patricio Rubio por asistir al partido de la U",
@@ -38,28 +56,22 @@
       "fecha_publicacion": "2026-10-16 15:51"
     },
     {
-      "titulo": "La U confirmó estadio y horario para la revancha con Deportes Antofagasta",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-confirmo-estadio-y-horario-para-la-revancha-con-deportes-antofagasta/2026-10-16/152921.html",
-      "fecha_publicacion": "2026-10-16 152921"
-    },
-    {
       "titulo": "Aquino dio un paso clave para volver a las canchas en Colo Colo",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/aquino-dio-un-paso-clave-para-volver-a-las-canchas-en-colo-colo/2026-10-16/152011.html",
       "fecha_publicacion": "2026-10-16 152011"
     },
     {
-      "titulo": "Matías Rodríguez habló de la presencia de Beccacece y ausencia de Sampaoli en su despedida",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/matias-rodriguez-hablo-de-la-presencia-de-beccacece-y-ausencia-de/2026-10-16/144143.html",
-      "fecha_publicacion": "2026-10-16 144143"
-    },
-    {
       "titulo": "La incertidumbre que aparece en Colo Colo por el futuro de Fernando Ortiz y el equipo mexicano que vendría a buscarlo",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/16/1214320/fernando-ortiz-colocolo-futuro-mexico.html",
       "fecha_publicacion": "2026-10-16 14:21"
+    },
+    {
+      "titulo": "Gabriel Suazo respaldó la opción de Pellegrini en La Roja",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/gabriel-suazo-respaldo-la-opcion-de-pellegrini-en-la-roja/2026-10-16/140758.html",
+      "fecha_publicacion": "2026-10-16 140758"
     },
     {
       "titulo": "Johnny Herrera se bajó de la despedida de Matías Rodríguez: \"No me llevo bien con la gente de la U\"",
