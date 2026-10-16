@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-16T12:32:59.816349+00:00",
+  "actualizado": "2026-10-16T13:00:32.450365+00:00",
   "noticias": [
+    {
+      "titulo": "Pellegrini y la banca de La Roja: Es importante que Nicolás Córdova siga haciendo su trabajo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/pellegrini-y-la-banca-de-la-roja-es-importante-que-nicolas-cordova-siga/2026-10-16/093121.html",
+      "fecha_publicacion": "2026-10-16 093121"
+    },
     {
       "titulo": "En medio de su gran momento en México: Esteban González abre su opción como técnico de la selección chilena",
       "fuente": "Emol",
@@ -38,12 +44,6 @@
       "fecha_publicacion": "2026-10-15 17:29"
     },
     {
-      "titulo": "Oficial: Vozinha firmó un nuevo contrato",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/oficial-vozinha-firmo-un-nuevo-contrato/2026-10-15/172646.html",
-      "fecha_publicacion": "2026-10-15 172646"
-    },
-    {
       "titulo": "Interés desde México pone en riesgo continuidad de Fernando Ortiz en Colo Colo",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/interes-desde-mexico-pone-en-riesgo-continuidad-de-fernando-ortiz-en/2026-10-15/165137.html",
@@ -62,16 +62,16 @@
       "fecha_publicacion": "2026-10-15 134124"
     },
     {
-      "titulo": "Branco Ampuero: Nuestro único foco es ir a La Calera y quedarnos con los tres puntos",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/branco-ampuero-nuestro-unico-foco-es-ir-a-la-calera-y-quedarnos-con-los/2026-10-15/133114.html",
-      "fecha_publicacion": "2026-10-15 133114"
-    },
-    {
       "titulo": "Cecilia Pérez desmintió tenso cruce con Jorge Uauy en reunión de FIFA con ANFP",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-desmintio-tenso-cruce-con-jorge-uauy-en-reunion-de-fifa/2026-10-15/130219.html",
       "fecha_publicacion": "2026-10-15 130219"
+    },
+    {
+      "titulo": "La U y rumor sobre cambio de nombre: \"Ni siquiera en tono de broma\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-u-y-rumor-sobre-cambio-de-nombre-ni-siquiera-en-tono-de-broma/2026-10-15/123715.html",
+      "fecha_publicacion": "2026-10-15 123715"
     },
     {
       "titulo": "Esteban González comentó la opción de llegar a la Roja: Claramente uno se proyecta",
