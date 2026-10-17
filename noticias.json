@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T00:30:25.131664+00:00",
+  "actualizado": "2026-10-17T01:00:25.893216+00:00",
   "noticias": [
     {
       "titulo": "Más detalles del terremoto azul: ¿José Miguel Insulza analiza no ser parte del nuevo directorio?",
@@ -18,12 +18,6 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/16/1214388/tabla-posiciones-primerab-ascenso-fecha28.html",
       "fecha_publicacion": "2026-10-16 20:09"
-    },
-    {
-      "titulo": "Azul Azul aseguró continuidad operativa de la U ante la salida de su directorio",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/azul-azul-aseguro-continuidad-operativa-de-la-u-ante-la-salida-de-su/2026-10-16/183349.html",
-      "fecha_publicacion": "2026-10-16 183349"
     },
     {
       "titulo": "Laura Fingerhuth y Gael Arias: Los abanderados del Team Chile de cara a los Juegos Olímpicos de la Juventud 2026",
@@ -120,6 +114,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-esquivo-rumores-desde-mexico-y-aviso-a-la-prensa-los-veo-el/2026-10-16/125841.html",
       "fecha_publicacion": "2026-10-16 125841"
+    },
+    {
+      "titulo": "De solución a dolor de cabeza: la Copa de la Liga y las lecciones de su primera edición",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/16/de-solucion-a-dolor-de-cabeza-la-copa-de-la-liga-y-las-lecciones-de-su-primera-edicion.shtml",
+      "fecha_publicacion": "2026-10-16 12:18"
     }
   ]
 }
