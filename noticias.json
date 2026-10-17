@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-17T00:00:35.252773+00:00",
+  "actualizado": "2026-10-17T00:30:25.131664+00:00",
   "noticias": [
+    {
+      "titulo": "Más detalles del terremoto azul: ¿José Miguel Insulza analiza no ser parte del nuevo directorio?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/mas-detalles-del-terremoto-azul-jose-miguel-insulza-analiza-no-ser/2026-10-16/203019.html",
+      "fecha_publicacion": "2026-10-16 203019"
+    },
     {
       "titulo": "Wanderers goleó a Rangers y arremete en la pelea por el liderato de la ’B’: piducanos siguen colistas",
       "fuente": "BioBioChile",
@@ -56,6 +62,12 @@
       "fecha_publicacion": "2026-10-16 16:43"
     },
     {
+      "titulo": "Clave por el segundo puesto: Clásico universitario tiene programación confirmada",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/clave-por-el-segundo-puesto-clasico-universitario-tiene-programacion/2026-10-16/162709.html",
+      "fecha_publicacion": "2026-10-16 162709"
+    },
+    {
       "titulo": "Ronald Fuentes dio \"tirón de orejas\" a Patricio Rubio por asistir al partido de la U",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/ronald-fuentes-dio-tiron-de-orejas-a-patricio-rubio-por-asistir-al/2026-10-16/160757.html",
@@ -108,18 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-esquivo-rumores-desde-mexico-y-aviso-a-la-prensa-los-veo-el/2026-10-16/125841.html",
       "fecha_publicacion": "2026-10-16 125841"
-    },
-    {
-      "titulo": "De solución a dolor de cabeza: la Copa de la Liga y las lecciones de su primera edición",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/16/de-solucion-a-dolor-de-cabeza-la-copa-de-la-liga-y-las-lecciones-de-su-primera-edicion.shtml",
-      "fecha_publicacion": "2026-10-16 12:18"
-    },
-    {
-      "titulo": "[VIDEO] \"¡Cómo estás, compadrito!\": Vozinha fue ovacionado en concierto del Grupo Frontera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-como-estas-compadrito-vozinha-fue-ovacionado-en-concierto/2026-10-16/095448.html",
-      "fecha_publicacion": "2026-10-16 095448"
     }
   ]
 }
