@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-10-17T20:00:30.311806+00:00",
+  "actualizado": "2026-10-17T20:30:28.877701+00:00",
   "noticias": [
+    {
+      "titulo": "Goleada, set y partido: Cobreloa derrotó a Recoleta y sigue como escolta de San Luis en la ’B’",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/17/goleada-set-y-partido-cobreloa-derroto-a-recoleta-y-sigue-como-escolta-de-san-luis-en-la-b.shtml",
+      "fecha_publicacion": "2026-10-17 17:15"
+    },
     {
       "titulo": "San Luis venció con penal a Magallanes y consolidó liderato en Ascenso a falta de dos fechas",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/17/san-luis-vencio-con-penal-a-magallanes-y-consolido-liderato-en-ascenso-a-falta-de-dos-fechas.shtml",
       "fecha_publicacion": "2026-10-17 16:13"
+    },
+    {
+      "titulo": "Marcelino Núñez vive un drama en Inglaterra tras su intempestiva salida de la selección",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/17/1214419/marcelinonunez-premier-seleccion-ipswichtown.html",
+      "fecha_publicacion": "2026-10-17 14:12"
     },
     {
       "titulo": "Wanderers goleó a Rangers y arremete en la pelea por el liderato de la ’B’: piducanos siguen colistas",
