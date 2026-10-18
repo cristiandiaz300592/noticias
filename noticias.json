@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-18T22:00:29.033613+00:00",
+  "actualizado": "2026-10-18T22:30:25.906159+00:00",
   "noticias": [
+    {
+      "titulo": "Lo celebró Rangers: Santa Cruz enredó puntos con Antofagasta y se complicó en zona baja del Ascenso",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/18/liga-de-ascenso-santa-cruz-empato-antofagasta-y-da-oxigeno-a-rangers.shtml",
+      "fecha_publicacion": "2026-10-18 19:25"
+    },
     {
       "titulo": "Unión San Felipe no aprovechó ventaja de dos goles y Temucó le empató: sigue complicado en Primera B",
       "fuente": "BioBioChile",
@@ -24,12 +30,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/17/anibal-mosa-se-reunio-con-presidente-de-limache-pactaron-bloque-de-10-clubes-previo-a-elecciones-anfp.shtml",
       "fecha_publicacion": "2026-10-17 19:34"
-    },
-    {
-      "titulo": "Rock N’ Roll Running Series rompió récord en Santiago: carrera contó con más de 6 mil corredores",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/10/17/rock-n-roll-running-series-rompio-record-en-santiago-carrera-conto-con-mas-de-6-mil-corredores.shtml",
-      "fecha_publicacion": "2026-10-17 18:29"
     }
   ]
 }
