@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-18T01:00:28.512437+00:00",
+  "actualizado": "2026-10-18T01:12:35.324175+00:00",
   "noticias": [
+    {
+      "titulo": "Cómo sigue la emocionante definición entre San Luis y Cobreloa en la Primera B",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/17/1214436/primera-b-definicion.html",
+      "fecha_publicacion": "2026-10-17 22:00"
+    },
     {
       "titulo": "\"Fantasma\" Figueroa y La Roja: Después de Pellegrini, no hay otro técnico chileno con mis pergaminos",
       "fuente": "Cooperativa",
@@ -20,6 +26,12 @@
       "fecha_publicacion": "2026-10-17 19:34"
     },
     {
+      "titulo": "Rock N’ Roll Running Series rompió récord en Santiago: carrera contó con más de 6 mil corredores",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/10/17/rock-n-roll-running-series-rompio-record-en-santiago-carrera-conto-con-mas-de-6-mil-corredores.shtml",
+      "fecha_publicacion": "2026-10-17 18:29"
+    },
+    {
       "titulo": "Goleada, set y partido: Cobreloa derrotó a Recoleta y sigue como escolta de San Luis en la ’B’",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/17/goleada-set-y-partido-cobreloa-derroto-a-recoleta-y-sigue-como-escolta-de-san-luis-en-la-b.shtml",
@@ -36,12 +48,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-destaca-en-el-top-10-mundial-de-atacantes-jovenes-mas/2026-10-17/135014.html",
       "fecha_publicacion": "2026-10-17 135014"
-    },
-    {
-      "titulo": "\"Para mí ídolo\": El emotivo mensaje de Cristóbal Campos a Matías Rodríguez en su despedida",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/para-mi-idolo-el-emotivo-mensaje-de-cristobal-campos-a-matias/2026-10-17/093204.html",
-      "fecha_publicacion": "2026-10-17 093204"
     },
     {
       "titulo": "Wanderers goleó a Rangers y arremete en la pelea por el liderato de la ’B’: piducanos siguen colistas",
