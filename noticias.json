@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T23:00:30.253420+00:00",
+  "actualizado": "2026-10-18T23:22:52.854958+00:00",
   "noticias": [
     {
       "titulo": "Lo celebró Rangers: Santa Cruz enredó puntos con Antofagasta y se complicó en zona baja del Ascenso",
@@ -26,16 +26,16 @@
       "fecha_publicacion": "2026-10-18 125231"
     },
     {
+      "titulo": "El regreso de Nicolás Jarry al tenis será ante Tomás Barrios en el Challenger 75 de Cali: A qué hora es el partido este lunes",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/17/1214444/jarry-barrios-challenger-cali-cuadro.html",
+      "fecha_publicacion": "2026-10-17 20:15"
+    },
+    {
       "titulo": "Matías Rodríguez vivió su emotiva despedida ante miles de hinchas de la U en La Florida",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/matias-rodriguez-vivio-su-emotiva-despedida-ante-miles-de-hinchas-de-la/2026-10-17/200839.html",
       "fecha_publicacion": "2026-10-17 200839"
-    },
-    {
-      "titulo": "Presidente de Limache revela reunión con Mosa: asegura que se armó bloque para elecciones ANFP",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/17/anibal-mosa-se-reunio-con-presidente-de-limache-pactaron-bloque-de-10-clubes-previo-a-elecciones-anfp.shtml",
-      "fecha_publicacion": "2026-10-17 19:34"
     }
   ]
 }
