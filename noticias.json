@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-19T11:30:24.283076+00:00",
+  "actualizado": "2026-10-19T12:00:34.255882+00:00",
   "noticias": [
+    {
+      "titulo": "Vidal analizó errores de Maureira y utilizó a Bravo como ejemplo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-analizo-errores-de-maureira-y-utilizo-a-bravo-como-ejemplo/2026-10-19/083238.html",
+      "fecha_publicacion": "2026-10-19 083238"
+    },
     {
       "titulo": "Vidal analiza sin filtro a Gabriel Maureira, mete a Claudio Bravo y pronostica el futuro del joven portero de Colo Colo",
       "fuente": "Emol",
@@ -12,6 +18,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-programacion-de-la-fecha-25-de-la-liga-de-primera/2026-10-18/225902.html",
       "fecha_publicacion": "2026-10-18 225902"
+    },
+    {
+      "titulo": "Sergio Vargas celebró la remoción del directorio de Azul Azul: \"Es momento de limpiar el club\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/sergio-vargas-celebro-la-remocion-del-directorio-de-azul-azul-es/2026-10-18/203954.html",
+      "fecha_publicacion": "2026-10-18 203954"
     },
     {
       "titulo": "Lo celebró Rangers: Santa Cruz enredó puntos con Antofagasta y se complicó en zona baja del Ascenso",
