@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-19T23:00:30.173384+00:00",
+  "actualizado": "2026-10-19T23:30:29.334682+00:00",
   "noticias": [
+    {
+      "titulo": "Delegación pone freno a Copa Chile: no autorizará duelos de Colo Colo y La U por pronóstico de lluvias",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/19/copa-chile-partidos-de-colo-colo-y-la-u-no-se-jugaran-esta-semana.shtml",
+      "fecha_publicacion": "2026-10-19 20:29"
+    },
+    {
+      "titulo": "Liquidador de Sartor y la salida de Cecilia Pérez: \"La indefinición es peor que no tomar...",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/liquidador-de-sartor-y-la-salida-de-cecilia-perez-la-indefinicion-es/2026-10-19/200715.html",
+      "fecha_publicacion": "2026-10-19 200715"
+    },
     {
       "titulo": "La Roja debutó con un empate: Chile igualó ante favorito Australia en Mundial Sub 17 Femenino",
       "fuente": "BioBioChile",
@@ -38,22 +50,10 @@
       "fecha_publicacion": "2026-10-19 131212"
     },
     {
-      "titulo": "Fue ante la U: La UC conmemoró aniversario del récord goleador de Zampedri",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/fue-ante-la-u-la-uc-conmemoro-aniversario-del-record-goleador-de/2026-10-19/123749.html",
-      "fecha_publicacion": "2026-10-19 123749"
-    },
-    {
       "titulo": "Falleció Manuel Burboa, histórico creador del escudo de La Roja y miembro organizador del Mundial 1962",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/19/fallecio-manuel-burboa-historico-creador-del-escudo-de-la-roja-y-miembro-organizador-del-mundial-1962.shtml",
       "fecha_publicacion": "2026-10-19 12:37"
-    },
-    {
-      "titulo": "Fantasma Figueroa quiere La Roja: asegura que \"después de Pellegrini no hay otro\" con sus pergaminos",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/19/fantasma-figueroa-quiere-la-roja-asegura-que-despues-de-pellegrini-no-hay-otro-con-sus-pergaminos.shtml",
-      "fecha_publicacion": "2026-10-19 09:26"
     }
   ]
 }
