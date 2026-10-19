@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-19T15:30:27.322692+00:00",
+  "actualizado": "2026-10-19T15:43:54.087412+00:00",
   "noticias": [
+    {
+      "titulo": "Falleció Manuel Burboa, histórico creador del escudo de La Roja y miembro organizador del Mundial 1962",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/19/fallecio-manuel-burboa-historico-creador-del-escudo-de-la-roja-y-miembro-organizador-del-mundial-1962.shtml",
+      "fecha_publicacion": "2026-10-19 12:37"
+    },
     {
       "titulo": "La dura reacción en Colo Colo tras eliminación en la Libertadores femenina",
       "fuente": "Emol",
@@ -12,12 +18,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/19/fantasma-figueroa-quiere-la-roja-asegura-que-despues-de-pellegrini-no-hay-otro-con-sus-pergaminos.shtml",
       "fecha_publicacion": "2026-10-19 09:26"
-    },
-    {
-      "titulo": "Vidal analizó errores de Maureira y utilizó a Bravo como ejemplo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-analizo-errores-de-maureira-y-utilizo-a-bravo-como-ejemplo/2026-10-19/083238.html",
-      "fecha_publicacion": "2026-10-19 083238"
     },
     {
       "titulo": "Vidal analiza sin filtro a Gabriel Maureira, mete a Claudio Bravo y pronostica el futuro del joven portero de Colo Colo",
@@ -36,12 +36,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/18/liga-de-ascenso-santa-cruz-empato-antofagasta-y-da-oxigeno-a-rangers.shtml",
       "fecha_publicacion": "2026-10-18 19:25"
-    },
-    {
-      "titulo": "Insulza y el directorio de Azul Azul: Hay gente que no representaba a nadie, pues su representado está preso",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/insulza-y-el-directorio-de-azul-azul-hay-gente-que-no-representaba-a/2026-10-18/125231.html",
-      "fecha_publicacion": "2026-10-18 125231"
     }
   ]
 }
