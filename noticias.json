@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-20T19:30:32.578232+00:00",
+  "actualizado": "2026-10-20T20:00:30.306813+00:00",
   "noticias": [
+    {
+      "titulo": "A pocas horas del partido: Duelo de U. La Calera y Coquimbo se suspendió por tormenta",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/a-pocas-horas-del-partido-duelo-de-u-la-calera-y-coquimbo-se-suspendio/2026-10-20/164617.html",
+      "fecha_publicacion": "2026-10-20 164617"
+    },
     {
       "titulo": "La Roja femenina sufrió nueva caída en el ranking FIFA y registró su peor ubicación en 14 años",
       "fuente": "Cooperativa",
@@ -44,16 +50,10 @@
       "fecha_publicacion": "2026-10-20 09:51"
     },
     {
-      "titulo": "Unión Española ganó a Copiapó y se acercó a Liguilla: así quedó la tabla en la Liga de Ascenso",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/19/liga-de-ascenso-union-espanola-gano-a-copiapo-y-se-acerco-a-liguilla.shtml",
-      "fecha_publicacion": "2026-10-19 21:29"
-    },
-    {
-      "titulo": "Delegación frenó la Copa Chile: no autorizó duelo de Colo Colo y dejó en vilo el de La U por lluvias",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/19/copa-chile-partidos-de-colo-colo-y-la-u-no-se-jugaran-esta-semana.shtml",
-      "fecha_publicacion": "2026-10-19 20:29"
+      "titulo": "Liquidador de Sartor descartó ser hincha de Colo Colo: \"Jamás me he puesto esa camiseta\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/liquidador-de-sartor-descarto-ser-hincha-de-colo-colo-jamas-me-he/2026-10-20/090259.html",
+      "fecha_publicacion": "2026-10-20 090259"
     },
     {
       "titulo": "Liquidador de Sartor y la salida de Cecilia Pérez: \"La indefinición es peor que no tomar decisiones\"",
