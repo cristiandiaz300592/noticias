@@ -1,10 +1,22 @@
 {
-  "actualizado": "2026-10-20T22:00:29.367841+00:00",
+  "actualizado": "2026-10-20T22:30:25.319234+00:00",
   "noticias": [
     {
-      "titulo": "\"Las reglas deben ser respetadas\": La UC solicitó a la ANFP reconsiderar la reprogramación ante...",
+      "titulo": "Suma y sigue: Delegación suspende revancha La U-Antofagasta en Copa Chile por lluvias",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/20/suma-y-sigue-delegacion-suspende-revancha-la-u-antofagasta-en-copa-chile-por-lluvias.shtml",
+      "fecha_publicacion": "2026-10-20 19:14"
+    },
+    {
+      "titulo": "Fue suspendida la revancha entre la U y Antofagasta por la Copa Chile",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/las-reglas-deben-ser-respetadas-la-uc-solicito-a-la-anfp-reconsiderar/2026-10-20/184601.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/fue-suspendida-la-revancha-entre-la-u-y-antofagasta-por-la-copa-chile/2026-10-20/185816.html",
+      "fecha_publicacion": "2026-10-20 185816"
+    },
+    {
+      "titulo": "\"Las reglas deben ser respetadas\": UC pide reconsiderar la reprogramación ante Audax",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/las-reglas-deben-ser-respetadas-uc-pide-reconsiderar-la/2026-10-20/184601.html",
       "fecha_publicacion": "2026-10-20 184601"
     },
     {
@@ -36,12 +48,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/20/ronald-fuentes-union-espanola-estallo-contra-arbitros-pleno-partido-ascenso.shtml",
       "fecha_publicacion": "2026-10-20 13:06"
-    },
-    {
-      "titulo": "CMF aplicó millonaria multa a Clark por infracción de \"máxima gravedad\" en compra de la U",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cmf-aplico-millonaria-multa-a-clark-por-infraccion-de-maxima-gravedad/2026-10-20/120512.html",
-      "fecha_publicacion": "2026-10-20 120512"
     },
     {
       "titulo": "\"Tienen el fútbol pa' la ca...\": Ronald Fuentes estalla contra los arbitrajes en pleno partido de Unión Española en la Primera B",
