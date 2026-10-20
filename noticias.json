@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-20T01:00:27.646691+00:00",
+  "actualizado": "2026-10-20T01:30:28.637658+00:00",
   "noticias": [
+    {
+      "titulo": "Unión Española venció a Copiapó y mantuvo viva la ilusión de llegar a la liguilla",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-vencio-a-copiapo-y-mantuvo-viva-la-ilusion-de-llegar-a-la/2026-10-19/220032.html",
+      "fecha_publicacion": "2026-10-19 220032"
+    },
     {
       "titulo": "Unión Española ganó a Copiapó y se acercó a Liguilla: así quedó la tabla en la Liga de Ascenso",
       "fuente": "BioBioChile",
@@ -72,6 +78,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-jugo-al-misterio-si-tuve-o-no-una-llamada-me-lo-guardo/2026-10-19/131212.html",
       "fecha_publicacion": "2026-10-19 131212"
+    },
+    {
+      "titulo": "Fue ante la U: La UC conmemoró aniversario del récord goleador de Zampedri",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/fue-ante-la-u-la-uc-conmemoro-aniversario-del-record-goleador-de/2026-10-19/123749.html",
+      "fecha_publicacion": "2026-10-19 123749"
     },
     {
       "titulo": "Falleció Manuel Burboa, histórico creador del escudo de La Roja y miembro organizador del Mundial 1962",
