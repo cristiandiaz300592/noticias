@@ -1,11 +1,29 @@
 {
-  "actualizado": "2026-10-20T00:30:25.338380+00:00",
+  "actualizado": "2026-10-20T01:00:27.646691+00:00",
   "noticias": [
     {
       "titulo": "Unión Española ganó a Copiapó y se acercó a Liguilla: así quedó la tabla en la Liga de Ascenso",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/19/liga-de-ascenso-union-espanola-gano-a-copiapo-y-se-acerco-a-liguilla.shtml",
       "fecha_publicacion": "2026-10-19 21:29"
+    },
+    {
+      "titulo": "La ANFP reprograma el suspendido duelo UC vs Audax y aborda las fechas del clásico universitario y la final de la Copa de la Liga",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/19/1214612/universidad-catolica-audax-programacion-anfp.html",
+      "fecha_publicacion": "2026-10-19 21:27"
+    },
+    {
+      "titulo": "ANFP reprogramó el partido pendiente entre U. Católica y Audax Italiano",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/anfp-reprogramo-el-partido-pendiente-entre-u-catolica-y-audax-italiano/2026-10-19/212619.html",
+      "fecha_publicacion": "2026-10-19 212619"
+    },
+    {
+      "titulo": "Oficial: Suspenden lo que resta del partido entre Colo Colo y Puerto Montt por los cuartos de final de la Copa Chile",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/19/1214584/colocolo-puerto-montt-copa-chile.html",
+      "fecha_publicacion": "2026-10-19 20:34"
     },
     {
       "titulo": "Delegación frenó la Copa Chile: no autorizó duelo de Colo Colo y dejó en vilo el de La U por lluvias",
@@ -50,10 +68,10 @@
       "fecha_publicacion": "2026-10-19 14:52"
     },
     {
-      "titulo": "Video: Apoderado protagoniza violento episodio en el partido de Palestino vs Colo Colo en la categoría sub 12",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/19/1214569/apoderado-futbol-joven-colocolo-palestino.html",
-      "fecha_publicacion": "2026-10-19 14:32"
+      "titulo": "Ortiz jugó al misterio: Si tuve o no una llamada, me lo guardo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-jugo-al-misterio-si-tuve-o-no-una-llamada-me-lo-guardo/2026-10-19/131212.html",
+      "fecha_publicacion": "2026-10-19 131212"
     },
     {
       "titulo": "Falleció Manuel Burboa, histórico creador del escudo de La Roja y miembro organizador del Mundial 1962",
