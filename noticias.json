@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-20T23:00:30.884538+00:00",
+  "actualizado": "2026-10-20T23:30:25.478574+00:00",
   "noticias": [
+    {
+      "titulo": "La UC presentó \"reclamo formal\" a la ANFP por la reprogramación del duelo con Audax Italiano",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/20/1214720/universidad-catolica-audax-italiano-anfp.html",
+      "fecha_publicacion": "2026-10-20 20:07"
+    },
+    {
+      "titulo": "Oficial: Se suspende el duelo de la U con Antofagasta por cuartos de final de la Copa Chile",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/20/1214716/udechile-antofagasta-suspendido-copa-chile.html",
+      "fecha_publicacion": "2026-10-20 19:20"
+    },
     {
       "titulo": "Suma y sigue: Delegación suspende revancha La U-Antofagasta en Copa Chile por lluvias",
       "fuente": "BioBioChile",
@@ -48,12 +60,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/20/ronald-fuentes-union-espanola-estallo-contra-arbitros-pleno-partido-ascenso.shtml",
       "fecha_publicacion": "2026-10-20 13:06"
-    },
-    {
-      "titulo": "\"Tienen el fútbol pa' la ca...\": Ronald Fuentes estalla contra los arbitrajes en pleno partido de Unión Española en la Primera B",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/20/1214657/ronald-fuentes-union-espanola-primerab.html",
-      "fecha_publicacion": "2026-10-20 11:31"
     },
     {
       "titulo": "Copa Región de O'Higgins confirmó a los ocho participantes para su edición estreno",
