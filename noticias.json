@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-20T20:00:30.306813+00:00",
+  "actualizado": "2026-10-20T20:30:26.886577+00:00",
   "noticias": [
+    {
+      "titulo": "A horas de que se jugara: suspenden partido entre La Calera y Coquimbo por pronóstico de lluvias",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/20/suspenden-partido-la-calera-coquimbo-copa-chile.shtml",
+      "fecha_publicacion": "2026-10-20 17:19"
+    },
     {
       "titulo": "A pocas horas del partido: Duelo de U. La Calera y Coquimbo se suspendió por tormenta",
       "fuente": "Cooperativa",
@@ -54,12 +60,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/liquidador-de-sartor-descarto-ser-hincha-de-colo-colo-jamas-me-he/2026-10-20/090259.html",
       "fecha_publicacion": "2026-10-20 090259"
-    },
-    {
-      "titulo": "Liquidador de Sartor y la salida de Cecilia Pérez: \"La indefinición es peor que no tomar decisiones\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/liquidador-de-sartor-y-la-salida-de-cecilia-perez-la-indefinicion-es/2026-10-19/200715.html",
-      "fecha_publicacion": "2026-10-19 200715"
     },
     {
       "titulo": "Ortiz jugó al misterio: Si tuve o no una llamada, me lo guardo",
