@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-20T15:00:35.725379+00:00",
+  "actualizado": "2026-10-20T15:30:31.624196+00:00",
   "noticias": [
+    {
+      "titulo": "CMF aplicó millonaria multa a Clark por infracción de \"máxima gravedad\" en la toma de control de la U",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cmf-aplico-millonaria-multa-a-clark-por-infraccion-de-maxima-gravedad/2026-10-20/120512.html",
+      "fecha_publicacion": "2026-10-20 120512"
+    },
+    {
+      "titulo": "\"Tienen el fútbol pa' la ca...\": Ronald Fuentes estalla contra los arbitrajes en pleno partido de Unión Española en la Primera B",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/20/1214657/ronald-fuentes-union-espanola-primerab.html",
+      "fecha_publicacion": "2026-10-20 11:31"
+    },
     {
       "titulo": "Copa Región de O'Higgins confirmó a los ocho participantes para su edición estreno",
       "fuente": "Cooperativa",
@@ -20,10 +32,10 @@
       "fecha_publicacion": "2026-10-20 090259"
     },
     {
-      "titulo": "Regreso triunfal: Nicolás Jarry volvió a jugar tras más de seis meses y derrotó a Tomás Barrios en el Challenger de Cali",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/19/1214616/nicolas-jarry-regreso-challenger-cali.html",
-      "fecha_publicacion": "2026-10-19 23:33"
+      "titulo": "Unión Española venció a Copiapó y mantuvo viva la ilusión de llegar a la liguilla",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-vencio-a-copiapo-y-mantuvo-viva-la-ilusion-de-llegar-a-la/2026-10-19/220032.html",
+      "fecha_publicacion": "2026-10-19 220032"
     },
     {
       "titulo": "Unión Española ganó a Copiapó y se acercó a Liguilla: así quedó la tabla en la Liga de Ascenso",
