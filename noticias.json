@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-21T18:30:25.269440+00:00",
+  "actualizado": "2026-10-21T19:00:32.659266+00:00",
   "noticias": [
+    {
+      "titulo": "Colo Colo superó a la U y la UC en ranking mundial de mejores clubes formadores",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-supero-a-la-u-y-la-uc-en-ranking-mundial-de-mejores-clubes/2026-10-21/152423.html",
+      "fecha_publicacion": "2026-10-21 152423"
+    },
     {
       "titulo": "Corte de Apelaciones confirma sobreseimiento definitivo de Sergio Jadue, expresidente de ANFP",
       "fuente": "BioBioChile",
@@ -8,7 +14,13 @@
       "fecha_publicacion": "2026-10-21 14:51"
     },
     {
-      "titulo": "García Basso y la reprogramación ante Audax: \"Si tenemos que jugar tres partidos en ocho días,...",
+      "titulo": "En Colo Colo juegan al misterio con el itinerario de Vozinha para el Balón de Oro",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/en-colo-colo-juegan-al-misterio-con-el-itinerario-de-vozinha-para-el/2026-10-21/143606.html",
+      "fecha_publicacion": "2026-10-21 143606"
+    },
+    {
+      "titulo": "García Basso: \"Si tenemos que jugar tres partidos en ocho días, ahí estaremos\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garcia-basso-y-la-reprogramacion-ante-audax-si-tenemos-que-jugar-tres/2026-10-21/135255.html",
       "fecha_publicacion": "2026-10-21 135255"
@@ -18,12 +30,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/21/eso-es-decir-pavadas-borghi-explota-y-deja-estudio-tras-comentario-de-olmos-sobre-messi-y-maradona.shtml",
       "fecha_publicacion": "2026-10-21 10:57"
-    },
-    {
-      "titulo": "Fue suspendida la revancha entre la U y Antofagasta por la Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/fue-suspendida-la-revancha-entre-la-u-y-antofagasta-por-la-copa-chile/2026-10-20/185816.html",
-      "fecha_publicacion": "2026-10-20 185816"
     },
     {
       "titulo": "\"Las reglas deben ser respetadas\": UC pide reconsiderar la reprogramación ante Audax",
