@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-22T20:00:30.281482+00:00",
+  "actualizado": "2026-10-22T20:30:28.024641+00:00",
   "noticias": [
+    {
+      "titulo": "Chile perdió con México y se complicó en Mundial Sub 17 Femenino: se jugará clasificación ante España",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/22/mundial-sub-17-femenino-chile-perdio-con-mexico.shtml",
+      "fecha_publicacion": "2026-10-22 17:11"
+    },
+    {
+      "titulo": "La Roja perdió con México y se complicó en el Mundial Femenino Sub 17",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-perdio-con-mexico-y-se-complico-en-el-mundial-femenino-sub-17/2026-10-22/164707.html",
+      "fecha_publicacion": "2026-10-22 164707"
+    },
     {
       "titulo": "Los reclamos de Católica tendrían efecto y la ANFP reprogramaría suspendido duelo ante Audax",
       "fuente": "Emol",
@@ -26,15 +38,9 @@
       "fecha_publicacion": "2026-10-22 142612"
     },
     {
-      "titulo": "Iván Román: Yo no hablo con Vozinha sobre el Balón de Oro",
+      "titulo": "La Roja sub 17 cayó ante México por el Mundial Femenino",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ivan-roman-yo-no-hablo-con-vozinha-sobre-el-balon-de-oro/2026-10-22/135530.html",
-      "fecha_publicacion": "2026-10-22 135530"
-    },
-    {
-      "titulo": "La Roja sub 17 cae ante México por el Mundial Femenino",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sub-17-cae-ante-mexico-por-el-mundial-femenino/2026-10-22/133133.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sub-17-cayo-ante-mexico-por-el-mundial-femenino/2026-10-22/133133.html",
       "fecha_publicacion": "2026-10-22 133133"
     },
     {
@@ -72,6 +78,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/johnny-herrera-abrio-la-puerta-a-un-rol-en-la-u-no-podria-decir-que/2026-10-22/094733.html",
       "fecha_publicacion": "2026-10-22 094733"
+    },
+    {
+      "titulo": "Rectora de la U evitó referirse a conflicto con Azul Azul: Me inhabilité por ser víctima de Sartor",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/rectora-de-la-u-evito-referirse-a-conflicto-con-azul-azul-me-inhabilite/2026-10-22/085707.html",
+      "fecha_publicacion": "2026-10-22 085707"
     }
   ]
 }
