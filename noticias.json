@@ -1,11 +1,17 @@
 {
-  "actualizado": "2026-10-22T02:00:31.803236+00:00",
+  "actualizado": "2026-10-22T02:30:24.805124+00:00",
   "noticias": [
     {
       "titulo": "Oficial: La U tiene sede y programación definida para el duelo contra Everton",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/oficial-la-u-tiene-sede-y-programacion-definida-para-el-duelo-contra/2026-10-21/203512.html",
       "fecha_publicacion": "2026-10-21 203512"
+    },
+    {
+      "titulo": "Cruzados anunció al nuevo gerente deportivo de Universidad Católica",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/cruzados-anuncio-al-nuevo-gerente-deportivo-de-universidad-catolica/2026-10-21/194255.html",
+      "fecha_publicacion": "2026-10-21 194255"
     },
     {
       "titulo": "Vozinha asoma como titular en Colo Colo para el día previo al Balón de Oro",
@@ -24,12 +30,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/21/corte-de-apelaciones-confirma-sobreseimiento-definitivo-de-sergio-jadue-expresidente-de-anfp.shtml",
       "fecha_publicacion": "2026-10-21 14:51"
-    },
-    {
-      "titulo": "García Basso: \"Si tenemos que jugar tres partidos en ocho días, ahí estaremos\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garcia-basso-y-la-reprogramacion-ante-audax-si-tenemos-que-jugar-tres/2026-10-21/135255.html",
-      "fecha_publicacion": "2026-10-21 135255"
     },
     {
       "titulo": "\"Eso es decir pavadas\": Borghi explota y deja estudio tras comentario de Olmos sobre Messi y Maradona",
