@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-22T16:30:27.828651+00:00",
+  "actualizado": "2026-10-22T17:00:31.003306+00:00",
   "noticias": [
+    {
+      "titulo": "La Roja sub 17 juega ante México por el Mundial Femenino",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sub-17-juega-ante-mexico-por-el-mundial-femenino/2026-10-22/133133.html",
+      "fecha_publicacion": "2026-10-22 133133"
+    },
     {
       "titulo": "Fallece Hugo Rivero, histórico campeón con Huachipato: club confirmó su muerte",
       "fuente": "BioBioChile",
@@ -60,12 +66,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/cruzados-anuncio-al-nuevo-gerente-deportivo-de-universidad-catolica/2026-10-21/194255.html",
       "fecha_publicacion": "2026-10-21 194255"
-    },
-    {
-      "titulo": "Vozinha asoma como titular en Colo Colo para el día previo al Balón de Oro",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-asoma-como-titular-en-colo-colo-para-el-dia-previo-al-balon-de/2026-10-21/171724.html",
-      "fecha_publicacion": "2026-10-21 171724"
     }
   ]
 }
