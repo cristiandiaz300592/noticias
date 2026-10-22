@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-22T19:00:31.067085+00:00",
+  "actualizado": "2026-10-22T19:30:27.631382+00:00",
   "noticias": [
+    {
+      "titulo": "Los reclamos de Católica tendrían efecto y la ANFP reprogramaría suspendido duelo ante Audax",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/22/1214916/anfp-catolica-audax-reprogramacion-quejas.html",
+      "fecha_publicacion": "2026-10-22 15:54"
+    },
     {
       "titulo": "El misterio en torno a Cristian Garin tras su debacle en la Davis y cuánto podría caer en el ranking",
       "fuente": "Emol",
@@ -66,12 +72,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/johnny-herrera-abrio-la-puerta-a-un-rol-en-la-u-no-podria-decir-que/2026-10-22/094733.html",
       "fecha_publicacion": "2026-10-22 094733"
-    },
-    {
-      "titulo": "Los irlandeses de Kneecap visitaron las instalaciones de Palestino en La Cisterna",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/los-irlandeses-de-kneecap-visitaron-las-instalaciones-de-palestino-en-la/2026-10-22/080156.html",
-      "fecha_publicacion": "2026-10-22 080156"
     }
   ]
 }
