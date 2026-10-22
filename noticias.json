@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-22T20:30:28.024641+00:00",
+  "actualizado": "2026-10-22T21:00:29.302692+00:00",
   "noticias": [
+    {
+      "titulo": "Los reclamos de Católica surgen efecto y se pospone el partido contra Audax por el Torneo Nacional",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/22/1214916/anfp-catolica-audax-reprogramacion-quejas.html",
+      "fecha_publicacion": "2026-10-22 17:52"
+    },
+    {
+      "titulo": "Golpe a la ANFP: Delegación rechazó programación del UC vs. Audax",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/golpe-a-la-anfp-delegacion-rechazo-programacion-del-uc-vs-audax/2026-10-22/172929.html",
+      "fecha_publicacion": "2026-10-22 172929"
+    },
     {
       "titulo": "Chile perdió con México y se complicó en Mundial Sub 17 Femenino: se jugará clasificación ante España",
       "fuente": "BioBioChile",
@@ -12,12 +24,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-perdio-con-mexico-y-se-complico-en-el-mundial-femenino-sub-17/2026-10-22/164707.html",
       "fecha_publicacion": "2026-10-22 164707"
-    },
-    {
-      "titulo": "Los reclamos de Católica tendrían efecto y la ANFP reprogramaría suspendido duelo ante Audax",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/22/1214916/anfp-catolica-audax-reprogramacion-quejas.html",
-      "fecha_publicacion": "2026-10-22 15:54"
     },
     {
       "titulo": "El misterio en torno a Cristian Garin tras su debacle en la Davis y cuánto podría caer en el ranking",
