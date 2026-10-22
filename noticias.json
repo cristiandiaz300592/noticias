@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-22T16:00:29.025311+00:00",
+  "actualizado": "2026-10-22T16:30:27.828651+00:00",
   "noticias": [
+    {
+      "titulo": "Fallece Hugo Rivero, histórico campeón con Huachipato: club confirmó su muerte",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/22/fallece-hugo-rivero-historico-campeon-con-huachipato-club-confirmo-su-muerte.shtml",
+      "fecha_publicacion": "2026-10-22 13:04"
+    },
+    {
+      "titulo": "Federico Valdés: Es incomprensible el poco cuidado que se tiene con la U",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/federico-valdes-es-incomprensible-el-poco-cuidado-que-se-tiene-con-la-u/2026-10-22/125536.html",
+      "fecha_publicacion": "2026-10-22 125536"
+    },
     {
       "titulo": "Nano Díaz reapareció y contó que debió ser operado: DT convaleciente busca estar a duelo de Concepción",
       "fuente": "BioBioChile",
@@ -18,6 +30,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/22/me-dijo-que-no-barticciotto-revelo-desaire-de-vozinha-y-considero-exagerada-su-postura.shtml",
       "fecha_publicacion": "2026-10-22 10:01"
+    },
+    {
+      "titulo": "Johnny Herrera abrió la puerta a un rol en la U: \"No podría decir que no, sería volver a mi casa\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/johnny-herrera-abrio-la-puerta-a-un-rol-en-la-u-no-podria-decir-que/2026-10-22/094733.html",
+      "fecha_publicacion": "2026-10-22 094733"
     },
     {
       "titulo": "Rectora de la U evitó referirse a conflicto con Azul Azul: Me inhabilité por ser víctima de...",
