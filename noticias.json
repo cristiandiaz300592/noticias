@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-10-22T18:00:32.443229+00:00",
+  "actualizado": "2026-10-22T18:30:36.577400+00:00",
   "noticias": [
+    {
+      "titulo": "El misterio en torno a Cristian Garin tras su debacle en la Davis y cuánto podría caer en el ranking",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/22/1214882/cristian-garin-ranking-temporada.html",
+      "fecha_publicacion": "2026-10-22 15:16"
+    },
     {
       "titulo": "U de Chile vs Deportivo Cali por Copa Libertadores Femenina: a qué hora juegan y dónde verlo en vivo",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/10/22/u-de-chile-vs-deportivo-cali-por-copa-libertadores-femenina-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
       "fecha_publicacion": "2026-10-22 14:52"
+    },
+    {
+      "titulo": "¿Vozinha se ausentará de la ceremonia del Balón de Oro?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-se-ausentara-de-la-ceremonia-del-balon-de-oro/2026-10-22/142612.html",
+      "fecha_publicacion": "2026-10-22 142612"
     },
     {
       "titulo": "Iván Román: Yo no hablo con Vozinha sobre el Balón de Oro",
@@ -14,9 +26,9 @@
       "fecha_publicacion": "2026-10-22 135530"
     },
     {
-      "titulo": "La Roja sub 17 juega ante México por el Mundial Femenino",
+      "titulo": "La Roja sub 17 vence a México por el Mundial Femenino",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sub-17-juega-ante-mexico-por-el-mundial-femenino/2026-10-22/133133.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sub-17-vence-a-mexico-por-el-mundial-femenino/2026-10-22/133133.html",
       "fecha_publicacion": "2026-10-22 133133"
     },
     {
@@ -26,10 +38,22 @@
       "fecha_publicacion": "2026-10-22 13:04"
     },
     {
+      "titulo": "Federico Valdés: Es incomprensible el poco cuidado que se tiene con la U",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/federico-valdes-es-incomprensible-el-poco-cuidado-que-se-tiene-con-la-u/2026-10-22/125536.html",
+      "fecha_publicacion": "2026-10-22 125536"
+    },
+    {
       "titulo": "Nano Díaz reapareció y contó que debió ser operado: DT convaleciente busca estar a duelo de Concepción",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/22/nano-diaz-reaparecio-y-conto-que-debio-ser-operado-dt-convaleciente-busca-estar-a-duelo-de-concepcion.shtml",
       "fecha_publicacion": "2026-10-22 12:05"
+    },
+    {
+      "titulo": "Vozinha firmó un nuevo contrato en Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-firmo-un-nuevo-contrato-en-chile/2026-10-22/102224.html",
+      "fecha_publicacion": "2026-10-22 102224"
     },
     {
       "titulo": "\"Me dijo que no...\": Barticciotto reveló ’desaire’ de Vozinha y consideró exagerada su postura",
@@ -44,16 +68,10 @@
       "fecha_publicacion": "2026-10-22 094733"
     },
     {
-      "titulo": "Oficial: La U tiene sede y programación definida para el duelo contra Everton",
+      "titulo": "Los irlandeses de Kneecap visitaron las instalaciones de Palestino en La Cisterna",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/oficial-la-u-tiene-sede-y-programacion-definida-para-el-duelo-contra/2026-10-21/203512.html",
-      "fecha_publicacion": "2026-10-21 203512"
-    },
-    {
-      "titulo": "Cruzados anunció al nuevo gerente deportivo de Universidad Católica",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/cruzados-anuncio-al-nuevo-gerente-deportivo-de-universidad-catolica/2026-10-21/194255.html",
-      "fecha_publicacion": "2026-10-21 194255"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/los-irlandeses-de-kneecap-visitaron-las-instalaciones-de-palestino-en-la/2026-10-22/080156.html",
+      "fecha_publicacion": "2026-10-22 080156"
     }
   ]
 }
