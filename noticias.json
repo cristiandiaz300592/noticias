@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-23T17:00:34.583985+00:00",
+  "actualizado": "2026-10-23T17:30:29.477342+00:00",
   "noticias": [
+    {
+      "titulo": "Gago se ofuscó por preguntas sobre Azul Azul: \"¿De fútbol no vamos a hablar?\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-se-ofusco-por-preguntas-sobre-azul-azul-de-futbol-no-vamos-a/2026-10-23/140534.html",
+      "fecha_publicacion": "2026-10-23 140534"
+    },
     {
       "titulo": "Colo Colo y Puerto Montt ya tienen fecha para reanudar su revancha de Copa Chile",
       "fuente": "Cooperativa",
@@ -48,6 +54,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/con-bronca-garnero-aun-mastica-eliminacion-de-copa-chile-ante-nuevo/2026-10-23/114103.html",
       "fecha_publicacion": "2026-10-23 114103"
+    },
+    {
+      "titulo": "La calculadora \"alba\": ¿Qué necesita Colo Colo para cerrar el título de la Liga de Primera?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/la-calculadora-alba-que-necesita-colo-colo-para-cerrar-el-titulo-de/2026-10-23/111027.html",
+      "fecha_publicacion": "2026-10-23 111027"
     },
     {
       "titulo": "Huachipato quiere meterse en la zona de copas y frenar el alza de Audax Italiano",
