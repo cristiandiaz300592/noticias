@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-10-23T18:00:33.441052+00:00",
+  "actualizado": "2026-10-23T18:29:39.401259+00:00",
   "noticias": [
+    {
+      "titulo": "Con sede por confirmar: ANFP reveló nueva fecha para revancha entre La U y Antofagasta por Copa Chile",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/23/con-sede-por-confirmar-anfp-revelo-nueva-fecha-para-revancha-entre-la-u-y-antofagasta-por-copa-chile.shtml",
+      "fecha_publicacion": "2026-10-23 15:04"
+    },
     {
       "titulo": "Gago se hartó de preguntas por tema Azul Azul en conferencia: \"¿Alguien va a hablar de fútbol?\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/23/gago-se-harto-de-preguntas-por-tema-azul-azul-en-conferencia-alguien-va-a-hablar-de-futbol.shtml",
       "fecha_publicacion": "2026-10-23 14:47"
+    },
+    {
+      "titulo": "Aquino suma bonos para volver a la citación de Colo Colo ante Palestino",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/aquino-suma-bonos-para-volver-a-la-citacion-de-colo-colo-ante-palestino/2026-10-23/144214.html",
+      "fecha_publicacion": "2026-10-23 144214"
     },
     {
       "titulo": "Gago se ofuscó por preguntas sobre Azul Azul: \"¿De fútbol no vamos a hablar?\"",
@@ -36,12 +48,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/queda-conocer-el-estadio-la-u-conocio-programacion-para-revancha-con/2026-10-23/132643.html",
       "fecha_publicacion": "2026-10-23 132643"
-    },
-    {
-      "titulo": "Los resultados de la fecha 25 de la Liga de Primera 2026",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-25-de-la-liga-de-primera-2026/2026-10-23/130227.html",
-      "fecha_publicacion": "2026-10-23 130227"
     },
     {
       "titulo": "\"Final\" entre Vial e Iberia de Tercera División sufre cuarta reprogramación: será a puertas cerradas",
