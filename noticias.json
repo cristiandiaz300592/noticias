@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-22T23:30:27.487777+00:00",
+  "actualizado": "2026-10-23T00:00:28.892116+00:00",
   "noticias": [
+    {
+      "titulo": "El plan para que Vozinha pueda jugar y luego emprender rumbo a Londres",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/el-plan-para-que-vozinha-pueda-jugar-y-luego-emprender-rumbo-a-londres/2026-10-22/201544.html",
+      "fecha_publicacion": "2026-10-22 201544"
+    },
     {
       "titulo": "[VIDEO] ¿Estaba offside? El polémico gol de México a La Roja en el Mundial Femenino Sub 17",
       "fuente": "Cooperativa",
@@ -50,12 +56,6 @@
       "fecha_publicacion": "2026-10-22 14:52"
     },
     {
-      "titulo": "¿Vozinha se ausentará de la ceremonia del Balón de Oro?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-se-ausentara-de-la-ceremonia-del-balon-de-oro/2026-10-22/142612.html",
-      "fecha_publicacion": "2026-10-22 142612"
-    },
-    {
       "titulo": "Iván Román: Yo no hablo con Vozinha sobre el Balón de Oro",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ivan-roman-yo-no-hablo-con-vozinha-sobre-el-balon-de-oro/2026-10-22/135530.html",
@@ -74,22 +74,10 @@
       "fecha_publicacion": "2026-10-22 125536"
     },
     {
-      "titulo": "Nano Díaz reapareció y contó que debió ser operado: DT convaleciente busca estar a duelo de Concepción",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/22/nano-diaz-reaparecio-y-conto-que-debio-ser-operado-dt-convaleciente-busca-estar-a-duelo-de-concepcion.shtml",
-      "fecha_publicacion": "2026-10-22 12:05"
-    },
-    {
       "titulo": "Vozinha firmó un nuevo contrato en Chile",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-firmo-un-nuevo-contrato-en-chile/2026-10-22/102224.html",
       "fecha_publicacion": "2026-10-22 102224"
-    },
-    {
-      "titulo": "Johnny Herrera abrió la puerta a un rol en la U: \"No podría decir que no, sería volver a mi casa\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/johnny-herrera-abrio-la-puerta-a-un-rol-en-la-u-no-podria-decir-que/2026-10-22/094733.html",
-      "fecha_publicacion": "2026-10-22 094733"
     },
     {
       "titulo": "Rectora de la U evitó referirse a conflicto con Azul Azul: Me inhabilité por ser víctima de Sartor",
