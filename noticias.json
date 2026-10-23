@@ -1,11 +1,29 @@
 {
-  "actualizado": "2026-10-23T16:00:32.180113+00:00",
+  "actualizado": "2026-10-23T16:30:41.124111+00:00",
   "noticias": [
+    {
+      "titulo": "Queda conocer el estadio: La U conoció programación para revancha con Antofagasta",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/queda-conocer-el-estadio-la-u-conocio-programacion-para-revancha-con/2026-10-23/132643.html",
+      "fecha_publicacion": "2026-10-23 132643"
+    },
+    {
+      "titulo": "Los resultados de la fecha 25 de la Liga de Primera 2026",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-25-de-la-liga-de-primera-2026/2026-10-23/130227.html",
+      "fecha_publicacion": "2026-10-23 130227"
+    },
     {
       "titulo": "\"Final\" entre Vial e Iberia de Tercera División sufre cuarta reprogramación: será a puertas cerradas",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/23/tercera-division-final-entre-vial-e-iberia-solo-sera-con-hinchas-aurinegros.shtml",
-      "fecha_publicacion": "2026-10-23 12:18"
+      "fecha_publicacion": "2026-10-23 12:58"
+    },
+    {
+      "titulo": "Cuándo se jugará lo que resta del duelo de Colo Colo con Puerto Montt y la revancha entre la U y Antofagasta por Copa Chile",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/23/1214998/colocolo-puertomontt-udechile-antofagasta-copachile.html",
+      "fecha_publicacion": "2026-10-23 12:53"
     },
     {
       "titulo": "Colo Colo y Puerto Montt tienen nuevo horario para disputar minutos pendientes de Copa Chile",
@@ -14,9 +32,9 @@
       "fecha_publicacion": "2026-10-23 12:00"
     },
     {
-      "titulo": "Garnero aún mastica eliminación de Copa Chile ante nuevo cruce con La Calera: \"Me deja mucha...",
+      "titulo": "Con bronca, Garnero aún mastica eliminación de Copa Chile ante nuevo cruce con La Calera",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-aun-mastica-eliminacion-de-copa-chile-ante-nuevo-cruce-con-la/2026-10-23/114103.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/con-bronca-garnero-aun-mastica-eliminacion-de-copa-chile-ante-nuevo/2026-10-23/114103.html",
       "fecha_publicacion": "2026-10-23 114103"
     },
     {
