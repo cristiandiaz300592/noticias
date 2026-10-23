@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-23T16:30:41.124111+00:00",
+  "actualizado": "2026-10-23T17:00:34.583985+00:00",
   "noticias": [
+    {
+      "titulo": "Colo Colo y Puerto Montt ya tienen fecha para reanudar su revancha de Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-y-puerto-montt-ya-tienen-fecha-para-reanudar-su-revancha-de/2026-10-23/133424.html",
+      "fecha_publicacion": "2026-10-23 133424"
+    },
+    {
+      "titulo": "Ortiz: Si Vozinha decide ir al Balón de Oro, será apoyado por nosotros",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-si-vozinha-decide-ir-al-balon-de-oro-sera-apoyado-por-nosotros/2026-10-23/133351.html",
+      "fecha_publicacion": "2026-10-23 133351"
+    },
     {
       "titulo": "Queda conocer el estadio: La U conoció programación para revancha con Antofagasta",
       "fuente": "Cooperativa",
@@ -38,12 +50,6 @@
       "fecha_publicacion": "2026-10-23 114103"
     },
     {
-      "titulo": "La calculadora \"alba\": ¿Qué necesita Colo Colo para cerrar el título de la Liga de Primera?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/la-calculadora-alba-que-necesita-colo-colo-para-cerrar-el-titulo-de/2026-10-23/111027.html",
-      "fecha_publicacion": "2026-10-23 111027"
-    },
-    {
       "titulo": "Huachipato quiere meterse en la zona de copas y frenar el alza de Audax Italiano",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-quiere-meterse-en-la-zona-de-copas-y-frenar-el-alza-de-audax/2026-10-22/215017.html",
@@ -54,12 +60,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/el-plan-para-que-vozinha-pueda-jugar-y-luego-emprender-rumbo-a-londres/2026-10-22/201544.html",
       "fecha_publicacion": "2026-10-22 201544"
-    },
-    {
-      "titulo": "Chile perdió con México y se complicó en Mundial Sub 17 Femenino: se jugará clasificación ante España",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/22/mundial-sub-17-femenino-chile-perdio-con-mexico.shtml",
-      "fecha_publicacion": "2026-10-22 17:11"
     },
     {
       "titulo": "La Roja perdió con México y se complicó en el Mundial Femenino Sub 17",
