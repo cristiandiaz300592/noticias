@@ -1,8 +1,14 @@
 {
-  "actualizado": "2026-10-24T15:00:31.859461+00:00",
+  "actualizado": "2026-10-24T15:30:26.714840+00:00",
   "noticias": [
     {
-      "titulo": "ANFP no le entregó copa de campeón a San Luis pese a chance y club respondió con desafiante mensaje",
+      "titulo": "Chile debutó en inédito Mundial Sub15 con caída ante España: Infantino ideó torneo con 191 selecciones",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/24/chile-debuto-en-inedito-mundial-sub15-con-caida-ante-espana-infantino-ideo-torneo-con-191-selecciones.shtml",
+      "fecha_publicacion": "2026-10-24 12:20"
+    },
+    {
+      "titulo": "ANFP no llevó copa a San Luis pese a chance de título y club respondió con desafiante mensaje",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/24/anfp-no-le-entrego-copa-de-campeon-a-san-luis-pese-a-chance-y-club-respondio-con-desafiante-mensaje.shtml",
       "fecha_publicacion": "2026-10-24 11:00"
@@ -38,12 +44,6 @@
       "fecha_publicacion": "2026-10-23 183055"
     },
     {
-      "titulo": "Vozinha viajará con Aníbal Mosa a la ceremonia del Balón de Oro",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-viajara-con-anibal-mosa-a-la-ceremonia-del-balon-de-oro/2026-10-23/155907.html",
-      "fecha_publicacion": "2026-10-23 155907"
-    },
-    {
       "titulo": "Con sede por confirmar: ANFP reveló nueva fecha para revancha entre La U y Antofagasta por Copa Chile",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/23/con-sede-por-confirmar-anfp-revelo-nueva-fecha-para-revancha-entre-la-u-y-antofagasta-por-copa-chile.shtml",
@@ -68,9 +68,9 @@
       "fecha_publicacion": "2026-10-23 133424"
     },
     {
-      "titulo": "Los resultados de la fecha 25 de la Liga de Primera 2026",
+      "titulo": "La Serena recibe a Deportes Concepción por la fecha 25 en la Liga de Primera",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-25-de-la-liga-de-primera-2026/2026-10-23/130227.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-serena-recibe-a-deportes-concepcion-por-la-fecha-25-en-la-liga-de/2026-10-23/130227.html",
       "fecha_publicacion": "2026-10-23 130227"
     },
     {
