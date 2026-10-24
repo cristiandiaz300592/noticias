@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-24T22:30:26.380445+00:00",
+  "actualizado": "2026-10-24T23:00:30.900524+00:00",
   "noticias": [
+    {
+      "titulo": "Campeón de la B se definirá en última fecha de infarto: Cobreloa y San Luis llegan igualados en puntos",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/24/campeon-de-la-b-se-definira-en-ultima-fecha-de-infarto-cobreloa-y-san-luis-llegan-igualados-en-puntos.shtml",
+      "fecha_publicacion": "2026-10-24 19:35"
+    },
     {
       "titulo": "Falleció histórico dirigente de Colo Colo campeón de la Copa Libertadores 1991",
       "fuente": "Cooperativa",
@@ -48,6 +54,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/23/audax-y-huachipato-igualaron-en-intenso-duelo-de-liga-de-primera-acereros-en-zona-de-sudamericana.shtml",
       "fecha_publicacion": "2026-10-23 22:06"
+    },
+    {
+      "titulo": "Los resultados de la fecha 25 en la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-25-en-la-liga-de-primera/2026-10-23/130227.html",
+      "fecha_publicacion": "2026-10-23 130227"
     }
   ]
 }
