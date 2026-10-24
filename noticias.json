@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-24T17:00:28.419992+00:00",
+  "actualizado": "2026-10-24T17:30:28.768575+00:00",
   "noticias": [
     {
       "titulo": "Chile debutó en inédito Mundial Sub15 con caída ante España: Infantino ideó torneo con 191 selecciones",
@@ -38,10 +38,22 @@
       "fecha_publicacion": "2026-10-23 214751"
     },
     {
+      "titulo": "La U confirmó estadio para la revancha contra Antofagasta en la Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-confirmo-estadio-para-la-revancha-contra-antofagasta-en-la-copa-chile/2026-10-23/183055.html",
+      "fecha_publicacion": "2026-10-23 183055"
+    },
+    {
       "titulo": "Con sede por confirmar: ANFP reveló nueva fecha para revancha entre La U y Antofagasta por Copa Chile",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/23/con-sede-por-confirmar-anfp-revelo-nueva-fecha-para-revancha-entre-la-u-y-antofagasta-por-copa-chile.shtml",
       "fecha_publicacion": "2026-10-23 15:04"
+    },
+    {
+      "titulo": "Aquino suma bonos para volver a la citación de Colo Colo ante Palestino",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/aquino-suma-bonos-para-volver-a-la-citacion-de-colo-colo-ante-palestino/2026-10-23/144214.html",
+      "fecha_publicacion": "2026-10-23 144214"
     },
     {
       "titulo": "Gago se ofuscó por preguntas sobre Azul Azul: \"¿De fútbol no vamos a hablar?\"",
@@ -50,22 +62,10 @@
       "fecha_publicacion": "2026-10-23 140534"
     },
     {
-      "titulo": "Colo Colo y Puerto Montt ya tienen fecha para reanudar su revancha de Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-y-puerto-montt-ya-tienen-fecha-para-reanudar-su-revancha-de/2026-10-23/133424.html",
-      "fecha_publicacion": "2026-10-23 133424"
-    },
-    {
       "titulo": "La Serena vence a Deportes Concepción por la fecha 25 en la Liga de Primera",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-serena-vence-a-deportes-concepcion-por-la-fecha-25-en-la-liga-de/2026-10-23/130227.html",
       "fecha_publicacion": "2026-10-23 130227"
-    },
-    {
-      "titulo": "Con bronca, Garnero aún mastica eliminación de Copa Chile ante nuevo cruce con La Calera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/con-bronca-garnero-aun-mastica-eliminacion-de-copa-chile-ante-nuevo/2026-10-23/114103.html",
-      "fecha_publicacion": "2026-10-23 114103"
     },
     {
       "titulo": "La calculadora \"alba\": ¿Qué necesita Colo Colo para cerrar el título de la Liga de Primera?",
@@ -78,6 +78,12 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/23/1215050/tabla-posiciones-torneo-nacional-fecha25.html",
       "fecha_publicacion": "2026-10-23 07:53"
+    },
+    {
+      "titulo": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 25",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-25/2026-10-22/215329.html",
+      "fecha_publicacion": "2026-10-22 215329"
     }
   ]
 }
