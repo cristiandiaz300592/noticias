@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-25T22:00:32.333738+00:00",
+  "actualizado": "2026-10-25T22:30:28.288400+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEO] Enzo Roco vulneró la resistencia de Vozinha en Santa Laura",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/video-enzo-roco-vulnero-la-resistencia-de-vozinha-en-santa-laura/2026-10-25/192212.html",
+      "fecha_publicacion": "2026-10-25 192212"
+    },
+    {
+      "titulo": "[VIDEO] Vozinha sacó aplausos con otra gran tapada ante Palestino",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-vozinha-saco-aplausos-con-otra-gran-tapada-ante-palestino/2026-10-25/191211.html",
+      "fecha_publicacion": "2026-10-25 191211"
+    },
     {
       "titulo": "[VIDEO] Vozinha se lució con gran atajada antes del viaje al Balón de Oro",
       "fuente": "Cooperativa",
@@ -12,12 +24,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-nos-toco-este-calendario-lo-vamos-a-afrontar-de-la-mejor-manera/2026-10-25/181615.html",
       "fecha_publicacion": "2026-10-25 181615"
-    },
-    {
-      "titulo": "[VIDEO] Javier Correa marcó un golazo y puso en ventaja a Colo Colo ante Palestino",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-javier-correa-marco-un-golazo-y-puso-en-ventaja-a-colo-colo-ante/2026-10-25/174955.html",
-      "fecha_publicacion": "2026-10-25 174955"
     },
     {
       "titulo": "Tras presión de ANFP: UC confirma que se aceptó propuesta de duelo contra Audax en fecha que no quería",
@@ -66,12 +72,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/25/liga-ascenso-gerente-santa-cruz-insulto-y-amenazo-en-vivo-a-medio-partidario.shtml",
       "fecha_publicacion": "2026-10-25 13:17"
-    },
-    {
-      "titulo": "Mundial Sub 15: Chile venció a Kuwait y sumó su primer triunfo en torneo",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/25/mundial-sub-15-chile-vencio-a-kuwait-en-segundo-duelo.shtml",
-      "fecha_publicacion": "2026-10-25 10:16"
     }
   ]
 }
