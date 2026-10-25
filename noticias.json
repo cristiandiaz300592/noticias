@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-25T00:30:32.797489+00:00",
+  "actualizado": "2026-10-25T01:00:32.339481+00:00",
   "noticias": [
+    {
+      "titulo": "Ante un viejo conocido: El durísimo cuadro que tiene Alejandro Tabilo en el ATP 500 de Basilea",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/24/1215081/alejandro-tabilo-cuadro-atp-basilea.html",
+      "fecha_publicacion": "2026-10-24 21:34"
+    },
     {
       "titulo": "Dos punteros y tres equipos pelean por no bajar: así está la tabla de Primera B a una fecha del final",
       "fuente": "BioBioChile",
@@ -62,15 +68,15 @@
       "fecha_publicacion": "2026-10-23 22:06"
     },
     {
-      "titulo": "Fecha 25: O'Higgins empata con Cobresal en El Teniente",
+      "titulo": "Fecha 25: O'Higgins empató con Cobresal en El Teniente",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/fecha-25-o-higgins-empata-con-cobresal-en-el-teniente/2026-10-23/130227.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/fecha-25-o-higgins-empato-con-cobresal-en-el-teniente/2026-10-23/130227.html",
       "fecha_publicacion": "2026-10-23 130227"
     },
     {
-      "titulo": "Fecha 25: O'Higgins vence a Cobresal en El Teniente",
+      "titulo": "Fecha 25: O'Higgins empata con Cobresal en El Teniente",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/fecha-25-o-higgins-vence-a-cobresal-en-el-teniente/2026-10-23/130227.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/fecha-25-o-higgins-empata-con-cobresal-en-el-teniente/2026-10-23/130227.html",
       "fecha_publicacion": "2026-10-23 130227"
     }
   ]
