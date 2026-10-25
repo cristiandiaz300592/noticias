@@ -1,6 +1,36 @@
 {
-  "actualizado": "2026-10-25T20:00:29.420202+00:00",
+  "actualizado": "2026-10-25T20:30:28.254330+00:00",
   "noticias": [
+    {
+      "titulo": "La Calera sorprendió a una opaca UC y se ilusiona con permanencia: cruzados hipotecaron el Chile 2",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/25/la-calera-sorprendio-a-una-opaca-uc-y-se-ilusiona-con-permanencia-cruzados-hipotecaron-el-chile-2.shtml",
+      "fecha_publicacion": "2026-10-25 17:20"
+    },
+    {
+      "titulo": "La UC tropezó con el colista La Calera y cedió terreno por el \"Chile 2\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-tropezo-con-el-colista-la-calera-y-cedio-terreno-por-el-chile-2/2026-10-25/170822.html",
+      "fecha_publicacion": "2026-10-25 170822"
+    },
+    {
+      "titulo": "La Roja Sub-15 goleó a Barbados y cosechó su segunda victoria consecutiva en el Mundial de Azerbaiyán",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/25/la-roja-sub-15-goleo-a-barbados-y-cosecho-su-segunda-victoria-consecutiva-en-el-mundial-de-azerbaiyan.shtml",
+      "fecha_publicacion": "2026-10-25 17:08"
+    },
+    {
+      "titulo": "Universidad Católica cae ante el colista Unión La Calera y pierde la huella de la U en la lucha por el \"Chile 2\"",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/25/1215132/unionlacalera-ucatolica-goles-campeonato-nacional.html",
+      "fecha_publicacion": "2026-10-25 17:08"
+    },
+    {
+      "titulo": "[VIDEO] Dura entrada a Sebastián Sáez terminó con expulsión de Jimmy Martínez en la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-dura-entrada-a-sebastian-saez-termino-con-expulsion-de-jimmy/2026-10-25/170009.html",
+      "fecha_publicacion": "2026-10-25 170009"
+    },
     {
       "titulo": "[VIDEO] El VAR salvó a Bernedo tras error ante La Calera",
       "fuente": "Cooperativa",
@@ -12,18 +42,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/video-zampedri-estiro-su-record-goleador-en-la-uc-con-penal-ante-la/2026-10-25/162414.html",
       "fecha_publicacion": "2026-10-25 162414"
-    },
-    {
-      "titulo": "Delegación Presidencial autorizó el UC-Audax Italiano en Claro Arena",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/delegacion-presidencial-autorizo-el-uc-audax-italiano-en-claro-arena/2026-10-25/160413.html",
-      "fecha_publicacion": "2026-10-25 160413"
-    },
-    {
-      "titulo": "Ñublense se reencontró con los festejos a costa de Coquimbo Unido en la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/nublense-se-reencontro-con-los-festejos-a-costa-de-coquimbo-unido-en-la/2026-10-25/152232.html",
-      "fecha_publicacion": "2026-10-25 152232"
     },
     {
       "titulo": "Ñublense venció a Coquimbo y trepó lugares en Liga de Primera: sigue en la pelea por ir a Sudamericana",
@@ -48,12 +66,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/25/mundial-sub-15-chile-vencio-a-kuwait-en-segundo-duelo.shtml",
       "fecha_publicacion": "2026-10-25 10:16"
-    },
-    {
-      "titulo": "O’Higgins y Cobresal igualaron en Rancagua y aún no logran alejar el fantasma de la Primera B",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/24/ohiggins-y-cobresal-igualaron-en-rancagua-y-aun-no-logran-alejar-el-fantasma-de-la-primera-b.shtml",
-      "fecha_publicacion": "2026-10-24 21:59"
     }
   ]
 }
