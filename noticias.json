@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-25T17:30:25.636762+00:00",
+  "actualizado": "2026-10-25T18:00:33.287659+00:00",
   "noticias": [
+    {
+      "titulo": "Ñublense venció a Coquimbo y trepó lugares en Liga de Primera: sigue en la pelea por ir a Sudamericana",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/25/liga-de-primera-nublense-coquimbo-fecha-25.shtml",
+      "fecha_publicacion": "2026-10-25 14:35"
+    },
     {
       "titulo": "Derrota y adiós: Chile cayó con España y terminó colista de su grupo en Mundial Sub 17 Femenino",
       "fuente": "BioBioChile",
@@ -48,12 +54,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/24/campeon-de-la-b-se-definira-en-ultima-fecha-de-infarto-cobreloa-y-san-luis-llegan-igualados-en-puntos.shtml",
       "fecha_publicacion": "2026-10-24 19:35"
-    },
-    {
-      "titulo": "La Serena aprovechó la superioridad numérica y derrotó a Deportes Concepción",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-serena-aprovecho-la-superioridad-numerica-y-derroto-a-deportes/2026-10-24/144342.html",
-      "fecha_publicacion": "2026-10-24 144342"
     }
   ]
 }
