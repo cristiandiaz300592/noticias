@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-25T19:00:28.523077+00:00",
+  "actualizado": "2026-10-25T19:30:27.303202+00:00",
   "noticias": [
+    {
+      "titulo": "Delegación Presidencial autorizó el UC-Audax Italiano en Claro Arena",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/delegacion-presidencial-autorizo-el-uc-audax-italiano-en-claro-arena/2026-10-25/160413.html",
+      "fecha_publicacion": "2026-10-25 160413"
+    },
     {
       "titulo": "Ñublense se reencontró con los festejos a costa de Coquimbo Unido en la Liga de Primera",
       "fuente": "Cooperativa",
@@ -42,12 +48,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/24/dos-punteros-y-tres-equipos-pelean-por-no-bajar-asi-esta-la-tabla-de-primera-b-a-una-fecha-del-final.shtml",
       "fecha_publicacion": "2026-10-24 20:59"
-    },
-    {
-      "titulo": "Chupete Suazo tuvo encontrón con jugador de Recoleta: DT habló de \"vergüenza\" por polémica en San Luis",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/24/chupete-suazo-tuvo-encontron-con-jugador-de-recoleta-dt-hablo-de-verguenza-por-polemica-en-san-luis.shtml",
-      "fecha_publicacion": "2026-10-24 20:45"
     }
   ]
 }
