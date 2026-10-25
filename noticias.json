@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-25T14:30:25.491162+00:00",
+  "actualizado": "2026-10-25T15:00:29.900412+00:00",
   "noticias": [
+    {
+      "titulo": "La UC enfrenta a Unión La Calera en crucial duelo por fecha 25 en la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-enfrenta-a-union-la-calera-en-crucial-duelo-por-fecha-25-en-la/2026-10-25/113531.html",
+      "fecha_publicacion": "2026-10-25 113531"
+    },
     {
       "titulo": "Mundial Sub 15: Chile venció a Kuwait y sumó su primer triunfo en torneo",
       "fuente": "BioBioChile",
@@ -32,40 +38,16 @@
       "fecha_publicacion": "2026-10-24 19:35"
     },
     {
-      "titulo": "Falleció histórico dirigente de Colo Colo campeón de la Copa Libertadores 1991",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fallecio-historico-dirigente-de-colo-colo-campeon-de-la-copa/2026-10-24/185640.html",
-      "fecha_publicacion": "2026-10-24 185640"
-    },
-    {
-      "titulo": "La UC quiere revancha ante La Calera y recuperar terreno por el \"Chile 2\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-quiere-revancha-ante-la-calera-y-recuperar-terreno-por-el-chile-2/2026-10-24/181140.html",
-      "fecha_publicacion": "2026-10-24 181140"
-    },
-    {
       "titulo": "Colo Colo enfrenta a Palestino para seguir a la caza del título",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/colo-colo-enfrenta-a-palestino-para-seguir-a-la-caza-del-titulo/2026-10-24/163425.html",
       "fecha_publicacion": "2026-10-24 163425"
     },
     {
-      "titulo": "La Serena superó a Concepción y se acercó a zona de Sudamericana: lilas jugaron con hombre menos",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/24/la-serena-supero-a-concepcion-y-se-acerco-a-zona-de-sudamericana-lilas-jugaron-con-hombre-menos.shtml",
-      "fecha_publicacion": "2026-10-24 15:29"
-    },
-    {
       "titulo": "La Serena aprovechó la superioridad numérica y derrotó a Deportes Concepción",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-serena-aprovecho-la-superioridad-numerica-y-derroto-a-deportes/2026-10-24/144342.html",
       "fecha_publicacion": "2026-10-24 144342"
-    },
-    {
-      "titulo": "La Roja cayó en su estreno ante España por el Mundial sub 15 de Azerbaiyán",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-cayo-en-su-estreno-ante-espana-por-el-mundial-sub-15-de/2026-10-24/094035.html",
-      "fecha_publicacion": "2026-10-24 094035"
     }
   ]
 }
