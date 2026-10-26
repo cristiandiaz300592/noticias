@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-26T21:00:31.362519+00:00",
+  "actualizado": "2026-10-26T21:30:24.800632+00:00",
   "noticias": [
+    {
+      "titulo": "Deportes Laja Histórico ascendió a Tercera A tras batir a Cultural Maipú: club se refundó en 2022",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/26/deportes-laja-historico-ascendio-a-tercera-a-tras-batir-a-cultural-maipu-club-se-refundo-en-2022.shtml",
+      "fecha_publicacion": "2026-10-26 18:22"
+    },
     {
       "titulo": "ANFP y cierre de temporada con reprogramaciones y denuncias: \"Es prudente esperar un veredicto\"",
       "fuente": "BioBioChile",
@@ -68,10 +74,10 @@
       "fecha_publicacion": "2026-10-26 12:47"
     },
     {
-      "titulo": "Piero Maza detalló violenta infracción a Leandro Hernández ante Palestino",
+      "titulo": "Resumen: Colo Colo y la UC le abrieron una puerta a la U tras ceder puntos como visitantes",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/piero-maza-detallo-violenta-infraccion-a-leandro-hernandez-ante/2026-10-26/120600.html",
-      "fecha_publicacion": "2026-10-26 120600"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-y-la-uc-le-abrieron-una-puerta-a-la-u-tras-ceder/2026-10-25/223652.html",
+      "fecha_publicacion": "2026-10-25 223652"
     }
   ]
 }
