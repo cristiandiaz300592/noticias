@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T14:00:32.586482+00:00",
+  "actualizado": "2026-10-26T14:24:10.601905+00:00",
   "noticias": [
     {
       "titulo": "Ranking ATP: Tabilo trepa, Garin se desploma y Jarry da gran salto; Repasa el top 10",
@@ -14,6 +14,12 @@
       "fecha_publicacion": "2026-10-25 223652"
     },
     {
+      "titulo": "Vozinha jugó su mejor partido en Colo Colo y viajó a Londres para el Balón de Oro",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-jugo-su-mejor-partido-en-colo-colo-y-viajo-a-londres-para-el/2026-10-25/221854.html",
+      "fecha_publicacion": "2026-10-25 221854"
+    },
+    {
       "titulo": "UdeC no levanta cabeza en Liga de Primera: cayó en casa ante Limache y se complica con el descenso",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/25/udec-no-levanta-cabeza-en-liga-de-primera-cayo-en-casa-ante-limache-y-se-complica-con-el-descenso.shtml",
@@ -24,12 +30,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/limache-complico-mas-a-u-de-concepcion-y-se-instalo-en-zona-de/2026-10-25/215843.html",
       "fecha_publicacion": "2026-10-25 215843"
-    },
-    {
-      "titulo": "El escueto repaso de Ortiz al empate con Palestino: \"El fútbol tiene esas cosas\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/el-escueto-repaso-de-ortiz-al-empate-con-palestino-el-futbol-tiene/2026-10-25/203842.html",
-      "fecha_publicacion": "2026-10-25 203842"
     },
     {
       "titulo": "Vidal y posible extensión en Colo Colo: Cuando seamos campeones vamos a hablar",
@@ -56,6 +56,12 @@
       "fecha_publicacion": "2026-10-25 193451"
     },
     {
+      "titulo": "Garnero: Nos tocó este calendario, lo vamos a afrontar de la mejor manera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-nos-toco-este-calendario-lo-vamos-a-afrontar-de-la-mejor-manera/2026-10-25/181615.html",
+      "fecha_publicacion": "2026-10-25 181615"
+    },
+    {
       "titulo": "Tras presión de ANFP: UC confirma que se aceptó propuesta de duelo contra Audax en fecha que no quería",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/25/tras-presion-de-anfp-uc-confirma-que-se-acepto-propuesta-de-duelo-contra-audax-en-fecha-que-no-queria.shtml",
@@ -66,12 +72,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/25/la-calera-sorprendio-a-una-opaca-uc-y-se-ilusiona-con-permanencia-cruzados-hipotecaron-el-chile-2.shtml",
       "fecha_publicacion": "2026-10-25 17:20"
-    },
-    {
-      "titulo": "La UC tropezó con el colista La Calera y cedió terreno por el \"Chile 2\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-tropezo-con-el-colista-la-calera-y-cedio-terreno-por-el-chile-2/2026-10-25/170822.html",
-      "fecha_publicacion": "2026-10-25 170822"
     },
     {
       "titulo": "Delegación Presidencial autorizó el UC-Audax Italiano en Claro Arena",
