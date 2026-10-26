@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T11:00:27.966671+00:00",
+  "actualizado": "2026-10-26T11:30:28.777082+00:00",
   "noticias": [
     {
       "titulo": "Ranking ATP: Tabilo trepa, Garin se desploma y Jarry da gran salto; Repasa el top 10",
@@ -12,6 +12,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-y-la-uc-le-abrieron-una-puerta-a-la-u-tras-ceder/2026-10-25/223652.html",
       "fecha_publicacion": "2026-10-25 223652"
+    },
+    {
+      "titulo": "Vozinha jugó su mejor partido en Colo Colo y viajó a Londres para el Balón de Oro",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-jugo-su-mejor-partido-en-colo-colo-y-viajo-a-londres-para-el/2026-10-25/221854.html",
+      "fecha_publicacion": "2026-10-25 221854"
     },
     {
       "titulo": "Vidal lanza \"palo\" a la dirigencia de Colo Colo y las particulares frases de Ortiz tras empate con Palestino",
@@ -80,16 +86,16 @@
       "fecha_publicacion": "2026-10-25 17:20"
     },
     {
+      "titulo": "La UC tropezó con el colista La Calera y cedió terreno por el \"Chile 2\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-tropezo-con-el-colista-la-calera-y-cedio-terreno-por-el-chile-2/2026-10-25/170822.html",
+      "fecha_publicacion": "2026-10-25 170822"
+    },
+    {
       "titulo": "La Roja Sub-15 goleó a Barbados y cosechó su segunda victoria consecutiva en el Mundial de Azerbaiyán",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/25/la-roja-sub-15-goleo-a-barbados-y-cosecho-su-segunda-victoria-consecutiva-en-el-mundial-de-azerbaiyan.shtml",
       "fecha_publicacion": "2026-10-25 17:08"
-    },
-    {
-      "titulo": "Delegación Presidencial autorizó el UC-Audax Italiano en Claro Arena",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/delegacion-presidencial-autorizo-el-uc-audax-italiano-en-claro-arena/2026-10-25/160413.html",
-      "fecha_publicacion": "2026-10-25 160413"
     },
     {
       "titulo": "La U y Everton protagonizan un duelo crucial en la carrera por el \"Chile 2\" de Libertadores",
@@ -102,12 +108,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/25/liga-de-primera-nublense-coquimbo-fecha-25.shtml",
       "fecha_publicacion": "2026-10-25 14:35"
-    },
-    {
-      "titulo": "Derrota y adiós: Chile cayó con España y terminó colista de su grupo en Mundial Sub 17 Femenino",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/25/goleada-y-adios-chile-perdio-con-espana-mundial-sub-17-femenino.shtml",
-      "fecha_publicacion": "2026-10-25 14:11"
     }
   ]
 }
