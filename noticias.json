@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-10-26T01:00:28.952694+00:00",
+  "actualizado": "2026-10-26T01:21:28.394448+00:00",
   "noticias": [
+    {
+      "titulo": "Vidal lanza \"palo\" a la dirigencia de Colo Colo y las particulares frases de Ortiz tras empate con Palestino",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/25/1215146/vidal-ortiz-colocolo-palestino-frases.html",
+      "fecha_publicacion": "2026-10-25 22:00"
+    },
     {
       "titulo": "UdeC no levanta cabeza en Liga de Primera: cayó en casa ante Limache y se complica con el descenso",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/25/udec-no-levanta-cabeza-en-liga-de-primera-cayo-en-casa-ante-limache-y-se-complica-con-el-descenso.shtml",
       "fecha_publicacion": "2026-10-25 21:59"
+    },
+    {
+      "titulo": "Limache complicó más a U. de Concepción y se instaló en zona de Sudamericana",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/limache-complico-mas-a-u-de-concepcion-y-se-instalo-en-zona-de/2026-10-25/215843.html",
+      "fecha_publicacion": "2026-10-25 215843"
     },
     {
       "titulo": "Con clásico universitario: La programación de la fecha 26 de la Liga de Primera",
