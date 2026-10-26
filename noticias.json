@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-26T15:00:33.194055+00:00",
+  "actualizado": "2026-10-26T15:30:25.867589+00:00",
   "noticias": [
+    {
+      "titulo": "Piero Maza detalló violenta infracción a Leandro Hernández ante Palestino",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/piero-maza-detallo-violenta-infraccion-a-leandro-hernandez-ante/2026-10-26/120600.html",
+      "fecha_publicacion": "2026-10-26 120600"
+    },
     {
       "titulo": "Ranking ATP: Tabilo trepa, Garin se desploma y Jarry da gran salto; Repasa el top 10",
       "fuente": "Emol",
@@ -38,28 +44,28 @@
       "fecha_publicacion": "2026-10-25 203418"
     },
     {
+      "titulo": "Se actualiza la calculadora: ¿Qué necesita Colo Colo para asegurar el título?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/se-actualiza-la-calculadora-que-necesita-colo-colo-para-asegurar-el/2026-10-25/200210.html",
+      "fecha_publicacion": "2026-10-25 200210"
+    },
+    {
       "titulo": "Colo Colo igualó con Palestino y sumó cuatro duelos sin ganar en Liga de Primera: albos siguen líderes",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/25/colo-colo-igualo-con-palestino-y-sumo-cuatro-duelos-sin-ganar-en-liga-de-primera-albos-siguen-lideres.shtml",
       "fecha_publicacion": "2026-10-25 19:40"
     },
     {
-      "titulo": "Garnero: Nos tocó este calendario, lo vamos a afrontar de la mejor manera",
+      "titulo": "Vozinha fue figura, pero Colo Colo se enredó y cedió puntos ante Palestino",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-nos-toco-este-calendario-lo-vamos-a-afrontar-de-la-mejor-manera/2026-10-25/181615.html",
-      "fecha_publicacion": "2026-10-25 181615"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/vozinha-fue-figura-pero-colo-colo-se-enredo-y-cedio-puntos-ante/2026-10-25/193451.html",
+      "fecha_publicacion": "2026-10-25 193451"
     },
     {
       "titulo": "Tras presión de ANFP: UC confirma que se aceptó propuesta de duelo contra Audax en fecha que no quería",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/25/tras-presion-de-anfp-uc-confirma-que-se-acepto-propuesta-de-duelo-contra-audax-en-fecha-que-no-queria.shtml",
       "fecha_publicacion": "2026-10-25 17:42"
-    },
-    {
-      "titulo": "La UC tropezó con el colista La Calera y cedió terreno por el \"Chile 2\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-tropezo-con-el-colista-la-calera-y-cedio-terreno-por-el-chile-2/2026-10-25/170822.html",
-      "fecha_publicacion": "2026-10-25 170822"
     },
     {
       "titulo": "La U y Everton protagonizan un duelo crucial en la carrera por el \"Chile 2\" de Libertadores",
