@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-26T16:00:33.329476+00:00",
+  "actualizado": "2026-10-26T16:30:28.236026+00:00",
   "noticias": [
+    {
+      "titulo": "Alejandro Tabilo ya tiene horario para desafiar este martes a Rafael Jódar, 11 del mundo, en el ATP 500 de Basilea",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/26/1215215/alejandrotabilo-horario-rafaeljodar-atpbasilea.html",
+      "fecha_publicacion": "2026-10-26 13:26"
+    },
+    {
+      "titulo": "Marcelo Salas fija postura de Temuco por elecciones de ANFP y repasa a ambas listas postulantes",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/26/marcelo-salas-fija-postura-de-temuco-por-elecciones-de-anfp-y-repasa-a-ambas-listas-postulantes.shtml",
+      "fecha_publicacion": "2026-10-26 13:23"
+    },
     {
       "titulo": "’Arica’ Hurtado rechaza amenazas de gerente de Santa Cruz a relator: exjugador es director del club",
       "fuente": "BioBioChile",
@@ -14,34 +26,10 @@
       "fecha_publicacion": "2026-10-26 120600"
     },
     {
-      "titulo": "Ranking ATP: Tabilo trepa, Garin se desploma y Jarry da gran salto; Repasa el top 10",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/26/1215159/rankingatp-tabilo-garin-jarry-top10.html",
-      "fecha_publicacion": "2026-10-26 07:32"
-    },
-    {
-      "titulo": "Resumen: Colo Colo y la UC le abrieron una puerta a la U tras ceder puntos como visitantes",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-y-la-uc-le-abrieron-una-puerta-a-la-u-tras-ceder/2026-10-25/223652.html",
-      "fecha_publicacion": "2026-10-25 223652"
-    },
-    {
       "titulo": "UdeC no levanta cabeza en Liga de Primera: cayó en casa ante Limache y se complica con el descenso",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/25/udec-no-levanta-cabeza-en-liga-de-primera-cayo-en-casa-ante-limache-y-se-complica-con-el-descenso.shtml",
       "fecha_publicacion": "2026-10-25 21:59"
-    },
-    {
-      "titulo": "El escueto repaso de Ortiz al empate con Palestino: \"El fútbol tiene esas cosas\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/el-escueto-repaso-de-ortiz-al-empate-con-palestino-el-futbol-tiene/2026-10-25/203842.html",
-      "fecha_publicacion": "2026-10-25 203842"
-    },
-    {
-      "titulo": "Vidal y posible extensión en Colo Colo: Cuando seamos campeones vamos a hablar",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-y-posible-extension-en-colo-colo-cuando-seamos-campeones-vamos-a/2026-10-25/203418.html",
-      "fecha_publicacion": "2026-10-25 203418"
     },
     {
       "titulo": "Se actualiza la calculadora: ¿Qué necesita Colo Colo para asegurar el título?",
@@ -60,12 +48,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/vozinha-fue-figura-pero-colo-colo-se-enredo-y-cedio-puntos-ante/2026-10-25/193451.html",
       "fecha_publicacion": "2026-10-25 193451"
-    },
-    {
-      "titulo": "Tras presión de ANFP: UC confirma que se aceptó propuesta de duelo contra Audax en fecha que no quería",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/25/tras-presion-de-anfp-uc-confirma-que-se-acepto-propuesta-de-duelo-contra-audax-en-fecha-que-no-queria.shtml",
-      "fecha_publicacion": "2026-10-25 17:42"
     },
     {
       "titulo": "La U y Everton protagonizan un duelo crucial en la carrera por el \"Chile 2\" de Libertadores",
