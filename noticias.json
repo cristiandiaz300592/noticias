@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-26T16:30:28.236026+00:00",
+  "actualizado": "2026-10-26T17:00:31.971397+00:00",
   "noticias": [
+    {
+      "titulo": "U de Chile vs Everton en el cierre de la fecha 25: a qué hora juegan y dónde verlo en vivo",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/10/26/u-de-chile-vs-everton-en-el-cierre-de-la-fecha-25-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
+      "fecha_publicacion": "2026-10-26 13:39"
+    },
     {
       "titulo": "Alejandro Tabilo ya tiene horario para desafiar este martes a Rafael Jódar, 11 del mundo, en el ATP 500 de Basilea",
       "fuente": "Emol",
@@ -24,6 +30,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/piero-maza-detallo-violenta-infraccion-a-leandro-hernandez-ante/2026-10-26/120600.html",
       "fecha_publicacion": "2026-10-26 120600"
+    },
+    {
+      "titulo": "Resumen: Colo Colo y la UC le abrieron una puerta a la U tras ceder puntos como visitantes",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-y-la-uc-le-abrieron-una-puerta-a-la-u-tras-ceder/2026-10-25/223652.html",
+      "fecha_publicacion": "2026-10-25 223652"
     },
     {
       "titulo": "UdeC no levanta cabeza en Liga de Primera: cayó en casa ante Limache y se complica con el descenso",
