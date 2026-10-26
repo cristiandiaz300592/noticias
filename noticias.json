@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-26T18:30:28.233614+00:00",
+  "actualizado": "2026-10-26T19:00:34.475092+00:00",
   "noticias": [
+    {
+      "titulo": "San Marcos de Arica zafa de primera denuncia: declaran inadmisible recurso de tres clubes en su contra",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/26/tribunal-discplina-anfp-rechaza-recurso-de-clubes-contra-san-marcos-arica-liga-ascenso.shtml",
+      "fecha_publicacion": "2026-10-26 15:34"
+    },
     {
       "titulo": "El distanciamiento de Arturo Vidal que eleva la tensión en Colo Colo y la opción que resurge si se va",
       "fuente": "Emol",
@@ -66,12 +72,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-y-la-uc-le-abrieron-una-puerta-a-la-u-tras-ceder/2026-10-25/223652.html",
       "fecha_publicacion": "2026-10-25 223652"
-    },
-    {
-      "titulo": "UdeC no levanta cabeza en Liga de Primera: cayó en casa ante Limache y se complica con el descenso",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/25/udec-no-levanta-cabeza-en-liga-de-primera-cayo-en-casa-ante-limache-y-se-complica-con-el-descenso.shtml",
-      "fecha_publicacion": "2026-10-25 21:59"
     },
     {
       "titulo": "El escueto repaso de Ortiz al empate con Palestino: \"El fútbol tiene esas cosas\"",
