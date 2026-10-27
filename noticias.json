@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-27T12:30:27.085540+00:00",
+  "actualizado": "2026-10-27T13:00:32.304854+00:00",
   "noticias": [
+    {
+      "titulo": "Los escenarios y cómo quedaría la lucha entre Cobreloa y San Luis si hay castigos en la B",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/27/1215287/fallos-tabla-primerab-sanluis-cobreloa.html",
+      "fecha_publicacion": "2026-10-27 09:44"
+    },
+    {
+      "titulo": "¿Podrá la U arrebatarle el título a Colo Colo? Sus rivales en las últimas cinco fechas del Torneo Nacional, con dos clásicos incluidos",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/27/1215282/u-colocolo-torneonacional-cincofechas.html",
+      "fecha_publicacion": "2026-10-27 09:17"
+    },
     {
       "titulo": "Marcelo Morales: \"Vamos a luchar hasta el final y ganar todo lo que nos queda\"",
       "fuente": "Cooperativa",
@@ -18,12 +30,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/27/liga-de-primera-asi-quedo-la-tabla-tras-fecha-25.shtml",
       "fecha_publicacion": "2026-10-27 08:12"
-    },
-    {
-      "titulo": "Fernando Gago elogia a dos jugadores y habla de la \"caza\" de la U a Colo Colo, mientras Eduardo Vargas advierte a la UC",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/26/1215266/udechile-fernando-gago-eduardo-vargas.html",
-      "fecha_publicacion": "2026-10-26 23:16"
     },
     {
       "titulo": "Resumen: La U aprovechó los traspiés de Colo Colo y la UC para golpear en la zona alta",
@@ -66,12 +72,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/26/tribunal-discplina-anfp-rechaza-recurso-de-clubes-contra-san-marcos-arica-liga-ascenso.shtml",
       "fecha_publicacion": "2026-10-26 15:34"
-    },
-    {
-      "titulo": "Chile cayó ante Congo e igualó ante Tayikistán: disputará serie de terceros lugares en Mundial Sub 15",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/26/chile-cayo-ante-congo-e-igualo-ante-tayikistan-disputara-serie-de-terceros-lugares-en-mundial-sub-15.shtml",
-      "fecha_publicacion": "2026-10-26 15:16"
     },
     {
       "titulo": "Azul Azul fijó fecha para junta de accionistas que revocará directores vinculados a Sartor",
