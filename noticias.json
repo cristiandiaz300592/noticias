@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-27T00:30:26.000780+00:00",
+  "actualizado": "2026-10-27T01:00:30.512552+00:00",
   "noticias": [
+    {
+      "titulo": "Eduardo Vargas: Tenemos que pensar en nosotros y las cosas se van a dar solas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/eduardo-vargas-tenemos-que-pensar-en-nosotros-y-las-cosas-se-van-a-dar/2026-10-26/213747.html",
+      "fecha_publicacion": "2026-10-26 213747"
+    },
+    {
+      "titulo": "Gago: El equipo está con confianza y una identidad de juego, que es lo más importante",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-el-equipo-esta-con-confianza-y-una-identidad-de-juego-que-es-lo/2026-10-26/210857.html",
+      "fecha_publicacion": "2026-10-26 210857"
+    },
     {
       "titulo": "La U goleó a Everton con brillante actuación de Eduardo Vargas y recortó distancia en Liga de Primera",
       "fuente": "BioBioChile",
@@ -72,12 +84,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/26/marcelo-salas-fija-postura-de-temuco-por-elecciones-de-anfp-y-repasa-a-ambas-listas-postulantes.shtml",
       "fecha_publicacion": "2026-10-26 13:23"
-    },
-    {
-      "titulo": "Piero Maza detalló violenta infracción a Leandro Hernández ante Palestino",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/piero-maza-detallo-violenta-infraccion-a-leandro-hernandez-ante/2026-10-26/120600.html",
-      "fecha_publicacion": "2026-10-26 120600"
     }
   ]
 }
