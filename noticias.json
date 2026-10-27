@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-27T18:00:34.392209+00:00",
+  "actualizado": "2026-10-27T18:30:27.075038+00:00",
   "noticias": [
+    {
+      "titulo": "Mosa exigió el título: \"No se nos puede ir de las manos\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-exigio-el-titulo-no-se-nos-puede-ir-de-las-manos/2026-10-27/152121.html",
+      "fecha_publicacion": "2026-10-27 152121"
+    },
     {
       "titulo": "Colo Colo perdió a Leandro Hernández para el cruce con Universidad de Concepción",
       "fuente": "Cooperativa",
@@ -12,18 +18,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/27/hincha-de-dep-concepcion-ataco-a-staff-y-jugadores-mientras-entrenaban-club-lila-condeno-agresion.shtml",
       "fecha_publicacion": "2026-10-27 14:48"
-    },
-    {
-      "titulo": "Mosa y opción de Vozinha en la Libertadores 2027: El técnico decidirá",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-y-opcion-de-vozinha-en-la-libertadores-2027-el-tecnico-decidira/2026-10-27/144502.html",
-      "fecha_publicacion": "2026-10-27 144502"
-    },
-    {
-      "titulo": "Aníbal Mosa sacó pecho tras asistir al Balón de Oro: \"Todo el mundo conocía a Colo Colo\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/anibal-mosa-saco-pecho-tras-asistir-al-balon-de-oro-todo-el-mundo/2026-10-27/124327.html",
-      "fecha_publicacion": "2026-10-27 124327"
     },
     {
       "titulo": "Tabilo vuelve a perder con Jódar, 11 del mundo, y se despide del ATP 500 de Basilea",
@@ -68,16 +62,16 @@
       "fecha_publicacion": "2026-10-26 20:48"
     },
     {
+      "titulo": "La U goleó a Everton para acortar distancia con el líder y llegar encendida al clásico con la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-goleo-a-everton-para-acortar-distancia-con-el-lider-y-llegar/2026-10-26/200238.html",
+      "fecha_publicacion": "2026-10-26 200238"
+    },
+    {
       "titulo": "Deportes Laja Histórico ascendió a Tercera A tras batir a Cultural Maipú: club se refundó en 2022",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/26/deportes-laja-historico-ascendio-a-tercera-a-tras-batir-a-cultural-maipu-club-se-refundo-en-2022.shtml",
       "fecha_publicacion": "2026-10-26 18:22"
-    },
-    {
-      "titulo": "ANFP y cierre de temporada con reprogramaciones y denuncias: \"Es prudente esperar un veredicto\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/26/anfp-y-cierre-de-temporada-con-reprogramaciones-y-denuncias-es-prudente-esperar-un-veredicto.shtml",
-      "fecha_publicacion": "2026-10-26 17:05"
     }
   ]
 }
