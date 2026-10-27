@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-27T17:30:30.288175+00:00",
+  "actualizado": "2026-10-27T18:00:34.392209+00:00",
   "noticias": [
+    {
+      "titulo": "Colo Colo perdió a Leandro Hernández para el cruce con Universidad de Concepción",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-perdio-a-leandro-hernandez-para-el-cruce-con-universidad-de/2026-10-27/145135.html",
+      "fecha_publicacion": "2026-10-27 145135"
+    },
+    {
+      "titulo": "\"Hincha\" de Dep. Concepción atacó a staff y jugadores mientras entrenaban: club lila condenó agresión",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/27/hincha-de-dep-concepcion-ataco-a-staff-y-jugadores-mientras-entrenaban-club-lila-condeno-agresion.shtml",
+      "fecha_publicacion": "2026-10-27 14:48"
+    },
+    {
+      "titulo": "Mosa y opción de Vozinha en la Libertadores 2027: El técnico decidirá",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-y-opcion-de-vozinha-en-la-libertadores-2027-el-tecnico-decidira/2026-10-27/144502.html",
+      "fecha_publicacion": "2026-10-27 144502"
+    },
     {
       "titulo": "Aníbal Mosa sacó pecho tras asistir al Balón de Oro: \"Todo el mundo conocía a Colo Colo\"",
       "fuente": "Cooperativa",
@@ -20,10 +38,10 @@
       "fecha_publicacion": "2026-10-27 103707"
     },
     {
-      "titulo": "Los escenarios y cómo quedaría la lucha entre Cobreloa y San Luis si hay castigos en la Primera B",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/27/1215287/fallos-tabla-primerab-sanluis-cobreloa.html",
-      "fecha_publicacion": "2026-10-27 09:44"
+      "titulo": "Marcelo Morales: \"Vamos a luchar hasta el final y ganar todo lo que nos queda\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/marcelo-morales-vamos-a-luchar-hasta-el-final-y-ganar-todo-lo-que-nos/2026-10-27/091604.html",
+      "fecha_publicacion": "2026-10-27 091604"
     },
     {
       "titulo": "Filtran inédito color que lucirá la tercera camiseta de Colo Colo para 2027",
@@ -44,22 +62,10 @@
       "fecha_publicacion": "2026-10-26 222926"
     },
     {
-      "titulo": "Gago: El equipo está con confianza y una identidad de juego, que es lo más importante",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-el-equipo-esta-con-confianza-y-una-identidad-de-juego-que-es-lo/2026-10-26/210857.html",
-      "fecha_publicacion": "2026-10-26 210857"
-    },
-    {
       "titulo": "La U goleó a Everton con brillante actuación de Eduardo Vargas y recortó distancia en Liga de Primera",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/26/la-u-goleo-a-everton-con-brillante-actuacion-de-eduardo-vargas-y-recorto-distancia-en-liga-de-primera.shtml",
       "fecha_publicacion": "2026-10-26 20:48"
-    },
-    {
-      "titulo": "La U goleó a Everton para acortar distancia con el líder y llegar encendida al clásico con la UC",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-goleo-a-everton-para-acortar-distancia-con-el-lider-y-llegar/2026-10-26/200238.html",
-      "fecha_publicacion": "2026-10-26 200238"
     },
     {
       "titulo": "Deportes Laja Histórico ascendió a Tercera A tras batir a Cultural Maipú: club se refundó en 2022",
@@ -72,12 +78,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/26/anfp-y-cierre-de-temporada-con-reprogramaciones-y-denuncias-es-prudente-esperar-un-veredicto.shtml",
       "fecha_publicacion": "2026-10-26 17:05"
-    },
-    {
-      "titulo": "Azul Azul fijó fecha para junta de accionistas que revocará directores vinculados a Sartor",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/azul-azul-fijo-fecha-para-junta-de-accionistas-que-revocara-directores/2026-10-26/143528.html",
-      "fecha_publicacion": "2026-10-26 143528"
     }
   ]
 }
