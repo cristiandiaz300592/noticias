@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-27T19:30:27.309726+00:00",
+  "actualizado": "2026-10-27T20:00:33.863879+00:00",
   "noticias": [
+    {
+      "titulo": "ANFP ratifica castigo a Deportes Rengo: pierde puntos y se remece la tabla en Segunda División",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/27/anfp-ratifica-castigo-a-deportes-rengo-pierde-puntos-y-se-remece-la-tabla-en-segunda-division.shtml",
+      "fecha_publicacion": "2026-10-27 16:39"
+    },
     {
       "titulo": "Mosa exigió el título: \"No se nos puede ir de las manos\"",
       "fuente": "Cooperativa",
@@ -54,18 +60,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/26/la-u-goleo-a-everton-con-brillante-actuacion-de-eduardo-vargas-y-recorto-distancia-en-liga-de-primera.shtml",
       "fecha_publicacion": "2026-10-26 20:48"
-    },
-    {
-      "titulo": "La U goleó a Everton para acortar distancia con el líder y llegar encendida al clásico con la UC",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-goleo-a-everton-para-acortar-distancia-con-el-lider-y-llegar/2026-10-26/200238.html",
-      "fecha_publicacion": "2026-10-26 200238"
-    },
-    {
-      "titulo": "Deportes Laja Histórico ascendió a Tercera A tras batir a Cultural Maipú: club se refundó en 2022",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/26/deportes-laja-historico-ascendio-a-tercera-a-tras-batir-a-cultural-maipu-club-se-refundo-en-2022.shtml",
-      "fecha_publicacion": "2026-10-26 18:22"
     }
   ]
 }
