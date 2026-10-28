@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-28T17:30:27.541548+00:00",
+  "actualizado": "2026-10-28T18:00:28.750915+00:00",
   "noticias": [
+    {
+      "titulo": "ANFP suspende definición de Liga de Ascenso tras escritoriazo: se jugará un solo partido",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/anfp-suspende-definicion-de-liga-de-ascenso-tras-escritoriazo.shtml",
+      "fecha_publicacion": "2026-10-28 14:50"
+    },
     {
       "titulo": "Dilan Zúñiga recibió un severo castigo por violenta falta sobre Leandro Hernández",
       "fuente": "Cooperativa",
@@ -66,24 +72,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/27/tras-desafiliacion-de-san-marcos-asi-quedaria-la-tabla-de-la-primera-b-con-el-ascenso-al-rojo-vivo.shtml",
       "fecha_publicacion": "2026-10-27 22:43"
-    },
-    {
-      "titulo": "Terremoto en la Primera B: Tribunal de Disciplina de ANFP decreta desafiliación de San Marcos de Arica",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/27/terremoto-en-la-primera-b-tribunal-de-disciplina-de-anfp-decreta-desafiliacion-de-san-marcos-de-arica.shtml",
-      "fecha_publicacion": "2026-10-27 21:28"
-    },
-    {
-      "titulo": "\"Ni un privilegio más\": concejal apunta contra ANFP y pide clausurar sus instalaciones en Peñalolén",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/27/ni-un-privilegio-mas-concejal-apunta-contra-anfp-y-pide-clausurar-sus-instalaciones-en-penalolen.shtml",
-      "fecha_publicacion": "2026-10-27 21:10"
-    },
-    {
-      "titulo": "Mosa reveló reuniones en Londres por el Estadio Monumental: \"Vamos bien encaminados\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-revelo-reuniones-en-londres-por-el-estadio-monumental-vamos-bien/2026-10-27/193718.html",
-      "fecha_publicacion": "2026-10-27 193718"
     },
     {
       "titulo": "La UC quiere recuperar terreno en la Liga en el duelo pendiente contra Audax Italiano",
