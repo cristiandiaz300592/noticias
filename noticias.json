@@ -1,12 +1,6 @@
 {
-  "actualizado": "2026-10-28T23:00:30.093910+00:00",
+  "actualizado": "2026-10-28T23:30:31.295056+00:00",
   "noticias": [
-    {
-      "titulo": "Fernando Gago: Mientras matemáticamente nos den las posibilidades, vamos a pelear",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fernando-gago-mientras-matematicamente-nos-den-las-posibilidades-vamos/2026-10-28/180541.html",
-      "fecha_publicacion": "2026-10-28 180541"
-    },
     {
       "titulo": "Tercera B: Fernández Vial vence a Iberia en reprogramado cruce y chocará con Mejillones por ascenso",
       "fuente": "BioBioChile",
@@ -18,6 +12,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/gobernador-de-arica-exige-la-renuncia-del-directorio-de-la-anfp-tras-desafiliacion-de-san-marcos.shtml",
       "fecha_publicacion": "2026-10-28 17:46"
+    },
+    {
+      "titulo": "[Radio en vivo🎙] La UC recibe a Audax Italiano en duelo pendiente de la fecha 24",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-la-uc-recibe-a-audax-italiano-en-duelo-pendiente-de-la/2026-10-28/174017.html",
+      "fecha_publicacion": "2026-10-28 174017"
     },
     {
       "titulo": "Clausura de ANFP impacta a juveniles de La Roja: ANFP aclaró situación tras entrenamientos",
@@ -44,12 +44,6 @@
       "fecha_publicacion": "2026-10-28 141210"
     },
     {
-      "titulo": "Méndez: Lo lindo es que el título depende exclusivamente de nosotros",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mendez-lo-lindo-es-que-el-titulo-depende-exclusivamente-de-nosotros/2026-10-28/131845.html",
-      "fecha_publicacion": "2026-10-28 131845"
-    },
-    {
       "titulo": "Concepción toma medidas contra agresor de funcionario y promete acciones contra amenazas en redes",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/concepcion-toma-medidas-contra-agresor-de-funcionario-y-avisa-de-acciones-contra-amenazas-en-redes.shtml",
@@ -66,6 +60,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/gary-medel-se-mantendra-al-margen-de-la-uc-por-lesion/2026-10-28/124909.html",
       "fecha_publicacion": "2026-10-28 124909"
+    },
+    {
+      "titulo": "Ortiz prepara duelo ante U. de Concepción con Vozinha como titular",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-prepara-duelo-ante-u-de-concepcion-con-vozinha-como-titular/2026-10-28/121502.html",
+      "fecha_publicacion": "2026-10-28 121502"
     }
   ]
 }
