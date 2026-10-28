@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-28T19:30:26.370546+00:00",
+  "actualizado": "2026-10-28T19:40:03.914842+00:00",
   "noticias": [
+    {
+      "titulo": "Tras el Balón de Oro: Vozinha retornó a los entrenamientos de Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/tras-el-balon-de-oro-vozinha-retorno-a-los-entrenamientos-de-colo-colo/2026-10-28/162623.html",
+      "fecha_publicacion": "2026-10-28 162623"
+    },
     {
       "titulo": "San Marcos de Arica suma otro dolor de cabeza: nueva denuncia tras desafiliación y citación a tribunal",
       "fuente": "BioBioChile",
@@ -18,12 +24,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/dilan-zuniga-recibio-un-severo-castigo-por-violenta-falta-sobre-leandro/2026-10-28/141210.html",
       "fecha_publicacion": "2026-10-28 141210"
-    },
-    {
-      "titulo": "Méndez: Lo lindo es que el título depende exclusivamente de nosotros",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mendez-lo-lindo-es-que-el-titulo-depende-exclusivamente-de-nosotros/2026-10-28/131845.html",
-      "fecha_publicacion": "2026-10-28 131845"
     },
     {
       "titulo": "Concepción toma medidas contra agresor de funcionario y promete acciones contra amenazas en redes",
@@ -60,12 +60,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/municipalidad-de-penalolen-clausura-sede-de-la-anfp-en-quilin.shtml",
       "fecha_publicacion": "2026-10-28 10:46"
-    },
-    {
-      "titulo": "Presidente de San Luis lamenta ’escritoriazo’ a San Marcos y remarca que \"nos están pasando la cuenta\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/presidente-de-san-luis-lamenta-escritoriazo-a-san-marcos-y-remarca-que-nos-estan-pasando-la-cuenta.shtml",
-      "fecha_publicacion": "2026-10-28 09:40"
     },
     {
       "titulo": "La UC quiere recuperar terreno en la Liga en el duelo pendiente contra Audax Italiano",
