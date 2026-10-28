@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-28T17:00:37.455191+00:00",
+  "actualizado": "2026-10-28T17:30:27.541548+00:00",
   "noticias": [
+    {
+      "titulo": "Dilan Zúñiga recibió un severo castigo por violenta falta sobre Leandro Hernández",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/dilan-zuniga-recibio-un-severo-castigo-por-violenta-falta-sobre-leandro/2026-10-28/141210.html",
+      "fecha_publicacion": "2026-10-28 141210"
+    },
     {
       "titulo": "Méndez: Lo lindo es que el título depende exclusivamente de nosotros",
       "fuente": "Cooperativa",
@@ -74,10 +80,16 @@
       "fecha_publicacion": "2026-10-27 21:10"
     },
     {
-      "titulo": "Mosa exigió el título: \"No se nos puede ir de las manos\"",
+      "titulo": "Mosa reveló reuniones en Londres por el Estadio Monumental: \"Vamos bien encaminados\"",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-exigio-el-titulo-no-se-nos-puede-ir-de-las-manos/2026-10-27/152121.html",
-      "fecha_publicacion": "2026-10-27 152121"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-revelo-reuniones-en-londres-por-el-estadio-monumental-vamos-bien/2026-10-27/193718.html",
+      "fecha_publicacion": "2026-10-27 193718"
+    },
+    {
+      "titulo": "La UC quiere recuperar terreno en la Liga en el duelo pendiente contra Audax Italiano",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-quiere-recuperar-terreno-en-la-liga-en-el-duelo-pendiente-contra/2026-10-27/181757.html",
+      "fecha_publicacion": "2026-10-27 181757"
     }
   ]
 }
