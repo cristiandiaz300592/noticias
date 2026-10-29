@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T15:30:25.491135+00:00",
+  "actualizado": "2026-10-29T16:00:32.320817+00:00",
   "noticias": [
     {
       "titulo": "Lucas Cepeda presentó medida prejudicial contra Colo Colo",
@@ -26,6 +26,12 @@
       "fecha_publicacion": "2026-10-29 08:45"
     },
     {
+      "titulo": "La UC igualó frente a Audax y se enredó aún más en su persecución a la U",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-igualo-frente-a-audax-y-se-enredo-aun-mas-en-su-persecucion-a-la/2026-10-28/224339.html",
+      "fecha_publicacion": "2026-10-28 224339"
+    },
+    {
       "titulo": "U. Católica no levanta: igualó en casa con Audax, se estrella por el ’Chile 2’ y lo celebra La U",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/u-catolica-no-levanta-igualo-en-casa-con-audax-se-estrella-por-el-chile-2-y-lo-celebra-la-u.shtml",
@@ -48,24 +54,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-tras-el-duelo-pendiente-de-la-uc-y/2026-10-28/203201.html",
       "fecha_publicacion": "2026-10-28 203201"
-    },
-    {
-      "titulo": "Fernando Gago: Mientras matemáticamente nos den las posibilidades, vamos a pelear",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fernando-gago-mientras-matematicamente-nos-den-las-posibilidades-vamos/2026-10-28/180541.html",
-      "fecha_publicacion": "2026-10-28 180541"
-    },
-    {
-      "titulo": "Tercera B: Fernández Vial vence a Iberia en reprogramado cruce y chocará con Mejillones por ascenso",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/tercera-b-fernandez-vial-vence-a-iberia-en-reprogramado-cruce-y-chocara-con-mejillones-por-ascenso.shtml",
-      "fecha_publicacion": "2026-10-28 17:49"
-    },
-    {
-      "titulo": "Gobernador de Arica exige la renuncia del directorio de la ANFP tras desafiliación de San Marcos",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/gobernador-de-arica-exige-la-renuncia-del-directorio-de-la-anfp-tras-desafiliacion-de-san-marcos.shtml",
-      "fecha_publicacion": "2026-10-28 17:46"
     },
     {
       "titulo": "Méndez: Lo lindo es que el título depende exclusivamente de nosotros",
