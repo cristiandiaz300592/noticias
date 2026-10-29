@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-29T20:30:30.087941+00:00",
+  "actualizado": "2026-10-29T21:00:30.516471+00:00",
   "noticias": [
+    {
+      "titulo": "Ignacio Bahamondes peleará en Chile en combate estelar: cuándo es el evento y dónde comprar entradas",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/10/29/ignacio-bahamondes-peleara-en-chile-en-combate-estelar-cuando-es-el-evento-y-donde-comprar-entradas.shtml",
+      "fecha_publicacion": "2026-10-29 17:55"
+    },
+    {
+      "titulo": "Agustín Arce: Los clásicos son distintos, pero vamos a buscar la victoria como siempre",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/agustin-arce-los-clasicos-son-distintos-pero-vamos-a-buscar-la/2026-10-29/165608.html",
+      "fecha_publicacion": "2026-10-29 165608"
+    },
     {
       "titulo": "¿Cuándo y dónde ver la reanudación de la revancha entre Colo Colo y Puerto Montt en la Copa Chile?",
       "fuente": "Cooperativa",
@@ -14,12 +26,6 @@
       "fecha_publicacion": "2026-10-29 15:56"
     },
     {
-      "titulo": "¿Qué partido será transmitido por TV abierta en la fecha 26 de la Liga de Primera?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/que-partido-sera-transmitido-por-tv-abierta-en-la-fecha-26-de-la-liga/2026-10-29/154835.html",
-      "fecha_publicacion": "2026-10-29 154835"
-    },
-    {
       "titulo": "Morales palpitó el clásico universitario: Será bonito el duelo con Montes",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/morales-palpito-el-clasico-universitario-sera-bonito-el-duelo-con/2026-10-29/153854.html",
@@ -30,6 +36,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/jhojan-valencia-la-u-se-incomoda-cuando-el-equipo-rival-tiene-el-balon/2026-10-29/153519.html",
       "fecha_publicacion": "2026-10-29 153519"
+    },
+    {
+      "titulo": "¿Cecilia Pérez seguirá en el directorio de Azul Azul?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-seguira-en-el-directorio-de-azul-azul/2026-10-29/151628.html",
+      "fecha_publicacion": "2026-10-29 151628"
     },
     {
       "titulo": "Universidad de Chile aseguró la renovación de Eduardo Vargas",
