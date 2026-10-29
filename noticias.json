@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-10-29T02:00:30.189463+00:00",
+  "actualizado": "2026-10-29T02:30:25.272466+00:00",
   "noticias": [
+    {
+      "titulo": "La Universidad Católica solo empató con Audax Italiano y llega complicada a trascendental clásico universitario con la U",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/28/1215489/universidad-catolica-audax-italiano-torneonacional.html",
+      "fecha_publicacion": "2026-10-28 22:57"
+    },
     {
       "titulo": "La UC igualó frente a Audax y se enredó aún más en su persecución a la U",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-igualo-frente-a-audax-y-se-enredo-aun-mas-en-su-persecucion-a-la/2026-10-28/224339.html",
       "fecha_publicacion": "2026-10-28 224339"
+    },
+    {
+      "titulo": "Así quedó la tabla de posiciones del Campeonato Nacional tras el empate entre la UC y Audax",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/28/1215487/tabla-torneo-nacional-uc-audax.html",
+      "fecha_publicacion": "2026-10-28 22:39"
     },
     {
       "titulo": "U. Católica no levanta: igualó en casa con Audax, se estrella por el ’Chile 2’ y lo celebra La U",
@@ -24,6 +36,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/polemica-en-claro-arena-arbitro-expulsa-a-zuqui-y-vadulli-en-uc-audax-por-choque-cabeza-con-cabeza.shtml",
       "fecha_publicacion": "2026-10-28 21:43"
+    },
+    {
+      "titulo": "Video: La discutida jugada por la que Zuqui y Vadulli fueron expulsados por conducta violenta en el duelo UC vs Audax",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/28/1215488/zuqui-vadulli-expulsados-catolica-audax.html",
+      "fecha_publicacion": "2026-10-28 21:36"
     },
     {
       "titulo": "ANFP rechaza clausura de su sede en Peñalolén y anuncia acciones para revertir \"medida arbitraria\"",
