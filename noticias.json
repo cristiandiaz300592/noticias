@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-29T14:00:31.143956+00:00",
+  "actualizado": "2026-10-29T14:30:28.130537+00:00",
   "noticias": [
+    {
+      "titulo": "Lucas Cepeda presentó medida prejudicial contra Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/lucas-cepeda-presento-medida-prejudicial-contra-colo-colo/2026-10-29/110426.html",
+      "fecha_publicacion": "2026-10-29 110426"
+    },
     {
       "titulo": "Aníbal Mosa descartó que tardanza en renovaciones haya influido en la baja de Colo Colo",
       "fuente": "Cooperativa",
@@ -18,12 +24,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/29/catolica-se-complico-por-el-chile-2-asi-quedo-la-tabla-de-liga-de-primera-tras-duelo-pendiente.shtml",
       "fecha_publicacion": "2026-10-29 08:45"
-    },
-    {
-      "titulo": "La Universidad Católica solo empató con Audax Italiano y llega complicada a trascendental clásico universitario con la U",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/28/1215489/universidad-catolica-audax-italiano-torneonacional.html",
-      "fecha_publicacion": "2026-10-28 22:57"
     },
     {
       "titulo": "La UC igualó frente a Audax y se enredó aún más en su persecución a la U",
@@ -90,12 +90,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mendez-lo-lindo-es-que-el-titulo-depende-exclusivamente-de-nosotros/2026-10-28/131845.html",
       "fecha_publicacion": "2026-10-28 131845"
-    },
-    {
-      "titulo": "Gary Medel se mantendrá al margen de la UC por lesión",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/gary-medel-se-mantendra-al-margen-de-la-uc-por-lesion/2026-10-28/124909.html",
-      "fecha_publicacion": "2026-10-28 124909"
     },
     {
       "titulo": "Así quedó la tabla de posiciones del Campeonato Nacional tras el empate entre la UC y Audax",
