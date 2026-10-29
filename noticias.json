@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-29T01:30:28.936512+00:00",
+  "actualizado": "2026-10-29T02:00:30.189463+00:00",
   "noticias": [
+    {
+      "titulo": "La UC igualó frente a Audax y se enredó aún más en su persecución a la U",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-igualo-frente-a-audax-y-se-enredo-aun-mas-en-su-persecucion-a-la/2026-10-28/224339.html",
+      "fecha_publicacion": "2026-10-28 224339"
+    },
+    {
+      "titulo": "U. Católica no levanta: igualó en casa con Audax, se estrella por el ’Chile 2’ y lo celebra La U",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/u-catolica-no-levanta-igualo-en-casa-con-audax-se-estrella-por-el-chile-2-y-lo-celebra-la-u.shtml",
+      "fecha_publicacion": "2026-10-28 22:36"
+    },
     {
       "titulo": "[VIDEO] César Pinares anotó de penal y lo igualó para Audax Italiano ante la UC",
       "fuente": "Cooperativa",
@@ -14,28 +26,22 @@
       "fecha_publicacion": "2026-10-28 21:43"
     },
     {
-      "titulo": "[VIDEO] Zuqui y Vadulli fueron expulsados por polémica agresión antes del descanso",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-zuqui-y-vadulli-fueron-expulsados-por-polemica-agresion-antes/2026-10-28/212007.html",
-      "fecha_publicacion": "2026-10-28 212007"
-    },
-    {
       "titulo": "ANFP rechaza clausura de su sede en Peñalolén y anuncia acciones para revertir \"medida arbitraria\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/anfp-rechaza-clausura-de-su-sede-en-penalolen-y-anuncia-acciones-para-revertir-medida-arbitraria.shtml",
       "fecha_publicacion": "2026-10-28 20:59"
     },
     {
-      "titulo": "[VIDEO] La UC tomó ventaja ante Audax Italiano con un cabezazo de Fernando Zampedri",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-la-uc-tomo-ventaja-ante-audax-italiano-con-un-cabezazo-de/2026-10-28/205847.html",
-      "fecha_publicacion": "2026-10-28 205847"
-    },
-    {
       "titulo": "[ESTADISTICAS] La tabla de posiciones tras el duelo pendiente de la UC y Audax Italiano",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-tras-el-duelo-pendiente-de-la-uc-y/2026-10-28/203201.html",
       "fecha_publicacion": "2026-10-28 203201"
+    },
+    {
+      "titulo": "Fernando Gago: Mientras matemáticamente nos den las posibilidades, vamos a pelear",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fernando-gago-mientras-matematicamente-nos-den-las-posibilidades-vamos/2026-10-28/180541.html",
+      "fecha_publicacion": "2026-10-28 180541"
     },
     {
       "titulo": "Tercera B: Fernández Vial vence a Iberia en reprogramado cruce y chocará con Mejillones por ascenso",
@@ -50,9 +56,9 @@
       "fecha_publicacion": "2026-10-28 17:46"
     },
     {
-      "titulo": "[Radio en vivo🎙] La UC iguala con Audax Italiano en duelo pendiente de la fecha 24",
+      "titulo": "[Radio en vivo🎙] La UC igualó con Audax Italiano en duelo pendiente de la fecha 24",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-la-uc-iguala-con-audax-italiano-en-duelo-pendiente-de/2026-10-28/174017.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-la-uc-igualo-con-audax-italiano-en-duelo-pendiente-de/2026-10-28/174017.html",
       "fecha_publicacion": "2026-10-28 174017"
     },
     {
@@ -74,10 +80,10 @@
       "fecha_publicacion": "2026-10-28 14:50"
     },
     {
-      "titulo": "Dilan Zúñiga recibió un severo castigo por violenta falta sobre Leandro Hernández",
+      "titulo": "Méndez: Lo lindo es que el título depende exclusivamente de nosotros",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/dilan-zuniga-recibio-un-severo-castigo-por-violenta-falta-sobre-leandro/2026-10-28/141210.html",
-      "fecha_publicacion": "2026-10-28 141210"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mendez-lo-lindo-es-que-el-titulo-depende-exclusivamente-de-nosotros/2026-10-28/131845.html",
+      "fecha_publicacion": "2026-10-28 131845"
     },
     {
       "titulo": "Gary Medel se mantendrá al margen de la UC por lesión",
