@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-29T13:00:32.757387+00:00",
+  "actualizado": "2026-10-29T13:21:01.274322+00:00",
   "noticias": [
+    {
+      "titulo": "Aníbal Mosa descartó que tardanza en renovaciones haya influido en la baja de Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/anibal-mosa-descarto-que-tardanza-en-renovaciones-haya-influido-en-la/2026-10-29/101008.html",
+      "fecha_publicacion": "2026-10-29 101008"
+    },
     {
       "titulo": "Cobreloa se desmarca del ’escritoriazo’ a Arica y repasa a la ANFP: \"Somos más víctimas que otra cosa\"",
       "fuente": "BioBioChile",
@@ -50,12 +56,6 @@
       "fecha_publicacion": "2026-10-28 203201"
     },
     {
-      "titulo": "Fernando Gago: Mientras matemáticamente nos den las posibilidades, vamos a pelear",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fernando-gago-mientras-matematicamente-nos-den-las-posibilidades-vamos/2026-10-28/180541.html",
-      "fecha_publicacion": "2026-10-28 180541"
-    },
-    {
       "titulo": "Tercera B: Fernández Vial vence a Iberia en reprogramado cruce y chocará con Mejillones por ascenso",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/tercera-b-fernandez-vial-vence-a-iberia-en-reprogramado-cruce-y-chocara-con-mejillones-por-ascenso.shtml",
@@ -80,16 +80,16 @@
       "fecha_publicacion": "2026-10-28 16:17"
     },
     {
+      "titulo": "Méndez: Lo lindo es que el título depende exclusivamente de nosotros",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mendez-lo-lindo-es-que-el-titulo-depende-exclusivamente-de-nosotros/2026-10-28/131845.html",
+      "fecha_publicacion": "2026-10-28 131845"
+    },
+    {
       "titulo": "Gary Medel se mantendrá al margen de la UC por lesión",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/gary-medel-se-mantendra-al-margen-de-la-uc-por-lesion/2026-10-28/124909.html",
       "fecha_publicacion": "2026-10-28 124909"
-    },
-    {
-      "titulo": "Ortiz prepara duelo ante U. de Concepción con Vozinha como titular",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-prepara-duelo-ante-u-de-concepcion-con-vozinha-como-titular/2026-10-28/121502.html",
-      "fecha_publicacion": "2026-10-28 121502"
     },
     {
       "titulo": "Así quedó la tabla de posiciones del Campeonato Nacional tras el empate entre la UC y Audax",
