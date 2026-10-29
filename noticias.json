@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-28T23:30:31.295056+00:00",
+  "actualizado": "2026-10-29T00:00:35.642669+00:00",
   "noticias": [
+    {
+      "titulo": "ANFP rechaza clausura de su sede en Peñalolén y anuncia acciones para revertir \"medida arbitraria\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/anfp-rechaza-clausura-de-su-sede-en-penalolen-y-anuncia-acciones-para-revertir-medida-arbitraria.shtml",
+      "fecha_publicacion": "2026-10-28 20:59"
+    },
+    {
+      "titulo": "[ESTADISTICAS] La tabla de posiciones tras el duelo pendiente de la UC y Audax Italiano",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-tras-el-duelo-pendiente-de-la-uc-y/2026-10-28/203201.html",
+      "fecha_publicacion": "2026-10-28 203201"
+    },
     {
       "titulo": "Tercera B: Fernández Vial vence a Iberia en reprogramado cruce y chocará con Mejillones por ascenso",
       "fuente": "BioBioChile",
@@ -14,9 +26,9 @@
       "fecha_publicacion": "2026-10-28 17:46"
     },
     {
-      "titulo": "[Radio en vivo🎙] La UC recibe a Audax Italiano en duelo pendiente de la fecha 24",
+      "titulo": "[Radio en vivo🎙] La UC iguala con Audax Italiano en duelo pendiente de la fecha 24",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-la-uc-recibe-a-audax-italiano-en-duelo-pendiente-de-la/2026-10-28/174017.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-la-uc-iguala-con-audax-italiano-en-duelo-pendiente-de/2026-10-28/174017.html",
       "fecha_publicacion": "2026-10-28 174017"
     },
     {
@@ -48,12 +60,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/concepcion-toma-medidas-contra-agresor-de-funcionario-y-avisa-de-acciones-contra-amenazas-en-redes.shtml",
       "fecha_publicacion": "2026-10-28 12:55"
-    },
-    {
-      "titulo": "Pablo Milad encaró a alcalde de Peñalolén tras clausura de la sede ANFP: \"¿Dónde está? Se arrancó\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/pablo-milad-hablo-clausura-por-sede-anfp-penalolen.shtml",
-      "fecha_publicacion": "2026-10-28 12:51"
     },
     {
       "titulo": "Gary Medel se mantendrá al margen de la UC por lesión",
