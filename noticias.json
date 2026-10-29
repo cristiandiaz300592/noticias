@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T09:00:33.522340+00:00",
+  "actualizado": "2026-10-29T09:30:28.277200+00:00",
   "noticias": [
     {
       "titulo": "Garnero y el clásico con la U: Llegaremos de la mejor manera posible para poder ganarlo",
@@ -18,12 +18,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-igualo-frente-a-audax-y-se-enredo-aun-mas-en-su-persecucion-a-la/2026-10-28/224339.html",
       "fecha_publicacion": "2026-10-28 224339"
-    },
-    {
-      "titulo": "Así quedó la tabla de posiciones del Campeonato Nacional tras el empate entre la UC y Audax",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/28/1215487/tabla-torneo-nacional-uc-audax.html",
-      "fecha_publicacion": "2026-10-28 22:39"
     },
     {
       "titulo": "U. Católica no levanta: igualó en casa con Audax, se estrella por el ’Chile 2’ y lo celebra La U",
@@ -114,6 +108,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-prepara-duelo-ante-u-de-concepcion-con-vozinha-como-titular/2026-10-28/121502.html",
       "fecha_publicacion": "2026-10-28 121502"
+    },
+    {
+      "titulo": "Así quedó la tabla de posiciones del Campeonato Nacional tras el empate entre la UC y Audax",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/28/1215487/tabla-torneo-nacional-uc-audax.html",
+      "fecha_publicacion": "2026-10-28 06:22"
     }
   ]
 }
