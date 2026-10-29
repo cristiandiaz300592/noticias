@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-29T18:00:30.901819+00:00",
+  "actualizado": "2026-10-29T18:30:29.250644+00:00",
   "noticias": [
+    {
+      "titulo": "¿Cecilia Pérez seguirá en el directorio de Azul Azul?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-seguira-en-el-directorio-de-azul-azul/2026-10-29/151628.html",
+      "fecha_publicacion": "2026-10-29 151628"
+    },
+    {
+      "titulo": "Universidad de Chile aseguró la renovación de Eduardo Vargas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/universidad-de-chile-aseguro-la-renovacion-de-eduardo-vargas/2026-10-29/145334.html",
+      "fecha_publicacion": "2026-10-29 145334"
+    },
     {
       "titulo": "La Roja Sub 17 cambia de casa tras clausura de Quilín: jugará amistosos ante Uruguay en Macul",
       "fuente": "BioBioChile",
@@ -38,10 +50,10 @@
       "fecha_publicacion": "2026-10-29 13:14"
     },
     {
-      "titulo": "Fernando Ortiz: La incertidumbre de quedarme o irme está, lo que importa es el enfoque al respecto",
+      "titulo": "Lucas Cepeda presentó medida prejudicial contra Colo Colo",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fernando-ortiz-la-incertidumbre-de-quedarme-o-irme-esta-lo-que-importa/2026-10-29/124136.html",
-      "fecha_publicacion": "2026-10-29 124136"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/lucas-cepeda-presento-medida-prejudicial-contra-colo-colo/2026-10-29/110426.html",
+      "fecha_publicacion": "2026-10-29 110426"
     },
     {
       "titulo": "Aníbal Mosa descartó que tardanza en renovaciones haya influido en la baja de Colo Colo",
