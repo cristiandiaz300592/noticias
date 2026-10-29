@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-29T17:00:34.117511+00:00",
+  "actualizado": "2026-10-29T17:30:28.450748+00:00",
   "noticias": [
+    {
+      "titulo": "ANFP confirmó la programación para la fecha 27 de la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/anfp-confirmo-la-programacion-para-la-fecha-27-de-la-liga-de-primera/2026-10-29/140505.html",
+      "fecha_publicacion": "2026-10-29 140505"
+    },
     {
       "titulo": "Timonel de Tribunal ANFP ratifica que tabla del Ascenso no correrá en caso San Marcos de Arica",
       "fuente": "BioBioChile",
@@ -20,10 +26,10 @@
       "fecha_publicacion": "2026-10-29 13:14"
     },
     {
-      "titulo": "Lucas Cepeda presentó medida prejudicial contra Colo Colo",
+      "titulo": "Fernando Ortiz: La incertidumbre de quedarme o irme está, lo que importa es el enfoque al respecto",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/lucas-cepeda-presento-medida-prejudicial-contra-colo-colo/2026-10-29/110426.html",
-      "fecha_publicacion": "2026-10-29 110426"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fernando-ortiz-la-incertidumbre-de-quedarme-o-irme-esta-lo-que-importa/2026-10-29/124136.html",
+      "fecha_publicacion": "2026-10-29 124136"
     },
     {
       "titulo": "Aníbal Mosa descartó que tardanza en renovaciones haya influido en la baja de Colo Colo",
@@ -56,12 +62,6 @@
       "fecha_publicacion": "2026-10-28 22:36"
     },
     {
-      "titulo": "Polémica en Claro Arena: árbitro expulsa a Zuqui y Vadulli en UC-Audax por choque \"cabeza con cabeza\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/28/polemica-en-claro-arena-arbitro-expulsa-a-zuqui-y-vadulli-en-uc-audax-por-choque-cabeza-con-cabeza.shtml",
-      "fecha_publicacion": "2026-10-28 21:43"
-    },
-    {
       "titulo": "[ESTADISTICAS] La tabla de posiciones tras el duelo pendiente de la UC y Audax Italiano",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-tras-el-duelo-pendiente-de-la-uc-y/2026-10-28/203201.html",
@@ -72,12 +72,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fernando-gago-mientras-matematicamente-nos-den-las-posibilidades-vamos/2026-10-28/180541.html",
       "fecha_publicacion": "2026-10-28 180541"
-    },
-    {
-      "titulo": "Méndez: Lo lindo es que el título depende exclusivamente de nosotros",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mendez-lo-lindo-es-que-el-titulo-depende-exclusivamente-de-nosotros/2026-10-28/131845.html",
-      "fecha_publicacion": "2026-10-28 131845"
     }
   ]
 }
