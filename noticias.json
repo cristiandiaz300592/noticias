@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T12:00:28.338763+00:00",
+  "actualizado": "2026-10-30T12:30:28.038342+00:00",
   "noticias": [
     {
       "titulo": "El futuro de Arturo Vidal en Colo Colo es tema: El dardo de Esteban Paredes y la orden que dio el \"Rey\" según Marcelo Barticciotto",
@@ -32,12 +32,6 @@
       "fecha_publicacion": "2026-10-29 19:29"
     },
     {
-      "titulo": "Agustín Arce: Los clásicos son distintos, pero vamos a buscar la victoria como siempre",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/agustin-arce-los-clasicos-son-distintos-pero-vamos-a-buscar-la/2026-10-29/165608.html",
-      "fecha_publicacion": "2026-10-29 165608"
-    },
-    {
       "titulo": "Filtran audio que compromete a Milad: prometió inhabilitarse en denuncia a Arica y terminó votando",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/29/filtran-audio-que-compromete-a-milad-prometio-inhabilitarse-en-denuncia-a-arica-y-termino-votando.shtml",
@@ -48,6 +42,18 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/morales-palpito-el-clasico-universitario-sera-bonito-el-duelo-con/2026-10-29/153854.html",
       "fecha_publicacion": "2026-10-29 153854"
+    },
+    {
+      "titulo": "Jhojan Valencia: La U se incomoda cuando el equipo rival tiene el balón",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/jhojan-valencia-la-u-se-incomoda-cuando-el-equipo-rival-tiene-el-balon/2026-10-29/153519.html",
+      "fecha_publicacion": "2026-10-29 153519"
+    },
+    {
+      "titulo": "¿Cecilia Pérez seguirá en el directorio de Azul Azul?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-seguira-en-el-directorio-de-azul-azul/2026-10-29/151628.html",
+      "fecha_publicacion": "2026-10-29 151628"
     },
     {
       "titulo": "Universidad de Chile aseguró la renovación de Eduardo Vargas",
