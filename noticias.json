@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-30T01:00:31.132206+00:00",
+  "actualizado": "2026-10-30T01:30:24.116135+00:00",
   "noticias": [
+    {
+      "titulo": "[ESTADÍSTICAS] La tabla de posiciones de la Liga de Primera en la fecha 26",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-26/2026-10-29/220500.html",
+      "fecha_publicacion": "2026-10-29 220500"
+    },
     {
       "titulo": "El futuro de Arturo Vidal en Colo Colo es tema: El dardo de Esteban Paredes y la orden que dio el \"Rey\" según Marcelo Barticciotto",
       "fuente": "Emol",
@@ -12,12 +18,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-hoy-a-la-u-se-la-ve-convencida-decidida-con-una-idea-clara/2026-10-29/211620.html",
       "fecha_publicacion": "2026-10-29 211620"
-    },
-    {
-      "titulo": "ANFP reprogramó duelo de O'Higgins y Ñublense en la fecha 26 de la Liga",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/anfp-reprogramo-duelo-de-o-higgins-y-nublense-en-la-fecha-26-de-la-liga/2026-10-29/200508.html",
-      "fecha_publicacion": "2026-10-29 200508"
     },
     {
       "titulo": "La Roja empató con Uruguay en el primer amistoso de preparación para el Mundial Sub 17",
