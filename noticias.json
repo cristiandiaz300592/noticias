@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-30T15:30:29.280144+00:00",
+  "actualizado": "2026-10-30T16:00:29.414759+00:00",
   "noticias": [
+    {
+      "titulo": "Superintendencia de Educación oficia a INAF tras clausura de la ANFP: dio cinco días para que responda",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/30/superintendencia-de-educacion-superior-oficia-a-inaf-por-clausura-sede-anfp.shtml",
+      "fecha_publicacion": "2026-10-30 12:58"
+    },
+    {
+      "titulo": "Amistoso de lujo para La Roja femenina: enfrentarán a actuales campeonas del mundo en fecha FIFA",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/10/30/amistoso-de-lujo-para-la-roja-femenina-enfrentaran-a-actuales-campeonas-del-mundo-en-fecha-fifa.shtml",
+      "fecha_publicacion": "2026-10-30 12:33"
+    },
     {
       "titulo": "La Roja sub 15 goleó a Honduras para finalizar su participación en el Mundial de Azerbaiyán",
       "fuente": "Cooperativa",
@@ -44,12 +56,6 @@
       "fecha_publicacion": "2026-10-29 153854"
     },
     {
-      "titulo": "Jhojan Valencia: La U se incomoda cuando el equipo rival tiene el balón",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/jhojan-valencia-la-u-se-incomoda-cuando-el-equipo-rival-tiene-el-balon/2026-10-29/153519.html",
-      "fecha_publicacion": "2026-10-29 153519"
-    },
-    {
       "titulo": "¿Cecilia Pérez seguirá en el directorio de Azul Azul?",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-seguira-en-el-directorio-de-azul-azul/2026-10-29/151628.html",
@@ -62,10 +68,10 @@
       "fecha_publicacion": "2026-10-29 145334"
     },
     {
-      "titulo": "ANFP confirmó la programación para la fecha 27 de la Liga de Primera",
+      "titulo": "Ortiz: Tenemos que volver a la victoria, es real que no estamos haciendo un buen fútbol",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/anfp-confirmo-la-programacion-para-la-fecha-27-de-la-liga-de-primera/2026-10-29/140505.html",
-      "fecha_publicacion": "2026-10-29 140505"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-tenemos-que-volver-a-la-victoria-es-real-que-no-estamos-haciendo/2026-10-29/131427.html",
+      "fecha_publicacion": "2026-10-29 131427"
     }
   ]
 }
