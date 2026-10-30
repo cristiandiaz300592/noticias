@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-10-30T16:00:29.414759+00:00",
+  "actualizado": "2026-10-30T16:30:28.098739+00:00",
   "noticias": [
+    {
+      "titulo": "Por amenaza de mal tiempo: El clásico universitario cambió de horario",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/por-amenaza-de-mal-tiempo-el-clasico-universitario-cambio-de-horario/2026-10-30/131557.html",
+      "fecha_publicacion": "2026-10-30 131557"
+    },
+    {
+      "titulo": "Por decisión de ANFP: Clásico Universitario entre Católica y La U sufre reprogramación",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/30/por-decision-de-anfp-clasico-universitario-entre-catolica-y-la-u-sufre-reprogramacion.shtml",
+      "fecha_publicacion": "2026-10-30 13:15"
+    },
     {
       "titulo": "Superintendencia de Educación oficia a INAF tras clausura de la ANFP: dio cinco días para que responda",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/30/superintendencia-de-educacion-superior-oficia-a-inaf-por-clausura-sede-anfp.shtml",
-      "fecha_publicacion": "2026-10-30 12:58"
+      "fecha_publicacion": "2026-10-30 12:59"
     },
     {
       "titulo": "Amistoso de lujo para La Roja femenina: enfrentarán a actuales campeonas del mundo en fecha FIFA",
