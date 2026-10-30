@@ -1,17 +1,17 @@
 {
-  "actualizado": "2026-10-30T15:00:29.046636+00:00",
+  "actualizado": "2026-10-30T15:30:29.280144+00:00",
   "noticias": [
+    {
+      "titulo": "La Roja sub 15 goleó a Honduras para finalizar su participación en el Mundial de Azerbaiyán",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sub-15-goleo-a-honduras-para-finalizar-su-participacion-en-el/2026-10-30/115701.html",
+      "fecha_publicacion": "2026-10-30 115701"
+    },
     {
       "titulo": "Desafío de lujo: La Roja femenina disputará un amistoso ante las campeonas del mundo",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/desafio-de-lujo-la-roja-femenina-disputara-un-amistoso-ante-las/2026-10-30/103640.html",
       "fecha_publicacion": "2026-10-30 103640"
-    },
-    {
-      "titulo": "El futuro de Arturo Vidal en Colo Colo es tema: El dardo de Esteban Paredes y la orden que dio el \"Rey\" según Marcelo Barticciotto",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/29/1215551/paredes-vidal-renovacion-colocolo.html",
-      "fecha_publicacion": "2026-10-29 21:38"
     },
     {
       "titulo": "Garnero: \"Hoy a la U se la ve convencida, decidida, con una idea clara\"",
@@ -50,16 +50,22 @@
       "fecha_publicacion": "2026-10-29 153519"
     },
     {
+      "titulo": "¿Cecilia Pérez seguirá en el directorio de Azul Azul?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-seguira-en-el-directorio-de-azul-azul/2026-10-29/151628.html",
+      "fecha_publicacion": "2026-10-29 151628"
+    },
+    {
+      "titulo": "Universidad de Chile aseguró la renovación de Eduardo Vargas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/universidad-de-chile-aseguro-la-renovacion-de-eduardo-vargas/2026-10-29/145334.html",
+      "fecha_publicacion": "2026-10-29 145334"
+    },
+    {
       "titulo": "ANFP confirmó la programación para la fecha 27 de la Liga de Primera",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/anfp-confirmo-la-programacion-para-la-fecha-27-de-la-liga-de-primera/2026-10-29/140505.html",
       "fecha_publicacion": "2026-10-29 140505"
-    },
-    {
-      "titulo": "Ortiz: Tenemos que volver a la victoria, es real que no estamos haciendo un buen fútbol",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-tenemos-que-volver-a-la-victoria-es-real-que-no-estamos-haciendo/2026-10-29/131427.html",
-      "fecha_publicacion": "2026-10-29 131427"
     }
   ]
 }
