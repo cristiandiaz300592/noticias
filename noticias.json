@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-30T18:00:31.170505+00:00",
+  "actualizado": "2026-10-30T18:30:25.473556+00:00",
   "noticias": [
+    {
+      "titulo": "La conferencia previa al clásico universitario 203",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-conferencia-previa-al-clasico-universitario-203/2026-10-30/135559.html",
+      "fecha_publicacion": "2026-10-30 135559"
+    },
     {
       "titulo": "Por amenaza de mal tiempo: El clásico universitario cambió de horario",
       "fuente": "Cooperativa",
@@ -38,22 +44,10 @@
       "fecha_publicacion": "2026-10-30 103640"
     },
     {
-      "titulo": "Colo Colo quiere volver a celebrar y dar un paso hacia el título ante U. de Conce",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/colo-colo-quiere-volver-a-celebrar-y-dar-un-paso-hacia-el-titulo-ante-u/2026-10-29/193444.html",
-      "fecha_publicacion": "2026-10-29 193444"
-    },
-    {
       "titulo": "Agustín Arce: Los clásicos son distintos, pero vamos a buscar la victoria como siempre",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/agustin-arce-los-clasicos-son-distintos-pero-vamos-a-buscar-la/2026-10-29/165608.html",
       "fecha_publicacion": "2026-10-29 165608"
-    },
-    {
-      "titulo": "¿Cecilia Pérez seguirá en el directorio de Azul Azul?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-seguira-en-el-directorio-de-azul-azul/2026-10-29/151628.html",
-      "fecha_publicacion": "2026-10-29 151628"
     },
     {
       "titulo": "Universidad de Chile aseguró la renovación de Eduardo Vargas",
