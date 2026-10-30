@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T19:30:27.900980+00:00",
+  "actualizado": "2026-10-30T20:00:29.208672+00:00",
   "noticias": [
     {
       "titulo": "Los resultados en la fecha 26 de la Liga de Primera",
@@ -56,12 +56,6 @@
       "fecha_publicacion": "2026-10-30 15:30"
     },
     {
-      "titulo": "La conferencia previa al clásico universitario 203",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-conferencia-previa-al-clasico-universitario-203/2026-10-30/135559.html",
-      "fecha_publicacion": "2026-10-30 135559"
-    },
-    {
       "titulo": "Por amenaza de mal tiempo: El clásico universitario cambió de horario",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/por-amenaza-de-mal-tiempo-el-clasico-universitario-cambio-de-horario/2026-10-30/131557.html",
@@ -96,6 +90,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/desafio-de-lujo-la-roja-femenina-disputara-un-amistoso-ante-las/2026-10-30/103640.html",
       "fecha_publicacion": "2026-10-30 103640"
+    },
+    {
+      "titulo": "¿Qué partido será transmitido por TV abierta en la fecha 26 de la Liga de Primera?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/que-partido-sera-transmitido-por-tv-abierta-en-la-fecha-26-de-la-liga/2026-10-29/154835.html",
+      "fecha_publicacion": "2026-10-29 154835"
     }
   ]
 }
