@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-30T22:00:27.822899+00:00",
+  "actualizado": "2026-10-30T22:30:25.434697+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEOS] Colo Colo pegó de entrada a la U. de Conce con cabezazos de Madrid y Correa",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/videos-colo-colo-pego-de-entrada-a-la-u-de-conce-con-cabezazos-de/2026-10-30/192009.html",
+      "fecha_publicacion": "2026-10-30 192009"
+    },
     {
       "titulo": "¿Cuándo y dónde ver el clásico universitario 203 entre la UC y U. de Chile?",
       "fuente": "Cooperativa",
@@ -20,9 +26,9 @@
       "fecha_publicacion": "2026-10-30 18:34"
     },
     {
-      "titulo": "[Radio en vivo🎙] Colo Colo y Universidad de Concepción abren la fecha 26",
+      "titulo": "[Radio en vivo🎙] Colo Colo vence a U. de Concepción en el inicio de la fecha 26",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-colo-colo-y-universidad-de-concepcion-abren-la-fecha/2026-10-30/162011.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-colo-colo-vence-a-u-de-concepcion-en-el-inicio-de-la/2026-10-30/162011.html",
       "fecha_publicacion": "2026-10-30 162011"
     },
     {
@@ -68,12 +74,6 @@
       "fecha_publicacion": "2026-10-30 13:15"
     },
     {
-      "titulo": "Superintendencia de Educación oficia a INAF tras clausura de la ANFP: dio cinco días para que responda",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/30/superintendencia-de-educacion-superior-oficia-a-inaf-por-clausura-sede-anfp.shtml",
-      "fecha_publicacion": "2026-10-30 12:59"
-    },
-    {
       "titulo": "La Roja sub 15 goleó a Honduras para finalizar su participación en el Mundial de Azerbaiyán",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sub-15-goleo-a-honduras-para-finalizar-su-participacion-en-el/2026-10-30/115701.html",
@@ -84,12 +84,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/desafio-de-lujo-la-roja-femenina-disputara-un-amistoso-ante-las/2026-10-30/103640.html",
       "fecha_publicacion": "2026-10-30 103640"
-    },
-    {
-      "titulo": "¿Qué partido será transmitido por TV abierta en la fecha 26 de la Liga de Primera?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/que-partido-sera-transmitido-por-tv-abierta-en-la-fecha-26-de-la-liga/2026-10-29/154835.html",
-      "fecha_publicacion": "2026-10-29 154835"
     }
   ]
 }
