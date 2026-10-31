@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-31T01:40:22.120132+00:00",
+  "actualizado": "2026-10-31T02:00:28.656436+00:00",
   "noticias": [
+    {
+      "titulo": "O'Higgins quiere tomar un respiro ante un Ñublense que sueña con los cupos internacionales",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/o-higgins-quiere-tomar-un-respiro-ante-un-nublense-que-suena-con-los/2026-10-30/225351.html",
+      "fecha_publicacion": "2026-10-30 225351"
+    },
+    {
+      "titulo": "Correa fue cauto pese a su exhibición goleadora ante la U. de Conce: \"No hay que marearse\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/correa-fue-cauto-pese-a-su-exhibicion-goleadora-ante-la-u-de-conce-no/2026-10-30/223943.html",
+      "fecha_publicacion": "2026-10-30 223943"
+    },
     {
       "titulo": "Ortiz celebró la goleada: \"Necesitábamos volver a ciertas situaciones que habíamos dejado\"",
       "fuente": "Cooperativa",
@@ -92,6 +104,12 @@
       "fecha_publicacion": "2026-10-30 155846"
     },
     {
+      "titulo": "Eduardo Vargas y el clásico ante la UC: \"Veo al equipo con mucha confianza\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/eduardo-vargas-y-el-clasico-ante-la-uc-veo-al-equipo-con-mucha/2026-10-30/155524.html",
+      "fecha_publicacion": "2026-10-30 155524"
+    },
+    {
       "titulo": "Garnero confirmó que Darío Melo será el arquero titular de la UC en el clásico universitario",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-confirmo-que-dario-melo-sera-el-arquero-titular-de-la-uc-en-el/2026-10-30/154352.html",
@@ -102,24 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/daniel-garnero-favorita-es-la-u-que-viene-ganando-por-goleada-sus/2026-10-30/153745.html",
       "fecha_publicacion": "2026-10-30 153745"
-    },
-    {
-      "titulo": "Gago y el duelo con la UC: Sabemos la jerarquía que tiene, hay que buscar dónde lastimar",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-y-el-duelo-con-la-uc-sabemos-la-jerarquia-que-tiene-hay-que/2026-10-30/153350.html",
-      "fecha_publicacion": "2026-10-30 153350"
-    },
-    {
-      "titulo": "FIFA castigó a UdeC por irregularidades financieras: club no se defendió y pagaría millonaria cifra",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/30/fifa-castigo-a-udec-por-irregularidades-financieras-club-no-se-defendio-y-pagaria-millonaria-cifra.shtml",
-      "fecha_publicacion": "2026-10-30 15:30"
-    },
-    {
-      "titulo": "Por amenaza de mal tiempo: El clásico universitario cambió de horario",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/por-amenaza-de-mal-tiempo-el-clasico-universitario-cambio-de-horario/2026-10-30/131557.html",
-      "fecha_publicacion": "2026-10-30 131557"
     }
   ]
 }
