@@ -1,17 +1,11 @@
 {
-  "actualizado": "2026-10-31T21:00:27.265328+00:00",
+  "actualizado": "2026-10-31T21:30:28.437971+00:00",
   "noticias": [
     {
       "titulo": "Sernac oficiará a ANFP tras afectar a hinchas de Cobreloa por suspensión en la B: Odecu pide solución",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/31/sernac-oficiara-a-anfp-tras-afectar-a-hinchas-de-cobreloa-por-suspension-en-la-b-odecu-pide-solucion.shtml",
       "fecha_publicacion": "2026-10-31 16:53"
-    },
-    {
-      "titulo": "[VIDEO] El surrealista encuentro de Ibai con Aníbal Mosa en la gala del Balón de Oro",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-el-surrealista-encuentro-de-ibai-con-anibal-mosa-en-la-gala-del/2026-10-31/140202.html",
-      "fecha_publicacion": "2026-10-31 140202"
     },
     {
       "titulo": "Mosa y las elecciones en la ANFP: \"No pueden primar los proyectos personalistas\"",
@@ -60,6 +54,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/desafio-de-lujo-la-roja-femenina-disputara-un-amistoso-ante-las/2026-10-30/103640.html",
       "fecha_publicacion": "2026-10-30 103640"
+    },
+    {
+      "titulo": "[ESTADÍSTICAS] La tabla de posiciones de la Liga de Primera en la fecha 26",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-26/2026-10-29/220500.html",
+      "fecha_publicacion": "2026-10-29 220500"
     }
   ]
 }
