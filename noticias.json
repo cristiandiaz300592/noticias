@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-31T00:30:23.890638+00:00",
+  "actualizado": "2026-10-31T01:00:26.380467+00:00",
   "noticias": [
+    {
+      "titulo": "Ortiz celebró la goleada: \"Necesitábamos volver a ciertas situaciones que habíamos dejado\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-celebro-la-goleada-necesitabamos-volver-a-ciertas-situaciones/2026-10-30/213824.html",
+      "fecha_publicacion": "2026-10-30 213824"
+    },
+    {
+      "titulo": "Épica victoria pirata: Coquimbo ganó con uno menos y complicó en demasía a La Calera con el descenso",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/30/epica-victoria-pirata-coquimbo-gano-con-uno-menos-y-complico-en-demasia-a-la-calera-con-el-descenso.shtml",
+      "fecha_publicacion": "2026-10-30 21:30"
+    },
     {
       "titulo": "El líder Colo Colo despeja dudas: De la mano de Javier Correa aplasta a la U. de Concepción y retoma el rumbo al título",
       "fuente": "Emol",
@@ -30,12 +42,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-colo-colo-anoto-su-sexto-gol-ante-u-de-concepcion-con-un/2026-10-30/202937.html",
       "fecha_publicacion": "2026-10-30 202937"
-    },
-    {
-      "titulo": "[VIDEO] Vidal perdió un balón y Fuentealba superó a Vozinha en el descuento de la U. de Conce",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-vidal-perdio-un-balon-y-fuentealba-supero-a-vozinha-en-el/2026-10-30/201132.html",
-      "fecha_publicacion": "2026-10-30 201132"
     },
     {
       "titulo": "Revisa los cuatro goles de Javier Correa en el partido entre Colo Colo y la Universidad de Concepción",
@@ -114,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/por-amenaza-de-mal-tiempo-el-clasico-universitario-cambio-de-horario/2026-10-30/131557.html",
       "fecha_publicacion": "2026-10-30 131557"
-    },
-    {
-      "titulo": "Desafío de lujo: La Roja femenina disputará un amistoso ante las campeonas del mundo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/desafio-de-lujo-la-roja-femenina-disputara-un-amistoso-ante-las/2026-10-30/103640.html",
-      "fecha_publicacion": "2026-10-30 103640"
     }
   ]
 }
