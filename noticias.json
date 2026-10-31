@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T15:24:19.997573+00:00",
+  "actualizado": "2026-10-31T15:30:25.586473+00:00",
   "noticias": [
     {
       "titulo": "Gerencia de Ligas admite error en bases y Arica sería restado de puntos: tabla del Ascenso cambiaría",
@@ -110,16 +110,16 @@
       "fecha_publicacion": "2026-10-30 155846"
     },
     {
+      "titulo": "Eduardo Vargas y el clásico ante la UC: \"Veo al equipo con mucha confianza\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/eduardo-vargas-y-el-clasico-ante-la-uc-veo-al-equipo-con-mucha/2026-10-30/155524.html",
+      "fecha_publicacion": "2026-10-30 155524"
+    },
+    {
       "titulo": "Daniel Garnero: Favorita es la U, que viene ganando por goleada sus partidos",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/daniel-garnero-favorita-es-la-u-que-viene-ganando-por-goleada-sus/2026-10-30/153745.html",
       "fecha_publicacion": "2026-10-30 153745"
-    },
-    {
-      "titulo": "Gago y el duelo con la UC: Sabemos la jerarquía que tiene, hay que buscar dónde lastimar",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-y-el-duelo-con-la-uc-sabemos-la-jerarquia-que-tiene-hay-que/2026-10-30/153350.html",
-      "fecha_publicacion": "2026-10-30 153350"
     }
   ]
 }
