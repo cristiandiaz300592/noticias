@@ -1,11 +1,29 @@
 {
-  "actualizado": "2026-10-31T00:00:37.285380+00:00",
+  "actualizado": "2026-10-31T00:30:23.890638+00:00",
   "noticias": [
+    {
+      "titulo": "El líder Colo Colo despeja dudas: De la mano de Javier Correa aplasta a la U. de Concepción y retoma el rumbo al título",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/30/1215727/colocolo-udeconcepcion-campeonato-nacional.html",
+      "fecha_publicacion": "2026-10-30 21:15"
+    },
     {
       "titulo": "Colo Colo aplastó a UdeC con una exhibición de Javier Correa y dio un gran paso hacia el título",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/30/colo-colo-aplasto-a-udec-con-una-exhibicion-de-javier-correa-y-dio-un-gran-paso-hacia-el-titulo.shtml",
       "fecha_publicacion": "2026-10-30 20:57"
+    },
+    {
+      "titulo": "Goleada y desahogo albo: Colo Colo volvió al triunfo con una exhibición de Javier Correa",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/goleada-y-desahogo-albo-colo-colo-volvio-al-triunfo-con-una-exhibicion/2026-10-30/204756.html",
+      "fecha_publicacion": "2026-10-30 204756"
+    },
+    {
+      "titulo": "Coquimbo Unido se acercó la zona de copas y hundió aún más a La Calera en la Liga",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/coquimbo-unido-se-acerco-la-zona-de-copas-y-hundio-aun-mas-a-la-calera/2026-10-30/204645.html",
+      "fecha_publicacion": "2026-10-30 204645"
     },
     {
       "titulo": "[VIDEO] Colo Colo anotó su sexto gol ante U. de Concepción con un frentazo de Sosa",
@@ -20,16 +38,16 @@
       "fecha_publicacion": "2026-10-30 201132"
     },
     {
-      "titulo": "[VIDEO] ¡Intratable! Correa se los pasó a todos y firmó su póker de goles ante U. de Concepción",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-intratable-correa-se-los-paso-a-todos-y-firmo-su-poker-de/2026-10-30/200122.html",
-      "fecha_publicacion": "2026-10-30 200122"
+      "titulo": "Revisa los cuatro goles de Javier Correa en el partido entre Colo Colo y la Universidad de Concepción",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/30/1215728/javier-correa-goles-colocolo-udeconcepcion.html",
+      "fecha_publicacion": "2026-10-30 20:07"
     },
     {
-      "titulo": "[VIDEO] ¡Golazo al ángulo! Correa definió con clase y firmó su triplete ante la U. de Conce",
+      "titulo": "\"Huasileirao\": Se definieron las llaves de la Copa Región de O'Higgins",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-golazo-al-angulo-correa-definio-con-clase-y-firmo-su-triplete/2026-10-30/193935.html",
-      "fecha_publicacion": "2026-10-30 193935"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/ohiggins/huasileirao-se-definieron-las-llaves-de-la-copa-region-de-o-higgins/2026-10-30/183627.html",
+      "fecha_publicacion": "2026-10-30 183627"
     },
     {
       "titulo": "ANFP publica sentencia sobre desafiliación de San Marcos y define cómo quedará la tabla en la B",
@@ -38,9 +56,9 @@
       "fecha_publicacion": "2026-10-30 18:34"
     },
     {
-      "titulo": "[Radio en vivo🎙] Colo Colo aplastó a U. de Concepción con cuatro goles de Javier Correa",
+      "titulo": "Los resultados de la fecha 26 de la Liga de Primera 2026",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-colo-colo-aplasto-a-u-de-concepcion-con-cuatro-goles/2026-10-30/162011.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-26-de-la-liga-de-primera-2026/2026-10-30/162011.html",
       "fecha_publicacion": "2026-10-30 162011"
     },
     {
@@ -56,6 +74,12 @@
       "fecha_publicacion": "2026-10-30 16:18"
     },
     {
+      "titulo": "Zampedri y el irregular momento de la UC: Estamos molestos, no es lo que queremos demostrar",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/zampedri-y-el-irregular-momento-de-la-uc-estamos-molestos-no-es-lo-que/2026-10-30/155846.html",
+      "fecha_publicacion": "2026-10-30 155846"
+    },
+    {
       "titulo": "Eduardo Vargas y el clásico ante la UC: \"Veo al equipo con mucha confianza\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/eduardo-vargas-y-el-clasico-ante-la-uc-veo-al-equipo-con-mucha/2026-10-30/155524.html",
@@ -66,6 +90,18 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-confirmo-que-dario-melo-sera-el-arquero-titular-de-la-uc-en-el/2026-10-30/154352.html",
       "fecha_publicacion": "2026-10-30 154352"
+    },
+    {
+      "titulo": "Daniel Garnero: Favorita es la U, que viene ganando por goleada sus partidos",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/daniel-garnero-favorita-es-la-u-que-viene-ganando-por-goleada-sus/2026-10-30/153745.html",
+      "fecha_publicacion": "2026-10-30 153745"
+    },
+    {
+      "titulo": "Gago y el duelo con la UC: Sabemos la jerarquía que tiene, hay que buscar dónde lastimar",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-y-el-duelo-con-la-uc-sabemos-la-jerarquia-que-tiene-hay-que/2026-10-30/153350.html",
+      "fecha_publicacion": "2026-10-30 153350"
     },
     {
       "titulo": "FIFA castigó a UdeC por irregularidades financieras: club no se defendió y pagaría millonaria cifra",
@@ -80,22 +116,10 @@
       "fecha_publicacion": "2026-10-30 131557"
     },
     {
-      "titulo": "La Roja sub 15 goleó a Honduras para finalizar su participación en el Mundial de Azerbaiyán",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sub-15-goleo-a-honduras-para-finalizar-su-participacion-en-el/2026-10-30/115701.html",
-      "fecha_publicacion": "2026-10-30 115701"
-    },
-    {
       "titulo": "Desafío de lujo: La Roja femenina disputará un amistoso ante las campeonas del mundo",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/desafio-de-lujo-la-roja-femenina-disputara-un-amistoso-ante-las/2026-10-30/103640.html",
       "fecha_publicacion": "2026-10-30 103640"
-    },
-    {
-      "titulo": "[ESTADÍSTICAS] La tabla de posiciones de la Liga de Primera en la fecha 26",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-26/2026-10-29/220500.html",
-      "fecha_publicacion": "2026-10-29 220500"
     }
   ]
 }
