@@ -1,8 +1,20 @@
 {
-  "actualizado": "2026-10-31T12:30:27.443450+00:00",
+  "actualizado": "2026-10-31T13:00:28.704700+00:00",
   "noticias": [
     {
-      "titulo": "La respuesta de Ortiz cuando le preguntaron por la U, la emoción de Correa, autocrítica en la UdeC: Las frases que dejó goleada de Colo Colo",
+      "titulo": "Gerencia de Ligas admite error en bases y Arica sería restado de puntos: tabla del Ascenso cambiaría",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/31/gerencia-de-ligas-admite-error-en-bases-y-arica-seria-restado-de-puntos-tabla-del-ascenso-cambiaria.shtml",
+      "fecha_publicacion": "2026-10-31 09:51"
+    },
+    {
+      "titulo": "Fiscalía citó a declarar a directivos de Azul Azul como imputados por Caso Sartor",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fiscalia-cito-a-declarar-a-directivos-de-azul-azul-como-imputados-por/2026-10-31/094630.html",
+      "fecha_publicacion": "2026-10-31 094630"
+    },
+    {
+      "titulo": "Ortiz y la arremetida de la U, la emoción de Correa, autocrítica en la UdeC: Las frases que dejó goleada de Colo Colo",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/30/1215734/ortiz-correa-colocolo-udeconcepcion.html",
       "fecha_publicacion": "2026-10-30 23:22"
@@ -68,12 +80,6 @@
       "fecha_publicacion": "2026-10-30 20:07"
     },
     {
-      "titulo": "¿Cuándo y dónde ver el clásico universitario 203 entre la UC y U. de Chile?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cuando-y-donde-ver-el-clasico-universitario-203-entre-la-uc-y-u-de/2026-10-30/184649.html",
-      "fecha_publicacion": "2026-10-30 184649"
-    },
-    {
       "titulo": "\"Huasileirao\": Se definieron las llaves de la Copa Región de O'Higgins",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/ohiggins/huasileirao-se-definieron-las-llaves-de-la-copa-region-de-o-higgins/2026-10-30/183627.html",
@@ -114,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-confirmo-que-dario-melo-sera-el-arquero-titular-de-la-uc-en-el/2026-10-30/154352.html",
       "fecha_publicacion": "2026-10-30 154352"
-    },
-    {
-      "titulo": "Daniel Garnero: Favorita es la U, que viene ganando por goleada sus partidos",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/daniel-garnero-favorita-es-la-u-que-viene-ganando-por-goleada-sus/2026-10-30/153745.html",
-      "fecha_publicacion": "2026-10-30 153745"
     }
   ]
 }
