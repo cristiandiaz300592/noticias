@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T16:00:35.527145+00:00",
+  "actualizado": "2026-10-31T16:30:22.489151+00:00",
   "noticias": [
     {
       "titulo": "Gerencia de Ligas admite error en bases y Arica sería restado de puntos: tabla del Ascenso cambiaría",
@@ -12,12 +12,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fiscalia-cito-a-declarar-a-gerentes-de-azul-azul-como-imputados-por-caso/2026-10-31/094630.html",
       "fecha_publicacion": "2026-10-31 094630"
-    },
-    {
-      "titulo": "Ortiz y la arremetida de la U, la emoción de Correa, autocrítica en la UdeC: Las frases que dejó goleada de Colo Colo",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/30/1215734/ortiz-correa-colocolo-udeconcepcion.html",
-      "fecha_publicacion": "2026-10-30 23:22"
     },
     {
       "titulo": "O'Higgins quiere tomar un respiro ante un Ñublense que sueña con los cupos internacionales",
@@ -44,12 +38,6 @@
       "fecha_publicacion": "2026-10-30 211745"
     },
     {
-      "titulo": "El líder Colo Colo despeja dudas: De la mano de Javier Correa aplasta a la U. de Concepción y retoma el rumbo al título",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/30/1215727/colocolo-udeconcepcion-campeonato-nacional.html",
-      "fecha_publicacion": "2026-10-30 21:15"
-    },
-    {
       "titulo": "Colo Colo aplastó a UdeC con una exhibición de Javier Correa y dio un gran paso hacia el título",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/30/colo-colo-aplasto-a-udec-con-una-exhibicion-de-javier-correa-y-dio-un-gran-paso-hacia-el-titulo.shtml",
@@ -60,18 +48,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/goleada-y-desahogo-albo-colo-colo-volvio-al-triunfo-con-una-exhibicion/2026-10-30/204756.html",
       "fecha_publicacion": "2026-10-30 204756"
-    },
-    {
-      "titulo": "Coquimbo Unido se acercó la zona de copas y hundió aún más a La Calera en la Liga",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/coquimbo-unido-se-acerco-la-zona-de-copas-y-hundio-aun-mas-a-la-calera/2026-10-30/204645.html",
-      "fecha_publicacion": "2026-10-30 204645"
-    },
-    {
-      "titulo": "Revisa los cuatro goles de Javier Correa en el partido entre Colo Colo y la Universidad de Concepción",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/30/1215728/javier-correa-goles-colocolo-udeconcepcion.html",
-      "fecha_publicacion": "2026-10-30 20:07"
     },
     {
       "titulo": "¿Cuándo y dónde ver el clásico universitario 203 entre la UC y U. de Chile?",
@@ -120,6 +96,24 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-y-el-duelo-con-la-uc-sabemos-la-jerarquia-que-tiene-hay-que/2026-10-30/153350.html",
       "fecha_publicacion": "2026-10-30 153350"
+    },
+    {
+      "titulo": "FIFA castigó a UdeC por irregularidades financieras: club no se defendió y pagaría millonaria cifra",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/30/fifa-castigo-a-udec-por-irregularidades-financieras-club-no-se-defendio-y-pagaria-millonaria-cifra.shtml",
+      "fecha_publicacion": "2026-10-30 15:30"
+    },
+    {
+      "titulo": "Por amenaza de mal tiempo: El clásico universitario cambió de horario",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/por-amenaza-de-mal-tiempo-el-clasico-universitario-cambio-de-horario/2026-10-30/131557.html",
+      "fecha_publicacion": "2026-10-30 131557"
+    },
+    {
+      "titulo": "Desafío de lujo: La Roja femenina disputará un amistoso ante las campeonas del mundo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/desafio-de-lujo-la-roja-femenina-disputara-un-amistoso-ante-las/2026-10-30/103640.html",
+      "fecha_publicacion": "2026-10-30 103640"
     }
   ]
 }
