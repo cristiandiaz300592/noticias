@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T02:00:28.656436+00:00",
+  "actualizado": "2026-10-31T02:30:23.905936+00:00",
   "noticias": [
     {
       "titulo": "O'Higgins quiere tomar un respiro ante un Ñublense que sueña con los cupos internacionales",
@@ -80,12 +80,6 @@
       "fecha_publicacion": "2026-10-30 18:34"
     },
     {
-      "titulo": "Los resultados de la fecha 26 de la Liga de Primera 2026",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-26-de-la-liga-de-primera-2026/2026-10-30/162011.html",
-      "fecha_publicacion": "2026-10-30 162011"
-    },
-    {
       "titulo": "No fue una decisión al azar: revelan qué obligó a adelantar el Clásico Universitario en el Claro Arena",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/30/no-fue-una-decision-al-azar-revelan-que-obligo-a-adelantar-el-clasico-universitario-en-el-claro-arena.shtml",
@@ -120,6 +114,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/daniel-garnero-favorita-es-la-u-que-viene-ganando-por-goleada-sus/2026-10-30/153745.html",
       "fecha_publicacion": "2026-10-30 153745"
+    },
+    {
+      "titulo": "Gago y el duelo con la UC: Sabemos la jerarquía que tiene, hay que buscar dónde lastimar",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-y-el-duelo-con-la-uc-sabemos-la-jerarquia-que-tiene-hay-que/2026-10-30/153350.html",
+      "fecha_publicacion": "2026-10-30 153350"
     }
   ]
 }
