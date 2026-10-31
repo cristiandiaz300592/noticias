@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-31T19:30:24.510671+00:00",
+  "actualizado": "2026-10-31T20:00:27.277649+00:00",
   "noticias": [
+    {
+      "titulo": "Sernac oficiará a ANFP tras afectar a hinchas de Cobreloa por suspensión en la B: Odecu pide solución",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/31/sernac-oficiara-a-anfp-tras-afectar-a-hinchas-de-cobreloa-por-suspension-en-la-b-odecu-pide-solucion.shtml",
+      "fecha_publicacion": "2026-10-31 16:53"
+    },
     {
       "titulo": "[VIDEO] El surrealista encuentro de Ibai con Aníbal Mosa en la gala del Balón de Oro",
       "fuente": "Cooperativa",
@@ -24,18 +30,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fiscalia-cito-a-declarar-a-gerentes-de-azul-azul-como-imputados-por-caso/2026-10-31/094630.html",
       "fecha_publicacion": "2026-10-31 094630"
-    },
-    {
-      "titulo": "Correa fue cauto pese a su exhibición goleadora ante la U. de Conce: \"No hay que marearse\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/correa-fue-cauto-pese-a-su-exhibicion-goleadora-ante-la-u-de-conce-no/2026-10-30/223943.html",
-      "fecha_publicacion": "2026-10-30 223943"
-    },
-    {
-      "titulo": "Ortiz celebró la goleada: \"Necesitábamos volver a ciertas situaciones que habíamos dejado\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-celebro-la-goleada-necesitabamos-volver-a-ciertas-situaciones/2026-10-30/213824.html",
-      "fecha_publicacion": "2026-10-30 213824"
     },
     {
       "titulo": "Épica victoria pirata: Coquimbo ganó con uno menos y complicó en demasía a La Calera con el descenso",
@@ -72,12 +66,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/30/anfp-publica-sentencia-sobre-desafiliacion-de-san-marcos-y-define-como-quedara-la-tabla-en-la-b.shtml",
       "fecha_publicacion": "2026-10-30 18:34"
-    },
-    {
-      "titulo": "No fue una decisión al azar: revelan qué obligó a adelantar el Clásico Universitario en el Claro Arena",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/30/no-fue-una-decision-al-azar-revelan-que-obligo-a-adelantar-el-clasico-universitario-en-el-claro-arena.shtml",
-      "fecha_publicacion": "2026-10-30 16:19"
     },
     {
       "titulo": "Desafío de lujo: La Roja femenina disputará un amistoso ante las campeonas del mundo",
