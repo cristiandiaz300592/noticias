@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-30T23:30:28.244305+00:00",
+  "actualizado": "2026-10-31T00:00:37.285380+00:00",
   "noticias": [
+    {
+      "titulo": "Colo Colo aplastó a UdeC con una exhibición de Javier Correa y dio un gran paso hacia el título",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/30/colo-colo-aplasto-a-udec-con-una-exhibicion-de-javier-correa-y-dio-un-gran-paso-hacia-el-titulo.shtml",
+      "fecha_publicacion": "2026-10-30 20:57"
+    },
+    {
+      "titulo": "[VIDEO] Colo Colo anotó su sexto gol ante U. de Concepción con un frentazo de Sosa",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-colo-colo-anoto-su-sexto-gol-ante-u-de-concepcion-con-un/2026-10-30/202937.html",
+      "fecha_publicacion": "2026-10-30 202937"
+    },
     {
       "titulo": "[VIDEO] Vidal perdió un balón y Fuentealba superó a Vozinha en el descuento de la U. de Conce",
       "fuente": "Cooperativa",
@@ -20,27 +32,15 @@
       "fecha_publicacion": "2026-10-30 193935"
     },
     {
-      "titulo": "[VIDEO] Correa aprovechó un regalo de \"Rocky\" González y anotó un golazo ante la U. de Conce",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-correa-aprovecho-un-regalo-de-rocky-gonzalez-y-anoto-un-golazo/2026-10-30/192959.html",
-      "fecha_publicacion": "2026-10-30 192959"
-    },
-    {
-      "titulo": "[VIDEOS] Colo Colo pegó de entrada a la U. de Conce con cabezazos de Madrid y Correa",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/videos-colo-colo-pego-de-entrada-a-la-u-de-conce-con-cabezazos-de/2026-10-30/192009.html",
-      "fecha_publicacion": "2026-10-30 192009"
-    },
-    {
       "titulo": "ANFP publica sentencia sobre desafiliación de San Marcos y define cómo quedará la tabla en la B",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/30/anfp-publica-sentencia-sobre-desafiliacion-de-san-marcos-y-define-como-quedara-la-tabla-en-la-b.shtml",
       "fecha_publicacion": "2026-10-30 18:34"
     },
     {
-      "titulo": "[Radio en vivo🎙] Colo Colo golea a U. de Concepción en el inicio de la fecha 26",
+      "titulo": "[Radio en vivo🎙] Colo Colo aplastó a U. de Concepción con cuatro goles de Javier Correa",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-colo-colo-golea-a-u-de-concepcion-en-el-inicio-de-la/2026-10-30/162011.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-colo-colo-aplasto-a-u-de-concepcion-con-cuatro-goles/2026-10-30/162011.html",
       "fecha_publicacion": "2026-10-30 162011"
     },
     {
@@ -90,6 +90,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/desafio-de-lujo-la-roja-femenina-disputara-un-amistoso-ante-las/2026-10-30/103640.html",
       "fecha_publicacion": "2026-10-30 103640"
+    },
+    {
+      "titulo": "[ESTADÍSTICAS] La tabla de posiciones de la Liga de Primera en la fecha 26",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-26/2026-10-29/220500.html",
+      "fecha_publicacion": "2026-10-29 220500"
     }
   ]
 }
