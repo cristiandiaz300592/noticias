@@ -1,11 +1,29 @@
 {
-  "actualizado": "2026-11-01T19:30:27.442094+00:00",
+  "actualizado": "2026-11-01T20:00:29.586406+00:00",
   "noticias": [
+    {
+      "titulo": "Juan Ignacio Díaz y el triunfo ante la U: El esfuerzo del equipo fue increíble",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/juan-ignacio-diaz-y-el-triunfo-ante-la-u-el-esfuerzo-del-equipo-fue/2026-11-01/164225.html",
+      "fecha_publicacion": "2026-11-01 164225"
+    },
+    {
+      "titulo": "Charles Aránguiz: El título se nos escapó en el clásico con Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/charles-aranguiz-el-titulo-se-nos-escapo-en-el-clasico-con-colo-colo/2026-11-01/163603.html",
+      "fecha_publicacion": "2026-11-01 163603"
+    },
     {
       "titulo": "Por la definición del torneo: La U jugará en simultáneo con Colo Colo por la fecha 27",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/por-la-definicion-del-torneo-la-u-jugara-en-simultaneo-con-colo-colo/2026-11-01/161543.html",
       "fecha_publicacion": "2026-11-01 161543"
+    },
+    {
+      "titulo": "El \"cruzalbismo\" estelarizó los memes tras la caída de la U en el clásico con la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/el-cruzalbismo-estelarizo-los-memes-tras-la-caida-de-la-u-en-el/2026-11-01/160819.html",
+      "fecha_publicacion": "2026-11-01 160819"
     },
     {
       "titulo": "Clásico freak: Kike Acuña bailó, mientras que Pinilla cantó y se puso la camiseta de la UC",
@@ -14,28 +32,10 @@
       "fecha_publicacion": "2026-11-01 155342"
     },
     {
-      "titulo": "La calculadora para la estrella 35: ¿Qué necesita Colo Colo para ganar el título?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/la-calculadora-para-la-estrella-35-que-necesita-colo-colo-para-ganar/2026-11-01/155021.html",
-      "fecha_publicacion": "2026-11-01 155021"
-    },
-    {
-      "titulo": "Coloccini: No hay que quitarle mérito al trabajo que hizo la UC, nos neutralizó",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/coloccini-no-hay-que-quitarle-merito-al-trabajo-que-hizo-la-uc-nos/2026-11-01/154216.html",
-      "fecha_publicacion": "2026-11-01 154216"
-    },
-    {
       "titulo": "La \"tranquilidad\" de Coloccini tras caer ante la UC: No se pudo, pero lo intentamos",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-tranquilidad-de-coloccini-tras-caer-ante-la-uc-no-se-pudo-pero-lo/2026-11-01/152519.html",
       "fecha_publicacion": "2026-11-01 152519"
-    },
-    {
-      "titulo": "[VIDEO] Gago encaró al árbitro y se fue expulsado tras perder en el clásico universitario",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-gago-encaro-al-arbitro-y-se-fue-expulsado-tras-perder-en-el/2026-11-01/152132.html",
-      "fecha_publicacion": "2026-11-01 152132"
     },
     {
       "titulo": "Con un hombre de más: Huachipato igualó con La Serena y dejó al rojo vivo lucha por cupo internacional",
@@ -98,12 +98,6 @@
       "fecha_publicacion": "2026-11-01 07:41"
     },
     {
-      "titulo": "O'Higgins se recuperó en la Liga y tomó un valioso respiro con ajustado triunfo ante Ñublense",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/o-higgins-se-recupero-en-la-liga-y-tomo-un-valioso-respiro-con-ajustado/2026-10-31/201350.html",
-      "fecha_publicacion": "2026-10-31 201350"
-    },
-    {
       "titulo": "Gol y roja para Castillo: O’Higgins resistió en Rancagua, venció a Ñublense y toma aire en la tabla",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/31/gol-y-roja-para-castillo-ohiggins-resistio-en-rancagua-vencio-a-nublense-y-toma-aire-en-la-tabla.shtml",
@@ -114,12 +108,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-firmo-un-nuevo-empate-ante-uruguay-en-su-preparacion-para-el/2026-10-31/191306.html",
       "fecha_publicacion": "2026-10-31 191306"
-    },
-    {
-      "titulo": "Sernac oficiará a ANFP tras afectar a hinchas de Cobreloa por suspensión en la B: Odecu pide solución",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/31/sernac-oficiara-a-anfp-tras-afectar-a-hinchas-de-cobreloa-por-suspension-en-la-b-odecu-pide-solucion.shtml",
-      "fecha_publicacion": "2026-10-31 16:53"
     }
   ]
 }
