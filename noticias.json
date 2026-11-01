@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-01T18:30:27.523042+00:00",
+  "actualizado": "2026-11-01T19:00:29.344455+00:00",
   "noticias": [
+    {
+      "titulo": "La calculadora para la estrella 35: ¿Qué necesita Colo Colo para ganar el título?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/la-calculadora-para-la-estrella-35-que-necesita-colo-colo-para-ganar/2026-11-01/155021.html",
+      "fecha_publicacion": "2026-11-01 155021"
+    },
+    {
+      "titulo": "La \"tranquilidad\" de Coloccini tras caer ante la UC: No se pudo, pero lo intentamos",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-tranquilidad-de-coloccini-tras-caer-ante-la-uc-no-se-pudo-pero-lo/2026-11-01/152519.html",
+      "fecha_publicacion": "2026-11-01 152519"
+    },
+    {
+      "titulo": "[VIDEO] Gago encaró al árbitro y se fue expulsado tras perder en el clásico universitario",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-gago-encaro-al-arbitro-y-se-fue-expulsado-tras-perder-en-el/2026-11-01/152132.html",
+      "fecha_publicacion": "2026-11-01 152132"
+    },
     {
       "titulo": "Con un hombre de más: Huachipato igualó con La Serena y dejó al rojo vivo lucha por cupo internacional",
       "fuente": "BioBioChile",
@@ -12,6 +30,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-y-el-clasico-universitario-lo-jugamos-poco-lo-peleamos-mucho-y/2026-11-01/150215.html",
       "fecha_publicacion": "2026-11-01 150215"
+    },
+    {
+      "titulo": "Cómo Colo Colo podría ser campeón del Torneo en la próxima fecha y el cambio de programación del duelo de la U",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/01/1215810/colocolo-nublense-campeonato-nacional.html",
+      "fecha_publicacion": "2026-11-01 14:57"
     },
     {
       "titulo": "La UC derrotó a la U en el clásico, encendió la lucha por el Chile 2 y dejó a Colo Colo a un triunfo del título",
@@ -36,18 +60,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-tumbo-a-la-u-en-un-clasico-caliente-y-hasta-colo-colo-celebro/2026-11-01/143130.html",
       "fecha_publicacion": "2026-11-01 143130"
-    },
-    {
-      "titulo": "[VIDEO] El gol anulado a Justo Giani ante la U en el clásico universitario por fuera de juego",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-el-gol-anulado-a-justo-giani-ante-la-u-en-el-clasico/2026-11-01/141739.html",
-      "fecha_publicacion": "2026-11-01 141739"
-    },
-    {
-      "titulo": "La Serena aguantó con uno menos y cosechó un punto ante Huachipato en Talcahuano",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-serena-aguanto-con-uno-menos-y-cosecho-un-punto-ante-huachipato-en/2026-11-01/141306.html",
-      "fecha_publicacion": "2026-11-01 141306"
     },
     {
       "titulo": "Huachipato desperdició la chance de entrar en zona de copas tras empate con La Serena",
