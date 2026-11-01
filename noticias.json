@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-01T20:37:03.394303+00:00",
+  "actualizado": "2026-11-01T21:00:30.204688+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEO] El increíble blooper del arquero de Cobresal que permitió el agónico empate de Everton",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-el-increible-blooper-del-arquero-de-cobresal-que-permitio-el/2026-11-01/175542.html",
+      "fecha_publicacion": "2026-11-01 175542"
+    },
+    {
+      "titulo": "Montes y el clásico universitario: Era importante ganar para seguir peleando por el Chile 2",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/montes-y-el-clasico-universitario-era-importante-ganar-para-seguir/2026-11-01/175249.html",
+      "fecha_publicacion": "2026-11-01 175249"
+    },
+    {
+      "titulo": "Everton rescató un empate increíble ante Cobresal en el norte: perdía por 2 goles hasta el minuto 94",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/01/everton-rescato-un-empate-increible-ante-cobresal-en-el-norte-perdia-por-2-goles-hasta-el-minuto-94.shtml",
+      "fecha_publicacion": "2026-11-01 17:48"
+    },
+    {
+      "titulo": "El \"termeo\" de la UC a la U tras ganar el clásico: \"En casa propia manda el dueño\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/el-termeo-de-la-uc-a-la-u-tras-ganar-el-clasico-en-casa-propia-manda/2026-11-01/173310.html",
+      "fecha_publicacion": "2026-11-01 173310"
+    },
     {
       "titulo": "Everton rescató un dramático empate con dos goles en los descuentos ante Cobresal",
       "fuente": "Cooperativa",
@@ -68,12 +92,6 @@
       "fecha_publicacion": "2026-11-01 14:48"
     },
     {
-      "titulo": "Mira el gol con que la Universidad Católica le ganó a la U en el clásico",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/01/1215804/catolica-udechile-goles-clasico-universitario.html",
-      "fecha_publicacion": "2026-11-01 14:37"
-    },
-    {
       "titulo": "Católica derrotó a la U y ’Chile 2’ sigue abierto: Colo Colo necesita una victoria para ser campeón",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/01/catolica-derroto-a-la-u-y-sigue-en-carrera-por-el-chile-2-azules-se-alejaron-en-lucha-por-el-titulo.shtml",
@@ -92,12 +110,6 @@
       "fecha_publicacion": "2026-11-01 135212"
     },
     {
-      "titulo": "Los detalles del conflicto de Gary Medel con el cuerpo técnico y plantel de la UC",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/los-detalles-del-conflicto-de-gary-medel-con-el-cuerpo-tecnico-y-plantel/2026-11-01/113926.html",
-      "fecha_publicacion": "2026-11-01 113926"
-    },
-    {
       "titulo": "Universidad Católica vs U de Chile por el clásico universitario: a qué hora juegan y dónde verlo",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/01/universidad-catolica-vs-u-de-chile-por-el-clasico-universitario-a-que-hora-juegan-y-donde-verlo.shtml",
@@ -108,12 +120,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/31/gol-y-roja-para-castillo-ohiggins-resistio-en-rancagua-vencio-a-nublense-y-toma-aire-en-la-tabla.shtml",
       "fecha_publicacion": "2026-10-31 20:04"
-    },
-    {
-      "titulo": "La Roja firmó un nuevo empate ante Uruguay en su preparación para el Mundial Sub 17",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-firmo-un-nuevo-empate-ante-uruguay-en-su-preparacion-para-el/2026-10-31/191306.html",
-      "fecha_publicacion": "2026-10-31 191306"
     }
   ]
 }
