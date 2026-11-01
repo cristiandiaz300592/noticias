@@ -1,11 +1,29 @@
 {
-  "actualizado": "2026-11-01T19:00:29.344455+00:00",
+  "actualizado": "2026-11-01T19:30:27.442094+00:00",
   "noticias": [
+    {
+      "titulo": "Por la definición del torneo: La U jugará en simultáneo con Colo Colo por la fecha 27",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/por-la-definicion-del-torneo-la-u-jugara-en-simultaneo-con-colo-colo/2026-11-01/161543.html",
+      "fecha_publicacion": "2026-11-01 161543"
+    },
+    {
+      "titulo": "Clásico freak: Kike Acuña bailó, mientras que Pinilla cantó y se puso la camiseta de la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/clasico-freak-kike-acuna-bailo-mientras-que-pinilla-canto-y-se-puso-la/2026-11-01/155342.html",
+      "fecha_publicacion": "2026-11-01 155342"
+    },
     {
       "titulo": "La calculadora para la estrella 35: ¿Qué necesita Colo Colo para ganar el título?",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/la-calculadora-para-la-estrella-35-que-necesita-colo-colo-para-ganar/2026-11-01/155021.html",
       "fecha_publicacion": "2026-11-01 155021"
+    },
+    {
+      "titulo": "Coloccini: No hay que quitarle mérito al trabajo que hizo la UC, nos neutralizó",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/coloccini-no-hay-que-quitarle-merito-al-trabajo-que-hizo-la-uc-nos/2026-11-01/154216.html",
+      "fecha_publicacion": "2026-11-01 154216"
     },
     {
       "titulo": "La \"tranquilidad\" de Coloccini tras caer ante la UC: No se pudo, pero lo intentamos",
@@ -96,12 +114,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-firmo-un-nuevo-empate-ante-uruguay-en-su-preparacion-para-el/2026-10-31/191306.html",
       "fecha_publicacion": "2026-10-31 191306"
-    },
-    {
-      "titulo": "Leandro Hernández destacó en llamativo ranking del Observatorio de fútbol CIES",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-destaco-en-llamativo-ranking-del-observatorio-de/2026-10-31/184056.html",
-      "fecha_publicacion": "2026-10-31 184056"
     },
     {
       "titulo": "Sernac oficiará a ANFP tras afectar a hinchas de Cobreloa por suspensión en la B: Odecu pide solución",
