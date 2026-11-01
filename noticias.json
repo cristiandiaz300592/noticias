@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-01T17:30:25.130945+00:00",
+  "actualizado": "2026-11-01T18:00:29.745631+00:00",
   "noticias": [
+    {
+      "titulo": "Católica derrotó a la U y sigue en carrera por el ’Chile 2’: azules se alejaron en lucha por el título",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/01/catolica-derroto-a-la-u-y-sigue-en-carrera-por-el-chile-2-azules-se-alejaron-en-lucha-por-el-titulo.shtml",
+      "fecha_publicacion": "2026-11-01 14:36"
+    },
+    {
+      "titulo": "La UC tumbó a la U en un clásico caliente y hasta Colo Colo celebró",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-tumbo-a-la-u-en-un-clasico-caliente-y-hasta-colo-colo-celebro/2026-11-01/143130.html",
+      "fecha_publicacion": "2026-11-01 143130"
+    },
     {
       "titulo": "[VIDEO] El gol anulado a Justo Giani ante la U en el clásico universitario por fuera de juego",
       "fuente": "Cooperativa",
@@ -26,12 +38,6 @@
       "fecha_publicacion": "2026-11-01 07:41"
     },
     {
-      "titulo": "[Radio en vivo 🎙] La UC vence a la U en el clásico universitario 203",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-la-uc-vence-a-la-u-en-el-clasico-universitario-203/2026-10-31/220703.html",
-      "fecha_publicacion": "2026-10-31 220703"
-    },
-    {
       "titulo": "O'Higgins se recuperó en la Liga y tomó un valioso respiro con ajustado triunfo ante Ñublense",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/o-higgins-se-recupero-en-la-liga-y-tomo-un-valioso-respiro-con-ajustado/2026-10-31/201350.html",
@@ -48,6 +54,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-firmo-un-nuevo-empate-ante-uruguay-en-su-preparacion-para-el/2026-10-31/191306.html",
       "fecha_publicacion": "2026-10-31 191306"
+    },
+    {
+      "titulo": "Leandro Hernández destacó en llamativo ranking del Observatorio de fútbol CIES",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-destaco-en-llamativo-ranking-del-observatorio-de/2026-10-31/184056.html",
+      "fecha_publicacion": "2026-10-31 184056"
     },
     {
       "titulo": "Sernac oficiará a ANFP tras afectar a hinchas de Cobreloa por suspensión en la B: Odecu pide solución",
