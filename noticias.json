@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T21:00:30.204688+00:00",
+  "actualizado": "2026-11-01T21:30:27.728549+00:00",
   "noticias": [
     {
       "titulo": "[VIDEO] El increíble blooper del arquero de Cobresal que permitió el agónico empate de Everton",
@@ -32,12 +32,6 @@
       "fecha_publicacion": "2026-11-01 170709"
     },
     {
-      "titulo": "[VIDEO] Los provocadores gestos de Marcelo Morales y Eduardo Vargas tras perder el clásico",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/video-los-provocadores-gestos-de-marcelo-morales-y-eduardo-vargas-tras/2026-11-01/165130.html",
-      "fecha_publicacion": "2026-11-01 165130"
-    },
-    {
       "titulo": "Juan Ignacio Díaz y el triunfo ante la U: El esfuerzo del equipo fue increíble",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/juan-ignacio-diaz-y-el-triunfo-ante-la-u-el-esfuerzo-del-equipo-fue/2026-11-01/164225.html",
@@ -48,6 +42,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/charles-aranguiz-el-titulo-se-nos-escapo-en-el-clasico-con-colo-colo/2026-11-01/163603.html",
       "fecha_publicacion": "2026-11-01 163603"
+    },
+    {
+      "titulo": "Copa del Mundo de Triatlón en Chile: Morgan Pearson y Marta Pintanel conquistaron San Pedro de la Paz",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/01/copa-del-mundo-de-triatlon-en-chile-morgan-pearson-y-marta-pintanel-conquistaron-san-pedro-de-la-paz.shtml",
+      "fecha_publicacion": "2026-11-01 16:31"
     },
     {
       "titulo": "Por la definición del torneo: La U jugará en simultáneo con Colo Colo por la fecha 27",
