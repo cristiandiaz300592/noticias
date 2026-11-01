@@ -1,8 +1,32 @@
 {
-  "actualizado": "2026-11-01T18:00:29.745631+00:00",
+  "actualizado": "2026-11-01T18:30:27.523042+00:00",
   "noticias": [
     {
-      "titulo": "Católica derrotó a la U y sigue en carrera por el ’Chile 2’: azules se alejaron en lucha por el título",
+      "titulo": "Con un hombre de más: Huachipato igualó con La Serena y dejó al rojo vivo lucha por cupo internacional",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/01/con-un-hombre-de-mas-huachipato-igualo-con-la-serena-y-dejo-al-rojo-vivo-lucha-por-cupo-internacional.shtml",
+      "fecha_publicacion": "2026-11-01 15:03"
+    },
+    {
+      "titulo": "Garnero y el clásico universitario: Lo jugamos poco, lo peleamos mucho y lo ganamos bien",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-y-el-clasico-universitario-lo-jugamos-poco-lo-peleamos-mucho-y/2026-11-01/150215.html",
+      "fecha_publicacion": "2026-11-01 150215"
+    },
+    {
+      "titulo": "La UC derrotó a la U en el clásico, encendió la lucha por el Chile 2 y dejó a Colo Colo a un triunfo del título",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/01/1215809/ucatolica-udechile-campeonato-nacional-clasico.html",
+      "fecha_publicacion": "2026-11-01 14:48"
+    },
+    {
+      "titulo": "Mira el gol con que la Universidad Católica le ganó a la U en el clásico",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/01/1215804/catolica-udechile-goles-clasico-universitario.html",
+      "fecha_publicacion": "2026-11-01 14:37"
+    },
+    {
+      "titulo": "Católica derrotó a la U y ’Chile 2’ sigue abierto: Colo Colo necesita una victoria para ser campeón",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/01/catolica-derroto-a-la-u-y-sigue-en-carrera-por-el-chile-2-azules-se-alejaron-en-lucha-por-el-titulo.shtml",
       "fecha_publicacion": "2026-11-01 14:36"
@@ -30,6 +54,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-desperdicio-la-chance-de-entrar-en-zona-de-copas-tras-empate/2026-11-01/135212.html",
       "fecha_publicacion": "2026-11-01 135212"
+    },
+    {
+      "titulo": "Los detalles del conflicto de Gary Medel con el cuerpo técnico y plantel de la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/los-detalles-del-conflicto-de-gary-medel-con-el-cuerpo-tecnico-y-plantel/2026-11-01/113926.html",
+      "fecha_publicacion": "2026-11-01 113926"
     },
     {
       "titulo": "Universidad Católica vs U de Chile por el clásico universitario: a qué hora juegan y dónde verlo",
