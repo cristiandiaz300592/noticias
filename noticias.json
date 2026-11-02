@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T16:00:37.660764+00:00",
+  "actualizado": "2026-11-02T16:30:28.594845+00:00",
   "noticias": [
     {
       "titulo": "Arbitro realizó dura denuncia contra Gago en informe del clásico",
@@ -26,6 +26,12 @@
       "fecha_publicacion": "2026-11-02 120701"
     },
     {
+      "titulo": "Por qué Cepeda demandó a Colo Colo, los millones que exige y la arremetida de ByN",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/02/1215865/cepeda-demanda-colocolo-millones.html",
+      "fecha_publicacion": "2026-11-02 11:40"
+    },
+    {
       "titulo": "Tabilo vive una nueva pesadilla ante Jódar, 10 del mundo, y queda eliminado en el debut en el Masters de París",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/02/1215869/alejandrotabilo-rafael-jodar-masters-paris.html",
@@ -38,18 +44,6 @@
       "fecha_publicacion": "2026-11-02 10:27"
     },
     {
-      "titulo": "Ranking ATP: Tabilo sigue top 30 y cómo van los demás chilenos; Zverev debuta en el N°1 y hay cambios en los 10 mejores",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/02/1215843/ranking-atp-tabilo-zverev.html",
-      "fecha_publicacion": "2026-11-02 07:11"
-    },
-    {
-      "titulo": "Deportes Limache pone a prueba su ilusión internacional frente a Audax Italiano",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-limache-pone-a-prueba-su-ilusion-internacional-frente-a-audax/2026-11-01/225706.html",
-      "fecha_publicacion": "2026-11-01 225706"
-    },
-    {
       "titulo": "Titan Forest Patagonia: cicletada familiar reunió a la comunidad de Villa Cerro Castillo en antesala",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/01/titan-forest-patagonia-cicletada-familiar-reunio-a-la-comunidad-de-villa-cerro-castillo-en-antesala.shtml",
@@ -60,12 +54,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/cepeda-demando-a-blanco-y-negro-y-exigio-millonario-monto-por-su/2026-11-01/203239.html",
       "fecha_publicacion": "2026-11-01 203239"
-    },
-    {
-      "titulo": "Resumen: Colo Colo brilló y quedó a un triunfo del título tras la caída de la U en el clásico ante la UC",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-brillo-y-quedo-a-un-triunfo-del-titulo-tras-la-caida/2026-11-01/201023.html",
-      "fecha_publicacion": "2026-11-01 201023"
     },
     {
       "titulo": "Everton rescató un empate increíble ante Cobresal en el norte: perdía por 2 goles hasta el minuto 94",
@@ -92,22 +80,10 @@
       "fecha_publicacion": "2026-11-01 160819"
     },
     {
-      "titulo": "La calculadora para la estrella 35: ¿Qué necesita Colo Colo para ganar el título?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/la-calculadora-para-la-estrella-35-que-necesita-colo-colo-para-ganar/2026-11-01/155021.html",
-      "fecha_publicacion": "2026-11-01 155021"
-    },
-    {
       "titulo": "Garnero y el clásico universitario: Lo jugamos poco, lo peleamos mucho y lo ganamos bien",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-y-el-clasico-universitario-lo-jugamos-poco-lo-peleamos-mucho-y/2026-11-01/150215.html",
       "fecha_publicacion": "2026-11-01 150215"
-    },
-    {
-      "titulo": "La UC tumbó a la U en un clásico caliente y hasta Colo Colo celebró",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-tumbo-a-la-u-en-un-clasico-caliente-y-hasta-colo-colo-celebro/2026-11-01/143130.html",
-      "fecha_publicacion": "2026-11-01 143130"
     }
   ]
 }
