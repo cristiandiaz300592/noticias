@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-02T16:30:28.594845+00:00",
+  "actualizado": "2026-11-02T17:00:41.157302+00:00",
   "noticias": [
+    {
+      "titulo": "Universidad de Chile definió estadio para enfrentar a Cobresal",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/universidad-de-chile-definio-estadio-para-enfrentar-a-cobresal/2026-11-02/133046.html",
+      "fecha_publicacion": "2026-11-02 133046"
+    },
     {
       "titulo": "Arbitro realizó dura denuncia contra Gago en informe del clásico",
       "fuente": "Cooperativa",
@@ -72,12 +78,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/por-la-definicion-del-torneo-la-u-jugara-en-simultaneo-con-colo-colo/2026-11-01/161543.html",
       "fecha_publicacion": "2026-11-01 161543"
-    },
-    {
-      "titulo": "El \"cruzalbismo\" estelarizó los memes tras la caída de la U en el clásico con la UC",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/el-cruzalbismo-estelarizo-los-memes-tras-la-caida-de-la-u-en-el/2026-11-01/160819.html",
-      "fecha_publicacion": "2026-11-01 160819"
     },
     {
       "titulo": "Garnero y el clásico universitario: Lo jugamos poco, lo peleamos mucho y lo ganamos bien",
