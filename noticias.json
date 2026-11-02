@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-11-02T00:00:29.918878+00:00",
+  "actualizado": "2026-11-02T00:30:25.883638+00:00",
   "noticias": [
+    {
+      "titulo": "Con duelos claves en simultáneo: La programación de la fecha 27 de la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-claves-en-simultaneo-la-programacion-de-la-fecha-27-de-la/2026-11-01/210219.html",
+      "fecha_publicacion": "2026-11-01 210219"
+    },
     {
       "titulo": "Cepeda demandó a Blanco y Negro y exigió millonario monto por su traspaso a Elche",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/cepeda-demando-a-blanco-y-negro-y-exigio-millonario-monto-por-su/2026-11-01/203239.html",
       "fecha_publicacion": "2026-11-01 203239"
+    },
+    {
+      "titulo": "Resumen: Colo Colo brilló y quedó a un triunfo del título tras la caída de la U en el clásico ante la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-brillo-y-quedo-a-un-triunfo-del-titulo-tras-la-caida/2026-11-01/201023.html",
+      "fecha_publicacion": "2026-11-01 201023"
     },
     {
       "titulo": "El análisis de Lichnovsky tras la caída de la U ante la UC: Definitivamente sometimos a nuestro rival",
@@ -44,12 +56,6 @@
       "fecha_publicacion": "2026-11-01 16:31"
     },
     {
-      "titulo": "Por la definición del torneo: La U jugará en simultáneo con Colo Colo por la fecha 27",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/por-la-definicion-del-torneo-la-u-jugara-en-simultaneo-con-colo-colo/2026-11-01/161543.html",
-      "fecha_publicacion": "2026-11-01 161543"
-    },
-    {
       "titulo": "El \"cruzalbismo\" estelarizó los memes tras la caída de la U en el clásico con la UC",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/el-cruzalbismo-estelarizo-los-memes-tras-la-caida-de-la-u-en-el/2026-11-01/160819.html",
@@ -60,6 +66,18 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/clasico-freak-kike-acuna-bailo-mientras-que-pinilla-canto-y-se-puso-la/2026-11-01/155342.html",
       "fecha_publicacion": "2026-11-01 155342"
+    },
+    {
+      "titulo": "La calculadora para la estrella 35: ¿Qué necesita Colo Colo para ganar el título?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/la-calculadora-para-la-estrella-35-que-necesita-colo-colo-para-ganar/2026-11-01/155021.html",
+      "fecha_publicacion": "2026-11-01 155021"
+    },
+    {
+      "titulo": "La \"tranquilidad\" de Coloccini tras caer ante la UC: No se pudo, pero lo intentamos",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-tranquilidad-de-coloccini-tras-caer-ante-la-uc-no-se-pudo-pero-lo/2026-11-01/152519.html",
+      "fecha_publicacion": "2026-11-01 152519"
     },
     {
       "titulo": "Con un hombre de más: Huachipato igualó con La Serena y dejó al rojo vivo lucha por cupo internacional",
@@ -78,12 +96,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/01/catolica-derroto-a-la-u-y-sigue-en-carrera-por-el-chile-2-azules-se-alejaron-en-lucha-por-el-titulo.shtml",
       "fecha_publicacion": "2026-11-01 14:36"
-    },
-    {
-      "titulo": "La UC tumbó a la U en un clásico caliente y hasta Colo Colo celebró",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-tumbo-a-la-u-en-un-clasico-caliente-y-hasta-colo-colo-celebro/2026-11-01/143130.html",
-      "fecha_publicacion": "2026-11-01 143130"
     },
     {
       "titulo": "Huachipato desperdició la chance de entrar en zona de copas tras empate con La Serena",
