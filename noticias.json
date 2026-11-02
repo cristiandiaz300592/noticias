@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T11:30:31.455726+00:00",
+  "actualizado": "2026-11-02T12:00:32.317716+00:00",
   "noticias": [
     {
       "titulo": "Ranking ATP: Tabilo sigue top 30 y cómo van los demás chilenos; Zverev debuta en el N°1 y hay cambios en los 10 mejores",
@@ -32,7 +32,7 @@
       "fecha_publicacion": "2026-11-01 203239"
     },
     {
-      "titulo": "Resumen: Colo Colo brilló y quedó a un triunfo del título tras la caída de la U en el clásico...",
+      "titulo": "Resumen: Colo Colo brilló y quedó a un triunfo del título tras la caída de la U en el clásico ante la UC",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-brillo-y-quedo-a-un-triunfo-del-titulo-tras-la-caida/2026-11-01/201023.html",
       "fecha_publicacion": "2026-11-01 201023"
@@ -56,22 +56,16 @@
       "fecha_publicacion": "2026-11-01 17:48"
     },
     {
-      "titulo": "Juan Ignacio Díaz y el triunfo ante la U: El esfuerzo del equipo fue increíble",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/juan-ignacio-diaz-y-el-triunfo-ante-la-u-el-esfuerzo-del-equipo-fue/2026-11-01/164225.html",
-      "fecha_publicacion": "2026-11-01 164225"
-    },
-    {
-      "titulo": "Charles Aránguiz: El título se nos escapó en el clásico con Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/charles-aranguiz-el-titulo-se-nos-escapo-en-el-clasico-con-colo-colo/2026-11-01/163603.html",
-      "fecha_publicacion": "2026-11-01 163603"
-    },
-    {
       "titulo": "Copa del Mundo de Triatlón en Chile: Morgan Pearson y Marta Pintanel conquistaron San Pedro de la Paz",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/01/copa-del-mundo-de-triatlon-en-chile-morgan-pearson-y-marta-pintanel-conquistaron-san-pedro-de-la-paz.shtml",
       "fecha_publicacion": "2026-11-01 16:31"
+    },
+    {
+      "titulo": "Por la definición del torneo: La U jugará en simultáneo con Colo Colo por la fecha 27",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/por-la-definicion-del-torneo-la-u-jugara-en-simultaneo-con-colo-colo/2026-11-01/161543.html",
+      "fecha_publicacion": "2026-11-01 161543"
     },
     {
       "titulo": "El \"cruzalbismo\" estelarizó los memes tras la caída de la U en el clásico con la UC",
@@ -110,16 +104,22 @@
       "fecha_publicacion": "2026-11-01 14:36"
     },
     {
-      "titulo": "Huachipato desperdició la chance de entrar en zona de copas tras empate con La Serena",
+      "titulo": "La UC tumbó a la U en un clásico caliente y hasta Colo Colo celebró",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-desperdicio-la-chance-de-entrar-en-zona-de-copas-tras-empate/2026-11-01/135212.html",
-      "fecha_publicacion": "2026-11-01 135212"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-tumbo-a-la-u-en-un-clasico-caliente-y-hasta-colo-colo-celebro/2026-11-01/143130.html",
+      "fecha_publicacion": "2026-11-01 143130"
     },
     {
       "titulo": "La hazaña sin precedentes de Rafael Jódar antes de su duelo ante Alejandro Tabilo en París: A qué hora juegan este lunes",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/31/1215774/rafael-jodar-ranking-atp.html",
       "fecha_publicacion": "2026-10-31 21:35"
+    },
+    {
+      "titulo": "La Roja firmó un nuevo empate ante Uruguay en su preparación para el Mundial Sub 17",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-firmo-un-nuevo-empate-ante-uruguay-en-su-preparacion-para-el/2026-10-31/191306.html",
+      "fecha_publicacion": "2026-10-31 191306"
     }
   ]
 }
