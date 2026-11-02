@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-02T02:00:29.024021+00:00",
+  "actualizado": "2026-11-02T02:30:26.946551+00:00",
   "noticias": [
+    {
+      "titulo": "Deportes Limache pone a prueba su ilusión internacional frente a Audax Italiano",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-limache-pone-a-prueba-su-ilusion-internacional-frente-a-audax/2026-11-01/225706.html",
+      "fecha_publicacion": "2026-11-01 225706"
+    },
+    {
+      "titulo": "Titan Forest Patagonia: cicletada familiar reunió a la comunidad de Villa Cerro Castillo en antesala",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/01/titan-forest-patagonia-cicletada-familiar-reunio-a-la-comunidad-de-villa-cerro-castillo-en-antesala.shtml",
+      "fecha_publicacion": "2026-11-01 22:47"
+    },
     {
       "titulo": "Colo Colo y Puerto Montt dan cierre a su historiada revancha de Copa Chile",
       "fuente": "Cooperativa",
@@ -14,7 +26,7 @@
       "fecha_publicacion": "2026-11-01 203239"
     },
     {
-      "titulo": "Resumen: Colo Colo brilló y quedó a un triunfo del título tras la caída de la U en el clásico ante la UC",
+      "titulo": "Resumen: Colo Colo brilló y quedó a un triunfo del título tras la caída de la U en el clásico...",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-brillo-y-quedo-a-un-triunfo-del-titulo-tras-la-caida/2026-11-01/201023.html",
       "fecha_publicacion": "2026-11-01 201023"
@@ -60,12 +72,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/el-cruzalbismo-estelarizo-los-memes-tras-la-caida-de-la-u-en-el/2026-11-01/160819.html",
       "fecha_publicacion": "2026-11-01 160819"
-    },
-    {
-      "titulo": "Clásico freak: Kike Acuña bailó, mientras que Pinilla cantó y se puso la camiseta de la UC",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/clasico-freak-kike-acuna-bailo-mientras-que-pinilla-canto-y-se-puso-la/2026-11-01/155342.html",
-      "fecha_publicacion": "2026-11-01 155342"
     },
     {
       "titulo": "La calculadora para la estrella 35: ¿Qué necesita Colo Colo para ganar el título?",
@@ -114,12 +120,6 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/31/1215774/rafael-jodar-ranking-atp.html",
       "fecha_publicacion": "2026-10-31 21:35"
-    },
-    {
-      "titulo": "La Roja firmó un nuevo empate ante Uruguay en su preparación para el Mundial Sub 17",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-firmo-un-nuevo-empate-ante-uruguay-en-su-preparacion-para-el/2026-10-31/191306.html",
-      "fecha_publicacion": "2026-10-31 191306"
     }
   ]
 }
