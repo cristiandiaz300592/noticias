@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T12:00:32.317716+00:00",
+  "actualizado": "2026-11-02T12:30:24.681442+00:00",
   "noticias": [
     {
       "titulo": "Ranking ATP: Tabilo sigue top 30 y cómo van los demás chilenos; Zverev debuta en el N°1 y hay cambios en los 10 mejores",
@@ -38,12 +38,6 @@
       "fecha_publicacion": "2026-11-01 201023"
     },
     {
-      "titulo": "El análisis de Lichnovsky tras la caída de la U ante la UC: Definitivamente sometimos a nuestro rival",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/el-analisis-de-lichnovsky-tras-la-caida-de-la-u-ante-la-uc/2026-11-01/194304.html",
-      "fecha_publicacion": "2026-11-01 194304"
-    },
-    {
       "titulo": "Montes y el clásico universitario: Era importante ganar para seguir peleando por el Chile 2",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/montes-y-el-clasico-universitario-era-importante-ganar-para-seguir/2026-11-01/175249.html",
@@ -54,6 +48,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/01/everton-rescato-un-empate-increible-ante-cobresal-en-el-norte-perdia-por-2-goles-hasta-el-minuto-94.shtml",
       "fecha_publicacion": "2026-11-01 17:48"
+    },
+    {
+      "titulo": "Charles Aránguiz: El título se nos escapó en el clásico con Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/charles-aranguiz-el-titulo-se-nos-escapo-en-el-clasico-con-colo-colo/2026-11-01/163603.html",
+      "fecha_publicacion": "2026-11-01 163603"
     },
     {
       "titulo": "Copa del Mundo de Triatlón en Chile: Morgan Pearson y Marta Pintanel conquistaron San Pedro de la Paz",
@@ -92,12 +92,6 @@
       "fecha_publicacion": "2026-11-01 15:03"
     },
     {
-      "titulo": "Garnero y el clásico universitario: Lo jugamos poco, lo peleamos mucho y lo ganamos bien",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-y-el-clasico-universitario-lo-jugamos-poco-lo-peleamos-mucho-y/2026-11-01/150215.html",
-      "fecha_publicacion": "2026-11-01 150215"
-    },
-    {
       "titulo": "Católica derrotó a la U y ’Chile 2’ sigue abierto: Colo Colo necesita una victoria para ser campeón",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/01/catolica-derroto-a-la-u-y-sigue-en-carrera-por-el-chile-2-azules-se-alejaron-en-lucha-por-el-titulo.shtml",
@@ -110,10 +104,10 @@
       "fecha_publicacion": "2026-11-01 143130"
     },
     {
-      "titulo": "La hazaña sin precedentes de Rafael Jódar antes de su duelo ante Alejandro Tabilo en París: A qué hora juegan este lunes",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/10/31/1215774/rafael-jodar-ranking-atp.html",
-      "fecha_publicacion": "2026-10-31 21:35"
+      "titulo": "Huachipato desperdició la chance de entrar en zona de copas tras empate con La Serena",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-desperdicio-la-chance-de-entrar-en-zona-de-copas-tras-empate/2026-11-01/135212.html",
+      "fecha_publicacion": "2026-11-01 135212"
     },
     {
       "titulo": "La Roja firmó un nuevo empate ante Uruguay en su preparación para el Mundial Sub 17",
