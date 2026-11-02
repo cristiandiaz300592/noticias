@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-02T22:00:38.293291+00:00",
+  "actualizado": "2026-11-02T22:30:24.714258+00:00",
   "noticias": [
+    {
+      "titulo": "Mosa deploró la demanda de Cepeda: Tenemos contratos firmados y esos valen",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-deploro-la-demanda-de-cepeda-tenemos-contratos-firmados-y-esos-valen/2026-11-02/191750.html",
+      "fecha_publicacion": "2026-11-02 191750"
+    },
     {
       "titulo": "Colo Colo vs Puerto Montt por cuartos de Copa Chile: a qué hora juegan y dónde verlo en vivo",
       "fuente": "BioBioChile",
@@ -8,9 +14,9 @@
       "fecha_publicacion": "2026-11-02 16:34"
     },
     {
-      "titulo": "Colo Colo y Puerto Montt disputan los minutos pendientes en cuartos de Copa Chile",
+      "titulo": "Colo Colo vence a Puerto Montt en los minutos pendientes en cuartos de Copa Chile",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-y-puerto-montt-disputan-los-minutos-pendientes-en-cuartos-de/2026-11-02/154324.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-vence-a-puerto-montt-en-los-minutos-pendientes-en-cuartos-de/2026-11-02/154324.html",
       "fecha_publicacion": "2026-11-02 154324"
     },
     {
@@ -60,12 +66,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/01/titan-forest-patagonia-cicletada-familiar-reunio-a-la-comunidad-de-villa-cerro-castillo-en-antesala.shtml",
       "fecha_publicacion": "2026-11-01 22:47"
-    },
-    {
-      "titulo": "Cepeda demandó a Blanco y Negro y exigió millonario monto por su traspaso a Elche",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/cepeda-demando-a-blanco-y-negro-y-exigio-millonario-monto-por-su/2026-11-01/203239.html",
-      "fecha_publicacion": "2026-11-01 203239"
     }
   ]
 }
