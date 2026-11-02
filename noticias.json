@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-02T17:00:41.157302+00:00",
+  "actualizado": "2026-11-02T17:30:27.059876+00:00",
   "noticias": [
+    {
+      "titulo": "Javier Correa quedó descartado para la reanudación del duelo de Colo Colo ante Puerto Montt",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/javier-correa-quedo-descartado-para-la-reanudacion-del-duelo-de-colo/2026-11-02/142358.html",
+      "fecha_publicacion": "2026-11-02 142358"
+    },
+    {
+      "titulo": "\"Acercamiento desafiante e intimidante\": juez lapidó a Gago en informe del Clásico Universitario",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/02/acercamiento-desafiante-e-intimidante-juez-lapido-a-gago-en-informe-del-clasico-universitario.shtml",
+      "fecha_publicacion": "2026-11-02 14:22"
+    },
+    {
+      "titulo": "La crítica de Aldo Marín a Pinilla luego de posar con una camiseta de Universidad Católica",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-critica-de-aldo-marin-a-pinilla-luego-de-posar-con-una-camiseta-de/2026-11-02/134747.html",
+      "fecha_publicacion": "2026-11-02 134747"
+    },
     {
       "titulo": "Universidad de Chile definió estadio para enfrentar a Cobresal",
       "fuente": "Cooperativa",
@@ -50,10 +68,22 @@
       "fecha_publicacion": "2026-11-02 10:27"
     },
     {
+      "titulo": "Deportes Limache pone a prueba su ilusión internacional frente a Audax Italiano",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-limache-pone-a-prueba-su-ilusion-internacional-frente-a-audax/2026-11-01/225706.html",
+      "fecha_publicacion": "2026-11-01 225706"
+    },
+    {
       "titulo": "Titan Forest Patagonia: cicletada familiar reunió a la comunidad de Villa Cerro Castillo en antesala",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/01/titan-forest-patagonia-cicletada-familiar-reunio-a-la-comunidad-de-villa-cerro-castillo-en-antesala.shtml",
       "fecha_publicacion": "2026-11-01 22:47"
+    },
+    {
+      "titulo": "Colo Colo y Puerto Montt dan cierre a su historiada revancha de Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-y-puerto-montt-dan-cierre-a-su-historiada-revancha-de-copa-chile/2026-11-01/224512.html",
+      "fecha_publicacion": "2026-11-01 224512"
     },
     {
       "titulo": "Cepeda demandó a Blanco y Negro y exigió millonario monto por su traspaso a Elche",
@@ -62,28 +92,10 @@
       "fecha_publicacion": "2026-11-01 203239"
     },
     {
-      "titulo": "Everton rescató un empate increíble ante Cobresal en el norte: perdía por 2 goles hasta el minuto 94",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/01/everton-rescato-un-empate-increible-ante-cobresal-en-el-norte-perdia-por-2-goles-hasta-el-minuto-94.shtml",
-      "fecha_publicacion": "2026-11-01 17:48"
-    },
-    {
       "titulo": "Charles Aránguiz: El título se nos escapó en el clásico con Colo Colo",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/charles-aranguiz-el-titulo-se-nos-escapo-en-el-clasico-con-colo-colo/2026-11-01/163603.html",
       "fecha_publicacion": "2026-11-01 163603"
-    },
-    {
-      "titulo": "Por la definición del torneo: La U jugará en simultáneo con Colo Colo por la fecha 27",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/por-la-definicion-del-torneo-la-u-jugara-en-simultaneo-con-colo-colo/2026-11-01/161543.html",
-      "fecha_publicacion": "2026-11-01 161543"
-    },
-    {
-      "titulo": "Garnero y el clásico universitario: Lo jugamos poco, lo peleamos mucho y lo ganamos bien",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-y-el-clasico-universitario-lo-jugamos-poco-lo-peleamos-mucho-y/2026-11-01/150215.html",
-      "fecha_publicacion": "2026-11-01 150215"
     }
   ]
 }
