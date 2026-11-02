@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T02:30:26.946551+00:00",
+  "actualizado": "2026-11-02T03:01:00.290086+00:00",
   "noticias": [
     {
       "titulo": "Deportes Limache pone a prueba su ilusión internacional frente a Audax Italiano",
@@ -110,16 +110,16 @@
       "fecha_publicacion": "2026-11-01 135212"
     },
     {
-      "titulo": "Universidad Católica vs U de Chile por el clásico universitario: a qué hora juegan y dónde verlo",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/01/universidad-catolica-vs-u-de-chile-por-el-clasico-universitario-a-que-hora-juegan-y-donde-verlo.shtml",
-      "fecha_publicacion": "2026-11-01 07:41"
-    },
-    {
       "titulo": "La hazaña sin precedentes de Rafael Jódar antes de su duelo ante Alejandro Tabilo en París: A qué hora juegan este lunes",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/10/31/1215774/rafael-jodar-ranking-atp.html",
       "fecha_publicacion": "2026-10-31 21:35"
+    },
+    {
+      "titulo": "La Roja firmó un nuevo empate ante Uruguay en su preparación para el Mundial Sub 17",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-firmo-un-nuevo-empate-ante-uruguay-en-su-preparacion-para-el/2026-10-31/191306.html",
+      "fecha_publicacion": "2026-10-31 191306"
     }
   ]
 }
