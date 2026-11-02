@@ -1,17 +1,23 @@
 {
-  "actualizado": "2026-11-02T23:00:28.023751+00:00",
+  "actualizado": "2026-11-02T23:30:31.040918+00:00",
   "noticias": [
+    {
+      "titulo": "Limache se afianzó en zona de Sudamericana con un triunfo sobre Audax",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/limache-se-afianzo-en-zona-de-sudamericana-con-un-triunfo-sobre-audax/2026-11-02/202309.html",
+      "fecha_publicacion": "2026-11-02 202309"
+    },
+    {
+      "titulo": "[VIDEO] Romero aprovechó nuevo error de Puerto Montt y marcó un golazo para Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/video-romero-aprovecho-nuevo-error-de-puerto-montt-y-marco-un-golazo/2026-11-02/195619.html",
+      "fecha_publicacion": "2026-11-02 195619"
+    },
     {
       "titulo": "Colo Colo liquidó la serie ante Puerto Montt y ratificó su paso a semis de Copa Chile",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-liquido-la-serie-ante-puerto-montt-y-ratifico-su-paso-a-semis/2026-11-02/195239.html",
       "fecha_publicacion": "2026-11-02 195239"
-    },
-    {
-      "titulo": "[VIDEO] Le erró al balón: El \"regalo\" del arquero de Puerto Montt que permitió gol de Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/video-le-erro-al-balon-el-regalo-del-arquero-de-puerto-montt-que/2026-11-02/192950.html",
-      "fecha_publicacion": "2026-11-02 192950"
     },
     {
       "titulo": "Mosa deploró la demanda de Cepeda: Tenemos contratos firmados y esos valen",
