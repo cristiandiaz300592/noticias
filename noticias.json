@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-03T14:30:27.562184+00:00",
+  "actualizado": "2026-11-03T15:00:40.327798+00:00",
   "noticias": [
+    {
+      "titulo": "La Roja Sub 17 afina sus armas para Mundial de Catar: dos sorpresas marcan la nómina oficial de Chile",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/03/la-roja-sub-17-afina-sus-armas-para-mundial-de-catar-dos-sorpresas-marcan-la-nomina-oficial-de-chile.shtml",
+      "fecha_publicacion": "2026-11-03 11:35"
+    },
     {
       "titulo": "Maximiliano Romero tras brillar en Copa Chile: \"Encontré un lugar donde soy feliz\"",
       "fuente": "Cooperativa",
@@ -26,12 +32,6 @@
       "fecha_publicacion": "2026-11-02 22:55"
     },
     {
-      "titulo": "D. Concepción cortó su mala racha y trepó a costa de un Palestino que volvió a enredarse",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/d-concepcion-corto-su-mala-racha-y-trepo-a-costa-de-un-palestino-que/2026-11-02/221613.html",
-      "fecha_publicacion": "2026-11-02 221613"
-    },
-    {
       "titulo": "Limache supera a Audax, trepa y se aferra a zona de Sudamericana: Dutra fue figura en portería",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/02/limache-supera-a-audax-trepa-y-se-aferra-a-zona-de-sudamericana-dutra-fue-figura-en-porteria.shtml",
@@ -48,6 +48,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fernando-ortiz-y-la-cercania-del-titulo-en-otros-clubes-tuve-la/2026-11-02/204238.html",
       "fecha_publicacion": "2026-11-02 204238"
+    },
+    {
+      "titulo": "Limache se afianzó en zona de Sudamericana con un triunfo sobre Audax",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/limache-se-afianzo-en-zona-de-sudamericana-con-un-triunfo-sobre-audax/2026-11-02/202309.html",
+      "fecha_publicacion": "2026-11-02 202309"
     },
     {
       "titulo": "Colo Colo liquidó la serie ante Puerto Montt y ratificó su paso a semis de Copa Chile",
@@ -68,12 +74,6 @@
       "fecha_publicacion": "2026-11-02 16:34"
     },
     {
-      "titulo": "\"Acercamiento desafiante e intimidante\": juez lapidó a Gago en informe del Clásico Universitario",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/02/acercamiento-desafiante-e-intimidante-juez-lapido-a-gago-en-informe-del-clasico-universitario.shtml",
-      "fecha_publicacion": "2026-11-02 14:22"
-    },
-    {
       "titulo": "La crítica de Aldo Marín a Pinilla luego de posar con una camiseta de Universidad Católica",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-critica-de-aldo-marin-a-pinilla-luego-de-posar-con-una-camiseta-de/2026-11-02/134747.html",
@@ -90,12 +90,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/arbitro-realizo-dura-denuncia-contra-gago-en-informe-del-clasico/2026-11-02/124729.html",
       "fecha_publicacion": "2026-11-02 124729"
-    },
-    {
-      "titulo": "Zampedri repasó a la U: Qué privilegio nuestro estadio",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/zampedri-repaso-a-la-u-que-privilegio-nuestro-estadio/2026-11-02/123939.html",
-      "fecha_publicacion": "2026-11-02 123939"
     },
     {
       "titulo": "Beccacece vuelve a la órbita de la Roja: Su opción crece si Yunge gana en la ANFP",
