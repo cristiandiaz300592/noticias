@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-03T17:00:34.621424+00:00",
+  "actualizado": "2026-11-03T17:30:28.491302+00:00",
   "noticias": [
+    {
+      "titulo": "Cruzados descartó denuncia por gestos de Vargas y Morales: No queremos entrar en ese juego",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/cruzados-descarto-denuncia-por-gestos-de-vargas-y-morales-no-queremos/2026-11-03/140737.html",
+      "fecha_publicacion": "2026-11-03 140737"
+    },
+    {
+      "titulo": "ANFP analiza cambio de horario para duelo de Universidad Católica con Deportes Limache",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/anfp-analiza-cambio-de-horario-para-duelo-de-universidad-catolica-con/2026-11-03/140526.html",
+      "fecha_publicacion": "2026-11-03 140526"
+    },
     {
       "titulo": "Zaldivia aún lamenta la derrota ante la UC: Fue un golpe muy duro",
       "fuente": "Cooperativa",
@@ -24,6 +36,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/03/pipo-rodriguez-ciclista-del-titan-forest-mira-a-panamericanos-y-jjoo-para-que-mis-hijas-me-vean.shtml",
       "fecha_publicacion": "2026-11-03 09:28"
+    },
+    {
+      "titulo": "Maximiliano Romero tras brillar en Copa Chile: \"Encontré un lugar donde soy feliz\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/maximiliano-romero-tras-brillar-en-copa-chile-encontre-un-lugar-donde/2026-11-03/092728.html",
+      "fecha_publicacion": "2026-11-03 092728"
     },
     {
       "titulo": "Por qué se adelantaría el UC-Limache del domingo en una fecha que puede coronar a Colo Colo en el Torneo Nacional",
@@ -50,16 +68,16 @@
       "fecha_publicacion": "2026-11-02 214146"
     },
     {
-      "titulo": "Fernando Ortiz y la cercanía del título: En otros clubes tuve la posibilidad y la perdí",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fernando-ortiz-y-la-cercania-del-titulo-en-otros-clubes-tuve-la/2026-11-02/204238.html",
-      "fecha_publicacion": "2026-11-02 204238"
-    },
-    {
       "titulo": "La crítica de Aldo Marín a Pinilla luego de posar con una camiseta de Universidad Católica",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-critica-de-aldo-marin-a-pinilla-luego-de-posar-con-una-camiseta-de/2026-11-02/134747.html",
       "fecha_publicacion": "2026-11-02 134747"
+    },
+    {
+      "titulo": "Resumen: Colo Colo brilló y quedó a un triunfo del título tras la caída de la U en el clásico ante la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-brillo-y-quedo-a-un-triunfo-del-titulo-tras-la-caida/2026-11-01/201023.html",
+      "fecha_publicacion": "2026-11-01 201023"
     }
   ]
 }
