@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-03T20:00:41.919046+00:00",
+  "actualizado": "2026-11-03T20:30:34.874242+00:00",
   "noticias": [
+    {
+      "titulo": "Cuándo y dónde comprar las entradas para el combate estelar de Ignacio Bahamondes en Chile",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/03/cuando-y-donde-comprar-las-entradas-para-el-combate-estelar-de-ignacio-bahamondes-en-chile.shtml",
+      "fecha_publicacion": "2026-11-03 17:22"
+    },
     {
       "titulo": "ANFP oficializó nuevo horario para el U. Católica vs. Limache",
       "fuente": "Cooperativa",
@@ -26,6 +32,12 @@
       "fecha_publicacion": "2026-11-03 143234"
     },
     {
+      "titulo": "\"Veo una flor y saco foto\": Luis Ceriche, único copiapino en Titan Forest que va por hito en Marruecos",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/03/veo-una-flor-y-saco-foto-luis-ceriche-unico-copiapino-en-titan-forest-que-va-por-hito-en-marruecos.shtml",
+      "fecha_publicacion": "2026-11-03 13:37"
+    },
+    {
       "titulo": "Zaldivia aún lamenta la derrota ante la UC: Fue un golpe muy duro",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/zaldivia-aun-lamenta-la-derrota-ante-la-uc-fue-un-golpe-muy-duro/2026-11-03/131450.html",
@@ -42,12 +54,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/03/la-roja-sub-17-afina-sus-armas-para-mundial-de-catar-dos-sorpresas-marcan-la-nomina-oficial-de-chile.shtml",
       "fecha_publicacion": "2026-11-03 11:35"
-    },
-    {
-      "titulo": "’Pipo’ Rodríguez, ciclista del Titan Forest, mira a Panamericanos y JJOO: \"Para que mis hijas me vean\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/03/pipo-rodriguez-ciclista-del-titan-forest-mira-a-panamericanos-y-jjoo-para-que-mis-hijas-me-vean.shtml",
-      "fecha_publicacion": "2026-11-03 09:28"
     },
     {
       "titulo": "Maximiliano Romero tras brillar en Copa Chile: \"Encontré un lugar donde soy feliz\"",
