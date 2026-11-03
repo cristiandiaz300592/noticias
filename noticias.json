@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-03T16:00:29.097470+00:00",
+  "actualizado": "2026-11-03T16:30:28.562261+00:00",
   "noticias": [
+    {
+      "titulo": "Zaldivia: Quiero un Campeonato Nacional con este club, no voy a parar hasta conseguirlo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/zaldivia-quiero-un-campeonato-nacional-con-este-club-no-voy-a-parar/2026-11-03/131649.html",
+      "fecha_publicacion": "2026-11-03 131649"
+    },
+    {
+      "titulo": "Aníbal Mosa rompe el silencio por demanda de Lucas Cepeda contra Colo Colo: \"No estuvo bien\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/03/anibal-mosa-rompe-el-silencio-por-demanda-de-lucas-cepeda-contra-colo-colo-no-estuvo-bien.shtml",
+      "fecha_publicacion": "2026-11-03 13:11"
+    },
     {
       "titulo": "La Roja Sub 17 afina sus armas para Mundial de Catar: dos sorpresas marcan la nómina oficial de Chile",
       "fuente": "BioBioChile",
@@ -62,18 +74,6 @@
       "fecha_publicacion": "2026-11-02 195239"
     },
     {
-      "titulo": "Titan Forest Patagonia completó su primera etapa en Aysén con triunfo de infarto de ’Pipo’ Rodríguez",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/02/titan-forest-patagonia-completo-su-primera-etapa-en-aysen-con-triunfo-de-infarto-de-pipo-rodriguez.shtml",
-      "fecha_publicacion": "2026-11-02 16:48"
-    },
-    {
-      "titulo": "Colo Colo vs Puerto Montt por cuartos de Copa Chile: a qué hora juegan y dónde verlo en vivo",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/02/colo-colo-vs-puerto-montt-por-cuartos-de-copa-chile-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
-      "fecha_publicacion": "2026-11-02 16:34"
-    },
-    {
       "titulo": "La crítica de Aldo Marín a Pinilla luego de posar con una camiseta de Universidad Católica",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-critica-de-aldo-marin-a-pinilla-luego-de-posar-con-una-camiseta-de/2026-11-02/134747.html",
@@ -84,12 +84,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/universidad-de-chile-definio-estadio-para-enfrentar-a-cobresal/2026-11-02/133046.html",
       "fecha_publicacion": "2026-11-02 133046"
-    },
-    {
-      "titulo": "Resumen: Colo Colo brilló y quedó a un triunfo del título tras la caída de la U en el clásico ante la UC",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-brillo-y-quedo-a-un-triunfo-del-titulo-tras-la-caida/2026-11-01/201023.html",
-      "fecha_publicacion": "2026-11-01 201023"
     }
   ]
 }
