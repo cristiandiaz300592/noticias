@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-03T11:00:30.498434+00:00",
+  "actualizado": "2026-11-03T11:30:28.942517+00:00",
   "noticias": [
+    {
+      "titulo": "Colo Colo revela quién es su prioridad en las renovaciones y Mosa responde fuerte a la demanda de Lucas Cepeda",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/03/1215947/colocolo-renovaciones-cepeda-demanda.html",
+      "fecha_publicacion": "2026-11-03 07:40"
+    },
     {
       "titulo": "Concepción venció por la mínima a Palestino y volvió a los abrazos en Liga: Grillo anotó para lilas",
       "fuente": "BioBioChile",
@@ -32,12 +38,6 @@
       "fecha_publicacion": "2026-11-02 214146"
     },
     {
-      "titulo": "La inusual práctica de Colo Colo en el Monumental tras sellar su pase a semifinales de la Copa Chile",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/02/1215933/colocolo-copa-chile.html",
-      "fecha_publicacion": "2026-11-02 21:19"
-    },
-    {
       "titulo": "Fernando Ortiz y la cercanía del título: En otros clubes tuve la posibilidad y la perdí",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fernando-ortiz-y-la-cercania-del-titulo-en-otros-clubes-tuve-la/2026-11-02/204238.html",
@@ -54,6 +54,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-deploro-la-demanda-de-cepeda-tenemos-contratos-firmados-y-esos-valen/2026-11-02/191750.html",
       "fecha_publicacion": "2026-11-02 191750"
+    },
+    {
+      "titulo": "Titan Forest Patagonia completó su primera etapa en Aysén con triunfo de infarto de ’Pipo’ Rodríguez",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/02/titan-forest-patagonia-completo-su-primera-etapa-en-aysen-con-triunfo-de-infarto-de-pipo-rodriguez.shtml",
+      "fecha_publicacion": "2026-11-02 16:48"
     },
     {
       "titulo": "Colo Colo vs Puerto Montt por cuartos de Copa Chile: a qué hora juegan y dónde verlo en vivo",
