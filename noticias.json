@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-03T19:00:34.121544+00:00",
+  "actualizado": "2026-11-03T19:30:41.739958+00:00",
   "noticias": [
+    {
+      "titulo": "Duelo de U. de Concepción y O'Higgins fue reprogramado en la fecha 27",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/duelo-de-u-de-concepcion-y-o-higgins-fue-reprogramado-en-la-fecha-27/2026-11-03/161905.html",
+      "fecha_publicacion": "2026-11-03 161905"
+    },
     {
       "titulo": "Alerta de escritoriazo en fútbol chileno: revelan que Limache arriesga denuncia por \"pagos en negro\"",
       "fuente": "BioBioChile",
@@ -18,12 +24,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/cruzados-descarto-denuncia-por-gestos-de-vargas-y-morales-no-queremos/2026-11-03/140737.html",
       "fecha_publicacion": "2026-11-03 140737"
-    },
-    {
-      "titulo": "ANFP analiza cambio de horario para duelo de Universidad Católica con Deportes Limache",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/anfp-analiza-cambio-de-horario-para-duelo-de-universidad-catolica-con/2026-11-03/140526.html",
-      "fecha_publicacion": "2026-11-03 140526"
     },
     {
       "titulo": "Zaldivia aún lamenta la derrota ante la UC: Fue un golpe muy duro",
@@ -72,6 +72,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-critica-de-aldo-marin-a-pinilla-luego-de-posar-con-una-camiseta-de/2026-11-02/134747.html",
       "fecha_publicacion": "2026-11-02 134747"
+    },
+    {
+      "titulo": "Con duelos claves en simultáneo: La programación de la fecha 27 de la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-claves-en-simultaneo-la-programacion-de-la-fecha-27-de-la/2026-11-01/210219.html",
+      "fecha_publicacion": "2026-11-01 210219"
     },
     {
       "titulo": "Resumen: Colo Colo brilló y quedó a un triunfo del título tras la caída de la U en el clásico ante la UC",
