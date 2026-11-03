@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-11-03T00:30:26.401796+00:00",
+  "actualizado": "2026-11-03T01:00:31.289629+00:00",
   "noticias": [
+    {
+      "titulo": "Limache supera a Audax, trepa y se aferra a zona de Sudamericana: Dutra fue figura en portería",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/02/limache-supera-a-audax-trepa-y-se-aferra-a-zona-de-sudamericana-dutra-fue-figura-en-porteria.shtml",
+      "fecha_publicacion": "2026-11-02 21:42"
+    },
     {
       "titulo": "La inusual práctica de Colo Colo en el Monumental tras sellar su pase a semifinales de la Copa Chile",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/02/1215933/colocolo-copa-chile.html",
       "fecha_publicacion": "2026-11-02 21:19"
+    },
+    {
+      "titulo": "Fernando Ortiz y la cercanía del título: En otros clubes tuve la posibilidad y la perdí",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fernando-ortiz-y-la-cercania-del-titulo-en-otros-clubes-tuve-la/2026-11-02/204238.html",
+      "fecha_publicacion": "2026-11-02 204238"
     },
     {
       "titulo": "Colo Colo cierra el suspendido partido ante Puerto Montt y se mete en semis de la Copa Chile",
@@ -44,12 +56,6 @@
       "fecha_publicacion": "2026-11-02 16:34"
     },
     {
-      "titulo": "Colo Colo venció a Puerto Montt en los minutos pendientes en cuartos de Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-vencio-a-puerto-montt-en-los-minutos-pendientes-en-cuartos-de/2026-11-02/154324.html",
-      "fecha_publicacion": "2026-11-02 154324"
-    },
-    {
       "titulo": "\"Acercamiento desafiante e intimidante\": juez lapidó a Gago en informe del Clásico Universitario",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/02/acercamiento-desafiante-e-intimidante-juez-lapido-a-gago-en-informe-del-clasico-universitario.shtml",
@@ -80,22 +86,10 @@
       "fecha_publicacion": "2026-11-02 123939"
     },
     {
-      "titulo": "Olarra molestó a hinchas de la UC con comentario tras el clásico",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/olarra-molesto-a-hinchas-de-la-uc-con-comentario-tras-el-clasico/2026-11-02/122304.html",
-      "fecha_publicacion": "2026-11-02 122304"
-    },
-    {
       "titulo": "Beccacece vuelve a la órbita de la Roja: Su opción crece si Yunge gana en la ANFP",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/beccacece-vuelve-a-la-orbita-de-la-roja-su-opcion-crece-si-yunge-gana/2026-11-02/120701.html",
       "fecha_publicacion": "2026-11-02 120701"
-    },
-    {
-      "titulo": "Titan Forest Patagonia: cicletada familiar reunió a la comunidad de Villa Cerro Castillo en antesala",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/01/titan-forest-patagonia-cicletada-familiar-reunio-a-la-comunidad-de-villa-cerro-castillo-en-antesala.shtml",
-      "fecha_publicacion": "2026-11-01 22:47"
     }
   ]
 }
