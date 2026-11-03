@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T02:30:26.124141+00:00",
+  "actualizado": "2026-11-03T03:00:29.247633+00:00",
   "noticias": [
     {
       "titulo": "Concepción venció por la mínima a Palestino y volvió a los abrazos en Liga: Grillo anotó para lilas",
@@ -86,12 +86,6 @@
       "fecha_publicacion": "2026-11-02 133046"
     },
     {
-      "titulo": "Arbitro realizó dura denuncia contra Gago en informe del clásico",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/arbitro-realizo-dura-denuncia-contra-gago-en-informe-del-clasico/2026-11-02/124729.html",
-      "fecha_publicacion": "2026-11-02 124729"
-    },
-    {
       "titulo": "Zampedri repasó a la U: Qué privilegio nuestro estadio",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/zampedri-repaso-a-la-u-que-privilegio-nuestro-estadio/2026-11-02/123939.html",
@@ -102,6 +96,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/beccacece-vuelve-a-la-orbita-de-la-roja-su-opcion-crece-si-yunge-gana/2026-11-02/120701.html",
       "fecha_publicacion": "2026-11-02 120701"
+    },
+    {
+      "titulo": "Resumen: Colo Colo brilló y quedó a un triunfo del título tras la caída de la U en el clásico ante la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-brillo-y-quedo-a-un-triunfo-del-titulo-tras-la-caida/2026-11-01/201023.html",
+      "fecha_publicacion": "2026-11-01 201023"
     }
   ]
 }
