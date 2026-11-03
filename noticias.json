@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-03T19:30:41.739958+00:00",
+  "actualizado": "2026-11-03T20:00:41.919046+00:00",
   "noticias": [
+    {
+      "titulo": "ANFP oficializó nuevo horario para el U. Católica vs. Limache",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/anfp-oficializo-nuevo-horario-para-el-u-catolica-vs-limache/2026-11-03/165206.html",
+      "fecha_publicacion": "2026-11-03 165206"
+    },
     {
       "titulo": "Duelo de U. de Concepción y O'Higgins fue reprogramado en la fecha 27",
       "fuente": "Cooperativa",
@@ -18,12 +24,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/rivarola-fue-objeto-de-burlas-por-frase-sobre-inminente-titulo-de-colo/2026-11-03/143234.html",
       "fecha_publicacion": "2026-11-03 143234"
-    },
-    {
-      "titulo": "Cruzados descartó denuncia por gestos de Vargas y Morales: No queremos entrar en ese juego",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/cruzados-descarto-denuncia-por-gestos-de-vargas-y-morales-no-queremos/2026-11-03/140737.html",
-      "fecha_publicacion": "2026-11-03 140737"
     },
     {
       "titulo": "Zaldivia aún lamenta la derrota ante la UC: Fue un golpe muy duro",
@@ -56,12 +56,6 @@
       "fecha_publicacion": "2026-11-03 092728"
     },
     {
-      "titulo": "Por qué se adelantaría el UC-Limache del domingo en una fecha que puede coronar a Colo Colo en el Torneo Nacional",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/03/1215952/uc-limache-fecha-colocolo-torneonacional.html",
-      "fecha_publicacion": "2026-11-03 09:14"
-    },
-    {
       "titulo": "La Roja confirmó su nómina para el Mundial sub 17 en Catar",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-confirmo-su-nomina-para-el-mundial-sub-17-en-catar/2026-11-02/214146.html",
@@ -78,12 +72,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-claves-en-simultaneo-la-programacion-de-la-fecha-27-de-la/2026-11-01/210219.html",
       "fecha_publicacion": "2026-11-01 210219"
-    },
-    {
-      "titulo": "Resumen: Colo Colo brilló y quedó a un triunfo del título tras la caída de la U en el clásico ante la UC",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-brillo-y-quedo-a-un-triunfo-del-titulo-tras-la-caida/2026-11-01/201023.html",
-      "fecha_publicacion": "2026-11-01 201023"
     }
   ]
 }
