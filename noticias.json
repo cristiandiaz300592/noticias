@@ -1,11 +1,17 @@
 {
-  "actualizado": "2026-11-03T21:00:30.097494+00:00",
+  "actualizado": "2026-11-03T21:30:33.151737+00:00",
   "noticias": [
     {
       "titulo": "Cuándo y dónde comprar las entradas para el combate estelar de Ignacio Bahamondes en Chile",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/03/cuando-y-donde-comprar-las-entradas-para-el-combate-estelar-de-ignacio-bahamondes-en-chile.shtml",
       "fecha_publicacion": "2026-11-03 17:22"
+    },
+    {
+      "titulo": "Viajó dos días y ganó una etapa: la odisea de argentino Germán Dohrmann para festejar en Titan Forest",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/03/vino-por-tierra-y-gano-una-etapa-la-odisea-de-argentino-german-dohrmann-para-festejar-en-titan-forest.shtml",
+      "fecha_publicacion": "2026-11-03 17:15"
     },
     {
       "titulo": "ANFP oficializó nuevo horario para el U. Católica vs. Limache",
@@ -66,18 +72,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-confirmo-su-nomina-para-el-mundial-sub-17-en-catar/2026-11-02/214146.html",
       "fecha_publicacion": "2026-11-02 214146"
-    },
-    {
-      "titulo": "La crítica de Aldo Marín a Pinilla luego de posar con una camiseta de Universidad Católica",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-critica-de-aldo-marin-a-pinilla-luego-de-posar-con-una-camiseta-de/2026-11-02/134747.html",
-      "fecha_publicacion": "2026-11-02 134747"
-    },
-    {
-      "titulo": "Con duelos claves en simultáneo: La programación de la fecha 27 de la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-claves-en-simultaneo-la-programacion-de-la-fecha-27-de-la/2026-11-01/210219.html",
-      "fecha_publicacion": "2026-11-01 210219"
     }
   ]
 }
