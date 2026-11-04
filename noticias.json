@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-04T17:00:28.632691+00:00",
+  "actualizado": "2026-11-04T17:30:22.919005+00:00",
   "noticias": [
+    {
+      "titulo": "Gago confía en la remontada de la U en Copa Chile: \"Saldremos con lo mejor desde el minuto uno\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-confia-en-la-remontada-de-la-u-en-copa-chile-saldremos-con-lo/2026-11-04/140139.html",
+      "fecha_publicacion": "2026-11-04 140139"
+    },
     {
       "titulo": "Gago le respondió a Aránguiz por la lucha del título: \"Mientras haya chances hay que insistir\"",
       "fuente": "Cooperativa",
@@ -60,12 +66,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/03/santiago-city-sufre-desafiliacion-primera-sala-confirmo-veredicto-por-caso-de-documentacion-falsa.shtml",
       "fecha_publicacion": "2026-11-03 19:49"
-    },
-    {
-      "titulo": "ANFP oficializó nuevo horario para el U. Católica vs. Limache",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/anfp-oficializo-nuevo-horario-para-el-u-catolica-vs-limache/2026-11-03/165206.html",
-      "fecha_publicacion": "2026-11-03 165206"
     },
     {
       "titulo": "La Roja confirmó su nómina para el Mundial sub 17 en Catar",
