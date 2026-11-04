@@ -1,17 +1,11 @@
 {
-  "actualizado": "2026-11-04T22:00:26.289346+00:00",
+  "actualizado": "2026-11-04T22:30:24.654500+00:00",
   "noticias": [
     {
       "titulo": "Gerente General de San Marcos arremete por desafiliación del club: \"Es una medida desproporcionada\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/04/gerente-general-de-san-marcos-arremete-por-desafiliacion-del-club-es-una-medida-desproporcionada.shtml",
       "fecha_publicacion": "2026-11-04 18:20"
-    },
-    {
-      "titulo": "Las novedades en la nómina de La Roja para los amistosos con Colombia en la fecha FIFA",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/las-novedades-en-la-nomina-de-la-roja-para-los-amistosos-con-colombia-en/2026-11-04/171709.html",
-      "fecha_publicacion": "2026-11-04 171709"
     },
     {
       "titulo": "Casi sin sorpresas: Nico Córdova oficializa nómina de La Roja para duelos de noviembre con Colombia",
@@ -30,6 +24,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/federico-valdes-descarto-interes-en-retornar-a-la-presidencia-de-azul/2026-11-04/163637.html",
       "fecha_publicacion": "2026-11-04 163637"
+    },
+    {
+      "titulo": "Unión La Calera recibe a Coquimbo Unido en la ida de cuartos de Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/union-la-calera-recibe-a-coquimbo-unido-en-la-ida-de-cuartos-de-copa-chile/2026-11-04/162546.html",
+      "fecha_publicacion": "2026-11-04 162546"
     },
     {
       "titulo": "Duro golpe para la UC: Sebastián Arancibia arriesga perderse lo que resta de temporada",
@@ -78,6 +78,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/racing-entro-en-escena-por-ortiz-en-plena-definicion-de-su-futuro-en/2026-11-04/111123.html",
       "fecha_publicacion": "2026-11-04 111123"
+    },
+    {
+      "titulo": "Orgullo en Colo Colo: Vozinha fue nominado a Mejor Arquero de África por la CAF",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/orgullo-en-colo-colo-vozinha-fue-nominado-a-mejor-arquero-de-africa-por/2026-11-04/105928.html",
+      "fecha_publicacion": "2026-11-04 105928"
     }
   ]
 }
