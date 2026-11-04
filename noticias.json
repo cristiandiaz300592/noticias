@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-04T14:00:30.333110+00:00",
+  "actualizado": "2026-11-04T14:30:27.450778+00:00",
   "noticias": [
+    {
+      "titulo": "Racing entró en escena por los servicios de Fernando Ortiz",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/racing-entro-en-escena-por-ortiz-en-plena-definicion-de-su-futuro-en/2026-11-04/111123.html",
+      "fecha_publicacion": "2026-11-04 111123"
+    },
+    {
+      "titulo": "Orgullo en Colo Colo: Vozinha fue nominado a Mejor Arquero de África por la CAF",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/orgullo-en-colo-colo-vozinha-fue-nominado-a-mejor-arquero-de-africa-por/2026-11-04/105928.html",
+      "fecha_publicacion": "2026-11-04 105928"
+    },
     {
       "titulo": "Tribunal golpea a Universidad de Chile: suspende a Fernando Gago por encarar a árbitro en clásico",
       "fuente": "BioBioChile",
@@ -66,6 +78,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/cruzados-descarto-denuncia-por-gestos-de-vargas-y-morales-no-queremos/2026-11-03/140737.html",
       "fecha_publicacion": "2026-11-03 140737"
+    },
+    {
+      "titulo": "Zaldivia aún lamenta la derrota ante la UC: Fue un golpe muy duro",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/zaldivia-aun-lamenta-la-derrota-ante-la-uc-fue-un-golpe-muy-duro/2026-11-03/131450.html",
+      "fecha_publicacion": "2026-11-03 131450"
     },
     {
       "titulo": "La Roja confirmó su nómina para el Mundial sub 17 en Catar",
