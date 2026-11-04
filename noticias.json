@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T19:00:27.779272+00:00",
+  "actualizado": "2026-11-04T19:30:27.841475+00:00",
   "noticias": [
     {
       "titulo": "Duro golpe para la UC: Sebastián Arancibia arriesga perderse lo que resta de temporada",
@@ -20,16 +20,16 @@
       "fecha_publicacion": "2026-11-04 14:56"
     },
     {
-      "titulo": "Leandro Hernández se mantiene en duda de cara al duelo ante Ñublense",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-se-mantiene-en-duda-de-cara-al-duelo-ante-nublense/2026-11-04/145253.html",
-      "fecha_publicacion": "2026-11-04 145253"
-    },
-    {
       "titulo": "Gago le respondió a Aránguiz por la lucha del título: \"Mientras haya chances hay que insistir\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-le-respondio-a-aranguiz-por-la-lucha-del-titulo-mientras-haya/2026-11-04/132411.html",
       "fecha_publicacion": "2026-11-04 132411"
+    },
+    {
+      "titulo": "Javier Carrión, un campeón chileno en Titan Forest que busca \"dejar huella\" a nuevas generaciones",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/04/javier-carrion-un-campeon-chileno-en-titan-forest-que-busca-dejar-huella-a-nuevas-generaciones.shtml",
+      "fecha_publicacion": "2026-11-04 13:06"
     },
     {
       "titulo": "¿Dónde comprar y cuánto valen las entradas para el duelo entre Ñublense y Colo Colo?",
@@ -60,12 +60,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/03/titan-forest-patagonia-argentino-german-dorhmann-gano-segunda-etapa-tras-lucha-con-pipo-rodriguez.shtml",
       "fecha_publicacion": "2026-11-03 22:41"
-    },
-    {
-      "titulo": "Santiago City se defiende tras desafiliación y advierte con acciones en TAS o justicia ordinaria",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/03/santiago-city-se-defiende-tras-desafiliacion-y-advierte-con-acciones-en-tas-o-justicia-ordinaria.shtml",
-      "fecha_publicacion": "2026-11-03 22:14"
     },
     {
       "titulo": "La Roja confirmó su nómina para el Mundial sub 17 en Catar",
