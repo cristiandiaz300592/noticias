@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-04T19:30:27.841475+00:00",
+  "actualizado": "2026-11-04T20:00:28.314198+00:00",
   "noticias": [
+    {
+      "titulo": "Marcelino Núñez quedó fuera de la nómina de la Roja tras polémica salida",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/marcelino-nunez-quedo-fuera-de-la-nomina-de-la-roja-tras-polemica/2026-11-04/165442.html",
+      "fecha_publicacion": "2026-11-04 165442"
+    },
+    {
+      "titulo": "La nómina de la selección chilena para amistosos con Colombia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-nomina-de-la-seleccion-chilena-para-amistosos-con-colombia/2026-11-04/163908.html",
+      "fecha_publicacion": "2026-11-04 163908"
+    },
+    {
+      "titulo": "Federico Valdés descartó interés en retornar a la presidencia de Azul Azul",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/federico-valdes-descarto-interes-en-retornar-a-la-presidencia-de-azul/2026-11-04/163637.html",
+      "fecha_publicacion": "2026-11-04 163637"
+    },
     {
       "titulo": "Duro golpe para la UC: Sebastián Arancibia arriesga perderse lo que resta de temporada",
       "fuente": "Cooperativa",
@@ -18,6 +36,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/04/u-de-chile-vs-deportes-antofagasta-por-cuartos-de-copa-chile-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
       "fecha_publicacion": "2026-11-04 14:56"
+    },
+    {
+      "titulo": "Leandro Hernández se mantiene en duda de cara al duelo ante Ñublense",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-se-mantiene-en-duda-de-cara-al-duelo-ante-nublense/2026-11-04/145253.html",
+      "fecha_publicacion": "2026-11-04 145253"
     },
     {
       "titulo": "Gago le respondió a Aránguiz por la lucha del título: \"Mientras haya chances hay que insistir\"",
@@ -44,22 +68,10 @@
       "fecha_publicacion": "2026-11-04 111123"
     },
     {
-      "titulo": "Orgullo en Colo Colo: Vozinha fue nominado a Mejor Arquero de África por la CAF",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/orgullo-en-colo-colo-vozinha-fue-nominado-a-mejor-arquero-de-africa-por/2026-11-04/105928.html",
-      "fecha_publicacion": "2026-11-04 105928"
-    },
-    {
       "titulo": "Tribunal golpea a Universidad de Chile: suspende a Fernando Gago por encarar a árbitro en clásico",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/04/tribunal-golpea-a-universidad-de-chile-suspende-a-fernando-gago-por-encarar-a-arbitro-en-clasico.shtml",
       "fecha_publicacion": "2026-11-04 09:00"
-    },
-    {
-      "titulo": "Titan Forest Patagonia: argentino Germán Dorhmann ganó segunda etapa tras lucha con Pipo Rodríguez",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/03/titan-forest-patagonia-argentino-german-dorhmann-gano-segunda-etapa-tras-lucha-con-pipo-rodriguez.shtml",
-      "fecha_publicacion": "2026-11-03 22:41"
     },
     {
       "titulo": "La Roja confirmó su nómina para el Mundial sub 17 en Catar",
