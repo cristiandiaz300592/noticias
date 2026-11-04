@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-04T16:00:28.918754+00:00",
+  "actualizado": "2026-11-04T16:30:24.790803+00:00",
   "noticias": [
+    {
+      "titulo": "Gago le respondió a Aránguiz por la lucha del título: \"Mientras haya chances hay que insistir\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-le-respondio-a-aranguiz-por-la-lucha-del-titulo-mientras-haya/2026-11-04/132411.html",
+      "fecha_publicacion": "2026-11-04 132411"
+    },
     {
       "titulo": "¿Dónde comprar y cuánto valen las entradas para el duelo entre Ñublense y Colo Colo?",
       "fuente": "Cooperativa",
@@ -12,6 +18,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/racing-entro-en-escena-por-ortiz-en-plena-definicion-de-su-futuro-en/2026-11-04/111123.html",
       "fecha_publicacion": "2026-11-04 111123"
+    },
+    {
+      "titulo": "Jugadores de la U llegaron a la Teletón para saludar a pequeños hinchas azules",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/jugadores-de-la-u-llegaron-a-la-teleton-para-saludar-a-pequenos-hinchas/2026-11-04/100557.html",
+      "fecha_publicacion": "2026-11-04 100557"
     },
     {
       "titulo": "Tribunal golpea a Universidad de Chile: suspende a Fernando Gago por encarar a árbitro en clásico",
@@ -38,22 +50,10 @@
       "fecha_publicacion": "2026-11-03 220742"
     },
     {
-      "titulo": "Fernando Gago conoció su castigo por la expulsión tras el clásico universitario",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fernando-gago-conocio-su-castigo-por-la-expulsion-tras-el-clasico/2026-11-03/204048.html",
-      "fecha_publicacion": "2026-11-03 204048"
-    },
-    {
       "titulo": "Santiago City sufre desafiliación: Primera Sala confirmó veredicto por caso de documentación falsa",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/03/santiago-city-sufre-desafiliacion-primera-sala-confirmo-veredicto-por-caso-de-documentacion-falsa.shtml",
       "fecha_publicacion": "2026-11-03 19:49"
-    },
-    {
-      "titulo": "ANFP oficializa cambios a programación de fecha 27: UdeC-O’Higgins y Católica-Limache los ’afectados’",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/03/anfp-oficializa-cambios-a-programacion-de-fecha-27-udec-ohiggins-y-catolica-limache-los-afectados.shtml",
-      "fecha_publicacion": "2026-11-03 19:04"
     },
     {
       "titulo": "ANFP oficializó nuevo horario para el U. Católica vs. Limache",
