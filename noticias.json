@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-05T15:30:26.098336+00:00",
+  "actualizado": "2026-11-05T16:30:29.329073+00:00",
   "noticias": [
+    {
+      "titulo": "Vozinha y el duelo ante Ñublense: \"La chance está ahí, haremos de todo para lograrlo\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-y-el-duelo-ante-nublense-la-chance-esta-ahi-haremos-de-todo/2026-11-05/130703.html",
+      "fecha_publicacion": "2026-11-05 130703"
+    },
+    {
+      "titulo": "A qué hora juegan y dónde ver el U de Chile vs Deportes Antofagasta por cuartos de Copa Chile",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/05/a-que-hora-juegan-y-donde-ver-el-u-de-chile-vs-deportes-antofagasta-por-cuartos-de-copa-chile.shtml",
+      "fecha_publicacion": "2026-11-05 12:43"
+    },
+    {
+      "titulo": "La U recibe a Antofagasta en la revancha por cuartos de Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-recibe-a-antofagasta-en-la-revancha-por-cuartos-de-copa-chile/2026-11-05/123802.html",
+      "fecha_publicacion": "2026-11-05 123802"
+    },
+    {
+      "titulo": "Titan Forest Patagonia 2026 coronó a Dohrmann y Moreno como vencedores: Anna Ramírez ganó MTB femenino",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/05/titan-forest-patagonia-2026-corono-a-dohrmann-y-moreno-como-vencedores-anna-ramirez-gano-mtb-femenino.shtml",
+      "fecha_publicacion": "2026-11-05 12:38"
+    },
     {
       "titulo": "Colo Colo tiene día y hora para enfrentar a Racing en Concepción",
       "fuente": "Cooperativa",
@@ -12,12 +36,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-en-simultaneo-asi-se-transmitira-la-fecha-27-de-la-liga-de/2026-11-05/111516.html",
       "fecha_publicacion": "2026-11-05 111516"
-    },
-    {
-      "titulo": "El partido de la U ante Cobresal solo será transmitido en HBO Max",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/el-partido-de-la-u-ante-cobresal-solo-sera-transmitido-en-hbo-max/2026-11-05/110136.html",
-      "fecha_publicacion": "2026-11-05 110136"
     },
     {
       "titulo": "Cómo todo se derrumbó en la carrera de Marcelino Núñez tras su automarginación de la selección chilena",
@@ -38,16 +56,16 @@
       "fecha_publicacion": "2026-11-05 06:20"
     },
     {
+      "titulo": "La U luchará por una remontada ante Antofagasta por el paso a semis de la Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-luchara-por-una-remontada-ante-antofagasta-por-el-paso-a-semis-de/2026-11-04/223020.html",
+      "fecha_publicacion": "2026-11-04 223020"
+    },
+    {
       "titulo": "Claudio Aquino fue sometido a cirugía de urgencia este miércoles",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/claudio-aquino-fue-sometido-a-cirugia-de-urgencia-este-miercoles/2026-11-04/213525.html",
       "fecha_publicacion": "2026-11-04 213525"
-    },
-    {
-      "titulo": "Copa Chile: Coquimbo superó a La Calera como visitante y tomó ventaja en cuartos de final",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/04/copa-chile-coquimbo-supero-a-la-calera-como-visitante-y-tomo-ventaja-en-cuartos-de-final.shtml",
-      "fecha_publicacion": "2026-11-04 21:03"
     },
     {
       "titulo": "Eduardo Loyola y el futuro de Ortiz: Se verá cuando termine la liga o antes si alcanzamos la copa",
