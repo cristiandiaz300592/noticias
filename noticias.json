@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T18:00:29.168494+00:00",
+  "actualizado": "2026-11-05T18:30:27.819590+00:00",
   "noticias": [
     {
       "titulo": "Montes: Me gustaría que Colo Colo pelee la corona en el partido con nosotros",
@@ -32,6 +32,12 @@
       "fecha_publicacion": "2026-11-05 120212"
     },
     {
+      "titulo": "Con duelos en simultáneo: Así se transmitirá la fecha 27 de la Liga de Primera por televisión",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-en-simultaneo-asi-se-transmitira-la-fecha-27-de-la-liga-de/2026-11-05/111516.html",
+      "fecha_publicacion": "2026-11-05 111516"
+    },
+    {
       "titulo": "El partido de la U ante Cobresal solo será transmitido en HBO Max",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/el-partido-de-la-u-ante-cobresal-solo-sera-transmitido-en-hbo-max/2026-11-05/110136.html",
@@ -54,12 +60,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/05/no-se-deberia-tirar-un-ano-por-un-escritoriazo-drama-en-plantel-de-arica-por-posible-desafiliacion.shtml",
       "fecha_publicacion": "2026-11-05 06:20"
-    },
-    {
-      "titulo": "La U luchará por una remontada ante Antofagasta por el paso a semis de la Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-luchara-por-una-remontada-ante-antofagasta-por-el-paso-a-semis-de/2026-11-04/223020.html",
-      "fecha_publicacion": "2026-11-04 223020"
     },
     {
       "titulo": "Eduardo Loyola y el futuro de Ortiz: Se verá cuando termine la liga o antes si alcanzamos la copa",
