@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-05T09:00:27.723716+00:00",
+  "actualizado": "2026-11-05T09:30:23.874966+00:00",
   "noticias": [
+    {
+      "titulo": "\"No se debería tirar un año por un escritoriazo\": drama en plantel de Arica por posible desafiliación",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/05/no-se-deberia-tirar-un-ano-por-un-escritoriazo-drama-en-plantel-de-arica-por-posible-desafiliacion.shtml",
+      "fecha_publicacion": "2026-11-05 06:20"
+    },
     {
       "titulo": "Insólito: El tenso encontrón entre Elvis Hernández y Hernán Caputto en pleno partido de Coquimbo por la Copa Chile",
       "fuente": "Emol",
@@ -114,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/racing-entro-en-escena-por-ortiz-en-plena-definicion-de-su-futuro-en/2026-11-04/111123.html",
       "fecha_publicacion": "2026-11-04 111123"
-    },
-    {
-      "titulo": "Orgullo en Colo Colo: Vozinha fue nominado a Mejor Arquero de África por la CAF",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/orgullo-en-colo-colo-vozinha-fue-nominado-a-mejor-arquero-de-africa-por/2026-11-04/105928.html",
-      "fecha_publicacion": "2026-11-04 105928"
     }
   ]
 }
