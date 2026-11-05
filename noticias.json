@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-05T14:00:26.531450+00:00",
+  "actualizado": "2026-11-05T14:30:27.067986+00:00",
   "noticias": [
+    {
+      "titulo": "Con duelos en simultáneo: Así se transmitirá la fecha 27 de la Liga de Primera por televisión",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-en-simultaneo-asi-se-transmitira-la-fecha-27-de-la-liga-de/2026-11-05/111516.html",
+      "fecha_publicacion": "2026-11-05 111516"
+    },
+    {
+      "titulo": "El partido de la U ante Cobresal solo será transmitido en HBO Max",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/el-partido-de-la-u-ante-cobresal-solo-sera-transmitido-en-hbo-max/2026-11-05/110136.html",
+      "fecha_publicacion": "2026-11-05 110136"
+    },
     {
       "titulo": "Cómo todo se derrumbó en la carrera de Marcelino Núñez tras su automarginación de la \"Roja\"",
       "fuente": "Emol",
@@ -38,6 +50,12 @@
       "fecha_publicacion": "2026-11-04 21:03"
     },
     {
+      "titulo": "Eduardo Loyola y el futuro de Ortiz: Se verá cuando termine la liga o antes si alcanzamos la copa",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/eduardo-loyola-y-el-futuro-de-ortiz-se-vera-cuando-termine-la-liga-o/2026-11-04/203744.html",
+      "fecha_publicacion": "2026-11-04 203744"
+    },
+    {
       "titulo": "Liquidador de Sartor sigue buscando directores para Azul Azul: \"Todavía no están definidos\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/liquidador-de-sartor-sigue-buscando-directores-para-azul-azul-todavia/2026-11-04/202707.html",
@@ -48,12 +66,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/04/gerente-general-de-san-marcos-arremete-por-desafiliacion-del-club-es-una-medida-desproporcionada.shtml",
       "fecha_publicacion": "2026-11-04 18:20"
-    },
-    {
-      "titulo": "Marcelino Núñez quedó fuera de la nómina de la Roja tras polémica salida",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/marcelino-nunez-quedo-fuera-de-la-nomina-de-la-roja-tras-polemica/2026-11-04/165442.html",
-      "fecha_publicacion": "2026-11-04 165442"
     },
     {
       "titulo": "La nómina de la selección chilena para amistosos con Colombia",
