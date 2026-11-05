@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-05T20:30:24.084084+00:00",
+  "actualizado": "2026-11-05T21:00:30.805459+00:00",
   "noticias": [
+    {
+      "titulo": "Con cinco del extranjero: La Roja sub 20 anunció su nómina para enfrentar a México",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/con-cinco-del-extranjero-la-roja-sub-20-anuncio-su-nomina-para/2026-11-05/173824.html",
+      "fecha_publicacion": "2026-11-05 173824"
+    },
     {
       "titulo": "Caputto minimiza ’encontrón’ con su jugador en plena cancha: \"Solo es parte del fútbol\"",
       "fuente": "BioBioChile",
@@ -72,12 +78,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-luchara-por-una-remontada-ante-antofagasta-por-el-paso-a-semis-de/2026-11-04/223020.html",
       "fecha_publicacion": "2026-11-04 223020"
-    },
-    {
-      "titulo": "La nómina de la selección chilena para amistosos con Colombia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-nomina-de-la-seleccion-chilena-para-amistosos-con-colombia/2026-11-04/163908.html",
-      "fecha_publicacion": "2026-11-04 163908"
     }
   ]
 }
