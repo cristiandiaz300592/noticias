@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T10:30:24.978784+00:00",
+  "actualizado": "2026-11-05T11:00:29.735670+00:00",
   "noticias": [
     {
       "titulo": "\"No se debería tirar un año por un escritoriazo\": drama en plantel de Arica por posible desafiliación",
@@ -24,12 +24,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-luchara-por-una-remontada-ante-antofagasta-por-el-paso-a-semis-de/2026-11-04/223020.html",
       "fecha_publicacion": "2026-11-04 223020"
-    },
-    {
-      "titulo": "Claudio Aquino sufrió complejo problema de salud y encendió las alarmas en Colo Colo",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/04/1216151/colocolo-claudio-aquino.html",
-      "fecha_publicacion": "2026-11-04 21:43"
     },
     {
       "titulo": "Claudio Aquino fue sometido a cirugía de urgencia este miércoles",
@@ -68,12 +62,6 @@
       "fecha_publicacion": "2026-11-04 17:10"
     },
     {
-      "titulo": "Marcelino Núñez quedó fuera de la nómina de la Roja tras polémica salida",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/marcelino-nunez-quedo-fuera-de-la-nomina-de-la-roja-tras-polemica/2026-11-04/165442.html",
-      "fecha_publicacion": "2026-11-04 165442"
-    },
-    {
       "titulo": "La nómina de la selección chilena para amistosos con Colombia",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-nomina-de-la-seleccion-chilena-para-amistosos-con-colombia/2026-11-04/163908.html",
@@ -110,16 +98,22 @@
       "fecha_publicacion": "2026-11-04 132411"
     },
     {
-      "titulo": "Javier Carrión, un campeón chileno en Titan Forest que busca \"dejar huella\" a nuevas generaciones",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/04/javier-carrion-un-campeon-chileno-en-titan-forest-que-busca-dejar-huella-a-nuevas-generaciones.shtml",
-      "fecha_publicacion": "2026-11-04 13:06"
+      "titulo": "¿Dónde comprar y cuánto valen las entradas para el duelo entre Ñublense y Colo Colo?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/donde-comprar-y-cuanto-valen-las-entradas-para-el-duelo-entre-nublense/2026-11-04/121746.html",
+      "fecha_publicacion": "2026-11-04 121746"
     },
     {
       "titulo": "Racing entró en escena por los servicios de Fernando Ortiz",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/racing-entro-en-escena-por-ortiz-en-plena-definicion-de-su-futuro-en/2026-11-04/111123.html",
       "fecha_publicacion": "2026-11-04 111123"
+    },
+    {
+      "titulo": "Orgullo en Colo Colo: Vozinha fue nominado a Mejor Arquero de África por la CAF",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/orgullo-en-colo-colo-vozinha-fue-nominado-a-mejor-arquero-de-africa-por/2026-11-04/105928.html",
+      "fecha_publicacion": "2026-11-04 105928"
     }
   ]
 }
