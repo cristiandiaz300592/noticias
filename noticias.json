@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-05T01:30:22.139975+00:00",
+  "actualizado": "2026-11-05T02:00:29.012854+00:00",
   "noticias": [
+    {
+      "titulo": "La agenda de La Roja para los amistosos con Colombia en la fecha FIFA",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-agenda-de-la-roja-para-los-amistosos-con-colombia-en-la-fecha-fifa/2026-11-04/224505.html",
+      "fecha_publicacion": "2026-11-04 224505"
+    },
+    {
+      "titulo": "La U luchará por una remontada ante Antofagasta por el paso a semis de la Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-luchara-por-una-remontada-ante-antofagasta-por-el-paso-a-semis-de/2026-11-04/223020.html",
+      "fecha_publicacion": "2026-11-04 223020"
+    },
+    {
+      "titulo": "Claudio Aquino sufrió complejo problema de salud y encendió las alarmas en Colo Colo",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/04/1216151/colocolo-claudio-aquino.html",
+      "fecha_publicacion": "2026-11-04 21:43"
+    },
     {
       "titulo": "Claudio Aquino fue sometido a cirugía de urgencia este miércoles",
       "fuente": "Cooperativa",
@@ -56,18 +74,6 @@
       "fecha_publicacion": "2026-11-04 163908"
     },
     {
-      "titulo": "Federico Valdés descartó interés en retornar a la presidencia de Azul Azul",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/federico-valdes-descarto-interes-en-retornar-a-la-presidencia-de-azul/2026-11-04/163637.html",
-      "fecha_publicacion": "2026-11-04 163637"
-    },
-    {
-      "titulo": "Duro golpe para la UC: Sebastián Arancibia arriesga perderse lo que resta de temporada",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/duro-golpe-para-la-uc-sebastian-arancibia-arriesga-perderse-lo-que/2026-11-04/151320.html",
-      "fecha_publicacion": "2026-11-04 151320"
-    },
-    {
       "titulo": "DT de Santiago City enfurece por desafiliación y emplaza al Sifup: \"Que se preocupen de los jugadores\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/04/dt-de-santiago-city-enfurece-por-desafiliacion-y-apunta-al-sifup-que-se-preocupen-de-los-jugadores.shtml",
@@ -84,6 +90,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-se-mantiene-en-duda-de-cara-al-duelo-ante-nublense/2026-11-04/145253.html",
       "fecha_publicacion": "2026-11-04 145253"
+    },
+    {
+      "titulo": "Gago le respondió a Aránguiz por la lucha del título: \"Mientras haya chances hay que insistir\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-le-respondio-a-aranguiz-por-la-lucha-del-titulo-mientras-haya/2026-11-04/132411.html",
+      "fecha_publicacion": "2026-11-04 132411"
     },
     {
       "titulo": "Javier Carrión, un campeón chileno en Titan Forest que busca \"dejar huella\" a nuevas generaciones",
