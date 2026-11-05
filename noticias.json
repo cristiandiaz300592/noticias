@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-05T17:00:30.680017+00:00",
+  "actualizado": "2026-11-05T17:30:24.616245+00:00",
   "noticias": [
+    {
+      "titulo": "Montes: Me gustaría que Colo Colo pelee la corona en el partido con nosotros",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/montes-me-gustaria-que-colo-colo-pelee-la-corona-en-el-partido-con/2026-11-05/134904.html",
+      "fecha_publicacion": "2026-11-05 134904"
+    },
     {
       "titulo": "Vozinha y el duelo ante Ñublense: \"La chance está ahí, haremos de todo para lograrlo\"",
       "fuente": "Cooperativa",
@@ -60,12 +66,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-luchara-por-una-remontada-ante-antofagasta-por-el-paso-a-semis-de/2026-11-04/223020.html",
       "fecha_publicacion": "2026-11-04 223020"
-    },
-    {
-      "titulo": "Claudio Aquino fue sometido a cirugía de urgencia este miércoles",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/claudio-aquino-fue-sometido-a-cirugia-de-urgencia-este-miercoles/2026-11-04/213525.html",
-      "fecha_publicacion": "2026-11-04 213525"
     },
     {
       "titulo": "Eduardo Loyola y el futuro de Ortiz: Se verá cuando termine la liga o antes si alcanzamos la copa",
