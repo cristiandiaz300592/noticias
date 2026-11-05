@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T12:00:27.365101+00:00",
+  "actualizado": "2026-11-05T12:30:28.925552+00:00",
   "noticias": [
     {
       "titulo": "Del gol a la polémica: Caputto protagonizó tenso cruce con jugador en duelo de Coquimbo por Copa Chile",
@@ -38,6 +38,12 @@
       "fecha_publicacion": "2026-11-04 21:03"
     },
     {
+      "titulo": "Eduardo Loyola y el futuro de Ortiz: Se verá cuando termine la liga o antes si alcanzamos la copa",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/eduardo-loyola-y-el-futuro-de-ortiz-se-vera-cuando-termine-la-liga-o/2026-11-04/203744.html",
+      "fecha_publicacion": "2026-11-04 203744"
+    },
+    {
       "titulo": "Liquidador de Sartor sigue buscando directores para Azul Azul: \"Todavía no están definidos\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/liquidador-de-sartor-sigue-buscando-directores-para-azul-azul-todavia/2026-11-04/202707.html",
@@ -74,6 +80,12 @@
       "fecha_publicacion": "2026-11-04 163637"
     },
     {
+      "titulo": "Gago le respondió a Aránguiz por la lucha del título: \"Mientras haya chances hay que insistir\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-le-respondio-a-aranguiz-por-la-lucha-del-titulo-mientras-haya/2026-11-04/132411.html",
+      "fecha_publicacion": "2026-11-04 132411"
+    },
+    {
       "titulo": "¿Dónde comprar y cuánto valen las entradas para el duelo entre Ñublense y Colo Colo?",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/donde-comprar-y-cuanto-valen-las-entradas-para-el-duelo-entre-nublense/2026-11-04/121746.html",
@@ -84,12 +96,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/racing-entro-en-escena-por-ortiz-en-plena-definicion-de-su-futuro-en/2026-11-04/111123.html",
       "fecha_publicacion": "2026-11-04 111123"
-    },
-    {
-      "titulo": "Orgullo en Colo Colo: Vozinha fue nominado a Mejor Arquero de África por la CAF",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/orgullo-en-colo-colo-vozinha-fue-nominado-a-mejor-arquero-de-africa-por/2026-11-04/105928.html",
-      "fecha_publicacion": "2026-11-04 105928"
     }
   ]
 }
