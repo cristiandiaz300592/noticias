@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-05T00:00:28.678684+00:00",
+  "actualizado": "2026-11-05T00:30:23.886476+00:00",
   "noticias": [
+    {
+      "titulo": "Copa Chile: Coquimbo superó a La Calera como visitante y tomó ventaja en cuartos de final",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/04/copa-chile-coquimbo-supero-a-la-calera-como-visitante-y-tomo-ventaja-en-cuartos-de-final.shtml",
+      "fecha_publicacion": "2026-11-04 21:03"
+    },
+    {
+      "titulo": "Coquimbo superó a La Calera y tomó ventaja en la llave de cuartos por la Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-supero-a-la-calera-y-tomo-ventaja-en-la-llave-de-cuartos-por-la/2026-11-04/210147.html",
+      "fecha_publicacion": "2026-11-04 210147"
+    },
+    {
+      "titulo": "Eduardo Loyola y el futuro de Ortiz: Se verá cuando termine la liga o antes si alcanzamos la copa",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/eduardo-loyola-y-el-futuro-de-ortiz-se-vera-cuando-termine-la-liga-o/2026-11-04/203744.html",
+      "fecha_publicacion": "2026-11-04 203744"
+    },
+    {
+      "titulo": "Liquidador de Sartor sigue buscando directores para Azul Azul: \"Todavía no están definidos\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/liquidador-de-sartor-sigue-buscando-directores-para-azul-azul-todavia/2026-11-04/202707.html",
+      "fecha_publicacion": "2026-11-04 202707"
+    },
     {
       "titulo": "Gerente General de San Marcos arremete por desafiliación del club: \"Es una medida desproporcionada\"",
       "fuente": "BioBioChile",
@@ -12,6 +36,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/04/la-roja-nico-cordova-nomina-fecha-fifa-noviembre-colombia.shtml",
       "fecha_publicacion": "2026-11-04 17:10"
+    },
+    {
+      "titulo": "Marcelino Núñez quedó fuera de la nómina de la Roja tras polémica salida",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/marcelino-nunez-quedo-fuera-de-la-nomina-de-la-roja-tras-polemica/2026-11-04/165442.html",
+      "fecha_publicacion": "2026-11-04 165442"
     },
     {
       "titulo": "La nómina de la selección chilena para amistosos con Colombia",
@@ -72,12 +102,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/donde-comprar-y-cuanto-valen-las-entradas-para-el-duelo-entre-nublense/2026-11-04/121746.html",
       "fecha_publicacion": "2026-11-04 121746"
-    },
-    {
-      "titulo": "Racing entró en escena por los servicios de Fernando Ortiz",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/racing-entro-en-escena-por-ortiz-en-plena-definicion-de-su-futuro-en/2026-11-04/111123.html",
-      "fecha_publicacion": "2026-11-04 111123"
     },
     {
       "titulo": "Orgullo en Colo Colo: Vozinha fue nominado a Mejor Arquero de África por la CAF",
