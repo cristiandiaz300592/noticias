@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-05T15:00:33.801521+00:00",
+  "actualizado": "2026-11-05T15:30:26.098336+00:00",
   "noticias": [
+    {
+      "titulo": "Colo Colo tiene día y hora para enfrentar a Racing en Concepción",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-tiene-dia-y-hora-para-enfrentar-a-racing-en-concepcion/2026-11-05/120212.html",
+      "fecha_publicacion": "2026-11-05 120212"
+    },
     {
       "titulo": "Con duelos en simultáneo: Así se transmitirá la fecha 27 de la Liga de Primera por televisión",
       "fuente": "Cooperativa",
@@ -32,12 +38,6 @@
       "fecha_publicacion": "2026-11-05 06:20"
     },
     {
-      "titulo": "La U luchará por una remontada ante Antofagasta por el paso a semis de la Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-luchara-por-una-remontada-ante-antofagasta-por-el-paso-a-semis-de/2026-11-04/223020.html",
-      "fecha_publicacion": "2026-11-04 223020"
-    },
-    {
       "titulo": "Claudio Aquino fue sometido a cirugía de urgencia este miércoles",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/claudio-aquino-fue-sometido-a-cirugia-de-urgencia-este-miercoles/2026-11-04/213525.html",
@@ -54,18 +54,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/eduardo-loyola-y-el-futuro-de-ortiz-se-vera-cuando-termine-la-liga-o/2026-11-04/203744.html",
       "fecha_publicacion": "2026-11-04 203744"
-    },
-    {
-      "titulo": "Liquidador de Sartor sigue buscando directores para Azul Azul: \"Todavía no están definidos\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/liquidador-de-sartor-sigue-buscando-directores-para-azul-azul-todavia/2026-11-04/202707.html",
-      "fecha_publicacion": "2026-11-04 202707"
-    },
-    {
-      "titulo": "Gerente General de San Marcos arremete por desafiliación del club: \"Es una medida desproporcionada\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/04/gerente-general-de-san-marcos-arremete-por-desafiliacion-del-club-es-una-medida-desproporcionada.shtml",
-      "fecha_publicacion": "2026-11-04 18:20"
     },
     {
       "titulo": "La nómina de la selección chilena para amistosos con Colombia",
