@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T02:00:29.012854+00:00",
+  "actualizado": "2026-11-05T02:30:22.626247+00:00",
   "noticias": [
     {
       "titulo": "La agenda de La Roja para los amistosos con Colombia en la fecha FIFA",
@@ -30,12 +30,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/04/copa-chile-coquimbo-supero-a-la-calera-como-visitante-y-tomo-ventaja-en-cuartos-de-final.shtml",
       "fecha_publicacion": "2026-11-04 21:03"
-    },
-    {
-      "titulo": "Coquimbo superó a La Calera y tomó ventaja en la llave de cuartos por la Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-supero-a-la-calera-y-tomo-ventaja-en-la-llave-de-cuartos-por-la/2026-11-04/210147.html",
-      "fecha_publicacion": "2026-11-04 210147"
     },
     {
       "titulo": "Eduardo Loyola y el futuro de Ortiz: Se verá cuando termine la liga o antes si alcanzamos la copa",
@@ -74,6 +68,12 @@
       "fecha_publicacion": "2026-11-04 163908"
     },
     {
+      "titulo": "Federico Valdés descartó interés en retornar a la presidencia de Azul Azul",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/federico-valdes-descarto-interes-en-retornar-a-la-presidencia-de-azul/2026-11-04/163637.html",
+      "fecha_publicacion": "2026-11-04 163637"
+    },
+    {
       "titulo": "DT de Santiago City enfurece por desafiliación y emplaza al Sifup: \"Que se preocupen de los jugadores\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/04/dt-de-santiago-city-enfurece-por-desafiliacion-y-apunta-al-sifup-que-se-preocupen-de-los-jugadores.shtml",
@@ -104,16 +104,16 @@
       "fecha_publicacion": "2026-11-04 13:06"
     },
     {
-      "titulo": "¿Dónde comprar y cuánto valen las entradas para el duelo entre Ñublense y Colo Colo?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/donde-comprar-y-cuanto-valen-las-entradas-para-el-duelo-entre-nublense/2026-11-04/121746.html",
-      "fecha_publicacion": "2026-11-04 121746"
-    },
-    {
       "titulo": "Racing entró en escena por los servicios de Fernando Ortiz",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/racing-entro-en-escena-por-ortiz-en-plena-definicion-de-su-futuro-en/2026-11-04/111123.html",
       "fecha_publicacion": "2026-11-04 111123"
+    },
+    {
+      "titulo": "Orgullo en Colo Colo: Vozinha fue nominado a Mejor Arquero de África por la CAF",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/orgullo-en-colo-colo-vozinha-fue-nominado-a-mejor-arquero-de-africa-por/2026-11-04/105928.html",
+      "fecha_publicacion": "2026-11-04 105928"
     }
   ]
 }
