@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-05T19:30:23.127499+00:00",
+  "actualizado": "2026-11-05T20:00:28.916071+00:00",
   "noticias": [
+    {
+      "titulo": "Caputto minimiza ’encontrón’ con su jugador en plena cancha: \"Solo es parte del fútbol\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/05/caputto-minimiza-encontron-con-su-jugador-en-plena-cancha-solo-es-parte-del-futbol.shtml",
+      "fecha_publicacion": "2026-11-05 16:55"
+    },
+    {
+      "titulo": "¿Qué partido será transmitido por TV abierta en la fecha 27 de la Liga de Primera?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/que-partido-sera-transmitido-por-tv-abierta-en-la-fecha-27-de-la-liga/2026-11-05/161425.html",
+      "fecha_publicacion": "2026-11-05 161425"
+    },
     {
       "titulo": "Montes: Me gustaría que Colo Colo pelee la corona en el partido con nosotros",
       "fuente": "Cooperativa",
@@ -54,6 +66,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/05/del-gol-a-la-polemica-caputto-protagonizo-tenso-cruce-con-jugador-en-duelo-de-coquimbo-por-copa-chile.shtml",
       "fecha_publicacion": "2026-11-05 08:51"
+    },
+    {
+      "titulo": "La U luchará por una remontada ante Antofagasta por el paso a semis de la Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-luchara-por-una-remontada-ante-antofagasta-por-el-paso-a-semis-de/2026-11-04/223020.html",
+      "fecha_publicacion": "2026-11-04 223020"
     },
     {
       "titulo": "La nómina de la selección chilena para amistosos con Colombia",
