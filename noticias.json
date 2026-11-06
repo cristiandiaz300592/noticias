@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T15:12:06.157435+00:00",
+  "actualizado": "2026-11-06T15:30:28.581534+00:00",
   "noticias": [
     {
       "titulo": "Cómo sigue la Copa Chile: Lo que falta por definir, cuándo serían las semis y el problema que se podría dar",
@@ -12,6 +12,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/05/los-campeones-del-mundo-de-windsurf-se-definen-en-chile-matanzas-espera-por-fecha-final-del-tour.shtml",
       "fecha_publicacion": "2026-11-05 23:10"
+    },
+    {
+      "titulo": "Octavio Rivero: Estoy muy feliz por volver a ser titular y los goles, pero más por la victoria",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/octavio-rivero-estoy-muy-feliz-por-volver-a-ser-titular-y-los-goles/2026-11-05/222413.html",
+      "fecha_publicacion": "2026-11-05 222413"
     },
     {
       "titulo": "Gago tras golear Antofagasta: Para estar donde estamos es porque hemos ganado muchísimo",
@@ -38,22 +44,10 @@
       "fecha_publicacion": "2026-11-05 20:34"
     },
     {
-      "titulo": "Cecilia Pérez y la continuidad de Gago en la U: No es una decisión que me toque determinar",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-y-la-continuidad-de-gago-en-la-u-no-es-una-decision-que/2026-11-05/200545.html",
-      "fecha_publicacion": "2026-11-05 200545"
-    },
-    {
       "titulo": "Con clásico de Colo Colo y la UC: La ANFP dio a conocer la programación de la fecha 28",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-clasico-de-colo-colo-y-la-uc-la-anfp-dio-a-conocer-la-programacion/2026-11-05/184751.html",
       "fecha_publicacion": "2026-11-05 184751"
-    },
-    {
-      "titulo": "Vozinha reiteró su objetivo en Colo Colo: Vine con la clara intención de jugar la Libertadores",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-reitero-su-objetivo-en-colo-colo-vine-con-la-clara-intencion-de/2026-11-05/175807.html",
-      "fecha_publicacion": "2026-11-05 175807"
     },
     {
       "titulo": "Con cinco del extranjero: La Roja sub 20 anunció su nómina para enfrentar a México",
