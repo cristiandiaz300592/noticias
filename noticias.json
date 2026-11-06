@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T15:00:29.242554+00:00",
+  "actualizado": "2026-11-06T15:12:06.157435+00:00",
   "noticias": [
     {
       "titulo": "Cómo sigue la Copa Chile: Lo que falta por definir, cuándo serían las semis y el problema que se podría dar",
@@ -78,6 +78,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-en-simultaneo-asi-se-transmitira-la-fecha-27-de-la-liga-de/2026-11-05/111516.html",
       "fecha_publicacion": "2026-11-05 111516"
+    },
+    {
+      "titulo": "El partido de la U ante Cobresal solo será transmitido en HBO Max",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/el-partido-de-la-u-ante-cobresal-solo-sera-transmitido-en-hbo-max/2026-11-05/110136.html",
+      "fecha_publicacion": "2026-11-05 110136"
     }
   ]
 }
