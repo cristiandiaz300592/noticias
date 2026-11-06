@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-06T16:00:29.359970+00:00",
+  "actualizado": "2026-11-06T16:30:25.641444+00:00",
   "noticias": [
+    {
+      "titulo": "ANFP castiga a árbitro del último Clásico Universitario: no dirigirá por \"bajo desempeño\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/06/comision-de-arbitros-anfp-borra-a-juez-del-clasico-universitario-diego-flores.shtml",
+      "fecha_publicacion": "2026-11-06 13:13"
+    },
     {
       "titulo": "Cómo sigue la Copa Chile: Lo que falta por definir, cuándo serían las semis y el problema que se podría dar",
       "fuente": "Emol",
@@ -60,18 +66,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/05/caputto-minimiza-encontron-con-su-jugador-en-plena-cancha-solo-es-parte-del-futbol.shtml",
       "fecha_publicacion": "2026-11-05 16:55"
-    },
-    {
-      "titulo": "Montes: Me gustaría que Colo Colo pelee la corona en el partido con nosotros",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/montes-me-gustaria-que-colo-colo-pelee-la-corona-en-el-partido-con/2026-11-05/134904.html",
-      "fecha_publicacion": "2026-11-05 134904"
-    },
-    {
-      "titulo": "Con duelos en simultáneo: Así se transmitirá la fecha 27 de la Liga de Primera por televisión",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-en-simultaneo-asi-se-transmitira-la-fecha-27-de-la-liga-de/2026-11-05/111516.html",
-      "fecha_publicacion": "2026-11-05 111516"
     },
     {
       "titulo": "El partido de la U ante Cobresal solo será transmitido en HBO Max",
