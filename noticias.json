@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T22:00:30.904940+00:00",
+  "actualizado": "2026-11-06T22:30:31.383158+00:00",
   "noticias": [
     {
       "titulo": "La calculadora azul: ¿Qué necesita Universidad de Chile para arrebatarle el título a Colo Colo?",
@@ -44,18 +44,6 @@
       "fecha_publicacion": "2026-11-06 13:13"
     },
     {
-      "titulo": "Los campeones del Mundo de Windsurf se definen en Chile: Matanzas espera por fecha final del Tour",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/05/los-campeones-del-mundo-de-windsurf-se-definen-en-chile-matanzas-espera-por-fecha-final-del-tour.shtml",
-      "fecha_publicacion": "2026-11-05 23:10"
-    },
-    {
-      "titulo": "Gago tras golear Antofagasta: Para estar donde estamos es porque hemos ganado muchísimo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-tras-golear-antofagasta-para-estar-donde-estamos-es-porque-hemos/2026-11-05/213735.html",
-      "fecha_publicacion": "2026-11-05 213735"
-    },
-    {
       "titulo": "La U arrolló a Antofagasta con una inspirada goleada y avanzó a semifinales de Copa Chile",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-arrollo-a-antofagasta-con-una-inspirada-goleada-y-avanzo-a/2026-11-05/205148.html",
@@ -66,6 +54,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-clasico-de-colo-colo-y-la-uc-la-anfp-dio-a-conocer-la-programacion/2026-11-05/184751.html",
       "fecha_publicacion": "2026-11-05 184751"
+    },
+    {
+      "titulo": "Con duelos en simultáneo: Así se transmitirá la fecha 27 de la Liga de Primera por televisión",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-en-simultaneo-asi-se-transmitira-la-fecha-27-de-la-liga-de/2026-11-05/111516.html",
+      "fecha_publicacion": "2026-11-05 111516"
     }
   ]
 }
