@@ -1,11 +1,29 @@
 {
-  "actualizado": "2026-11-06T00:00:29.954033+00:00",
+  "actualizado": "2026-11-06T00:25:04.673918+00:00",
   "noticias": [
+    {
+      "titulo": "La Universidad de Chile arrolla a Antofagasta, da vuelta la llave y se mete en semis de la Copa Chile: Mira todos los goles",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/05/1216274/universidaddechile-antofagasta-copa-chile.html",
+      "fecha_publicacion": "2026-11-05 21:06"
+    },
+    {
+      "titulo": "Copa Chile: La U goleó a Antofagasta, dio vuelta complicada llave y se instaló en semifinales",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/05/copa-chile-la-u-goleo-a-antofagasta-dio-vuelta-complicada-llave-y-se-instalo-en-semifinales.shtml",
+      "fecha_publicacion": "2026-11-05 21:00"
+    },
     {
       "titulo": "[VIDEO] Vargas deslumbró con golazo y selló la remontada de la U ante Antofagasta en Copa Chile",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/video-vargas-deslumbro-con-golazo-y-sello-la-remontada-de-la-u-ante/2026-11-05/205251.html",
       "fecha_publicacion": "2026-11-05 205251"
+    },
+    {
+      "titulo": "La U arrolló a Antofagasta con una inspirada goleada y avanzó a semifinales de Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-arrollo-a-antofagasta-con-una-inspirada-goleada-y-avanzo-a/2026-11-05/205148.html",
+      "fecha_publicacion": "2026-11-05 205148"
     },
     {
       "titulo": "[VIDEO] Agustín Arce remató de primera y firmó el tercero de la U contra Antofagasta",
@@ -24,12 +42,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-y-la-continuidad-de-gago-en-la-u-no-es-una-decision-que/2026-11-05/200545.html",
       "fecha_publicacion": "2026-11-05 200545"
-    },
-    {
-      "titulo": "[VIDEO] Aránguiz asistió y Rivero anotó un golazo al ángulo ante Antofagasta en Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/video-aranguiz-asistio-y-rivero-anoto-un-golazo-al-angulo-ante/2026-11-05/194910.html",
-      "fecha_publicacion": "2026-11-05 194910"
     },
     {
       "titulo": "Vozinha reiteró su objetivo en Colo Colo: Vine con la clara intención de jugar la Libertadores",
