@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T12:30:24.894396+00:00",
+  "actualizado": "2026-11-06T13:00:28.716809+00:00",
   "noticias": [
     {
       "titulo": "Los campeones del Mundo de Windsurf se definen en Chile: Matanzas espera por fecha final del Tour",
@@ -32,6 +32,12 @@
       "fecha_publicacion": "2026-11-05 21:00"
     },
     {
+      "titulo": "La U arrolló a Antofagasta con una inspirada goleada y avanzó a semifinales de Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-arrollo-a-antofagasta-con-una-inspirada-goleada-y-avanzo-a/2026-11-05/205148.html",
+      "fecha_publicacion": "2026-11-05 205148"
+    },
+    {
       "titulo": "Del retiro a seguir escribiendo historia: Dani Moreno, ganador del gravel en Titan Forest Patagonia",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/05/del-retiro-a-seguir-escribiendo-historia-dani-moreno-ganador-del-gravel-en-titan-forest-patagonia.shtml",
@@ -42,12 +48,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-y-la-continuidad-de-gago-en-la-u-no-es-una-decision-que/2026-11-05/200545.html",
       "fecha_publicacion": "2026-11-05 200545"
-    },
-    {
-      "titulo": "Con clásico de Colo Colo y la UC: La ANFP dio a conocer la programación de la fecha 28",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-clasico-de-colo-colo-y-la-uc-la-anfp-dio-a-conocer-la-programacion/2026-11-05/184751.html",
-      "fecha_publicacion": "2026-11-05 184751"
     },
     {
       "titulo": "Vozinha reiteró su objetivo en Colo Colo: Vine con la clara intención de jugar la Libertadores",
@@ -74,12 +74,6 @@
       "fecha_publicacion": "2026-11-05 134904"
     },
     {
-      "titulo": "Vozinha: El fútbol chileno es muy competitivo, con muchos buenos equipos",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-el-futbol-chileno-es-muy-competitivo-con-muchos-buenos-equipos/2026-11-05/123853.html",
-      "fecha_publicacion": "2026-11-05 123853"
-    },
-    {
       "titulo": "Colo Colo tiene día y hora para enfrentar a Racing en Concepción",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-tiene-dia-y-hora-para-enfrentar-a-racing-en-concepcion/2026-11-05/120212.html",
@@ -90,18 +84,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-en-simultaneo-asi-se-transmitira-la-fecha-27-de-la-liga-de/2026-11-05/111516.html",
       "fecha_publicacion": "2026-11-05 111516"
-    },
-    {
-      "titulo": "El partido de la U ante Cobresal solo será transmitido en HBO Max",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/el-partido-de-la-u-ante-cobresal-solo-sera-transmitido-en-hbo-max/2026-11-05/110136.html",
-      "fecha_publicacion": "2026-11-05 110136"
-    },
-    {
-      "titulo": "La agenda de La Roja para los amistosos con Colombia en la fecha FIFA",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-agenda-de-la-roja-para-los-amistosos-con-colombia-en-la-fecha-fifa/2026-11-04/224505.html",
-      "fecha_publicacion": "2026-11-04 224505"
     }
   ]
 }
