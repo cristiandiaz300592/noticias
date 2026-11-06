@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-06T16:30:25.641444+00:00",
+  "actualizado": "2026-11-06T17:00:28.307045+00:00",
   "noticias": [
+    {
+      "titulo": "Arbitro informó expulsión de pasapelotas en goleada de la U a Antofagasta",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/arbitro-informo-expulsion-de-pasapelotas-en-goleada-de-la-u-a-antofagasta/2026-11-06/134408.html",
+      "fecha_publicacion": "2026-11-06 134408"
+    },
+    {
+      "titulo": "Ortiz sobre su continuidad: \"La prioridad es de Colo Colo, soy un hombre de palabra\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-sobre-su-continuidad-la-prioridad-es-de-colo-colo-soy-un-hombre/2026-11-06/131345.html",
+      "fecha_publicacion": "2026-11-06 131345"
+    },
     {
       "titulo": "ANFP castiga a árbitro del último Clásico Universitario: no dirigirá por \"bajo desempeño\"",
       "fuente": "BioBioChile",
@@ -24,12 +36,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/octavio-rivero-estoy-muy-feliz-por-volver-a-ser-titular-y-los-goles/2026-11-05/222413.html",
       "fecha_publicacion": "2026-11-05 222413"
-    },
-    {
-      "titulo": "Gago tras golear Antofagasta: Para estar donde estamos es porque hemos ganado muchísimo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-tras-golear-antofagasta-para-estar-donde-estamos-es-porque-hemos/2026-11-05/213735.html",
-      "fecha_publicacion": "2026-11-05 213735"
     },
     {
       "titulo": "Copa Chile: La U goleó a Antofagasta, dio vuelta complicada llave y se instaló en semifinales",
@@ -56,16 +62,10 @@
       "fecha_publicacion": "2026-11-05 184751"
     },
     {
-      "titulo": "Con cinco del extranjero: La Roja sub 20 anunció su nómina para enfrentar a México",
+      "titulo": "Con duelos en simultáneo: Así se transmitirá la fecha 27 de la Liga de Primera por televisión",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/con-cinco-del-extranjero-la-roja-sub-20-anuncio-su-nomina-para/2026-11-05/173824.html",
-      "fecha_publicacion": "2026-11-05 173824"
-    },
-    {
-      "titulo": "Caputto minimiza ’encontrón’ con su jugador en plena cancha: \"Solo es parte del fútbol\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/05/caputto-minimiza-encontron-con-su-jugador-en-plena-cancha-solo-es-parte-del-futbol.shtml",
-      "fecha_publicacion": "2026-11-05 16:55"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-en-simultaneo-asi-se-transmitira-la-fecha-27-de-la-liga-de/2026-11-05/111516.html",
+      "fecha_publicacion": "2026-11-05 111516"
     },
     {
       "titulo": "El partido de la U ante Cobresal solo será transmitido en HBO Max",
