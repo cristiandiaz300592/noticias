@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-07T16:30:26.836252+00:00",
+  "actualizado": "2026-11-07T17:00:31.372699+00:00",
   "noticias": [
+    {
+      "titulo": "Insulza y José Ramón Correa sobre Azul Azul: Vamos a seguir juntos en el directorio, nunca hubo dudas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/insulza-y-jose-ramon-correa-sobre-azul-azul-vamos-a-seguir-juntos-en-el/2026-11-07/132045.html",
+      "fecha_publicacion": "2026-11-07 132045"
+    },
     {
       "titulo": "[ESTADÍSTICAS] La tabla de posiciones de la Liga de Primera en la fecha 27",
       "fuente": "Cooperativa",
@@ -44,16 +50,16 @@
       "fecha_publicacion": "2026-11-06 192807"
     },
     {
+      "titulo": "Sebastián Arancibia quedó descartado en la UC para lo que resta de la temporada",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/sebastian-arancibia-quedo-descartado-en-la-uc-para-lo-que-resta-de-la/2026-11-06/154347.html",
+      "fecha_publicacion": "2026-11-06 154347"
+    },
+    {
       "titulo": "La UC tiene en carpeta a Fernando De Paul para reforzar su arco",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/la-uc-tiene-en-carpeta-a-fernando-de-paul-para-reforzar-su-arco/2026-11-06/153412.html",
       "fecha_publicacion": "2026-11-06 153412"
-    },
-    {
-      "titulo": "Ortiz sobre su continuidad: \"La prioridad es de Colo Colo, soy un hombre de palabra\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-sobre-su-continuidad-la-prioridad-es-de-colo-colo-soy-un-hombre/2026-11-06/131345.html",
-      "fecha_publicacion": "2026-11-06 131345"
     }
   ]
 }
