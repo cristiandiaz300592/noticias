@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T19:00:29.631780+00:00",
+  "actualizado": "2026-11-07T19:30:24.703026+00:00",
   "noticias": [
     {
       "titulo": "La Roja tiene su primera baja para los duelos con Colombia",
@@ -12,6 +12,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-tuvo-multitudinaria-despedida-antes-de-su-duelo-con-nublense/2026-11-07/142514.html",
       "fecha_publicacion": "2026-11-07 142514"
+    },
+    {
+      "titulo": "Deportes La Serena vence a Palestino en el inicio de la fecha 27",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-la-serena-vence-a-palestino-en-el-inicio-de-la-fecha-27/2026-11-07/123544.html",
+      "fecha_publicacion": "2026-11-07 123544"
     },
     {
       "titulo": "Deportes La Serena y Palestino empatan en el inicio de la fecha 27",
@@ -38,12 +44,6 @@
       "fecha_publicacion": "2026-11-06 21:43"
     },
     {
-      "titulo": "Municipalidad de Macul citó al CSyD Colo Colo por falta de patente comercial: Arriesga clausura",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/municipalidad-de-macul-cito-al-csyd-colo-colo-por-falta-de-patente/2026-11-06/201751.html",
-      "fecha_publicacion": "2026-11-06 201751"
-    },
-    {
       "titulo": "Con aforo completo: Colo Colo solicitó autorización para eventual celebración del título en el Monumental",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/con-aforo-completo-colo-colo-solicito-autorizacion-para-eventual/2026-11-06/192807.html",
@@ -54,12 +54,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/la-uc-tiene-en-carpeta-a-fernando-de-paul-para-reforzar-su-arco/2026-11-06/153412.html",
       "fecha_publicacion": "2026-11-06 153412"
-    },
-    {
-      "titulo": "Ortiz sobre su continuidad: \"La prioridad es de Colo Colo, soy un hombre de palabra\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-sobre-su-continuidad-la-prioridad-es-de-colo-colo-soy-un-hombre/2026-11-06/131345.html",
-      "fecha_publicacion": "2026-11-06 131345"
     }
   ]
 }
