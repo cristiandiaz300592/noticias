@@ -1,17 +1,17 @@
 {
-  "actualizado": "2026-11-07T18:00:28.088298+00:00",
+  "actualizado": "2026-11-07T18:30:27.761259+00:00",
   "noticias": [
+    {
+      "titulo": "La Roja tiene su primera baja para los duelos con Colombia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-tiene-su-primera-baja-para-los-duelos-con-colombia/2026-11-07/145648.html",
+      "fecha_publicacion": "2026-11-07 145648"
+    },
     {
       "titulo": "Colo Colo tuvo multitudinaria despedida antes de su duelo con Ñublense",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-tuvo-multitudinaria-despedida-antes-de-su-duelo-con-nublense/2026-11-07/142514.html",
       "fecha_publicacion": "2026-11-07 142514"
-    },
-    {
-      "titulo": "Insulza y José Ramón Correa sobre Azul Azul: Vamos a seguir juntos en el directorio, nunca hubo dudas",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/insulza-y-jose-ramon-correa-sobre-azul-azul-vamos-a-seguir-juntos-en-el/2026-11-07/132045.html",
-      "fecha_publicacion": "2026-11-07 132045"
     },
     {
       "titulo": "Deportes La Serena y Palestino abren la fecha 27 de la Liga de Primera",
@@ -48,6 +48,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/municipalidad-de-macul-cito-al-csyd-colo-colo-por-falta-de-patente/2026-11-06/201751.html",
       "fecha_publicacion": "2026-11-06 201751"
+    },
+    {
+      "titulo": "Con aforo completo: Colo Colo solicitó autorización para eventual celebración del título en el Monumental",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/con-aforo-completo-colo-colo-solicito-autorizacion-para-eventual/2026-11-06/192807.html",
+      "fecha_publicacion": "2026-11-06 192807"
     },
     {
       "titulo": "Sebastián Arancibia quedó descartado en la UC para lo que resta de la temporada",
