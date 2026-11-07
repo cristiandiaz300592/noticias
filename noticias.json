@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T11:00:27.862504+00:00",
+  "actualizado": "2026-11-07T11:30:23.795004+00:00",
   "noticias": [
     {
       "titulo": "Las claves para ver a Universidad de Chile vs. Cobresal por HBO Max",
@@ -44,6 +44,12 @@
       "fecha_publicacion": "2026-11-06 192807"
     },
     {
+      "titulo": "La Serena y Palestino abren la fecha 27 con la mira puesta en copas internacionales",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-serena-y-palestino-abren-la-fecha-27-con-la-mira-puesta-en-copas/2026-11-06/190235.html",
+      "fecha_publicacion": "2026-11-06 190235"
+    },
+    {
       "titulo": "Sebastián Arancibia quedó descartado en la UC para lo que resta de la temporada",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/sebastian-arancibia-quedo-descartado-en-la-uc-para-lo-que-resta-de-la/2026-11-06/154347.html",
@@ -72,12 +78,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/06/comision-de-arbitros-anfp-borra-a-juez-del-clasico-universitario-diego-flores.shtml",
       "fecha_publicacion": "2026-11-06 13:13"
-    },
-    {
-      "titulo": "Con duelos en simultáneo: Así se transmitirá la fecha 27 de la Liga de Primera por televisión",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-en-simultaneo-asi-se-transmitira-la-fecha-27-de-la-liga-de/2026-11-05/111516.html",
-      "fecha_publicacion": "2026-11-05 111516"
     }
   ]
 }
