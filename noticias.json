@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T18:30:27.761259+00:00",
+  "actualizado": "2026-11-07T18:52:50.151290+00:00",
   "noticias": [
     {
       "titulo": "La Roja tiene su primera baja para los duelos con Colombia",
@@ -14,6 +14,12 @@
       "fecha_publicacion": "2026-11-07 142514"
     },
     {
+      "titulo": "Deportes La Serena y Palestino empatan en el inicio de la fecha 27",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-la-serena-y-palestino-empatan-en-el-inicio-de-la-fecha-27/2026-11-07/123544.html",
+      "fecha_publicacion": "2026-11-07 123544"
+    },
+    {
       "titulo": "Deportes La Serena y Palestino abren la fecha 27 de la Liga de Primera",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-la-serena-y-palestino-abren-la-fecha-27-de-la-liga-de-primera/2026-11-07/123544.html",
@@ -24,12 +30,6 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/07/1216407/puertomontt-primerab-denuncia.html",
       "fecha_publicacion": "2026-11-07 11:54"
-    },
-    {
-      "titulo": "Las claves para ver a Universidad de Chile vs. Cobresal por HBO Max",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/las-claves-para-ver-a-universidad-de-chile-vs-cobresal-por-hbo-max/2026-11-06/224846.html",
-      "fecha_publicacion": "2026-11-06 224846"
     },
     {
       "titulo": "\"Hasta que le hicieron un estadio a la U\" y Chile campeón: Los guiños al fútbol en el inicio de la Teletón",
@@ -54,12 +54,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/con-aforo-completo-colo-colo-solicito-autorizacion-para-eventual/2026-11-06/192807.html",
       "fecha_publicacion": "2026-11-06 192807"
-    },
-    {
-      "titulo": "Sebastián Arancibia quedó descartado en la UC para lo que resta de la temporada",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/sebastian-arancibia-quedo-descartado-en-la-uc-para-lo-que-resta-de-la/2026-11-06/154347.html",
-      "fecha_publicacion": "2026-11-06 154347"
     },
     {
       "titulo": "La UC tiene en carpeta a Fernando De Paul para reforzar su arco",
