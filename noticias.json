@@ -1,17 +1,23 @@
 {
-  "actualizado": "2026-11-08T19:30:25.084702+00:00",
+  "actualizado": "2026-11-08T20:00:26.868767+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEO] Eduardo Vargas desperdició un penal ante Cobresal",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/video-eduardo-vargas-desperdicio-un-penal-ante-cobresal/2026-11-08/163743.html",
+      "fecha_publicacion": "2026-11-08 163743"
+    },
+    {
+      "titulo": "Landerretche y el futuro de Azul Azul: \"Buscamos un acuerdo de respeto y que aleje a los mercachifles\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/landerretche-y-el-futuro-de-azul-azul-buscamos-un-acuerdo-de-respeto-y/2026-11-08/162609.html",
+      "fecha_publicacion": "2026-11-08 162609"
+    },
     {
       "titulo": "Garnero advirtió a Colo Colo: Nuestro objetivo es sacar todos los puntos que quedan",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-advirtio-a-colo-colo-nuestro-objetivo-es-sacar-todos-los-puntos/2026-11-08/155644.html",
       "fecha_publicacion": "2026-11-08 155644"
-    },
-    {
-      "titulo": "[VIDEO] Lucas Molina venció a Vozinha y marcó la igualdad para Ñublense ante Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-lucas-molina-vencio-a-vozinha-y-marco-la-igualdad-para-nublense/2026-11-08/154631.html",
-      "fecha_publicacion": "2026-11-08 154631"
     },
     {
       "titulo": "Pareja de Leandro Hernández: Me enteré por los medios que iba con otra mujer",
@@ -24,6 +30,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-los-partidos-en-desarrollo-asi-esta-la-tabla-de-la-liga-de-primera/2026-11-08/145745.html",
       "fecha_publicacion": "2026-11-08 145745"
+    },
+    {
+      "titulo": "Coquimbo Unido se metió en zona de Sudamericana con triunfo ante Audax",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/coquimbo-unido-se-metio-en-zona-de-sudamericana-con-triunfo-ante-audax/2026-11-08/143927.html",
+      "fecha_publicacion": "2026-11-08 143927"
     },
     {
       "titulo": "La primera reacción desde Colo Colo por choque de Leandro Hernández",
@@ -50,6 +62,12 @@
       "fecha_publicacion": "2026-11-08 111342"
     },
     {
+      "titulo": "Leandro Hernández fue detenido tras protagonizar violento choque en Providencia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-fue-detenido-tras-protagonizar-violento-choque-en/2026-11-08/095344.html",
+      "fecha_publicacion": "2026-11-08 095344"
+    },
+    {
       "titulo": "Timonel de San Marcos de Arica acusa ’maquinaria’ de ANFP para salvar a Rangers: \"Todo fue manipulado\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/timonel-de-san-marcos-de-arica-acusa-maquinaria-de-anfp-para-salvar-a-rangers-todo-fue-manipulado.shtml",
@@ -66,12 +84,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-concepcion-tumbo-a-everton-y-apreto-la-lucha-por-entrar-a-copa/2026-11-07/195116.html",
       "fecha_publicacion": "2026-11-07 195116"
-    },
-    {
-      "titulo": "La Serena venció a Palestino y presionó rumbo a zona de copas",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-serena-vencio-a-palestino-y-presiono-rumbo-a-zona-de-copas/2026-11-07/171034.html",
-      "fecha_publicacion": "2026-11-07 171034"
     },
     {
       "titulo": "La Roja tiene su primera baja para los duelos con Colombia",
