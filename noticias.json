@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T15:00:27.750656+00:00",
+  "actualizado": "2026-11-08T15:30:24.246173+00:00",
   "noticias": [
     {
       "titulo": "[VIDEO] Las imágenes del accidente de Leandro Hernández en Providencia",
@@ -50,6 +50,12 @@
       "fecha_publicacion": "2026-11-07 22:31"
     },
     {
+      "titulo": "Deportes Concepción tumbó a Everton y apretó la lucha por entrar a Copa Sudamericana",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-concepcion-tumbo-a-everton-y-apreto-la-lucha-por-entrar-a-copa/2026-11-07/195116.html",
+      "fecha_publicacion": "2026-11-07 195116"
+    },
+    {
       "titulo": "Concepción no se rinde: superó a Everton en Viña y sigue luchando por volver a copa internacional",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/07/concepcion-no-se-rinde-supero-a-everton-en-vina-y-sigue-luchando-por-volver-a-copa-internacional.shtml",
@@ -92,16 +98,22 @@
       "fecha_publicacion": "2026-11-07 142514"
     },
     {
-      "titulo": "Insulza y José Ramón Correa sobre Azul Azul: Vamos a seguir juntos en el directorio, nunca hubo dudas",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/insulza-y-jose-ramon-correa-sobre-azul-azul-vamos-a-seguir-juntos-en-el/2026-11-07/132045.html",
-      "fecha_publicacion": "2026-11-07 132045"
-    },
-    {
       "titulo": "[ESTADÍSTICAS] La tabla de posiciones de la Liga de Primera en la fecha 27",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-27/2026-11-07/125004.html",
       "fecha_publicacion": "2026-11-07 125004"
+    },
+    {
+      "titulo": "Los resultados de la fecha 27 de la Liga de Primera 2026",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-27-de-la-liga-de-primera-2026/2026-11-07/123544.html",
+      "fecha_publicacion": "2026-11-07 123544"
+    },
+    {
+      "titulo": "[Radio en vivo 🎙️] La UC enfrenta a Deportes Limache en la decisiva fecha 27",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/radio-en-vivo-la-uc-enfrenta-a-deportes-limache-en-la-decisiva/2026-11-07/085016.html",
+      "fecha_publicacion": "2026-11-07 085016"
     },
     {
       "titulo": "Las fórmulas que le dan el título a Colo Colo este domingo, cómo formarían ante Ñublense y quién transmite la jornada",
