@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-08T21:00:29.299962+00:00",
+  "actualizado": "2026-11-08T21:14:48.315739+00:00",
   "noticias": [
+    {
+      "titulo": "El desahogo del ’Tano’: Ortiz logró su primer título como DT y terminó empapado en plena entrevista",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/el-desahogo-del-tano-ortiz-logro-su-primer-titulo-como-dt-y-termino-empapado-en-plena-entrevista.shtml",
+      "fecha_publicacion": "2026-11-08 18:07"
+    },
+    {
+      "titulo": "Mosa y la estrella 35: Es una luz al final del túnel para el pueblo colocolino",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-y-la-estrella-35-es-una-luz-al-final-del-tunel-para-el-pueblo/2026-11-08/180129.html",
+      "fecha_publicacion": "2026-11-08 180129"
+    },
     {
       "titulo": "Fabricio Coloccini : \"Lamentablemente, el primer objetivo se va\"",
       "fuente": "Cooperativa",
@@ -18,6 +30,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-somos-justos-campeones-pudimos-contra-todo/2026-11-08/173401.html",
       "fecha_publicacion": "2026-11-08 173401"
+    },
+    {
+      "titulo": "La emoción de Fernando Ortiz al ser campeón con Colo Colo y la frase sobre su futuro: \"¿Por qué no ilusionarse?\"",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216485/fernando-ortiz-colocolo-campeon.html",
+      "fecha_publicacion": "2026-11-08 17:27"
     },
     {
       "titulo": "Bolados, el héroe de Colo Colo: Hacer el gol al último minuto es lo más hermoso",
@@ -102,24 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-le-metio-presion-a-la-u-y-puso-suspenso-en-la-definicion-del/2026-11-08/141205.html",
       "fecha_publicacion": "2026-11-08 141205"
-    },
-    {
-      "titulo": "No va por TV: U de Chile vs Cobresal por el torneo local ¿A qué hora juegan y dónde verlo en vivo?",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/08/no-va-por-tv-u-de-chile-vs-cobresal-por-el-torneo-local-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
-      "fecha_publicacion": "2026-11-08 11:30"
-    },
-    {
-      "titulo": "Bravo y el inminente título de Colo Colo: \"Ha sido el más regular y el merecedor de coronarse\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/bravo-y-el-inminente-titulo-de-colo-colo-ha-sido-el-mas-regular-y-el/2026-11-08/111342.html",
-      "fecha_publicacion": "2026-11-08 111342"
-    },
-    {
-      "titulo": "Leandro Hernández fue detenido tras protagonizar violento choque en Providencia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-fue-detenido-tras-protagonizar-violento-choque-en/2026-11-08/095344.html",
-      "fecha_publicacion": "2026-11-08 095344"
     }
   ]
 }
