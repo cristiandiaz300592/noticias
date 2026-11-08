@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-08T14:00:30.141178+00:00",
+  "actualizado": "2026-11-08T14:30:27.123905+00:00",
   "noticias": [
+    {
+      "titulo": "Bravo y el inminente título de Colo Colo: \"Ha sido el más regular y el merecedor de coronarse\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/bravo-y-el-inminente-titulo-de-colo-colo-ha-sido-el-mas-regular-y-el/2026-11-08/111342.html",
+      "fecha_publicacion": "2026-11-08 111342"
+    },
     {
       "titulo": "Por qué Leandro Hernández no estaba con el plantel de Colo Colo en Chillán y las imágenes del accidente que protagonizó",
       "fuente": "Emol",
@@ -62,12 +68,6 @@
       "fecha_publicacion": "2026-11-07 174808"
     },
     {
-      "titulo": "La Serena venció a Palestino y presionó rumbo a zona de copas",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-serena-vencio-a-palestino-y-presiono-rumbo-a-zona-de-copas/2026-11-07/171034.html",
-      "fecha_publicacion": "2026-11-07 171034"
-    },
-    {
       "titulo": "La Serena se hizo fuerte en casa, venció a Palestino y se ilusiona con cupo a copa internacional",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/07/la-serena-se-hizo-fuerte-en-casa-vencio-a-palestino-y-se-ilusiona-con-cupo-a-copa-internacional.shtml",
@@ -90,6 +90,18 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/insulza-y-jose-ramon-correa-sobre-azul-azul-vamos-a-seguir-juntos-en-el/2026-11-07/132045.html",
       "fecha_publicacion": "2026-11-07 132045"
+    },
+    {
+      "titulo": "[ESTADÍSTICAS] La tabla de posiciones de la Liga de Primera en la fecha 27",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-27/2026-11-07/125004.html",
+      "fecha_publicacion": "2026-11-07 125004"
+    },
+    {
+      "titulo": "Colo Colo busca coronarse campeón en su visita a Ñublense por la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-busca-coronarse-campeon-en-su-visita-a-nublense-por-la-liga-de/2026-11-07/085016.html",
+      "fecha_publicacion": "2026-11-07 085016"
     },
     {
       "titulo": "Las fórmulas que le dan el título a Colo Colo este domingo, cómo formarían ante Ñublense y quién transmite la jornada",
