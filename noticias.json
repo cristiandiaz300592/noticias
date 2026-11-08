@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-08T14:30:27.123905+00:00",
+  "actualizado": "2026-11-08T15:00:27.750656+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEO] Las imágenes del accidente de Leandro Hernández en Providencia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-las-imagenes-del-accidente-de-leandro-hernandez-en-providencia/2026-11-08/114803.html",
+      "fecha_publicacion": "2026-11-08 114803"
+    },
+    {
+      "titulo": "No va por TV: U de Chile vs Cobresal por el torneo local ¿A qué hora juegan y dónde verlo en vivo?",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/08/no-va-por-tv-u-de-chile-vs-cobresal-por-el-torneo-local-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
+      "fecha_publicacion": "2026-11-08 11:30"
+    },
     {
       "titulo": "Bravo y el inminente título de Colo Colo: \"Ha sido el más regular y el merecedor de coronarse\"",
       "fuente": "Cooperativa",
@@ -38,12 +50,6 @@
       "fecha_publicacion": "2026-11-07 22:31"
     },
     {
-      "titulo": "Deportes Concepción tumbó a Everton y apretó la lucha por entrar a Copa Sudamericana",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-concepcion-tumbo-a-everton-y-apreto-la-lucha-por-entrar-a-copa/2026-11-07/195116.html",
-      "fecha_publicacion": "2026-11-07 195116"
-    },
-    {
       "titulo": "Concepción no se rinde: superó a Everton en Viña y sigue luchando por volver a copa internacional",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/07/concepcion-no-se-rinde-supero-a-everton-en-vina-y-sigue-luchando-por-volver-a-copa-internacional.shtml",
@@ -68,10 +74,10 @@
       "fecha_publicacion": "2026-11-07 174808"
     },
     {
-      "titulo": "La Serena se hizo fuerte en casa, venció a Palestino y se ilusiona con cupo a copa internacional",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/07/la-serena-se-hizo-fuerte-en-casa-vencio-a-palestino-y-se-ilusiona-con-cupo-a-copa-internacional.shtml",
-      "fecha_publicacion": "2026-11-07 17:04"
+      "titulo": "La Serena venció a Palestino y presionó rumbo a zona de copas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-serena-vencio-a-palestino-y-presiono-rumbo-a-zona-de-copas/2026-11-07/171034.html",
+      "fecha_publicacion": "2026-11-07 171034"
     },
     {
       "titulo": "La Roja tiene su primera baja para los duelos con Colombia",
@@ -96,12 +102,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-27/2026-11-07/125004.html",
       "fecha_publicacion": "2026-11-07 125004"
-    },
-    {
-      "titulo": "Colo Colo busca coronarse campeón en su visita a Ñublense por la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-busca-coronarse-campeon-en-su-visita-a-nublense-por-la-liga-de/2026-11-07/085016.html",
-      "fecha_publicacion": "2026-11-07 085016"
     },
     {
       "titulo": "Las fórmulas que le dan el título a Colo Colo este domingo, cómo formarían ante Ñublense y quién transmite la jornada",
