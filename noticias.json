@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-08T23:00:28.622091+00:00",
+  "actualizado": "2026-11-08T23:30:27.184111+00:00",
   "noticias": [
+    {
+      "titulo": "Unión La Calera venció a Huachipato y tomó aire en la lucha por la permanencia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-la-calera/union-la-calera-vencio-a-huachipato-y-tomo-aire-en-la-lucha-por-la/2026-11-08/201001.html",
+      "fecha_publicacion": "2026-11-08 201001"
+    },
+    {
+      "titulo": "Tras ser campeón con Boca: Palacios alentó a Colo Colo en Chillán y celebró con abrazo junto a Correa",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/tras-ser-campeon-con-boca-palacios-alento-a-colo-colo-en-chillan-y-celebro-con-abrazo-junto-a-correa.shtml",
+      "fecha_publicacion": "2026-11-08 20:09"
+    },
+    {
+      "titulo": "[VIDEO] Colo Colo repasó a Vero Bianchi y Mandreva: \"La historia no cambia\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-colo-colo-repaso-a-vero-bianchi-y-mandreva-la-historia-no/2026-11-08/194857.html",
+      "fecha_publicacion": "2026-11-08 194857"
+    },
     {
       "titulo": "Unión La Calera derrotó con lo justo a Huachipato, sale del fondo y sigue soñando con la salvación",
       "fuente": "BioBioChile",
@@ -42,12 +60,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/el-desahogo-del-tano-ortiz-logro-su-primer-titulo-como-dt-y-termino-empapado-en-plena-entrevista.shtml",
       "fecha_publicacion": "2026-11-08 18:07"
-    },
-    {
-      "titulo": "Vozinha tras ganar el título: Vine para eso, culmina lo que he hecho toda mi vida",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-tras-ganar-el-titulo-vine-para-eso-culmina-lo-que-he-hecho/2026-11-08/175952.html",
-      "fecha_publicacion": "2026-11-08 175952"
     },
     {
       "titulo": "Fabricio Coloccini : \"Lamentablemente, el primer objetivo se va\"",
@@ -108,18 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/llego-la-35-del-cacique-colo-colo-se-corono-campeon-con-dramatico/2026-11-08/170751.html",
       "fecha_publicacion": "2026-11-08 170751"
-    },
-    {
-      "titulo": "Colo Colo llega a 35 estrellas: El listado histórico de campeones del fútbol chileno",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216395/listado-campeones-futbol-chileno-historia.html",
-      "fecha_publicacion": "2026-11-08 17:04"
-    },
-    {
-      "titulo": "La U superó a Cobresal, pero no pudo evitar el título de Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-supero-a-cobresal-pero-no-pudo-evitar-el-titulo-de-colo-colo/2026-11-08/165045.html",
-      "fecha_publicacion": "2026-11-08 165045"
     }
   ]
 }
