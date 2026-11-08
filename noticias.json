@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-08T01:30:25.767735+00:00",
+  "actualizado": "2026-11-08T02:00:29.109434+00:00",
   "noticias": [
+    {
+      "titulo": "Colo Colo busca sellar la anhelada estrella 35 en su visita a Ñublense",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/colo-colo-busca-sellar-la-anhelada-estrella-35-en-su-visita-a-nublense/2026-11-07/223253.html",
+      "fecha_publicacion": "2026-11-07 223253"
+    },
+    {
+      "titulo": "Fernández Vial ganó revancha, pero no el ascenso: Mejillones se impuso en penales y subió a Tercera A",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/07/fernandez-vial-gano-revancha-pero-no-el-ascenso-mejillones-se-impuso-en-penales-y-subio-a-tercera-a.shtml",
+      "fecha_publicacion": "2026-11-07 22:31"
+    },
     {
       "titulo": "Las fórmulas que le dan el título a Colo Colo este domingo, cómo formarían ante Ñublense y quién transmite la jornada",
       "fuente": "Emol",
@@ -12,12 +24,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-presento-su-nomina-para-el-duelo-clave-con-nublense/2026-11-07/215044.html",
       "fecha_publicacion": "2026-11-07 215044"
-    },
-    {
-      "titulo": "[VIDEO] Colo Colo tuvo masivo apoyo al costado de la carretera rumbo a Chillán",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-colo-colo-tuvo-masivo-apoyo-al-costado-de-la-carretera-rumbo-a/2026-11-07/210333.html",
-      "fecha_publicacion": "2026-11-07 210333"
     },
     {
       "titulo": "Concepción no se rinde: superó a Everton en Viña y sigue luchando por volver a copa internacional",
@@ -54,6 +60,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/insulza-y-jose-ramon-correa-sobre-azul-azul-vamos-a-seguir-juntos-en-el/2026-11-07/132045.html",
       "fecha_publicacion": "2026-11-07 132045"
+    },
+    {
+      "titulo": "Los resultados de la fecha 27 de la Liga de Primera 2026",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-27-de-la-liga-de-primera-2026/2026-11-07/123544.html",
+      "fecha_publicacion": "2026-11-07 123544"
     }
   ]
 }
