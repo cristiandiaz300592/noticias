@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-08T22:30:24.062643+00:00",
+  "actualizado": "2026-11-08T23:00:28.622091+00:00",
   "noticias": [
+    {
+      "titulo": "Unión La Calera derrotó con lo justo a Huachipato, sale del fondo y sigue soñando con la salvación",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/union-la-calera-derroto-con-lo-justo-a-huachipato-sale-del-fondo-y-sigue-sonando-con-la-salvacion.shtml",
+      "fecha_publicacion": "2026-11-08 19:33"
+    },
     {
       "titulo": "Arturo Vidal pone en duda su continuidad en Colo Colo luego de obtener el título y Vozinha cuenta cómo vivió ser suplente en los albos",
       "fuente": "Emol",
@@ -18,6 +24,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/tapadon-clave-titulo-albo-y-dedicatoria-a-cabo-verde-la-tarde-inolvidable-de-vozinha-en-chillan.shtml",
       "fecha_publicacion": "2026-11-08 18:35"
+    },
+    {
+      "titulo": "Partido a partido: Los resultados que llevaron a Colo Colo a obtener su nueva estrella",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216394/colocolo-campeon-campana-partidos-resultados.html",
+      "fecha_publicacion": "2026-11-08 18:33"
     },
     {
       "titulo": "Tras campeonar con Boca: Carlos Palacios festejó la estrella 35 de Colo Colo en Chillán",
@@ -86,12 +98,6 @@
       "fecha_publicacion": "2026-11-08 17:19"
     },
     {
-      "titulo": "La U venció a Cobresal y no afloja en la pelea por el Chile 2 con la Universidad Católica",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216481/udechile-cobresal-torneo-nacional.html",
-      "fecha_publicacion": "2026-11-08 17:12"
-    },
-    {
       "titulo": "Leandro Hernández quedó con retención de licencia y arriesga cinco años sin manejar",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-quedo-con-retencion-de-licencia-y-arriesga-cinco-anos/2026-11-08/170828.html",
@@ -114,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-supero-a-cobresal-pero-no-pudo-evitar-el-titulo-de-colo-colo/2026-11-08/165045.html",
       "fecha_publicacion": "2026-11-08 165045"
-    },
-    {
-      "titulo": "Landerretche y el futuro de Azul Azul: \"Buscamos un acuerdo de respeto y que aleje a los mercachifles\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/landerretche-y-el-futuro-de-azul-azul-buscamos-un-acuerdo-de-respeto-y/2026-11-08/162609.html",
-      "fecha_publicacion": "2026-11-08 162609"
     }
   ]
 }
