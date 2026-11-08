@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-08T16:00:29.457209+00:00",
+  "actualizado": "2026-11-08T16:30:26.296995+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEO] Fernando Zampedri marcó de penal y puso en ventaja a la UC ante Limache",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-fernando-zampedri-marco-de-penal-y-puso-en-ventaja-a-la-uc-ante/2026-11-08/125619.html",
+      "fecha_publicacion": "2026-11-08 125619"
+    },
     {
       "titulo": "[VIDEO] Las imágenes del accidente de Leandro Hernández en Providencia",
       "fuente": "Cooperativa",
@@ -110,16 +116,10 @@
       "fecha_publicacion": "2026-11-07 123544"
     },
     {
-      "titulo": "[Radio en vivo 🎙️] La UC enfrenta a Deportes Limache en la decisiva fecha 27",
+      "titulo": "[Radio en vivo 🎙️] La UC vence a Deportes Limache en la decisiva fecha 27",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/radio-en-vivo-la-uc-enfrenta-a-deportes-limache-en-la-decisiva/2026-11-07/085016.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/radio-en-vivo-la-uc-vence-a-deportes-limache-en-la-decisiva-fecha/2026-11-07/085016.html",
       "fecha_publicacion": "2026-11-07 085016"
-    },
-    {
-      "titulo": "Las fórmulas que le dan el título a Colo Colo este domingo, cómo formarían ante Ñublense y quién transmite la jornada",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/07/1216444/colocolo-nublense-campeon-futbol-chileno.html",
-      "fecha_publicacion": "2026-11-07 08:25"
     }
   ]
 }
