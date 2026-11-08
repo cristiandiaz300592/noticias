@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-08T18:00:32.350494+00:00",
+  "actualizado": "2026-11-08T18:30:27.549147+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEO] Arturo Vidal anotó el 0-1 para Colo Colo y terminó lesionado",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-arturo-vidal-anoto-el-0-1-para-colo-colo-y-termino-lesionado/2026-11-08/152410.html",
+      "fecha_publicacion": "2026-11-08 152410"
+    },
+    {
+      "titulo": "Con los partidos en desarrollo: Así está la tabla de la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-los-partidos-en-desarrollo-asi-esta-la-tabla-de-la-liga-de-primera/2026-11-08/145745.html",
+      "fecha_publicacion": "2026-11-08 145745"
+    },
     {
       "titulo": "Coquimbo Unido se metió en zona de Sudamericana con triunfo ante Audax",
       "fuente": "Cooperativa",
@@ -12,18 +24,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-le-metio-presion-a-la-u-y-puso-suspenso-en-la-definicion-del/2026-11-08/141205.html",
       "fecha_publicacion": "2026-11-08 141205"
-    },
-    {
-      "titulo": "[VIDEO] Fernando Zampedri aprovechó su olfato y aumentó para la UC ante Limache",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/video-fernando-zampedri-aprovecho-su-olfato-y-aumento-para-la-uc-ante/2026-11-08/134840.html",
-      "fecha_publicacion": "2026-11-08 134840"
-    },
-    {
-      "titulo": "[VIDEO] Tomás Asta-Buruaga ganó de aire y aumentó para la UC ante Limache",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/video-tomas-asta-buruaga-gano-de-aire-y-aumento-para-la-uc-ante/2026-11-08/132820.html",
-      "fecha_publicacion": "2026-11-08 132820"
     },
     {
       "titulo": "No va por TV: U de Chile vs Cobresal por el torneo local ¿A qué hora juegan y dónde verlo en vivo?",
@@ -98,15 +98,15 @@
       "fecha_publicacion": "2026-11-07 125004"
     },
     {
-      "titulo": "[En vivo] La U recibe a Cobresal en El Teniente por la fecha 27 de la Liga de Primera",
+      "titulo": "[En vivo] La U vence a Cobresal en El Teniente por la fecha 27 de la Liga de Primera",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/en-vivo-la-u-recibe-a-cobresal-en-el-teniente-por-la-fecha-27-de-la/2026-11-07/123544.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/en-vivo-la-u-vence-a-cobresal-en-el-teniente-por-la-fecha-27-de-la/2026-11-07/123544.html",
       "fecha_publicacion": "2026-11-07 123544"
     },
     {
-      "titulo": "[Radio en vivo 🎙️] Colo Colo busca su estrella 35 ante Ñublense",
+      "titulo": "[Radio en vivo 🎙️] Colo Colo vence a Ñublense en busca de su estrella 35",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/radio-en-vivo-colo-colo-busca-su-estrella-35-ante-nublense/2026-11-07/085016.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/radio-en-vivo-colo-colo-vence-a-nublense-en-busca-de-su-estrella/2026-11-07/085016.html",
       "fecha_publicacion": "2026-11-07 085016"
     }
   ]
