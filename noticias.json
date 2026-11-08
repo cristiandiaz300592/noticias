@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-08T17:30:28.052510+00:00",
+  "actualizado": "2026-11-08T18:00:32.350494+00:00",
   "noticias": [
+    {
+      "titulo": "Coquimbo Unido se metió en zona de Sudamericana con triunfo ante Audax",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/coquimbo-unido-se-metio-en-zona-de-sudamericana-con-triunfo-ante-audax/2026-11-08/143927.html",
+      "fecha_publicacion": "2026-11-08 143927"
+    },
     {
       "titulo": "La UC le metió presión a la U y puso suspenso en la definición del título",
       "fuente": "Cooperativa",
@@ -44,12 +50,6 @@
       "fecha_publicacion": "2026-11-08 09:12"
     },
     {
-      "titulo": "Colo Colo busca sellar la anhelada estrella 35 en su visita a Ñublense",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/colo-colo-busca-sellar-la-anhelada-estrella-35-en-su-visita-a-nublense/2026-11-07/223253.html",
-      "fecha_publicacion": "2026-11-07 223253"
-    },
-    {
       "titulo": "Fernández Vial ganó revancha, pero no el ascenso: Mejillones se impuso en penales y subió a Tercera A",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/07/fernandez-vial-gano-revancha-pero-no-el-ascenso-mejillones-se-impuso-en-penales-y-subio-a-tercera-a.shtml",
@@ -66,12 +66,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-cumplira-sueno-de-maxi-nino-que-emociono-en-la-teleton/2026-11-07/180211.html",
       "fecha_publicacion": "2026-11-07 180211"
-    },
-    {
-      "titulo": "La U se juega su última opción en la Liga de Primera ante Cobresal",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-se-juega-su-ultima-opcion-en-la-liga-de-primera-ante-cobresal/2026-11-07/174808.html",
-      "fecha_publicacion": "2026-11-07 174808"
     },
     {
       "titulo": "La Serena venció a Palestino y presionó rumbo a zona de copas",
@@ -104,15 +98,15 @@
       "fecha_publicacion": "2026-11-07 125004"
     },
     {
-      "titulo": "[En vivo] Coquimbo Unido vence a Audax en La Florida",
+      "titulo": "[En vivo] La U recibe a Cobresal en El Teniente por la fecha 27 de la Liga de Primera",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/en-vivo-coquimbo-unido-vence-a-audax-en-la-florida/2026-11-07/123544.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/en-vivo-la-u-recibe-a-cobresal-en-el-teniente-por-la-fecha-27-de-la/2026-11-07/123544.html",
       "fecha_publicacion": "2026-11-07 123544"
     },
     {
-      "titulo": "[Radio en vivo 🎙️] La UC venció a Deportes Limache en la decisiva fecha 27",
+      "titulo": "[Radio en vivo 🎙️] Colo Colo busca su estrella 35 ante Ñublense",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/radio-en-vivo-la-uc-vencio-a-deportes-limache-en-la-decisiva-fecha/2026-11-07/085016.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/radio-en-vivo-colo-colo-busca-su-estrella-35-ante-nublense/2026-11-07/085016.html",
       "fecha_publicacion": "2026-11-07 085016"
     }
   ]
