@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T17:00:27.285534+00:00",
+  "actualizado": "2026-11-08T17:08:04.734715+00:00",
   "noticias": [
     {
       "titulo": "[VIDEO] Fernando Zampedri aprovechó su olfato y aumentó para la UC ante Limache",
@@ -18,12 +18,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-fernando-zampedri-marco-de-penal-y-puso-en-ventaja-a-la-uc-ante/2026-11-08/125619.html",
       "fecha_publicacion": "2026-11-08 125619"
-    },
-    {
-      "titulo": "[VIDEO] Las imágenes del accidente de Leandro Hernández en Providencia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-las-imagenes-del-accidente-de-leandro-hernandez-en-providencia/2026-11-08/114803.html",
-      "fecha_publicacion": "2026-11-08 114803"
     },
     {
       "titulo": "No va por TV: U de Chile vs Cobresal por el torneo local ¿A qué hora juegan y dónde verlo en vivo?",
@@ -74,18 +68,6 @@
       "fecha_publicacion": "2026-11-07 195116"
     },
     {
-      "titulo": "Concepción no se rinde: superó a Everton en Viña y sigue luchando por volver a copa internacional",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/07/concepcion-no-se-rinde-supero-a-everton-en-vina-y-sigue-luchando-por-volver-a-copa-internacional.shtml",
-      "fecha_publicacion": "2026-11-07 19:32"
-    },
-    {
-      "titulo": "La UC y Limache chocan en un duelo importante por las copas internacionales",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-uc-y-limache-chocan-en-un-duelo-importante-por-las-copas-internacionales/2026-11-07/180856.html",
-      "fecha_publicacion": "2026-11-07 180856"
-    },
-    {
       "titulo": "Colo Colo cumplirá sueño de Maxi, niño que emocionó en la Teletón",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-cumplira-sueno-de-maxi-nino-que-emociono-en-la-teleton/2026-11-07/180211.html",
@@ -116,10 +98,22 @@
       "fecha_publicacion": "2026-11-07 142514"
     },
     {
-      "titulo": "[ESTADÍSTICAS] La tabla de posiciones de la Liga de Primera en la fecha 27",
+      "titulo": "Insulza y José Ramón Correa sobre Azul Azul: Vamos a seguir juntos en el directorio, nunca hubo dudas",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-27/2026-11-07/125004.html",
-      "fecha_publicacion": "2026-11-07 125004"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/insulza-y-jose-ramon-correa-sobre-azul-azul-vamos-a-seguir-juntos-en-el/2026-11-07/132045.html",
+      "fecha_publicacion": "2026-11-07 132045"
+    },
+    {
+      "titulo": "[En vivo] Coquimbo Unido vence a Audax en La Florida",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/en-vivo-coquimbo-unido-vence-a-audax-en-la-florida/2026-11-07/123544.html",
+      "fecha_publicacion": "2026-11-07 123544"
+    },
+    {
+      "titulo": "[Radio en vivo 🎙️] La UC vence a Deportes Limache en la decisiva fecha 27",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/radio-en-vivo-la-uc-vence-a-deportes-limache-en-la-decisiva-fecha/2026-11-07/085016.html",
+      "fecha_publicacion": "2026-11-07 085016"
     }
   ]
 }
