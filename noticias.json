@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-08T00:30:26.611230+00:00",
+  "actualizado": "2026-11-08T01:00:28.158686+00:00",
   "noticias": [
+    {
+      "titulo": "Colo Colo presentó su nómina para el duelo clave con Ñublense",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-presento-su-nomina-para-el-duelo-clave-con-nublense/2026-11-07/215044.html",
+      "fecha_publicacion": "2026-11-07 215044"
+    },
     {
       "titulo": "[VIDEO] Colo Colo tuvo masivo apoyo al costado de la carretera rumbo a Chillán",
       "fuente": "Cooperativa",
@@ -44,22 +50,10 @@
       "fecha_publicacion": "2026-11-07 145648"
     },
     {
-      "titulo": "Colo Colo tuvo multitudinaria despedida antes de su duelo con Ñublense",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-tuvo-multitudinaria-despedida-antes-de-su-duelo-con-nublense/2026-11-07/142514.html",
-      "fecha_publicacion": "2026-11-07 142514"
-    },
-    {
       "titulo": "Insulza y José Ramón Correa sobre Azul Azul: Vamos a seguir juntos en el directorio, nunca hubo dudas",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/insulza-y-jose-ramon-correa-sobre-azul-azul-vamos-a-seguir-juntos-en-el/2026-11-07/132045.html",
       "fecha_publicacion": "2026-11-07 132045"
-    },
-    {
-      "titulo": "En busca del título: La previa de la crucial visita de Colo Colo a Ñublense",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/en-busca-del-titulo-la-previa-de-la-crucial-visita-de-colo-colo-a/2026-11-07/085016.html",
-      "fecha_publicacion": "2026-11-07 085016"
     }
   ]
 }
