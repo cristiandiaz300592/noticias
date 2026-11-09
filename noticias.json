@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T15:30:27.394824+00:00",
+  "actualizado": "2026-11-09T16:00:30.459092+00:00",
   "noticias": [
     {
       "titulo": "La durísima autocrítica de Charles Aránguiz luego de que la U perdiera el título en la batalla con Colo Colo",
@@ -56,6 +56,12 @@
       "fecha_publicacion": "2026-11-09 080251"
     },
     {
+      "titulo": "Resumen: Colo Colo bajó su estrella de campeón número 35",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-bajo-su-estrella-de-campeon-numero-35/2026-11-08/225717.html",
+      "fecha_publicacion": "2026-11-08 225717"
+    },
+    {
       "titulo": "La Calera sigue con vida y Cobresal depende de sí mismo: Así está la lucha por la permanencia",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-calera-sigue-con-vida-y-cobresal-depende-de-si-mismo-asi-esta-la/2026-11-08/224109.html",
@@ -110,16 +116,10 @@
       "fecha_publicacion": "2026-11-08 18:07"
     },
     {
-      "titulo": "Vozinha tras ganar el título: Vine para eso, culmina lo que he hecho toda mi vida",
+      "titulo": "Vidal: Somos justos campeones, pudimos contra todo",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-tras-ganar-el-titulo-vine-para-eso-culmina-lo-que-he-hecho/2026-11-08/175952.html",
-      "fecha_publicacion": "2026-11-08 175952"
-    },
-    {
-      "titulo": "VIDEO I Bolados héroe y desató la fiesta alba: así fue el gol agónico que le dio a Colo Colo la ’35’",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/video-i-bolados-heroe-y-desato-la-fiesta-alba-asi-fue-el-gol-agonico-que-le-dio-a-colo-colo-la-35.shtml",
-      "fecha_publicacion": "2026-11-08 17:39"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-somos-justos-campeones-pudimos-contra-todo/2026-11-08/173401.html",
+      "fecha_publicacion": "2026-11-08 173401"
     }
   ]
 }
