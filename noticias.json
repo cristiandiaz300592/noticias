@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-09T11:30:24.295185+00:00",
+  "actualizado": "2026-11-09T12:00:32.169168+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEO] Hinchas de Colo Colo se enfrentaron con Carabineros en Viña tras obtención del título",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-hinchas-de-colo-colo-se-enfrentaron-con-carabineros-en-vina-tras/2026-11-09/083629.html",
+      "fecha_publicacion": "2026-11-09 083629"
+    },
     {
       "titulo": "\"Una medalla más\": Arturo Vidal mostró cómo le quedó el tobillo tras anotar en Chillán",
       "fuente": "Cooperativa",
@@ -114,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fabricio-coloccini-lamentablemente-el-primer-objetivo-se-va/2026-11-08/175418.html",
       "fecha_publicacion": "2026-11-08 175418"
-    },
-    {
-      "titulo": "VIDEO I Bolados héroe y desató la fiesta alba: así fue el gol agónico que le dio a Colo Colo la ’35’",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/video-i-bolados-heroe-y-desato-la-fiesta-alba-asi-fue-el-gol-agonico-que-le-dio-a-colo-colo-la-35.shtml",
-      "fecha_publicacion": "2026-11-08 17:39"
     }
   ]
 }
