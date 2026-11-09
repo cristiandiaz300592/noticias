@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-09T16:00:30.459092+00:00",
+  "actualizado": "2026-11-09T16:30:27.065739+00:00",
   "noticias": [
+    {
+      "titulo": "\"Mi cable a tierra\": La romántica dedicatoria de Fernando Ortiz a su esposa tras título con Colo...",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mi-cable-a-tierra-la-romantica-dedicatoria-de-fernando-ortiz-a-su/2026-11-09/130421.html",
+      "fecha_publicacion": "2026-11-09 130421"
+    },
     {
       "titulo": "La durísima autocrítica de Charles Aránguiz luego de que la U perdiera el título en la batalla con Colo Colo",
       "fuente": "Emol",
@@ -44,12 +50,6 @@
       "fecha_publicacion": "2026-11-09 085721"
     },
     {
-      "titulo": "\"Una medalla más\": Arturo Vidal mostró cómo le quedó el tobillo tras anotar en Chillán",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/una-medalla-mas-arturo-vidal-mostro-como-le-quedo-el-tobillo-tras/2026-11-09/082308.html",
-      "fecha_publicacion": "2026-11-09 082308"
-    },
-    {
       "titulo": "Corto y preciso: El escueto mensaje con el que la UC felicitó a Colo Colo por el título",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/corto-y-preciso-el-escueto-mensaje-con-el-que-la-uc-felicito-a-colo/2026-11-09/080251.html",
@@ -62,12 +62,6 @@
       "fecha_publicacion": "2026-11-08 225717"
     },
     {
-      "titulo": "La Calera sigue con vida y Cobresal depende de sí mismo: Así está la lucha por la permanencia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-calera-sigue-con-vida-y-cobresal-depende-de-si-mismo-asi-esta-la/2026-11-08/224109.html",
-      "fecha_publicacion": "2026-11-08 224109"
-    },
-    {
       "titulo": "Tres fechas para definir el \"Chile 2\": Los partidos y las cuentas de la U y la UC",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/tres-fechas-para-definir-el-chile-2-los-partidos-y-las-cuentas-de-la/2026-11-08/224100.html",
@@ -78,12 +72,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/u-de-concepcion-vencio-en-la-agonia-a-ohiggins-deja-el-fondo-y-se-ilusiona-con-seguir-en-primera.shtml",
       "fecha_publicacion": "2026-11-08 22:03"
-    },
-    {
-      "titulo": "Correa se desahogó: \"Me tendrían que haber suspendido 20 fechas\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/correa-se-desahogo-me-tendrian-que-haber-suspendido-20-fechas/2026-11-08/214434.html",
-      "fecha_publicacion": "2026-11-08 214434"
     },
     {
       "titulo": "\"Si Colo Colo fuera de la gente, jugaría gratis\": Vidal responde fuerte a críticos y a ByN tras título",
@@ -110,6 +98,12 @@
       "fecha_publicacion": "2026-11-08 18:35"
     },
     {
+      "titulo": "Ortiz y el accidente de Leandro Hernández: Debe ser consciente, ya no es un joven de fuerzas básicas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-el-accidente-de-leandro-hernandez-debe-ser-consciente-ya-no-es/2026-11-08/181925.html",
+      "fecha_publicacion": "2026-11-08 181925"
+    },
+    {
       "titulo": "El desahogo del ’Tano’: Ortiz logró su primer título como DT y terminó empapado en plena entrevista",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/el-desahogo-del-tano-ortiz-logro-su-primer-titulo-como-dt-y-termino-empapado-en-plena-entrevista.shtml",
@@ -120,6 +114,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-somos-justos-campeones-pudimos-contra-todo/2026-11-08/173401.html",
       "fecha_publicacion": "2026-11-08 173401"
+    },
+    {
+      "titulo": "Leandro Hernández quedó con retención de licencia y arriesga cinco años sin manejar",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-quedo-con-retencion-de-licencia-y-arriesga-cinco-anos/2026-11-08/170828.html",
+      "fecha_publicacion": "2026-11-08 170828"
     }
   ]
 }
