@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-09T12:00:32.169168+00:00",
+  "actualizado": "2026-11-09T12:30:31.560747+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEO] Desatado: Captaron a Aníbal Mosa celebrando en la carretera el título de Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-desatado-captaron-a-anibal-mosa-celebrando-en-la-carretera-el/2026-11-09/092523.html",
+      "fecha_publicacion": "2026-11-09 092523"
+    },
+    {
+      "titulo": "Hinchas recibieron de madrugada al plantel de Colo Colo en el Monumental",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/hinchas-recibieron-de-madrugada-al-plantel-de-colo-colo-en-el-monumental/2026-11-09/085721.html",
+      "fecha_publicacion": "2026-11-09 085721"
+    },
     {
       "titulo": "[VIDEO] Hinchas de Colo Colo se enfrentaron con Carabineros en Viña tras obtención del título",
       "fuente": "Cooperativa",
@@ -24,18 +36,6 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/09/1216505/rankingatp-tabilogarinbarrios-alcaraz.html",
       "fecha_publicacion": "2026-11-09 07:05"
-    },
-    {
-      "titulo": "Resumen: Colo Colo bajó su estrella de campeón número 35",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-bajo-su-estrella-de-campeon-numero-35/2026-11-08/225717.html",
-      "fecha_publicacion": "2026-11-08 225717"
-    },
-    {
-      "titulo": "La Calera sigue con vida y Cobresal depende de sí mismo: Así está la lucha por la permanencia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-calera-sigue-con-vida-y-cobresal-depende-de-si-mismo-asi-esta-la/2026-11-08/224109.html",
-      "fecha_publicacion": "2026-11-08 224109"
     },
     {
       "titulo": "Tres fechas para definir el \"Chile 2\": Los partidos y las cuentas de la U y la UC",
@@ -98,6 +98,12 @@
       "fecha_publicacion": "2026-11-08 18:35"
     },
     {
+      "titulo": "Tras campeonar con Boca: Carlos Palacios festejó la estrella 35 de Colo Colo en Chillán",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/tras-campeonar-con-boca-carlos-palacios-festejo-la-estrella-35-de-colo/2026-11-08/181359.html",
+      "fecha_publicacion": "2026-11-08 181359"
+    },
+    {
       "titulo": "Lichnovsky: No nos interesa lo que pase con el que está arriba ni con el de abajo",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lichnovsky-no-nos-interesa-lo-que-pase-con-el-que-esta-arriba-ni-con-el/2026-11-08/180818.html",
@@ -114,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-tras-ganar-el-titulo-vine-para-eso-culmina-lo-que-he-hecho/2026-11-08/175952.html",
       "fecha_publicacion": "2026-11-08 175952"
-    },
-    {
-      "titulo": "Fabricio Coloccini : \"Lamentablemente, el primer objetivo se va\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fabricio-coloccini-lamentablemente-el-primer-objetivo-se-va/2026-11-08/175418.html",
-      "fecha_publicacion": "2026-11-08 175418"
     }
   ]
 }
