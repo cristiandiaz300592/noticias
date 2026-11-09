@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-09T01:30:24.045056+00:00",
+  "actualizado": "2026-11-09T02:00:27.510428+00:00",
   "noticias": [
+    {
+      "titulo": "La Calera sigue con vida y Cobresal depende de sí mismo: Así está la lucha por la permanencia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-calera-sigue-con-vida-y-cobresal-depende-de-si-mismo-asi-esta-la/2026-11-08/224109.html",
+      "fecha_publicacion": "2026-11-08 224109"
+    },
+    {
+      "titulo": "[VIDEO] \"Campeón hay uno solo\": Vozinha se lució con cántico de Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-campeon-hay-uno-solo-vozinha-se-lucio-con-cantico-de-colo/2026-11-08/223112.html",
+      "fecha_publicacion": "2026-11-08 223112"
+    },
+    {
+      "titulo": "Con hinchas en la ruta, Vozinha cantando, Mosa a lo Leo Rey y un desafiante mensaje de Correa: Los festejos de Colo Colo",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216498/colocolo-campeon-festejos.html",
+      "fecha_publicacion": "2026-11-08 22:30"
+    },
+    {
+      "titulo": "U. de Concepción venció a O'Higgins en el final y se aferró al sueño de la permanencia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/u-de-concepcion-vencio-a-o-higgins-en-el-final-y-se-aferro-al-sueno-de/2026-11-08/221252.html",
+      "fecha_publicacion": "2026-11-08 221252"
+    },
     {
       "titulo": "Los grandes aciertos de Fernando Ortiz que llevaron a Colo Colo al título del fútbol chileno",
       "fuente": "Emol",
@@ -12,12 +36,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/u-de-concepcion-vencio-en-la-agonia-a-ohiggins-deja-el-fondo-y-se-ilusiona-con-seguir-en-primera.shtml",
       "fecha_publicacion": "2026-11-08 22:03"
-    },
-    {
-      "titulo": "El campeón estrena el título: La programación de la fecha 28 de la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/el-campeon-estrena-el-titulo-la-programacion-de-la-fecha-28-de-la-liga/2026-11-08/214949.html",
-      "fecha_publicacion": "2026-11-08 214949"
     },
     {
       "titulo": "Correa se desahogó: \"Me tendrían que haber suspendido 20 fechas\"",
@@ -102,24 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/tras-campeonar-con-boca-carlos-palacios-festejo-la-estrella-35-de-colo/2026-11-08/181359.html",
       "fecha_publicacion": "2026-11-08 181359"
-    },
-    {
-      "titulo": "Lichnovsky: No nos interesa lo que pase con el que está arriba ni con el de abajo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lichnovsky-no-nos-interesa-lo-que-pase-con-el-que-esta-arriba-ni-con-el/2026-11-08/180818.html",
-      "fecha_publicacion": "2026-11-08 180818"
-    },
-    {
-      "titulo": "El desahogo del ’Tano’: Ortiz logró su primer título como DT y terminó empapado en plena entrevista",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/el-desahogo-del-tano-ortiz-logro-su-primer-titulo-como-dt-y-termino-empapado-en-plena-entrevista.shtml",
-      "fecha_publicacion": "2026-11-08 18:07"
-    },
-    {
-      "titulo": "Vozinha tras ganar el título: Vine para eso, culmina lo que he hecho toda mi vida",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-tras-ganar-el-titulo-vine-para-eso-culmina-lo-que-he-hecho/2026-11-08/175952.html",
-      "fecha_publicacion": "2026-11-08 175952"
     }
   ]
 }
