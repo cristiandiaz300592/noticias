@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-11-09T02:00:27.510428+00:00",
+  "actualizado": "2026-11-09T02:30:26.268517+00:00",
   "noticias": [
+    {
+      "titulo": "Resumen: Colo Colo bajó su estrella de campeón número 35",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-bajo-su-estrella-de-campeon-numero-35/2026-11-08/225717.html",
+      "fecha_publicacion": "2026-11-08 225717"
+    },
     {
       "titulo": "La Calera sigue con vida y Cobresal depende de sí mismo: Así está la lucha por la permanencia",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-calera-sigue-con-vida-y-cobresal-depende-de-si-mismo-asi-esta-la/2026-11-08/224109.html",
       "fecha_publicacion": "2026-11-08 224109"
+    },
+    {
+      "titulo": "Tres fechas para definir el \"Chile 2\": Los partidos y las cuentas de la U y la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/tres-fechas-para-definir-el-chile-2-los-partidos-y-las-cuentas-de-la/2026-11-08/224100.html",
+      "fecha_publicacion": "2026-11-08 224100"
     },
     {
       "titulo": "[VIDEO] \"Campeón hay uno solo\": Vozinha se lució con cántico de Colo Colo",
@@ -44,22 +56,10 @@
       "fecha_publicacion": "2026-11-08 214434"
     },
     {
-      "titulo": "[VIDEO] Con mensaje a Alexítico incluido: El bailecito de Mosa tras el título de Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-con-mensaje-a-alexitico-incluido-el-bailecito-de-mosa-tras-el/2026-11-08/212725.html",
-      "fecha_publicacion": "2026-11-08 212725"
-    },
-    {
       "titulo": "\"Si Colo Colo fuera de la gente, jugaría gratis\": Vidal responde fuerte a críticos y a ByN tras título",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/si-colo-colo-fuera-de-la-gente-jugaria-gratis-vidal-responde-fuerte-a-criticos-y-a-byn-tras-titulo.shtml",
       "fecha_publicacion": "2026-11-08 21:02"
-    },
-    {
-      "titulo": "Jonathan Villagra: Esto recién empieza, el campeonato nos motiva para un 2027 mucho mejor",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/jonathan-villagra-esto-recien-empieza-el-campeonato-nos-motiva-para-un/2026-11-08/210133.html",
-      "fecha_publicacion": "2026-11-08 210133"
     },
     {
       "titulo": "La reacción en Colo Colo tras accidente de Leandro Hernández y la molestia de Fernando Ortiz",
@@ -98,12 +98,6 @@
       "fecha_publicacion": "2026-11-08 19:00"
     },
     {
-      "titulo": "Colo Colo celebra el título este lunes: Las claves para obtener entradas",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-celebra-el-titulo-este-lunes-las-claves-para-obtener-entradas/2026-11-08/183818.html",
-      "fecha_publicacion": "2026-11-08 183818"
-    },
-    {
       "titulo": "Tapadón clave, título albo y dedicatoria a Cabo Verde: la tarde inolvidable de Vozinha en Chillán",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/tapadon-clave-titulo-albo-y-dedicatoria-a-cabo-verde-la-tarde-inolvidable-de-vozinha-en-chillan.shtml",
@@ -120,6 +114,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/tras-campeonar-con-boca-carlos-palacios-festejo-la-estrella-35-de-colo/2026-11-08/181359.html",
       "fecha_publicacion": "2026-11-08 181359"
+    },
+    {
+      "titulo": "Lichnovsky: No nos interesa lo que pase con el que está arriba ni con el de abajo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lichnovsky-no-nos-interesa-lo-que-pase-con-el-que-esta-arriba-ni-con-el/2026-11-08/180818.html",
+      "fecha_publicacion": "2026-11-08 180818"
     }
   ]
 }
