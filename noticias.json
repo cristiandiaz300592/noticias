@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T09:30:29.765606+00:00",
+  "actualizado": "2026-11-09T10:00:33.735198+00:00",
   "noticias": [
     {
       "titulo": "Resumen: Colo Colo bajó su estrella de campeón número 35",
@@ -86,12 +86,6 @@
       "fecha_publicacion": "2026-11-08 19:33"
     },
     {
-      "titulo": "Arturo Vidal pone en duda su continuidad en Colo Colo luego de obtener el título y Vozinha cuenta cómo vivió ser suplente en los albos",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216489/colocolo-campeon-arturo-vidal.html",
-      "fecha_publicacion": "2026-11-08 19:00"
-    },
-    {
       "titulo": "Tapadón clave, título albo y dedicatoria a Cabo Verde: la tarde inolvidable de Vozinha en Chillán",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/tapadon-clave-titulo-albo-y-dedicatoria-a-cabo-verde-la-tarde-inolvidable-de-vozinha-en-chillan.shtml",
@@ -120,6 +114,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/el-desahogo-del-tano-ortiz-logro-su-primer-titulo-como-dt-y-termino-empapado-en-plena-entrevista.shtml",
       "fecha_publicacion": "2026-11-08 18:07"
+    },
+    {
+      "titulo": "Vozinha tras ganar el título: Vine para eso, culmina lo que he hecho toda mi vida",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-tras-ganar-el-titulo-vine-para-eso-culmina-lo-que-he-hecho/2026-11-08/175952.html",
+      "fecha_publicacion": "2026-11-08 175952"
     }
   ]
 }
