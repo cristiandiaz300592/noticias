@@ -1,11 +1,29 @@
 {
-  "actualizado": "2026-11-09T01:01:21.991557+00:00",
+  "actualizado": "2026-11-09T01:30:24.045056+00:00",
   "noticias": [
+    {
+      "titulo": "Los grandes aciertos de Fernando Ortiz que llevaron a Colo Colo al título del fútbol chileno",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216490/fernando-ortiz-campeon-colocolo.html",
+      "fecha_publicacion": "2026-11-08 22:05"
+    },
+    {
+      "titulo": "U. de Concepción venció en la agonía a O’Higgins, deja el fondo y se ilusiona con seguir en Primera",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/u-de-concepcion-vencio-en-la-agonia-a-ohiggins-deja-el-fondo-y-se-ilusiona-con-seguir-en-primera.shtml",
+      "fecha_publicacion": "2026-11-08 22:03"
+    },
     {
       "titulo": "El campeón estrena el título: La programación de la fecha 28 de la Liga de Primera",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/el-campeon-estrena-el-titulo-la-programacion-de-la-fecha-28-de-la-liga/2026-11-08/214949.html",
       "fecha_publicacion": "2026-11-08 214949"
+    },
+    {
+      "titulo": "Correa se desahogó: \"Me tendrían que haber suspendido 20 fechas\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/correa-se-desahogo-me-tendrian-que-haber-suspendido-20-fechas/2026-11-08/214434.html",
+      "fecha_publicacion": "2026-11-08 214434"
     },
     {
       "titulo": "[VIDEO] Con mensaje a Alexítico incluido: El bailecito de Mosa tras el título de Colo Colo",
@@ -86,6 +104,12 @@
       "fecha_publicacion": "2026-11-08 181359"
     },
     {
+      "titulo": "Lichnovsky: No nos interesa lo que pase con el que está arriba ni con el de abajo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lichnovsky-no-nos-interesa-lo-que-pase-con-el-que-esta-arriba-ni-con-el/2026-11-08/180818.html",
+      "fecha_publicacion": "2026-11-08 180818"
+    },
+    {
       "titulo": "El desahogo del ’Tano’: Ortiz logró su primer título como DT y terminó empapado en plena entrevista",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/el-desahogo-del-tano-ortiz-logro-su-primer-titulo-como-dt-y-termino-empapado-en-plena-entrevista.shtml",
@@ -96,30 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-tras-ganar-el-titulo-vine-para-eso-culmina-lo-que-he-hecho/2026-11-08/175952.html",
       "fecha_publicacion": "2026-11-08 175952"
-    },
-    {
-      "titulo": "Fabricio Coloccini : \"Lamentablemente, el primer objetivo se va\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fabricio-coloccini-lamentablemente-el-primer-objetivo-se-va/2026-11-08/175418.html",
-      "fecha_publicacion": "2026-11-08 175418"
-    },
-    {
-      "titulo": "VIDEO I Bolados héroe y desató la fiesta alba: así fue el gol agónico que le dio a Colo Colo la ’35’",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/video-i-bolados-heroe-y-desato-la-fiesta-alba-asi-fue-el-gol-agonico-que-le-dio-a-colo-colo-la-35.shtml",
-      "fecha_publicacion": "2026-11-08 17:39"
-    },
-    {
-      "titulo": "Vidal: Somos justos campeones, pudimos contra todo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-somos-justos-campeones-pudimos-contra-todo/2026-11-08/173401.html",
-      "fecha_publicacion": "2026-11-08 173401"
-    },
-    {
-      "titulo": "La U cumplió en Rancagua al superar a Cobresal y seguir firme por el ’Chile 2’: Edu Vargas falló penal",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/la-u-cumplio-en-rancagua-al-superar-a-cobresal-y-seguir-firme-por-el-chile-2-edu-vargas-fallo-penal.shtml",
-      "fecha_publicacion": "2026-11-08 17:22"
     }
   ]
 }
