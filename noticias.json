@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-09T00:30:27.034767+00:00",
+  "actualizado": "2026-11-09T01:00:32.464347+00:00",
   "noticias": [
+    {
+      "titulo": "El campeón estrena el título: La programación de la fecha 28 de la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/el-campeon-estrena-el-titulo-la-programacion-de-la-fecha-28-de-la-liga/2026-11-08/214949.html",
+      "fecha_publicacion": "2026-11-08 214949"
+    },
+    {
+      "titulo": "[VIDEO] Con mensaje a Alexítico incluido: El bailecito de Mosa tras el título de Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-con-mensaje-a-alexitico-incluido-el-bailecito-de-mosa-tras-el/2026-11-08/212725.html",
+      "fecha_publicacion": "2026-11-08 212725"
+    },
     {
       "titulo": "\"Si Colo Colo fuera de la gente, jugaría gratis\": Vidal responde fuerte a críticos y a ByN tras título",
       "fuente": "BioBioChile",
@@ -36,12 +48,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/tras-ser-campeon-con-boca-palacios-alento-a-colo-colo-en-chillan-y-celebro-con-abrazo-junto-a-correa.shtml",
       "fecha_publicacion": "2026-11-08 20:09"
-    },
-    {
-      "titulo": "[VIDEO] Colo Colo repasó a Vero Bianchi y Mandreva: \"La historia no cambia\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-colo-colo-repaso-a-vero-bianchi-y-mandreva-la-historia-no/2026-11-08/194857.html",
-      "fecha_publicacion": "2026-11-08 194857"
     },
     {
       "titulo": "Unión La Calera derrotó con lo justo a Huachipato, sale del fondo y sigue soñando con la salvación",
@@ -113,12 +119,6 @@
       "titulo": "La U cumplió en Rancagua al superar a Cobresal y seguir firme por el ’Chile 2’: Edu Vargas falló penal",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/la-u-cumplio-en-rancagua-al-superar-a-cobresal-y-seguir-firme-por-el-chile-2-edu-vargas-fallo-penal.shtml",
-      "fecha_publicacion": "2026-11-08 17:22"
-    },
-    {
-      "titulo": "Colo Colo vuelve a tocar el cielo: Vence en la agonía a Ñublense y alcanza su estrella 35 en el fútbol chileno",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216482/colocolo-nublense-campeon-goles.html",
       "fecha_publicacion": "2026-11-08 17:22"
     }
   ]
