@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-09T15:00:28.496592+00:00",
+  "actualizado": "2026-11-09T15:30:27.394824+00:00",
   "noticias": [
+    {
+      "titulo": "La durísima autocrítica de Charles Aránguiz luego de que la U perdiera el título en la batalla con Colo Colo",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/09/1216535/charles-aranguiz-udechile.html",
+      "fecha_publicacion": "2026-11-09 12:09"
+    },
+    {
+      "titulo": "Tobías Reinhart y el título de Colo Colo: \"Intentamos todo hasta el final, pero este año no se...",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/tobias-reinhart-y-el-titulo-de-colo-colo-intentamos-todo-hasta-el/2026-11-09/120644.html",
+      "fecha_publicacion": "2026-11-09 120644"
+    },
     {
       "titulo": "Los \"palos\" de Vidal que hacen explotar las dudas por su futuro y los otros 10 jugadores que terminan contrato en Colo Colo",
       "fuente": "Emol",
@@ -12,6 +24,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/infantino-felicito-a-colo-colo-y-enaltecio-a-vozinha-tras-el-titulo-es/2026-11-09/095641.html",
       "fecha_publicacion": "2026-11-09 095641"
+    },
+    {
+      "titulo": "De Arica a Magallanes: Así se celebró el título de Colo Colo en el país",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/de-arica-a-magallanes-asi-se-celebro-el-titulo-de-colo-colo-en-el-pais/2026-11-09/094356.html",
+      "fecha_publicacion": "2026-11-09 094356"
     },
     {
       "titulo": "¿Qué pasará con Leandro Hernández en Colo Colo?",
@@ -36,12 +54,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/corto-y-preciso-el-escueto-mensaje-con-el-que-la-uc-felicito-a-colo/2026-11-09/080251.html",
       "fecha_publicacion": "2026-11-09 080251"
-    },
-    {
-      "titulo": "Resumen: Colo Colo bajó su estrella de campeón número 35",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-bajo-su-estrella-de-campeon-numero-35/2026-11-08/225717.html",
-      "fecha_publicacion": "2026-11-08 225717"
     },
     {
       "titulo": "La Calera sigue con vida y Cobresal depende de sí mismo: Así está la lucha por la permanencia",
@@ -92,12 +104,6 @@
       "fecha_publicacion": "2026-11-08 18:35"
     },
     {
-      "titulo": "Tras campeonar con Boca: Carlos Palacios festejó la estrella 35 de Colo Colo en Chillán",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/tras-campeonar-con-boca-carlos-palacios-festejo-la-estrella-35-de-colo/2026-11-08/181359.html",
-      "fecha_publicacion": "2026-11-08 181359"
-    },
-    {
       "titulo": "El desahogo del ’Tano’: Ortiz logró su primer título como DT y terminó empapado en plena entrevista",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/el-desahogo-del-tano-ortiz-logro-su-primer-titulo-como-dt-y-termino-empapado-en-plena-entrevista.shtml",
@@ -114,12 +120,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/video-i-bolados-heroe-y-desato-la-fiesta-alba-asi-fue-el-gol-agonico-que-le-dio-a-colo-colo-la-35.shtml",
       "fecha_publicacion": "2026-11-08 17:39"
-    },
-    {
-      "titulo": "Vidal: Somos justos campeones, pudimos contra todo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-somos-justos-campeones-pudimos-contra-todo/2026-11-08/173401.html",
-      "fecha_publicacion": "2026-11-08 173401"
     }
   ]
 }
