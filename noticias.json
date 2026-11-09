@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T03:00:27.180566+00:00",
+  "actualizado": "2026-11-09T03:30:29.769939+00:00",
   "noticias": [
     {
       "titulo": "Resumen: Colo Colo bajó su estrella de campeón número 35",
@@ -68,12 +68,6 @@
       "fecha_publicacion": "2026-11-08 20:30"
     },
     {
-      "titulo": "Colo Colo clasificó a la Libertadores 2027 como \"Chile 1\" y fue felicitado por Conmebol",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-clasifico-a-la-libertadores-2027-como-chile-1-y-fue/2026-11-08/201408.html",
-      "fecha_publicacion": "2026-11-08 201408"
-    },
-    {
       "titulo": "Unión La Calera venció a Huachipato y tomó aire en la lucha por la permanencia",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-la-calera/union-la-calera-vencio-a-huachipato-y-tomo-aire-en-la-lucha-por-la/2026-11-08/201001.html",
@@ -120,6 +114,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lichnovsky-no-nos-interesa-lo-que-pase-con-el-que-esta-arriba-ni-con-el/2026-11-08/180818.html",
       "fecha_publicacion": "2026-11-08 180818"
+    },
+    {
+      "titulo": "El desahogo del ’Tano’: Ortiz logró su primer título como DT y terminó empapado en plena entrevista",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/el-desahogo-del-tano-ortiz-logro-su-primer-titulo-como-dt-y-termino-empapado-en-plena-entrevista.shtml",
+      "fecha_publicacion": "2026-11-08 18:07"
     }
   ]
 }
