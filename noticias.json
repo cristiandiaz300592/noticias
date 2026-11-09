@@ -1,17 +1,17 @@
 {
-  "actualizado": "2026-11-09T14:30:26.668250+00:00",
+  "actualizado": "2026-11-09T15:00:28.496592+00:00",
   "noticias": [
+    {
+      "titulo": "Los \"palos\" de Vidal que hacen explotar las dudas por su futuro y los otros 10 jugadores que terminan contrato en Colo Colo",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/09/1216527/arturo-vidal-futuro-colocolo-contrato.html",
+      "fecha_publicacion": "2026-11-09 11:44"
+    },
     {
       "titulo": "Infantino felicitó a Colo Colo y enalteció a Vozinha tras el título: \"Es una verdadera inspiración\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/infantino-felicito-a-colo-colo-y-enaltecio-a-vozinha-tras-el-titulo-es/2026-11-09/095641.html",
       "fecha_publicacion": "2026-11-09 095641"
-    },
-    {
-      "titulo": "De Arica a Magallanes: Así se celebró el título de Colo Colo en el país",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/de-arica-a-magallanes-asi-se-celebro-el-titulo-de-colo-colo-en-el-pais/2026-11-09/094356.html",
-      "fecha_publicacion": "2026-11-09 094356"
     },
     {
       "titulo": "¿Qué pasará con Leandro Hernández en Colo Colo?",
@@ -38,34 +38,22 @@
       "fecha_publicacion": "2026-11-09 080251"
     },
     {
-      "titulo": "Ranking ATP: Tabilo cae, Barrios se desploma y otro chileno sube más de 60 puestos; Así quedó el top 10 tras título de Alcaraz en París",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/09/1216505/rankingatp-tabilogarinbarrios-alcaraz.html",
-      "fecha_publicacion": "2026-11-09 07:05"
-    },
-    {
       "titulo": "Resumen: Colo Colo bajó su estrella de campeón número 35",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-bajo-su-estrella-de-campeon-numero-35/2026-11-08/225717.html",
       "fecha_publicacion": "2026-11-08 225717"
     },
     {
+      "titulo": "La Calera sigue con vida y Cobresal depende de sí mismo: Así está la lucha por la permanencia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-calera-sigue-con-vida-y-cobresal-depende-de-si-mismo-asi-esta-la/2026-11-08/224109.html",
+      "fecha_publicacion": "2026-11-08 224109"
+    },
+    {
       "titulo": "Tres fechas para definir el \"Chile 2\": Los partidos y las cuentas de la U y la UC",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/tres-fechas-para-definir-el-chile-2-los-partidos-y-las-cuentas-de-la/2026-11-08/224100.html",
       "fecha_publicacion": "2026-11-08 224100"
-    },
-    {
-      "titulo": "Con hinchas en la ruta, Vozinha cantando, Mosa a lo Leo Rey y un desafiante mensaje de Correa: Los festejos de Colo Colo",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216498/colocolo-campeon-festejos.html",
-      "fecha_publicacion": "2026-11-08 22:30"
-    },
-    {
-      "titulo": "Los grandes aciertos de Fernando Ortiz que llevaron a Colo Colo al título del fútbol chileno",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216490/fernando-ortiz-campeon-colocolo.html",
-      "fecha_publicacion": "2026-11-08 22:05"
     },
     {
       "titulo": "U. de Concepción venció en la agonía a O’Higgins, deja el fondo y se ilusiona con seguir en Primera",
@@ -120,6 +108,18 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-tras-ganar-el-titulo-vine-para-eso-culmina-lo-que-he-hecho/2026-11-08/175952.html",
       "fecha_publicacion": "2026-11-08 175952"
+    },
+    {
+      "titulo": "VIDEO I Bolados héroe y desató la fiesta alba: así fue el gol agónico que le dio a Colo Colo la ’35’",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/video-i-bolados-heroe-y-desato-la-fiesta-alba-asi-fue-el-gol-agonico-que-le-dio-a-colo-colo-la-35.shtml",
+      "fecha_publicacion": "2026-11-08 17:39"
+    },
+    {
+      "titulo": "Vidal: Somos justos campeones, pudimos contra todo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-somos-justos-campeones-pudimos-contra-todo/2026-11-08/173401.html",
+      "fecha_publicacion": "2026-11-08 173401"
     }
   ]
 }
