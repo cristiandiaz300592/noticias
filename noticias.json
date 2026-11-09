@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-09T10:00:33.735198+00:00",
+  "actualizado": "2026-11-09T10:30:25.162549+00:00",
   "noticias": [
+    {
+      "titulo": "Ranking ATP: Tabilo cae, Barrios se desploma y otro chileno sube más de 60 puestos; Así quedó el top 10 tras título de Alcaraz en París",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/09/1216505/rankingatp-tabilogarinbarrios-alcaraz.html",
+      "fecha_publicacion": "2026-11-09 07:05"
+    },
     {
       "titulo": "Resumen: Colo Colo bajó su estrella de campeón número 35",
       "fuente": "Cooperativa",
@@ -62,12 +68,6 @@
       "fecha_publicacion": "2026-11-08 21:02"
     },
     {
-      "titulo": "La reacción en Colo Colo tras accidente de Leandro Hernández y la molestia de Fernando Ortiz",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216495/leandro-hernandez-colocolo-mosa-ortiz.html",
-      "fecha_publicacion": "2026-11-08 20:30"
-    },
-    {
       "titulo": "Unión La Calera venció a Huachipato y tomó aire en la lucha por la permanencia",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-la-calera/union-la-calera-vencio-a-huachipato-y-tomo-aire-en-la-lucha-por-la/2026-11-08/201001.html",
@@ -86,16 +86,16 @@
       "fecha_publicacion": "2026-11-08 19:33"
     },
     {
+      "titulo": "Colo Colo celebra el título este lunes: Las claves para obtener entradas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-celebra-el-titulo-este-lunes-las-claves-para-obtener-entradas/2026-11-08/183818.html",
+      "fecha_publicacion": "2026-11-08 183818"
+    },
+    {
       "titulo": "Tapadón clave, título albo y dedicatoria a Cabo Verde: la tarde inolvidable de Vozinha en Chillán",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/tapadon-clave-titulo-albo-y-dedicatoria-a-cabo-verde-la-tarde-inolvidable-de-vozinha-en-chillan.shtml",
       "fecha_publicacion": "2026-11-08 18:35"
-    },
-    {
-      "titulo": "Partido a partido: Los resultados que llevaron a Colo Colo a obtener su nueva estrella",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216394/colocolo-campeon-campana-partidos-resultados.html",
-      "fecha_publicacion": "2026-11-08 18:33"
     },
     {
       "titulo": "Tras campeonar con Boca: Carlos Palacios festejó la estrella 35 de Colo Colo en Chillán",
