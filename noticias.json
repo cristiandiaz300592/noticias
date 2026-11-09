@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-09T11:00:30.759883+00:00",
+  "actualizado": "2026-11-09T11:30:24.295185+00:00",
   "noticias": [
+    {
+      "titulo": "\"Una medalla más\": Arturo Vidal mostró cómo le quedó el tobillo tras anotar en Chillán",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/una-medalla-mas-arturo-vidal-mostro-como-le-quedo-el-tobillo-tras/2026-11-09/082308.html",
+      "fecha_publicacion": "2026-11-09 082308"
+    },
+    {
+      "titulo": "Corto y preciso: El escueto mensaje con el que la UC felicitó a Colo Colo por el título",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/corto-y-preciso-el-escueto-mensaje-con-el-que-la-uc-felicito-a-colo/2026-11-09/080251.html",
+      "fecha_publicacion": "2026-11-09 080251"
+    },
     {
       "titulo": "Ranking ATP: Tabilo cae, Barrios se desploma y otro chileno sube más de 60 puestos; Así quedó el top 10 tras título de Alcaraz en París",
       "fuente": "Emol",
@@ -26,22 +38,10 @@
       "fecha_publicacion": "2026-11-08 224100"
     },
     {
-      "titulo": "[VIDEO] \"Campeón hay uno solo\": Vozinha se lució con cántico de Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-campeon-hay-uno-solo-vozinha-se-lucio-con-cantico-de-colo/2026-11-08/223112.html",
-      "fecha_publicacion": "2026-11-08 223112"
-    },
-    {
       "titulo": "Con hinchas en la ruta, Vozinha cantando, Mosa a lo Leo Rey y un desafiante mensaje de Correa: Los festejos de Colo Colo",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216498/colocolo-campeon-festejos.html",
       "fecha_publicacion": "2026-11-08 22:30"
-    },
-    {
-      "titulo": "U. de Concepción venció a O'Higgins en el final y se aferró al sueño de la permanencia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/u-de-concepcion-vencio-a-o-higgins-en-el-final-y-se-aferro-al-sueno-de/2026-11-08/221252.html",
-      "fecha_publicacion": "2026-11-08 221252"
     },
     {
       "titulo": "Los grandes aciertos de Fernando Ortiz que llevaron a Colo Colo al título del fútbol chileno",
@@ -68,12 +68,6 @@
       "fecha_publicacion": "2026-11-08 21:02"
     },
     {
-      "titulo": "Unión La Calera venció a Huachipato y tomó aire en la lucha por la permanencia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-la-calera/union-la-calera-vencio-a-huachipato-y-tomo-aire-en-la-lucha-por-la/2026-11-08/201001.html",
-      "fecha_publicacion": "2026-11-08 201001"
-    },
-    {
       "titulo": "Tras ser campeón con Boca: Palacios alentó a Colo Colo en Chillán y celebró con abrazo junto a Correa",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/tras-ser-campeon-con-boca-palacios-alento-a-colo-colo-en-chillan-y-celebro-con-abrazo-junto-a-correa.shtml",
@@ -98,12 +92,6 @@
       "fecha_publicacion": "2026-11-08 18:35"
     },
     {
-      "titulo": "Tras campeonar con Boca: Carlos Palacios festejó la estrella 35 de Colo Colo en Chillán",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/tras-campeonar-con-boca-carlos-palacios-festejo-la-estrella-35-de-colo/2026-11-08/181359.html",
-      "fecha_publicacion": "2026-11-08 181359"
-    },
-    {
       "titulo": "Lichnovsky: No nos interesa lo que pase con el que está arriba ni con el de abajo",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lichnovsky-no-nos-interesa-lo-que-pase-con-el-que-esta-arriba-ni-con-el/2026-11-08/180818.html",
@@ -120,6 +108,18 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-tras-ganar-el-titulo-vine-para-eso-culmina-lo-que-he-hecho/2026-11-08/175952.html",
       "fecha_publicacion": "2026-11-08 175952"
+    },
+    {
+      "titulo": "Fabricio Coloccini : \"Lamentablemente, el primer objetivo se va\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fabricio-coloccini-lamentablemente-el-primer-objetivo-se-va/2026-11-08/175418.html",
+      "fecha_publicacion": "2026-11-08 175418"
+    },
+    {
+      "titulo": "VIDEO I Bolados héroe y desató la fiesta alba: así fue el gol agónico que le dio a Colo Colo la ’35’",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/video-i-bolados-heroe-y-desato-la-fiesta-alba-asi-fue-el-gol-agonico-que-le-dio-a-colo-colo-la-35.shtml",
+      "fecha_publicacion": "2026-11-08 17:39"
     }
   ]
 }
