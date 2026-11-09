@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-09T00:00:30.855568+00:00",
+  "actualizado": "2026-11-09T00:30:27.034767+00:00",
   "noticias": [
+    {
+      "titulo": "\"Si Colo Colo fuera de la gente, jugaría gratis\": Vidal responde fuerte a críticos y a ByN tras título",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/si-colo-colo-fuera-de-la-gente-jugaria-gratis-vidal-responde-fuerte-a-criticos-y-a-byn-tras-titulo.shtml",
+      "fecha_publicacion": "2026-11-08 21:02"
+    },
+    {
+      "titulo": "Jonathan Villagra: Esto recién empieza, el campeonato nos motiva para un 2027 mucho mejor",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/jonathan-villagra-esto-recien-empieza-el-campeonato-nos-motiva-para-un/2026-11-08/210133.html",
+      "fecha_publicacion": "2026-11-08 210133"
+    },
     {
       "titulo": "La reacción en Colo Colo tras accidente de Leandro Hernández y la molestia de Fernando Ortiz",
       "fuente": "Emol",
@@ -108,18 +120,6 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216482/colocolo-nublense-campeon-goles.html",
       "fecha_publicacion": "2026-11-08 17:22"
-    },
-    {
-      "titulo": "El gol de Bolados y el tapadón de Vozinha que sentenciaron el título de Colo Colo",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/08/1216483/bolados-vozinha-titulo-colocolo-gol.html",
-      "fecha_publicacion": "2026-11-08 17:19"
-    },
-    {
-      "titulo": "Llegó la 35 del \"Cacique\": Colo Colo se coronó campeón con dramático triunfo en Chillán",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/llego-la-35-del-cacique-colo-colo-se-corono-campeon-con-dramatico/2026-11-08/170751.html",
-      "fecha_publicacion": "2026-11-08 170751"
     }
   ]
 }
