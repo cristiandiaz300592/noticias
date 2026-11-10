@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-10T19:30:27.599211+00:00",
+  "actualizado": "2026-11-10T20:00:33.915655+00:00",
   "noticias": [
+    {
+      "titulo": "Tras superar la qualy, Jarry no pudo seguir avanzando en el Challenger de Lima",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/10/1216693/nicolasjarry-challenger-lima-tenis.html",
+      "fecha_publicacion": "2026-11-10 16:49"
+    },
+    {
+      "titulo": "Colo Colo, el equipo más buscado por los chilenos en Google durante el último año",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/10/colo-colo-el-equipo-mas-buscado-por-los-chilenos-en-google-durante-el-ultimo-ano.shtml",
+      "fecha_publicacion": "2026-11-10 16:36"
+    },
+    {
+      "titulo": "¿Cuándo y dónde ver el primer amistoso de La Roja y Colombia en la fecha FIFA?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-primer-amistoso-de-la-roja-y-colombia-en-la-fecha/2026-11-10/162025.html",
+      "fecha_publicacion": "2026-11-10 162025"
+    },
     {
       "titulo": "Nils Reichmuth encendió las alarmas en La Roja para los amistosos con Colombia",
       "fuente": "Cooperativa",
@@ -24,12 +42,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/10/gaston-faure-confirma-despido-de-tnt-sports-y-agradece-mensajes-de-apoyo-ha-sido-reconfortante.shtml",
       "fecha_publicacion": "2026-11-10 14:52"
-    },
-    {
-      "titulo": "[VIDEO] Marchant le ofreció cerveza a Leandro Hernández y así reaccionó",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-marchant-le-ofrecio-cerveza-a-leandro-hernandez-y-asi-reacciono/2026-11-10/132956.html",
-      "fecha_publicacion": "2026-11-10 132956"
     },
     {
       "titulo": "Vozinha tras el título con Colo Colo: \"Hay logros que las palabras no pueden explicar\"",
@@ -66,12 +78,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/francisco-huaiquipan-comparte-celda-con-otro-exjugador-de-colo-colo/2026-11-10/093842.html",
       "fecha_publicacion": "2026-11-10 093842"
-    },
-    {
-      "titulo": "Su pareja le cedió cupo y terminó en podio: la historia de amor que conmovió en Titan Forest Patagonia",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/10/su-pareja-le-cedio-cupo-y-termino-en-podio-la-historia-de-amor-que-conmovio-en-titan-forest-patagonia.shtml",
-      "fecha_publicacion": "2026-11-10 06:46"
     },
     {
       "titulo": "El campeón estrena el título: La programación de la fecha 28 de la Liga de Primera",
