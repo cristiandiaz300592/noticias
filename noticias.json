@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-10T18:00:28.322037+00:00",
+  "actualizado": "2026-11-10T18:30:27.541410+00:00",
   "noticias": [
+    {
+      "titulo": "San Luis monitorea la situación de Fernando De Paul en Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/san-luis-monitorea-la-situacion-de-fernando-de-paul-en-colo-colo/2026-11-10/145559.html",
+      "fecha_publicacion": "2026-11-10 145559"
+    },
     {
       "titulo": "Gastón Fauré confirma despido de TNT Sports y agradece mensajes de apoyo: \"Ha sido reconfortante\"",
       "fuente": "BioBioChile",
@@ -84,12 +90,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/charles-aranguiz-inicio-conversaciones-para-renovar-en-universidad-de/2026-11-09/210037.html",
       "fecha_publicacion": "2026-11-09 210037"
-    },
-    {
-      "titulo": "San Marcos apela para revertir desafiliación: niega fraude contable y apuntó a directivo de la ANFP",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/09/san-marcos-apela-para-revertir-desafiliacion-niega-fraude-contable-y-apunto-a-directivo-de-la-anfp.shtml",
-      "fecha_publicacion": "2026-11-09 20:45"
     },
     {
       "titulo": "El campeón estrena el título: La programación de la fecha 28 de la Liga de Primera",
