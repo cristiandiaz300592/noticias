@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-10T19:00:32.421500+00:00",
+  "actualizado": "2026-11-10T19:30:27.599211+00:00",
   "noticias": [
+    {
+      "titulo": "Nils Reichmuth encendió las alarmas en La Roja para los amistosos con Colombia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nils-reichmuth-encendio-las-alarmas-en-la-roja-para-los-amistosos-con/2026-11-10/160049.html",
+      "fecha_publicacion": "2026-11-10 160049"
+    },
     {
       "titulo": "Chile vs Colombia en amistoso por Fecha FIFA: a qué hora juegan y dónde verlo en vivo",
       "fuente": "BioBioChile",
@@ -24,12 +30,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-marchant-le-ofrecio-cerveza-a-leandro-hernandez-y-asi-reacciono/2026-11-10/132956.html",
       "fecha_publicacion": "2026-11-10 132956"
-    },
-    {
-      "titulo": "Nicolás Córdova participó armando jugadas en un nuevo entrenamiento de La Roja",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nicolas-cordova-participo-armando-jugadas-en-un-nuevo-entrenamiento-de/2026-11-10/130345.html",
-      "fecha_publicacion": "2026-11-10 130345"
     },
     {
       "titulo": "Vozinha tras el título con Colo Colo: \"Hay logros que las palabras no pueden explicar\"",
@@ -72,18 +72,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/10/su-pareja-le-cedio-cupo-y-termino-en-podio-la-historia-de-amor-que-conmovio-en-titan-forest-patagonia.shtml",
       "fecha_publicacion": "2026-11-10 06:46"
-    },
-    {
-      "titulo": "Arturo Vidal provocó a La U en plena fiesta alba: sus cánticos marcaron los festejos del título 35",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/09/arturo-vidal-provoco-a-la-u-en-plena-fiesta-alba-sus-canticos-marcaron-los-festejos-del-titulo-35.shtml",
-      "fecha_publicacion": "2026-11-09 21:55"
-    },
-    {
-      "titulo": "Charles Aránguiz inició conversaciones para renovar en Universidad de Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/charles-aranguiz-inicio-conversaciones-para-renovar-en-universidad-de/2026-11-09/210037.html",
-      "fecha_publicacion": "2026-11-09 210037"
     },
     {
       "titulo": "El campeón estrena el título: La programación de la fecha 28 de la Liga de Primera",
