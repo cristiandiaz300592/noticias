@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-10T02:30:26.269379+00:00",
+  "actualizado": "2026-11-10T03:00:30.624413+00:00",
   "noticias": [
+    {
+      "titulo": "Mosa deja recado a Vidal y cree que la renovación de Ortiz en Colo Colo \"está cerca\", mientras el DT fija su prioridad",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/09/1216599/colocolo-mosa-vidal-ortiz.html",
+      "fecha_publicacion": "2026-11-09 23:00"
+    },
     {
       "titulo": "Carabineros dispersó a barristas de Colo Colo en las afueras del Monumental durante los festejos",
       "fuente": "Cooperativa",
@@ -114,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/tobias-reinhart-y-el-titulo-de-colo-colo-intentamos-todo-hasta-el/2026-11-09/120644.html",
       "fecha_publicacion": "2026-11-09 120644"
-    },
-    {
-      "titulo": "Infantino felicitó a Colo Colo y enalteció a Vozinha tras el título: \"Es una verdadera inspiración\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/infantino-felicito-a-colo-colo-y-enaltecio-a-vozinha-tras-el-titulo-es/2026-11-09/095641.html",
-      "fecha_publicacion": "2026-11-09 095641"
     }
   ]
 }
