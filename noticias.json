@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10T12:00:27.446999+00:00",
+  "actualizado": "2026-11-10T12:30:29.149646+00:00",
   "noticias": [
     {
       "titulo": "Su pareja le cedió cupo y terminó en podio: la historia de amor que conmovió en Titan Forest Patagonia",
@@ -18,12 +18,6 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/09/1216599/colocolo-mosa-vidal-ortiz.html",
       "fecha_publicacion": "2026-11-09 23:00"
-    },
-    {
-      "titulo": "Carabineros dispersó a barristas de Colo Colo en las afueras del Monumental durante los festejos",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/carabineros-disperso-a-barristas-de-colo-colo-en-las-afueras-del/2026-11-09/225046.html",
-      "fecha_publicacion": "2026-11-09 225046"
     },
     {
       "titulo": "Arturo Vidal provocó a La U en plena fiesta alba: sus cánticos marcaron los festejos del título 35",
@@ -92,12 +86,6 @@
       "fecha_publicacion": "2026-11-09 15:49"
     },
     {
-      "titulo": "Víctor Méndez está en la órbita de un gigante del fútbol mexicano",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/victor-mendez-esta-en-la-orbita-de-un-gigante-del-futbol-mexicano/2026-11-09/154136.html",
-      "fecha_publicacion": "2026-11-09 154136"
-    },
-    {
       "titulo": "The Last Run: una multitud de corredores hizo vibrar el Parquemet en cita nocturna en Santiago",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/09/the-last-run-una-multitud-de-corredores-hizo-vibrar-el-parquemet-en-cita-nocturna-en-santiago.shtml",
@@ -120,6 +108,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/infantino-felicito-a-colo-colo-y-enaltecio-a-vozinha-tras-el-titulo-es/2026-11-09/095641.html",
       "fecha_publicacion": "2026-11-09 095641"
+    },
+    {
+      "titulo": "Tres fechas para definir el \"Chile 2\": Los partidos y las cuentas de la U y la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/tres-fechas-para-definir-el-chile-2-los-partidos-y-las-cuentas-de-la/2026-11-08/224100.html",
+      "fecha_publicacion": "2026-11-08 224100"
     }
   ]
 }
