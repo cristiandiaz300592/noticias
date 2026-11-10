@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-10T20:30:29.347993+00:00",
+  "actualizado": "2026-11-10T21:00:32.854741+00:00",
   "noticias": [
+    {
+      "titulo": "Waldo Ponce se molestó y ’paró los carros’ a Arturo Vidal por insultos a La U: \"Es falta de respeto\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/10/waldo-ponce-para-los-carros-a-arturo-vidal-por-insultos-a-la-u.shtml",
+      "fecha_publicacion": "2026-11-10 17:54"
+    },
+    {
+      "titulo": "Referentes de la U lanzan críticas a Arturo Vidal y Aníbal Mosa por burlas a la U en medio del festejo de Colo Colo",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/10/1216699/arturo-vidal-mosa-udechile-colocolo.html",
+      "fecha_publicacion": "2026-11-10 17:30"
+    },
     {
       "titulo": "Colo Colo y Católica será con hinchas de ambos equipos: primer clásico con visitantes en casi 4 años",
       "fuente": "BioBioChile",
@@ -84,6 +96,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/francisco-huaiquipan-comparte-celda-con-otro-exjugador-de-colo-colo/2026-11-10/093842.html",
       "fecha_publicacion": "2026-11-10 093842"
+    },
+    {
+      "titulo": "Tres fechas para definir el \"Chile 2\": Los partidos y las cuentas de la U y la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/tres-fechas-para-definir-el-chile-2-los-partidos-y-las-cuentas-de-la/2026-11-08/224100.html",
+      "fecha_publicacion": "2026-11-08 224100"
     },
     {
       "titulo": "El campeón estrena el título: La programación de la fecha 28 de la Liga de Primera",
