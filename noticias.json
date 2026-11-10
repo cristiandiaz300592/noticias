@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-10T00:30:27.260654+00:00",
+  "actualizado": "2026-11-10T01:00:30.572940+00:00",
   "noticias": [
+    {
+      "titulo": "Arturo Vidal provocó a La U en plena fiesta alba: sus cánticos marcaron los festejos del título 35",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/09/arturo-vidal-provoco-a-la-u-en-plena-fiesta-alba-sus-canticos-marcaron-los-festejos-del-titulo-35.shtml",
+      "fecha_publicacion": "2026-11-09 21:55"
+    },
+    {
+      "titulo": "Ortiz confirmó que conversó con Mosa por la renovación: \"Vamos por buen camino\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-confirmo-que-converso-con-mosa-por-la-renovacion-vamos-por-buen/2026-11-09/212613.html",
+      "fecha_publicacion": "2026-11-09 212613"
+    },
     {
       "titulo": "Fiesta alba en el Monumental: Colo Colo celebró a estadio lleno su estrella 35",
       "fuente": "Cooperativa",
@@ -42,12 +54,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-continua-su-preparacion-para-los-amistosos-contra-colombia/2026-11-09/191242.html",
       "fecha_publicacion": "2026-11-09 191242"
-    },
-    {
-      "titulo": "Mosa y las renovaciones en Colo Colo: Se cumplió el objetivo y ahora empezaremos las conversaciones",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-y-las-renovaciones-en-colo-colo-se-cumplio-el-objetivo-y-ahora/2026-11-09/184812.html",
-      "fecha_publicacion": "2026-11-09 184812"
     },
     {
       "titulo": "Arturo Vidal dedica un \"sapo\" tras el título de Colo Colo y Fernando Ortiz publica emotivo mensaje para su esposa",
@@ -114,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/hinchas-recibieron-de-madrugada-al-plantel-de-colo-colo-en-el-monumental/2026-11-09/085721.html",
       "fecha_publicacion": "2026-11-09 085721"
-    },
-    {
-      "titulo": "\"Una medalla más\": Arturo Vidal mostró cómo le quedó el tobillo tras anotar en Chillán",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/una-medalla-mas-arturo-vidal-mostro-como-le-quedo-el-tobillo-tras/2026-11-09/082308.html",
-      "fecha_publicacion": "2026-11-09 082308"
     }
   ]
 }
