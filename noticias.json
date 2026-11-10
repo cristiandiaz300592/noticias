@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-10T01:00:30.572940+00:00",
+  "actualizado": "2026-11-10T01:30:28.194336+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEO] \"El chuncho no lo puede creer\": Vidal lideró cánticos contra la U en la fiesta de la estrella 35",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-el-chuncho-no-lo-puede-creer-vidal-lidero-canticos-contra-la/2026-11-09/220404.html",
+      "fecha_publicacion": "2026-11-09 220404"
+    },
     {
       "titulo": "Arturo Vidal provocó a La U en plena fiesta alba: sus cánticos marcaron los festejos del título 35",
       "fuente": "BioBioChile",
@@ -24,6 +30,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/09/mosa-responde-criticas-de-arturo-vidal-por-tema-renovacion-y-le-raya-la-cancha-no-juega-solo.shtml",
       "fecha_publicacion": "2026-11-09 21:09"
+    },
+    {
+      "titulo": "Vidal desatado cantando contra la U, apareció Hernández y una sorpresa: Las imágenes del festejo de Colo Colo en el Monumental",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/09/1216597/imagenes-festejo-titulo-colocolo-monumental.html",
+      "fecha_publicacion": "2026-11-09 21:03"
     },
     {
       "titulo": "Charles Aránguiz inició conversaciones para renovar en Universidad de Chile",
@@ -54,6 +66,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-continua-su-preparacion-para-los-amistosos-contra-colombia/2026-11-09/191242.html",
       "fecha_publicacion": "2026-11-09 191242"
+    },
+    {
+      "titulo": "Nicolás Jarry logró meterse en el cuadro principal del Challenger de Lima: Lo que subirá en el ranking y lo que viene para él",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/09/1216591/nicolas-jarry-challenger-lima-tenis.html",
+      "fecha_publicacion": "2026-11-09 18:11"
     },
     {
       "titulo": "Arturo Vidal dedica un \"sapo\" tras el título de Colo Colo y Fernando Ortiz publica emotivo mensaje para su esposa",
@@ -92,18 +110,6 @@
       "fecha_publicacion": "2026-11-09 145426"
     },
     {
-      "titulo": "La durísima autocrítica de Charles Aránguiz luego de que la U perdiera el título en la batalla con Colo Colo",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/09/1216535/charles-aranguiz-udechile.html",
-      "fecha_publicacion": "2026-11-09 12:09"
-    },
-    {
-      "titulo": "Los \"palos\" de Vidal que hacen explotar las dudas por su futuro y los otros 10 jugadores que terminan contrato en Colo Colo",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/09/1216527/arturo-vidal-futuro-colocolo-contrato.html",
-      "fecha_publicacion": "2026-11-09 11:44"
-    },
-    {
       "titulo": "Infantino felicitó a Colo Colo y enalteció a Vozinha tras el título: \"Es una verdadera inspiración\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/infantino-felicito-a-colo-colo-y-enaltecio-a-vozinha-tras-el-titulo-es/2026-11-09/095641.html",
@@ -114,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/de-arica-a-magallanes-asi-se-celebro-el-titulo-de-colo-colo-en-el-pais/2026-11-09/094356.html",
       "fecha_publicacion": "2026-11-09 094356"
-    },
-    {
-      "titulo": "Hinchas recibieron de madrugada al plantel de Colo Colo en el Monumental",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/hinchas-recibieron-de-madrugada-al-plantel-de-colo-colo-en-el-monumental/2026-11-09/085721.html",
-      "fecha_publicacion": "2026-11-09 085721"
     }
   ]
 }
