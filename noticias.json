@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-10T00:00:32.156581+00:00",
+  "actualizado": "2026-11-10T00:30:27.260654+00:00",
   "noticias": [
+    {
+      "titulo": "Fiesta alba en el Monumental: Colo Colo celebró a estadio lleno su estrella 35",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fiesta-alba-en-el-monumental-colo-colo-celebro-a-estadio-lleno-su/2026-11-09/212008.html",
+      "fecha_publicacion": "2026-11-09 212008"
+    },
+    {
+      "titulo": "Mosa responde críticas de Arturo Vidal por tema renovación y le raya la cancha: \"No juega solo\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/09/mosa-responde-criticas-de-arturo-vidal-por-tema-renovacion-y-le-raya-la-cancha-no-juega-solo.shtml",
+      "fecha_publicacion": "2026-11-09 21:09"
+    },
+    {
+      "titulo": "Charles Aránguiz inició conversaciones para renovar en Universidad de Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/charles-aranguiz-inicio-conversaciones-para-renovar-en-universidad-de/2026-11-09/210037.html",
+      "fecha_publicacion": "2026-11-09 210037"
+    },
     {
       "titulo": "San Marcos apela para revertir desafiliación: niega fraude contable y apuntó a directivo de la ANFP",
       "fuente": "BioBioChile",
@@ -56,12 +74,6 @@
       "fecha_publicacion": "2026-11-09 154136"
     },
     {
-      "titulo": "Colo Colo celebra su estrella 35 en un Estadio Monumental repleto",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/colo-colo-celebra-su-estrella-35-en-un-estadio-monumental-repleto/2026-11-09/151559.html",
-      "fecha_publicacion": "2026-11-09 151559"
-    },
-    {
       "titulo": "The Last Run: una multitud de corredores hizo vibrar el Parquemet en cita nocturna en Santiago",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/09/the-last-run-una-multitud-de-corredores-hizo-vibrar-el-parquemet-en-cita-nocturna-en-santiago.shtml",
@@ -108,18 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/una-medalla-mas-arturo-vidal-mostro-como-le-quedo-el-tobillo-tras/2026-11-09/082308.html",
       "fecha_publicacion": "2026-11-09 082308"
-    },
-    {
-      "titulo": "Corto y preciso: El escueto mensaje con el que la UC felicitó a Colo Colo por el título",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/corto-y-preciso-el-escueto-mensaje-con-el-que-la-uc-felicito-a-colo/2026-11-09/080251.html",
-      "fecha_publicacion": "2026-11-09 080251"
-    },
-    {
-      "titulo": "Tres fechas para definir el \"Chile 2\": Los partidos y las cuentas de la U y la UC",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/tres-fechas-para-definir-el-chile-2-los-partidos-y-las-cuentas-de-la/2026-11-08/224100.html",
-      "fecha_publicacion": "2026-11-08 224100"
     }
   ]
 }
