@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-10T15:30:27.753777+00:00",
+  "actualizado": "2026-11-10T16:00:33.466831+00:00",
   "noticias": [
+    {
+      "titulo": "Vozinha tras el título con Colo Colo: \"Hay logros que las palabras no pueden explicar\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-tras-el-titulo-con-colo-colo-hay-logros-que-las-palabras-no/2026-11-10/124254.html",
+      "fecha_publicacion": "2026-11-10 124254"
+    },
     {
       "titulo": "El desahogo de Vozinha tras la gloria con Colo Colo: reveló lo que hay detrás de levantar una copa",
       "fuente": "BioBioChile",
@@ -56,12 +62,6 @@
       "fecha_publicacion": "2026-11-09 212613"
     },
     {
-      "titulo": "Fiesta alba en el Monumental: Colo Colo celebró a estadio lleno su estrella 35",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fiesta-alba-en-el-monumental-colo-colo-celebro-a-estadio-lleno-su/2026-11-09/212008.html",
-      "fecha_publicacion": "2026-11-09 212008"
-    },
-    {
       "titulo": "Mosa responde críticas de Arturo Vidal por tema renovación y le raya la cancha: \"No juega solo\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/09/mosa-responde-criticas-de-arturo-vidal-por-tema-renovacion-y-le-raya-la-cancha-no-juega-solo.shtml",
@@ -96,6 +96,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/infantino-felicito-a-colo-colo-y-enaltecio-a-vozinha-tras-el-titulo-es/2026-11-09/095641.html",
       "fecha_publicacion": "2026-11-09 095641"
+    },
+    {
+      "titulo": "El campeón estrena el título: La programación de la fecha 28 de la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/el-campeon-estrena-el-titulo-la-programacion-de-la-fecha-28-de-la-liga/2026-11-08/214949.html",
+      "fecha_publicacion": "2026-11-08 214949"
     }
   ]
 }
