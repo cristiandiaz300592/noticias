@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-11T15:30:27.823652+00:00",
+  "actualizado": "2026-11-11T16:00:32.891831+00:00",
   "noticias": [
+    {
+      "titulo": "Universidad de Chile recibió citación al Tribunal de Disciplina de la ANFP",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/universidad-de-chile-recibio-citacion-al-tribunal-de-disciplina-de-la/2026-11-11/123545.html",
+      "fecha_publicacion": "2026-11-11 123545"
+    },
+    {
+      "titulo": "Tribunal ratificó suspensión de jugador de la UC para el clásico con Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/tribunal-ratifico-suspension-de-jugador-de-la-uc-para-el-clasico-con/2026-11-11/123533.html",
+      "fecha_publicacion": "2026-11-11 123533"
+    },
     {
       "titulo": "Tabilo gana un partidazo a Sonego y ahora enfrentará al 35 del mundo en cuartos del ATP 250 de Estocolmo",
       "fuente": "Emol",
@@ -42,12 +54,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/10/waldo-ponce-para-los-carros-a-arturo-vidal-por-insultos-a-la-u.shtml",
       "fecha_publicacion": "2026-11-10 17:54"
-    },
-    {
-      "titulo": "San Luis monitorea la situación de Fernando De Paul en Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/san-luis-monitorea-la-situacion-de-fernando-de-paul-en-colo-colo/2026-11-10/145559.html",
-      "fecha_publicacion": "2026-11-10 145559"
     },
     {
       "titulo": "Vozinha tras el título con Colo Colo: \"Hay logros que las palabras no pueden explicar\"",
