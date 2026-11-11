@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-11T20:00:29.329986+00:00",
+  "actualizado": "2026-11-11T21:00:40.141310+00:00",
   "noticias": [
+    {
+      "titulo": "A qué hora juegan y dónde ver en vivo el amistoso entre Chile vs Colombia",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/11/a-que-hora-juegan-y-donde-ver-en-vivo-el-amistoso-entre-chile-vs-colombia.shtml",
+      "fecha_publicacion": "2026-11-11 17:49"
+    },
+    {
+      "titulo": "Autoridades ponen freno a que clásico Colo Colo vs Católica se juegue con hinchas visitantes",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/11/autoridades-ponen-freno-a-clasico-colo-colo-catolica-con-visitantes.shtml",
+      "fecha_publicacion": "2026-11-11 17:30"
+    },
+    {
+      "titulo": "El salto de Nicolás Jarry en el ranking tras su paso por el Challenger de Lima y los torneos con los que cerraría el año",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/11/1216771/nicolasjarry-ranking-challengerlima-torneos.html",
+      "fecha_publicacion": "2026-11-11 17:26"
+    },
     {
       "titulo": "Pékerman reveló charla que motivó a Colombia ante Chile en 2013: se fueron perdiendo 0-3 al descanso",
       "fuente": "BioBioChile",
@@ -60,6 +78,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sumo-su-segunda-baja-en-defensa-y-nicolas-cordova-sorprendio/2026-11-11/112506.html",
       "fecha_publicacion": "2026-11-11 112506"
+    },
+    {
+      "titulo": "¿Cuándo y dónde ver el primer amistoso de La Roja y Colombia en la fecha FIFA?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-primer-amistoso-de-la-roja-y-colombia-en-la-fecha/2026-11-10/162025.html",
+      "fecha_publicacion": "2026-11-10 162025"
     },
     {
       "titulo": "Francisco Huaiquipán comparte celda con otro exjugador de Colo Colo",
