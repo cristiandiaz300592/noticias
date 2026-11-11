@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T19:30:28.967590+00:00",
+  "actualizado": "2026-11-11T20:00:29.329986+00:00",
   "noticias": [
     {
       "titulo": "Pékerman reveló charla que motivó a Colombia ante Chile en 2013: se fueron perdiendo 0-3 al descanso",
@@ -32,6 +32,12 @@
       "fecha_publicacion": "2026-11-11 132422"
     },
     {
+      "titulo": "Universidad de Chile recibió citación al Tribunal de Disciplina de la ANFP",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/universidad-de-chile-recibio-citacion-al-tribunal-de-disciplina-de-la/2026-11-11/123545.html",
+      "fecha_publicacion": "2026-11-11 123545"
+    },
+    {
       "titulo": "Tribunal ratificó suspensión de jugador de la UC para el clásico con Colo Colo",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/tribunal-ratifico-suspension-de-jugador-de-la-uc-para-el-clasico-con/2026-11-11/123533.html",
@@ -54,18 +60,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sumo-su-segunda-baja-en-defensa-y-nicolas-cordova-sorprendio/2026-11-11/112506.html",
       "fecha_publicacion": "2026-11-11 112506"
-    },
-    {
-      "titulo": "Volante de Colombia destaca a La Roja de cara a amistosos: \"Siempre ha sido un rival fuerte\"\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/10/volante-de-colombia-gustavo-puerta-destaca-fortaleza-de-chile-amistoso-la-roja.shtml",
-      "fecha_publicacion": "2026-11-10 22:56"
-    },
-    {
-      "titulo": "¿Cuándo y dónde ver el primer amistoso de La Roja y Colombia en la fecha FIFA?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-primer-amistoso-de-la-roja-y-colombia-en-la-fecha/2026-11-10/162025.html",
-      "fecha_publicacion": "2026-11-10 162025"
     },
     {
       "titulo": "Francisco Huaiquipán comparte celda con otro exjugador de Colo Colo",
