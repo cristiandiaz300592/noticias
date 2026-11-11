@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-11T15:00:34.073611+00:00",
+  "actualizado": "2026-11-11T15:26:31.527996+00:00",
   "noticias": [
+    {
+      "titulo": "Tabilo gana un partidazo a Sonego y ahora enfrentará al 35 del mundo en cuartos del ATP 250 de Estocolmo",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/11/1216767/alejandrotabilo-lorenzosonego-atp-estocolmo.html",
+      "fecha_publicacion": "2026-11-11 12:16"
+    },
     {
       "titulo": "Sebastián Arancibia será operado por lesión sufrida en el clásico universitario",
       "fuente": "Cooperativa",
@@ -36,12 +42,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/10/waldo-ponce-para-los-carros-a-arturo-vidal-por-insultos-a-la-u.shtml",
       "fecha_publicacion": "2026-11-10 17:54"
-    },
-    {
-      "titulo": "Colo Colo y Católica será con hinchas de ambos equipos: primer clásico con visitantes en casi 4 años",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/10/colo-colo-anuncia-que-clasico-ante-universidad-catolica-hinchas-visitantes.shtml",
-      "fecha_publicacion": "2026-11-10 17:01"
     },
     {
       "titulo": "San Luis monitorea la situación de Fernando De Paul en Colo Colo",
