@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-12T15:00:29.923226+00:00",
+  "actualizado": "2026-11-12T15:30:30.876370+00:00",
   "noticias": [
+    {
+      "titulo": "Palestino denunció el asesinato de joven arquero gazatí tras ataque del ejército de Israel",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/palestino-denuncio-el-asesinato-de-joven-arquero-gazati-tras-ataque-del/2026-11-12/122035.html",
+      "fecha_publicacion": "2026-11-12 122035"
+    },
     {
       "titulo": "La Roja sub 17 cayó ante Venezuela en duelo previo al Mundial de Catar",
       "fuente": "Cooperativa",
@@ -54,12 +60,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/11/a-que-hora-juegan-y-donde-ver-en-vivo-el-amistoso-entre-chile-vs-colombia.shtml",
       "fecha_publicacion": "2026-11-11 17:49"
-    },
-    {
-      "titulo": "Autoridades ponen freno a que clásico Colo Colo vs Católica se juegue con hinchas visitantes",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/11/autoridades-ponen-freno-a-clasico-colo-colo-catolica-con-visitantes.shtml",
-      "fecha_publicacion": "2026-11-11 17:30"
     },
     {
       "titulo": "Mosa justificó cánticos contra la U: Es parte del fútbol, no hay que ser tan graves",
