@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-12T18:00:35.324508+00:00",
+  "actualizado": "2026-11-12T18:31:37.460548+00:00",
   "noticias": [
+    {
+      "titulo": "En San Felipe lanzan dardos luego de que se revirtiera la desafiliación de San Marcos de Arica",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/12/1216910/san-marcos-primerab-sanfelipe.html",
+      "fecha_publicacion": "2026-11-12 15:10"
+    },
     {
       "titulo": "Los nombres que asumirán el directorio de Azul Azul",
       "fuente": "Cooperativa",
@@ -66,12 +72,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/12/san-marcos-de-arica-se-salva-de-la-desafiliacion-y-recibe-millonaria-multa.shtml",
       "fecha_publicacion": "2026-11-12 00:57"
-    },
-    {
-      "titulo": "Williams Alarcón valoró su regreso a La Roja y palpitó duelos con Colombia: \"Es un examen lindo\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/11/williams-alarcon-palpito-amistosos-chile-colombia-fecha-fiffa.shtml",
-      "fecha_publicacion": "2026-11-11 22:39"
     }
   ]
 }
