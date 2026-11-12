@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-12T19:30:38.293992+00:00",
+  "actualizado": "2026-11-12T20:30:27.538503+00:00",
   "noticias": [
+    {
+      "titulo": "Alejandro Tabilo ya tiene rival y horario para jugar este viernes por el paso a la final del ATP 250 de Estocolmo",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/12/1216912/alejandrotabilo-thiagotirante-semis-atp-estocolmo.html",
+      "fecha_publicacion": "2026-11-12 17:03"
+    },
+    {
+      "titulo": "Azul Azul mueve sus piezas: los siete nombres que buscan tomar el control de Universidad de Chile",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/12/azul-azul-mueve-sus-piezas-los-siete-nombres-que-buscan-tomar-el-control-de-universidad-de-chile.shtml",
+      "fecha_publicacion": "2026-11-12 16:35"
+    },
     {
       "titulo": "Video: El destacado gesto del plantel de Cabo Verde con Vozinha tras ser campeón con Colo Colo",
       "fuente": "Emol",
@@ -44,6 +56,12 @@
       "fecha_publicacion": "2026-11-12 142413"
     },
     {
+      "titulo": "Cecilia Pérez dejará amarrado millonario contrato con casa de apuestas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-dejara-amarrado-millonario-contrato-con-casa-de-apuestas/2026-11-12/135154.html",
+      "fecha_publicacion": "2026-11-12 135154"
+    },
+    {
       "titulo": "El drama que vive Sebastián Arancibia en la Universidad Católica",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/12/1216886/sebastian-arancibia-universidad-catolica.html",
@@ -74,28 +92,10 @@
       "fecha_publicacion": "2026-11-12 114135"
     },
     {
-      "titulo": "Tabilo juega otro gran partido, vence a Michelsen y se mete en semis del ATP de Estocolmo: Mira el match point",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/12/1216881/alejandrotabilo-alexmichelsen-atp-estocolmo.html",
-      "fecha_publicacion": "2026-11-12 11:16"
-    },
-    {
       "titulo": "Luchas por ascenso y descenso: así quedó tabla de Primera B tras fallos y una fecha por disputar",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/12/luchas-por-ascenso-y-descenso-asi-quedo-tabla-de-primera-b-tras-fallos-y-una-fecha-por-disputar.shtml",
       "fecha_publicacion": "2026-11-12 08:14"
-    },
-    {
-      "titulo": "San Marcos de Arica celebra resolución que revirtió desafiliación: \"Agradecemos todo apoyo recibido\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/12/san-marcos-de-arica-celebra-resolucion-que-revirtio-desafiliacion-agradecemos-todo-apoyo-recibido.shtml",
-      "fecha_publicacion": "2026-11-12 07:20"
-    },
-    {
-      "titulo": "San Marcos de Arica se salva de la desafiliación y recibe millonaria multa",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/12/san-marcos-de-arica-se-salva-de-la-desafiliacion-y-recibe-millonaria-multa.shtml",
-      "fecha_publicacion": "2026-11-12 00:57"
     }
   ]
 }
