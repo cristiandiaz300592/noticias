@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-12T19:00:33.056924+00:00",
+  "actualizado": "2026-11-12T19:30:38.293992+00:00",
   "noticias": [
+    {
+      "titulo": "Video: El destacado gesto del plantel de Cabo Verde con Vozinha tras ser campeón con Colo Colo",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/12/1216927/vozinha-caboverde-campeon-colocolo-pasillo.html",
+      "fecha_publicacion": "2026-11-12 16:22"
+    },
+    {
+      "titulo": "Zampedri y el pasillo a Colo Colo: No creo que sea importante hoy en día",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/zampedri-y-el-pasillo-a-colo-colo-no-creo-que-sea-importante-hoy-en-dia/2026-11-12/160400.html",
+      "fecha_publicacion": "2026-11-12 160400"
+    },
     {
       "titulo": "Milad pone paños fríos a salvación de San Marcos de Arica: descartó trato desigual hacia los clubes",
       "fuente": "BioBioChile",
@@ -48,6 +60,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/12/asi-se-jugara-ultima-fecha-de-liga-de-ascenso.shtml",
       "fecha_publicacion": "2026-11-12 12:33"
+    },
+    {
+      "titulo": "Palestino denunció el asesinato de joven arquero gazatí tras ataque del ejército de Israel",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/palestino-denuncio-el-asesinato-de-joven-arquero-gazati-tras-ataque-del/2026-11-12/122035.html",
+      "fecha_publicacion": "2026-11-12 122035"
     },
     {
       "titulo": "La Roja sub 17 cayó ante Venezuela en duelo previo al Mundial de Catar",
