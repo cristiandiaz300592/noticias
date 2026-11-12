@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-12T23:00:31.708788+00:00",
+  "actualizado": "2026-11-12T23:30:27.244031+00:00",
   "noticias": [
+    {
+      "titulo": "Universidad de Chile oficializó la renovación de Eduardo Vargas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/universidad-de-chile-oficializo-la-renovacion-de-eduardo-vargas/2026-11-12/200032.html",
+      "fecha_publicacion": "2026-11-12 200032"
+    },
+    {
+      "titulo": "Córdova y la visita a Colombia: Lo más importante es que los rendimientos sean elevados",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-la-visita-a-colombia-lo-mas-importante-es-que-los/2026-11-12/194741.html",
+      "fecha_publicacion": "2026-11-12 194741"
+    },
     {
       "titulo": "Felipe Faúndez y el duelo con Colombia: Estamos preparados para competir con cualquier selección",
       "fuente": "Cooperativa",
@@ -12,12 +24,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/12/chile-vs-colombia-por-amistoso-fecha-fifa-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
       "fecha_publicacion": "2026-11-12 17:33"
-    },
-    {
-      "titulo": "Correa y acuerdo de la U con casa de apuestas: Permitirá enfrentar bien nuestros 100 años",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/correa-y-acuerdo-de-la-u-con-casa-de-apuestas-permitira-enfrentar-bien/2026-11-12/171901.html",
-      "fecha_publicacion": "2026-11-12 171901"
     },
     {
       "titulo": "Alejandro Tabilo ya tiene rival y horario para jugar este viernes por el paso a la final del ATP 250 de Estocolmo",
@@ -66,6 +72,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/los-nombres-que-asumiran-el-directorio-de-azul-azul/2026-11-12/142413.html",
       "fecha_publicacion": "2026-11-12 142413"
+    },
+    {
+      "titulo": "Cecilia Pérez dejará amarrado millonario contrato con casa de apuestas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-dejara-amarrado-millonario-contrato-con-casa-de-apuestas/2026-11-12/135154.html",
+      "fecha_publicacion": "2026-11-12 135154"
     },
     {
       "titulo": "Jorge Burgos volverá a ser parte del directorio de Azul Azul",
