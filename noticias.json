@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-12T15:30:30.876370+00:00",
+  "actualizado": "2026-11-12T16:00:34.859915+00:00",
   "noticias": [
+    {
+      "titulo": "Jorge Burgos volverá a ser parte del directorio de Azul Azul",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/jorge-burgos-volvera-a-ser-parte-del-directorio-de-azul-azul/2026-11-12/124306.html",
+      "fecha_publicacion": "2026-11-12 124306"
+    },
+    {
+      "titulo": "Campeón y descendido se definen a la misma hora: así se jugará última fecha de la Liga de Ascenso",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/12/asi-se-jugara-ultima-fecha-de-liga-de-ascenso.shtml",
+      "fecha_publicacion": "2026-11-12 12:33"
+    },
     {
       "titulo": "Palestino denunció el asesinato de joven arquero gazatí tras ataque del ejército de Israel",
       "fuente": "Cooperativa",
@@ -44,22 +56,10 @@
       "fecha_publicacion": "2026-11-11 22:39"
     },
     {
-      "titulo": "La agenda de La Roja en el Mundial Sub 17 Catar 2026",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-agenda-de-la-roja-en-el-mundial-sub-17-catar-2026/2026-11-11/193425.html",
-      "fecha_publicacion": "2026-11-11 193425"
-    },
-    {
       "titulo": "\"Trampa y deslealtad\": Unión San Felipe ataca a Puerto Montt tras dichos de dirigente sureño",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/11/union-san-felipe-se-lanza-contra-dirigente-de-puerto-montt-liga-ascenso.shtml",
       "fecha_publicacion": "2026-11-11 19:00"
-    },
-    {
-      "titulo": "A qué hora juegan y dónde ver en vivo el amistoso entre Chile vs Colombia",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/11/a-que-hora-juegan-y-donde-ver-en-vivo-el-amistoso-entre-chile-vs-colombia.shtml",
-      "fecha_publicacion": "2026-11-11 17:49"
     },
     {
       "titulo": "Mosa justificó cánticos contra la U: Es parte del fútbol, no hay que ser tan graves",
