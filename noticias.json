@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-12T14:00:29.884396+00:00",
+  "actualizado": "2026-11-12T14:30:29.818119+00:00",
   "noticias": [
+    {
+      "titulo": "Tabilo juega otro gran partido, vence a Michelsen y se mete en semis del ATP de Estocolmo: Mira el match point",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/12/1216881/alejandrotabilo-alexmichelsen-atp-estocolmo.html",
+      "fecha_publicacion": "2026-11-12 11:16"
+    },
     {
       "titulo": "La Roja ya está en Cali para su primer amistoso ante Colombia",
       "fuente": "Cooperativa",
@@ -56,16 +62,10 @@
       "fecha_publicacion": "2026-11-11 133941"
     },
     {
-      "titulo": "Universidad de Chile recibió citación al Tribunal de Disciplina de la ANFP",
+      "titulo": "Tribunal ratificó suspensión de jugador de la UC para el clásico con Colo Colo",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/universidad-de-chile-recibio-citacion-al-tribunal-de-disciplina-de-la/2026-11-11/123545.html",
-      "fecha_publicacion": "2026-11-11 123545"
-    },
-    {
-      "titulo": "Sebastián Arancibia será operado por lesión sufrida en el clásico universitario",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/sebastian-arancibia-sera-operado-por-lesion-sufrida-en-el-clasico/2026-11-11/115231.html",
-      "fecha_publicacion": "2026-11-11 115231"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/tribunal-ratifico-suspension-de-jugador-de-la-uc-para-el-clasico-con/2026-11-11/123533.html",
+      "fecha_publicacion": "2026-11-11 123533"
     },
     {
       "titulo": "La Roja sumó su segunda baja en defensa y Nicolás Córdova sorprendió nominando a zaguero sub 20",
