@@ -1,17 +1,17 @@
 {
-  "actualizado": "2026-11-12T14:30:29.818119+00:00",
+  "actualizado": "2026-11-12T15:00:29.923226+00:00",
   "noticias": [
+    {
+      "titulo": "La Roja sub 17 cayó ante Venezuela en duelo previo al Mundial de Catar",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sub-17-cayo-ante-venezuela-en-duelo-previo-al-mundial-de-catar/2026-11-12/114135.html",
+      "fecha_publicacion": "2026-11-12 114135"
+    },
     {
       "titulo": "Tabilo juega otro gran partido, vence a Michelsen y se mete en semis del ATP de Estocolmo: Mira el match point",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/12/1216881/alejandrotabilo-alexmichelsen-atp-estocolmo.html",
       "fecha_publicacion": "2026-11-12 11:16"
-    },
-    {
-      "titulo": "La Roja ya está en Cali para su primer amistoso ante Colombia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-ya-esta-en-cali-para-su-primer-amistoso-ante-colombia/2026-11-12/093826.html",
-      "fecha_publicacion": "2026-11-12 093826"
     },
     {
       "titulo": "Luchas por ascenso y descenso: así quedó tabla de Primera B tras fallos y una fecha por disputar",
@@ -38,6 +38,12 @@
       "fecha_publicacion": "2026-11-11 22:39"
     },
     {
+      "titulo": "La agenda de La Roja en el Mundial Sub 17 Catar 2026",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-agenda-de-la-roja-en-el-mundial-sub-17-catar-2026/2026-11-11/193425.html",
+      "fecha_publicacion": "2026-11-11 193425"
+    },
+    {
       "titulo": "\"Trampa y deslealtad\": Unión San Felipe ataca a Puerto Montt tras dichos de dirigente sureño",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/11/union-san-felipe-se-lanza-contra-dirigente-de-puerto-montt-liga-ascenso.shtml",
@@ -60,18 +66,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-justifico-canticos-contra-la-u-es-parte-del-futbol-no-hay-que-ser/2026-11-11/133941.html",
       "fecha_publicacion": "2026-11-11 133941"
-    },
-    {
-      "titulo": "Tribunal ratificó suspensión de jugador de la UC para el clásico con Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/tribunal-ratifico-suspension-de-jugador-de-la-uc-para-el-clasico-con/2026-11-11/123533.html",
-      "fecha_publicacion": "2026-11-11 123533"
-    },
-    {
-      "titulo": "La Roja sumó su segunda baja en defensa y Nicolás Córdova sorprendió nominando a zaguero sub 20",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sumo-su-segunda-baja-en-defensa-y-nicolas-cordova-sorprendio/2026-11-11/112506.html",
-      "fecha_publicacion": "2026-11-11 112506"
     }
   ]
 }
