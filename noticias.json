@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-13T21:00:33.141365+00:00",
+  "actualizado": "2026-11-13T21:30:29.317059+00:00",
   "noticias": [
+    {
+      "titulo": "Terminó la era Sartor: Junta de accionistas aprobó el nuevo directorio de Azul Azul",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/termino-la-era-sartor-junta-de-accionistas-aprobo-el-nuevo-directorio/2026-11-13/174350.html",
+      "fecha_publicacion": "2026-11-13 174350"
+    },
     {
       "titulo": "Hasta cuatro partidos a la misma hora: programan la crucial penúltima fecha de Liga de Primera",
       "fuente": "BioBioChile",
@@ -56,12 +62,6 @@
       "fecha_publicacion": "2026-11-13 14:24"
     },
     {
-      "titulo": "La Universidad de Chile le reclamó a Azul Azul por acuerdo con casa de apuestas: \"Va contra los...",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-universidad-de-chile-le-reclamo-a-azul-azul-por-acuerdo-con-casa-de/2026-11-13/141740.html",
-      "fecha_publicacion": "2026-11-13 141740"
-    },
-    {
       "titulo": "En Colo Colo adelantaron futuro de De Paul: \"Estará considerado para el año que viene\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/en-colo-colo-adelantaron-futuro-de-de-paul-estara-considerado-para-el/2026-11-13/134124.html",
@@ -90,12 +90,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/13/cordova-define-el-once-de-la-roja-ante-colombia-aposto-por-repetir-formula-ganadora-frente-a-mexico.shtml",
       "fecha_publicacion": "2026-11-13 08:30"
-    },
-    {
-      "titulo": "Ortiz y la continuidad de Vidal: No puedo proyectar el 2027 si mi situación no está resuelta",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-la-continuidad-de-vidal-no-puedo-proyectar-el-2027-si-mi/2026-11-12/220223.html",
-      "fecha_publicacion": "2026-11-12 220223"
     },
     {
       "titulo": "Eduardo Vargas tras renovar con la U: Formar parte de los 100 años va a ser increíble",
