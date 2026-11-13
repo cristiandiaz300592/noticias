@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-13T18:00:32.273305+00:00",
+  "actualizado": "2026-11-13T18:30:30.930443+00:00",
   "noticias": [
+    {
+      "titulo": "Sudamericano Sub 20 2027: La Roja ya tiene rivales y un camino exigente para llegar al Mundial",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/13/sudamericano-sub-20-2027-la-roja-ya-tiene-rivales-y-un-camino-exigente-para-llegar-al-mundial.shtml",
+      "fecha_publicacion": "2026-11-13 15:07"
+    },
     {
       "titulo": "Cruzados confirmó su apoyo a la lista de Uauy y Tagle para la ANFP",
       "fuente": "Cooperativa",
@@ -68,12 +74,6 @@
       "fecha_publicacion": "2026-11-12 220223"
     },
     {
-      "titulo": "El campeón Colo Colo quiere mantener su buen ritmo en amistoso ante Racing",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/el-campeon-colo-colo-quiere-mantener-su-buen-ritmo-en-amistoso-ante-racing/2026-11-12/213047.html",
-      "fecha_publicacion": "2026-11-12 213047"
-    },
-    {
       "titulo": "Eduardo Vargas tras renovar con la U: Formar parte de los 100 años va a ser increíble",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/eduardo-vargas-tras-renovar-con-la-u-formar-parte-de-los-100-anos-va-a/2026-11-12/212818.html",
@@ -84,12 +84,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-de-nicolas-cordova-mide-su-nivel-en-el-primer-desafio-amistoso/2026-11-12/212628.html",
       "fecha_publicacion": "2026-11-12 212628"
-    },
-    {
-      "titulo": "Córdova explicó ausencia de Carlos Palacios en La Roja: Se lo tiene que ganar en la cancha",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-explico-ausencia-de-carlos-palacios-en-la-roja-se-lo-tiene-que/2026-11-12/204647.html",
-      "fecha_publicacion": "2026-11-12 204647"
     },
     {
       "titulo": "Milad y clausura de la sede de ANFP: \"Nunca llegó cobranza en 16 años... no sabíamos que debíamos\"",
