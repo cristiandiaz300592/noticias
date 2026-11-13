@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T01:57:27.518123+00:00",
+  "actualizado": "2026-11-13T02:00:29.149882+00:00",
   "noticias": [
     {
       "titulo": "Parte médico: Colo Colo detalló lesiones de Vidal y Correa",
@@ -24,12 +24,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/el-campeon-colo-colo-quiere-mantener-su-buen-ritmo-en-el-amistoso-ante/2026-11-12/213047.html",
       "fecha_publicacion": "2026-11-12 213047"
-    },
-    {
-      "titulo": "Eduardo Vargas tras renovar con la U: Formar parte de los 100 años va a ser increíble",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/eduardo-vargas-tras-renovar-con-la-u-formar-parte-de-los-100-anos-va-a/2026-11-12/212818.html",
-      "fecha_publicacion": "2026-11-12 212818"
     },
     {
       "titulo": "La Roja de Nicolás Córdova quiere mantener el alza en su primer amistoso ante Colombia",
@@ -120,6 +114,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-dejara-amarrado-millonario-contrato-con-casa-de-apuestas/2026-11-12/135154.html",
       "fecha_publicacion": "2026-11-12 135154"
+    },
+    {
+      "titulo": "Jorge Burgos volverá a ser parte del directorio de Azul Azul",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/jorge-burgos-volvera-a-ser-parte-del-directorio-de-azul-azul/2026-11-12/124306.html",
+      "fecha_publicacion": "2026-11-12 124306"
     }
   ]
 }
