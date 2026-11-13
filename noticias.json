@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-13T19:30:26.604878+00:00",
+  "actualizado": "2026-11-13T20:00:28.856587+00:00",
   "noticias": [
+    {
+      "titulo": "Hasta cuatro partidos a la misma hora: programan la crucial penúltima fecha de Liga de Primera",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/13/hasta-cuatro-partidos-aprograman-penultima-fecha-liga-de-primera-2026.shtml",
+      "fecha_publicacion": "2026-11-13 16:34"
+    },
+    {
+      "titulo": "El Claro Arena pasó a la final de los Premios Estadios Summit en España",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/el-claro-arena-paso-a-la-final-de-los-premios-estadios-summit-en-espana/2026-11-13/162048.html",
+      "fecha_publicacion": "2026-11-13 162048"
+    },
     {
       "titulo": "Villanueva contratacó ante desclasificaciones de Mouche: Cuenta por qué no jugabas cuando peleamos el descenso",
       "fuente": "Cooperativa",
@@ -86,12 +98,6 @@
       "fecha_publicacion": "2026-11-12 212818"
     },
     {
-      "titulo": "La Roja de Nicolás Córdova mide su nivel en el primer desafío amistoso contra Colombia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-de-nicolas-cordova-mide-su-nivel-en-el-primer-desafio-amistoso/2026-11-12/212628.html",
-      "fecha_publicacion": "2026-11-12 212628"
-    },
-    {
       "titulo": "La formación de La Roja para el amistoso ante Colombia en Cali",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-formacion-de-la-roja-para-el-amistoso-ante-colombia-en-cali/2026-11-12/210012.html",
@@ -108,12 +114,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-dos-figuras-del-campeon-vidal-y-bolados-lideraron-el-equipo-ideal/2026-11-12/204457.html",
       "fecha_publicacion": "2026-11-12 204457"
-    },
-    {
-      "titulo": "La agenda de La Roja en el Mundial Sub 17 Catar 2026",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-agenda-de-la-roja-en-el-mundial-sub-17-catar-2026/2026-11-11/193425.html",
-      "fecha_publicacion": "2026-11-11 193425"
     }
   ]
 }
