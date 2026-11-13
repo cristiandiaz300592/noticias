@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-13T22:00:33.488370+00:00",
+  "actualizado": "2026-11-13T22:30:26.504576+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEO] Colo Colo sacudió a Racing con un golazo de Gedeón Diaz",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-colo-colo-sacudio-a-racing-con-un-golazo-de-gedeon-diaz/2026-11-13/191957.html",
+      "fecha_publicacion": "2026-11-13 191957"
+    },
     {
       "titulo": "Cecilia Pérez en su salida de Azul Azul: Tratamos de buscar lo mejor para la U",
       "fuente": "Cooperativa",
@@ -14,9 +20,9 @@
       "fecha_publicacion": "2026-11-13 174350"
     },
     {
-      "titulo": "Colo Colo enfrenta a Racing en un amistoso internacional en Concepción",
+      "titulo": "Colo Colo vence a Racing en un amistoso internacional en Concepción",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-enfrenta-a-racing-en-un-amistoso-internacional-en-concepcion/2026-11-13/171611.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-vence-a-racing-en-un-amistoso-internacional-en-concepcion/2026-11-13/171611.html",
       "fecha_publicacion": "2026-11-13 171611"
     },
     {
@@ -114,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/eduardo-vargas-tras-renovar-con-la-u-formar-parte-de-los-100-anos-va-a/2026-11-12/212818.html",
       "fecha_publicacion": "2026-11-12 212818"
-    },
-    {
-      "titulo": "La formación de La Roja para el amistoso ante Colombia en Cali",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-formacion-de-la-roja-para-el-amistoso-ante-colombia-en-cali/2026-11-12/210012.html",
-      "fecha_publicacion": "2026-11-12 210012"
     }
   ]
 }
