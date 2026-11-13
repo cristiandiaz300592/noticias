@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-13T17:00:31.527803+00:00",
+  "actualizado": "2026-11-13T17:30:29.554156+00:00",
   "noticias": [
+    {
+      "titulo": "Mouche destapó pelea que casi termina a golpes en Colo Colo: recibió dura replica de Carlo Villanueva",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/13/mouche-destapo-pelea-que-casi-termina-a-golpes-en-colo-colo-recibio-dura-replica-de-carlo-villanueva.shtml",
+      "fecha_publicacion": "2026-11-13 14:24"
+    },
+    {
+      "titulo": "La Universidad de Chile le reclamó a Azul Azul por acuerdo con casa de apuestas: \"Va contra los valores\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-universidad-de-chile-le-reclamo-a-azul-azul-por-acuerdo-con-casa-de/2026-11-13/141740.html",
+      "fecha_publicacion": "2026-11-13 141740"
+    },
     {
       "titulo": "En Colo Colo adelantaron futuro de De Paul: \"Estará considerado para el año que viene\"",
       "fuente": "Cooperativa",
@@ -56,12 +68,6 @@
       "fecha_publicacion": "2026-11-12 212818"
     },
     {
-      "titulo": "La Roja de Nicolás Córdova mide su nivel en el primer desafío amistoso contra Colombia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-de-nicolas-cordova-mide-su-nivel-en-el-primer-desafio-amistoso/2026-11-12/212628.html",
-      "fecha_publicacion": "2026-11-12 212628"
-    },
-    {
       "titulo": "Córdova explicó ausencia de Carlos Palacios en La Roja: Se lo tiene que ganar en la cancha",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-explico-ausencia-de-carlos-palacios-en-la-roja-se-lo-tiene-que/2026-11-12/204647.html",
@@ -80,12 +86,6 @@
       "fecha_publicacion": "2026-11-12 204457"
     },
     {
-      "titulo": "Universidad de Chile oficializó la renovación de Eduardo Vargas",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/universidad-de-chile-oficializo-la-renovacion-de-eduardo-vargas/2026-11-12/200032.html",
-      "fecha_publicacion": "2026-11-12 200032"
-    },
-    {
       "titulo": "Córdova y la visita a Colombia: Lo más importante es que los rendimientos sean elevados",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-la-visita-a-colombia-lo-mas-importante-es-que-los/2026-11-12/194741.html",
@@ -96,12 +96,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/felipe-faundez-y-el-duelo-con-colombia-estamos-preparados-para-competir/2026-11-12/194728.html",
       "fecha_publicacion": "2026-11-12 194728"
-    },
-    {
-      "titulo": "Chile vs Colombia por amistoso fecha FIFA: a qué hora juegan y dónde verlo en vivo",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/12/chile-vs-colombia-por-amistoso-fecha-fifa-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
-      "fecha_publicacion": "2026-11-12 17:33"
     }
   ]
 }
