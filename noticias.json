@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T22:30:26.504576+00:00",
+  "actualizado": "2026-11-13T23:01:25.069887+00:00",
   "noticias": [
     {
       "titulo": "[VIDEO] Colo Colo sacudió a Racing con un golazo de Gedeón Diaz",
@@ -68,12 +68,6 @@
       "fecha_publicacion": "2026-11-13 14:37"
     },
     {
-      "titulo": "Subió 50 puestos este año y acumuló una millonaria cifra... Los números de la temporada de Alejandro Tabilo",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/13/1217043/alejandro-tabilo-temporada2026-numeros.html",
-      "fecha_publicacion": "2026-11-13 14:29"
-    },
-    {
       "titulo": "Mouche destapó pelea que casi termina a golpes en Colo Colo: recibió dura replica de Carlo Villanueva",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/13/mouche-destapo-pelea-que-casi-termina-a-golpes-en-colo-colo-recibio-dura-replica-de-carlo-villanueva.shtml",
@@ -98,6 +92,12 @@
       "fecha_publicacion": "2026-11-13 12:48"
     },
     {
+      "titulo": "La Roja visita Cali para su primer amistoso frente a Colombia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-visita-cali-para-su-primer-amistoso-frente-a-colombia/2026-11-13/121322.html",
+      "fecha_publicacion": "2026-11-13 121322"
+    },
+    {
       "titulo": "Será rival de La Roja: FIFA anunció al reemplazante de Estados Unidos para el Mundial Sub 17 de Catar",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/13/sera-rival-de-la-roja-fifa-anuncio-al-reemplazante-de-estados-unidos-para-el-mundial-sub-17-de-catar.shtml",
@@ -110,16 +110,16 @@
       "fecha_publicacion": "2026-11-13 08:57"
     },
     {
-      "titulo": "Córdova define el once de La Roja ante Colombia: apostó por repetir fórmula ganadora frente a México",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/13/cordova-define-el-once-de-la-roja-ante-colombia-aposto-por-repetir-formula-ganadora-frente-a-mexico.shtml",
-      "fecha_publicacion": "2026-11-13 08:30"
-    },
-    {
       "titulo": "Eduardo Vargas tras renovar con la U: Formar parte de los 100 años va a ser increíble",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/eduardo-vargas-tras-renovar-con-la-u-formar-parte-de-los-100-anos-va-a/2026-11-12/212818.html",
       "fecha_publicacion": "2026-11-12 212818"
+    },
+    {
+      "titulo": "Con dos figuras del campeón: Vidal y Bolados lideraron el equipo ideal de la fecha 27",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-dos-figuras-del-campeon-vidal-y-bolados-lideraron-el-equipo-ideal/2026-11-12/204457.html",
+      "fecha_publicacion": "2026-11-12 204457"
     }
   ]
 }
