@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-13T01:30:25.355934+00:00",
+  "actualizado": "2026-11-13T01:57:27.518123+00:00",
   "noticias": [
+    {
+      "titulo": "Parte médico: Colo Colo detalló lesiones de Vidal y Correa",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/parte-medico-colo-colo-detallo-lesiones-de-vidal-y-correa/2026-11-12/224031.html",
+      "fecha_publicacion": "2026-11-12 224031"
+    },
     {
       "titulo": "Abogado del herido por choque de Leandro Hernández: No ha sido contactado por nadie de Colo Colo",
       "fuente": "Cooperativa",
@@ -12,6 +18,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-la-continuidad-de-vidal-no-puedo-proyectar-el-2027-si-mi/2026-11-12/220223.html",
       "fecha_publicacion": "2026-11-12 220223"
+    },
+    {
+      "titulo": "El campeón Colo Colo quiere mantener su buen ritmo en el amistoso ante Racing en Concepción",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/el-campeon-colo-colo-quiere-mantener-su-buen-ritmo-en-el-amistoso-ante/2026-11-12/213047.html",
+      "fecha_publicacion": "2026-11-12 213047"
     },
     {
       "titulo": "Eduardo Vargas tras renovar con la U: Formar parte de los 100 años va a ser increíble",
@@ -108,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-dejara-amarrado-millonario-contrato-con-casa-de-apuestas/2026-11-12/135154.html",
       "fecha_publicacion": "2026-11-12 135154"
-    },
-    {
-      "titulo": "Jorge Burgos volverá a ser parte del directorio de Azul Azul",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/jorge-burgos-volvera-a-ser-parte-del-directorio-de-azul-azul/2026-11-12/124306.html",
-      "fecha_publicacion": "2026-11-12 124306"
     }
   ]
 }
