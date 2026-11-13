@@ -1,17 +1,17 @@
 {
-  "actualizado": "2026-11-13T02:00:29.149882+00:00",
+  "actualizado": "2026-11-13T02:30:26.413816+00:00",
   "noticias": [
+    {
+      "titulo": "Canal argentino confundió a la UC y la U en entrevista a Ariel Holan",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/canal-argentino-confundio-a-la-uc-y-la-u-en-entrevista-a-ariel-holan/2026-11-12/230902.html",
+      "fecha_publicacion": "2026-11-12 230902"
+    },
     {
       "titulo": "Parte médico: Colo Colo detalló lesiones de Vidal y Correa",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/parte-medico-colo-colo-detallo-lesiones-de-vidal-y-correa/2026-11-12/224031.html",
       "fecha_publicacion": "2026-11-12 224031"
-    },
-    {
-      "titulo": "Abogado del herido por choque de Leandro Hernández: No ha sido contactado por nadie de Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/abogado-del-herido-por-choque-de-leandro-hernandez-no-ha-sido/2026-11-12/220702.html",
-      "fecha_publicacion": "2026-11-12 220702"
     },
     {
       "titulo": "Ortiz y la continuidad de Vidal: No puedo proyectar el 2027 si mi situación no está resuelta",
@@ -26,9 +26,15 @@
       "fecha_publicacion": "2026-11-12 213047"
     },
     {
-      "titulo": "La Roja de Nicolás Córdova quiere mantener el alza en su primer amistoso ante Colombia",
+      "titulo": "Eduardo Vargas tras renovar con la U: Formar parte de los 100 años va a ser increíble",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-de-nicolas-cordova-quiere-mantener-el-alza-en-su-primer-amistoso/2026-11-12/212628.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/eduardo-vargas-tras-renovar-con-la-u-formar-parte-de-los-100-anos-va-a/2026-11-12/212818.html",
+      "fecha_publicacion": "2026-11-12 212818"
+    },
+    {
+      "titulo": "La Roja de Nicolás Córdova mide su nivel en el primer amistoso contra Colombia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-de-nicolas-cordova-mide-su-nivel-en-el-primer-amistoso-contra/2026-11-12/212628.html",
       "fecha_publicacion": "2026-11-12 212628"
     },
     {
@@ -74,12 +80,6 @@
       "fecha_publicacion": "2026-11-12 17:33"
     },
     {
-      "titulo": "Correa y acuerdo de la U con casa de apuestas: Permitirá enfrentar bien nuestros 100 años",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/correa-y-acuerdo-de-la-u-con-casa-de-apuestas-permitira-enfrentar-bien/2026-11-12/171901.html",
-      "fecha_publicacion": "2026-11-12 171901"
-    },
-    {
       "titulo": "Alejandro Tabilo ya tiene rival y horario para jugar este viernes por el paso a la final del ATP 250 de Estocolmo",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/12/1216912/alejandrotabilo-thiagotirante-semis-atp-estocolmo.html",
@@ -110,16 +110,16 @@
       "fecha_publicacion": "2026-11-12 15:57"
     },
     {
+      "titulo": "Los nombres que asumirán el directorio de Azul Azul",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/los-nombres-que-asumiran-el-directorio-de-azul-azul/2026-11-12/142413.html",
+      "fecha_publicacion": "2026-11-12 142413"
+    },
+    {
       "titulo": "Cecilia Pérez dejará amarrado millonario contrato con casa de apuestas",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-dejara-amarrado-millonario-contrato-con-casa-de-apuestas/2026-11-12/135154.html",
       "fecha_publicacion": "2026-11-12 135154"
-    },
-    {
-      "titulo": "Jorge Burgos volverá a ser parte del directorio de Azul Azul",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/jorge-burgos-volvera-a-ser-parte-del-directorio-de-azul-azul/2026-11-12/124306.html",
-      "fecha_publicacion": "2026-11-12 124306"
     }
   ]
 }
