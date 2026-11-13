@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-11-13T21:30:29.317059+00:00",
+  "actualizado": "2026-11-13T22:00:33.488370+00:00",
   "noticias": [
+    {
+      "titulo": "Cecilia Pérez en su salida de Azul Azul: Tratamos de buscar lo mejor para la U",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-en-su-salida-de-azul-azul-tratamos-de-buscar-lo-mejor/2026-11-13/182022.html",
+      "fecha_publicacion": "2026-11-13 182022"
+    },
     {
       "titulo": "Terminó la era Sartor: Junta de accionistas aprobó el nuevo directorio de Azul Azul",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/termino-la-era-sartor-junta-de-accionistas-aprobo-el-nuevo-directorio/2026-11-13/174350.html",
       "fecha_publicacion": "2026-11-13 174350"
+    },
+    {
+      "titulo": "Colo Colo enfrenta a Racing en un amistoso internacional en Concepción",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-enfrenta-a-racing-en-un-amistoso-internacional-en-concepcion/2026-11-13/171611.html",
+      "fecha_publicacion": "2026-11-13 171611"
     },
     {
       "titulo": "Hasta cuatro partidos a la misma hora: programan la crucial penúltima fecha de Liga de Primera",
@@ -62,6 +74,12 @@
       "fecha_publicacion": "2026-11-13 14:24"
     },
     {
+      "titulo": "La Universidad de Chile le reclamó a Azul Azul por acuerdo con casa de apuestas: \"Va contra los valores\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-universidad-de-chile-le-reclamo-a-azul-azul-por-acuerdo-con-casa-de/2026-11-13/141740.html",
+      "fecha_publicacion": "2026-11-13 141740"
+    },
+    {
       "titulo": "En Colo Colo adelantaron futuro de De Paul: \"Estará considerado para el año que viene\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/en-colo-colo-adelantaron-futuro-de-de-paul-estara-considerado-para-el/2026-11-13/134124.html",
@@ -102,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-formacion-de-la-roja-para-el-amistoso-ante-colombia-en-cali/2026-11-12/210012.html",
       "fecha_publicacion": "2026-11-12 210012"
-    },
-    {
-      "titulo": "Con dos figuras del campeón: Vidal y Bolados lideraron el equipo ideal de la fecha 27",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-dos-figuras-del-campeon-vidal-y-bolados-lideraron-el-equipo-ideal/2026-11-12/204457.html",
-      "fecha_publicacion": "2026-11-12 204457"
     }
   ]
 }
