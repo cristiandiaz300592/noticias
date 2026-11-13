@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-13T19:00:31.850876+00:00",
+  "actualizado": "2026-11-13T19:30:26.604878+00:00",
   "noticias": [
+    {
+      "titulo": "Villanueva contratacó ante desclasificaciones de Mouche: Cuenta por qué no jugabas cuando peleamos el descenso",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/villanueva-contrataco-ante-desclasificaciones-de-mouche-cuenta-por-que/2026-11-13/151617.html",
+      "fecha_publicacion": "2026-11-13 151617"
+    },
     {
       "titulo": "Sudamericano Sub 20 2027: La Roja ya tiene rivales y un camino exigente para llegar al Mundial",
       "fuente": "BioBioChile",
@@ -32,7 +38,7 @@
       "fecha_publicacion": "2026-11-13 14:24"
     },
     {
-      "titulo": "La Universidad de Chile le reclamó a Azul Azul por acuerdo con casa de apuestas: \"Va contra los valores\"",
+      "titulo": "La Universidad de Chile le reclamó a Azul Azul por acuerdo con casa de apuestas: \"Va contra los...",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-universidad-de-chile-le-reclamo-a-azul-azul-por-acuerdo-con-casa-de/2026-11-13/141740.html",
       "fecha_publicacion": "2026-11-13 141740"
@@ -84,6 +90,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-de-nicolas-cordova-mide-su-nivel-en-el-primer-desafio-amistoso/2026-11-12/212628.html",
       "fecha_publicacion": "2026-11-12 212628"
+    },
+    {
+      "titulo": "La formación de La Roja para el amistoso ante Colombia en Cali",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-formacion-de-la-roja-para-el-amistoso-ante-colombia-en-cali/2026-11-12/210012.html",
+      "fecha_publicacion": "2026-11-12 210012"
     },
     {
       "titulo": "Milad y clausura de la sede de ANFP: \"Nunca llegó cobranza en 16 años... no sabíamos que debíamos\"",
