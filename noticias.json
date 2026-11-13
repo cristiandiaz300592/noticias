@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-12T23:30:27.244031+00:00",
+  "actualizado": "2026-11-13T00:00:32.146112+00:00",
   "noticias": [
+    {
+      "titulo": "Milad y clausura de la sede de ANFP: \"Nunca llegó cobranza en 16 años... no sabíamos que debíamos\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/12/milad-y-clausura-de-la-sede-de-anfp-nunca-llego-cobranza-en-16-anos-no-sabiamos-que-debiamos.shtml",
+      "fecha_publicacion": "2026-11-12 20:45"
+    },
+    {
+      "titulo": "Con dos figuras del campeón: Vidal y Bolados lideraron el equipo ideal de la fecha 27",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-dos-figuras-del-campeon-vidal-y-bolados-lideraron-el-equipo-ideal/2026-11-12/204457.html",
+      "fecha_publicacion": "2026-11-12 204457"
+    },
     {
       "titulo": "Universidad de Chile oficializó la renovación de Eduardo Vargas",
       "fuente": "Cooperativa",
@@ -84,12 +96,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/jorge-burgos-volvera-a-ser-parte-del-directorio-de-azul-azul/2026-11-12/124306.html",
       "fecha_publicacion": "2026-11-12 124306"
-    },
-    {
-      "titulo": "Campeón y descendido se definen a la misma hora: así se jugará última fecha de la Liga de Ascenso",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/12/asi-se-jugara-ultima-fecha-de-liga-de-ascenso.shtml",
-      "fecha_publicacion": "2026-11-12 12:33"
     }
   ]
 }
