@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-13T01:00:27.789564+00:00",
+  "actualizado": "2026-11-13T01:30:25.355934+00:00",
   "noticias": [
+    {
+      "titulo": "Abogado del herido por choque de Leandro Hernández: No ha sido contactado por nadie de Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/abogado-del-herido-por-choque-de-leandro-hernandez-no-ha-sido/2026-11-12/220702.html",
+      "fecha_publicacion": "2026-11-12 220702"
+    },
+    {
+      "titulo": "Ortiz y la continuidad de Vidal: No puedo proyectar el 2027 si mi situación no está resuelta",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-la-continuidad-de-vidal-no-puedo-proyectar-el-2027-si-mi/2026-11-12/220223.html",
+      "fecha_publicacion": "2026-11-12 220223"
+    },
     {
       "titulo": "Eduardo Vargas tras renovar con la U: Formar parte de los 100 años va a ser increíble",
       "fuente": "Cooperativa",
@@ -80,22 +92,16 @@
       "fecha_publicacion": "2026-11-12 16:22"
     },
     {
+      "titulo": "Zampedri y el pasillo a Colo Colo: No creo que sea importante hoy en día",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/zampedri-y-el-pasillo-a-colo-colo-no-creo-que-sea-importante-hoy-en-dia/2026-11-12/160400.html",
+      "fecha_publicacion": "2026-11-12 160400"
+    },
+    {
       "titulo": "Milad pone paños fríos a salvación de San Marcos de Arica: descartó trato desigual hacia los clubes",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/12/milad-pone-panos-frios-a-salvacion-de-san-marcos-de-arica-descarto-trato-desigual-hacia-los-clubes.shtml",
       "fecha_publicacion": "2026-11-12 15:57"
-    },
-    {
-      "titulo": "En San Felipe lanzan dardos luego de que se revirtiera la desafiliación de San Marcos de Arica",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/12/1216910/san-marcos-primerab-sanfelipe.html",
-      "fecha_publicacion": "2026-11-12 15:10"
-    },
-    {
-      "titulo": "Los nombres que asumirán el directorio de Azul Azul",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/los-nombres-que-asumiran-el-directorio-de-azul-azul/2026-11-12/142413.html",
-      "fecha_publicacion": "2026-11-12 142413"
     },
     {
       "titulo": "Cecilia Pérez dejará amarrado millonario contrato con casa de apuestas",
