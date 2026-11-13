@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-13T17:30:29.554156+00:00",
+  "actualizado": "2026-11-13T17:53:08.732530+00:00",
   "noticias": [
+    {
+      "titulo": "A qué hora juegan y dónde ver el amistoso internacional entre Chile vs Colombia",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/13/a-que-hora-juegan-y-donde-ver-el-amistoso-internacional-entre-chile-vs-colombia.shtml",
+      "fecha_publicacion": "2026-11-13 14:37"
+    },
+    {
+      "titulo": "Subió 50 puestos este año y acumuló una millonaria cifra... Los números de la temporada de Alejandro Tabilo",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/13/1217043/alejandro-tabilo-temporada2026-numeros.html",
+      "fecha_publicacion": "2026-11-13 14:29"
+    },
     {
       "titulo": "Mouche destapó pelea que casi termina a golpes en Colo Colo: recibió dura replica de Carlo Villanueva",
       "fuente": "BioBioChile",
@@ -24,12 +36,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/13/va-para-largo-lo-de-quilin-aseguran-que-anfp-busca-oficinas-en-otra-comuna-tras-lio-con-penalolen.shtml",
       "fecha_publicacion": "2026-11-13 12:48"
-    },
-    {
-      "titulo": "Alejandro Tabilo cae ante el argentino Thiago Tirante en semis del ATP 250 de Estocolmo y cierra el año",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/13/1217025/alejandrotabilo-thiagotirante-atp250-estocolmo.html",
-      "fecha_publicacion": "2026-11-13 12:07"
     },
     {
       "titulo": "Será rival de La Roja: FIFA anunció al reemplazante de Estados Unidos para el Mundial Sub 17 de Catar",
@@ -68,6 +74,12 @@
       "fecha_publicacion": "2026-11-12 212818"
     },
     {
+      "titulo": "La Roja de Nicolás Córdova mide su nivel en el primer desafío amistoso contra Colombia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-de-nicolas-cordova-mide-su-nivel-en-el-primer-desafio-amistoso/2026-11-12/212628.html",
+      "fecha_publicacion": "2026-11-12 212628"
+    },
+    {
       "titulo": "Córdova explicó ausencia de Carlos Palacios en La Roja: Se lo tiene que ganar en la cancha",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-explico-ausencia-de-carlos-palacios-en-la-roja-se-lo-tiene-que/2026-11-12/204647.html",
@@ -84,12 +96,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-dos-figuras-del-campeon-vidal-y-bolados-lideraron-el-equipo-ideal/2026-11-12/204457.html",
       "fecha_publicacion": "2026-11-12 204457"
-    },
-    {
-      "titulo": "Córdova y la visita a Colombia: Lo más importante es que los rendimientos sean elevados",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-la-visita-a-colombia-lo-mas-importante-es-que-los/2026-11-12/194741.html",
-      "fecha_publicacion": "2026-11-12 194741"
     },
     {
       "titulo": "Felipe Faúndez y el duelo con Colombia: Estamos preparados para competir con cualquier selección",
