@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-13T16:30:28.354639+00:00",
+  "actualizado": "2026-11-13T17:00:31.527803+00:00",
   "noticias": [
+    {
+      "titulo": "En Colo Colo adelantaron futuro de De Paul: \"Estará considerado para el año que viene\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/en-colo-colo-adelantaron-futuro-de-de-paul-estara-considerado-para-el/2026-11-13/134124.html",
+      "fecha_publicacion": "2026-11-13 134124"
+    },
     {
       "titulo": "\"Va para largo lo de Quilín\": aseguran que ANFP busca oficinas en otra comuna tras lío con Peñalolén",
       "fuente": "BioBioChile",
@@ -36,6 +42,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-la-continuidad-de-vidal-no-puedo-proyectar-el-2027-si-mi/2026-11-12/220223.html",
       "fecha_publicacion": "2026-11-12 220223"
+    },
+    {
+      "titulo": "El campeón Colo Colo quiere mantener su buen ritmo en amistoso ante Racing",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/el-campeon-colo-colo-quiere-mantener-su-buen-ritmo-en-amistoso-ante-racing/2026-11-12/213047.html",
+      "fecha_publicacion": "2026-11-12 213047"
     },
     {
       "titulo": "Eduardo Vargas tras renovar con la U: Formar parte de los 100 años va a ser increíble",
@@ -90,12 +102,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/12/chile-vs-colombia-por-amistoso-fecha-fifa-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
       "fecha_publicacion": "2026-11-12 17:33"
-    },
-    {
-      "titulo": "Correa y acuerdo de la U con casa de apuestas: Permitirá enfrentar bien nuestros 100 años",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/correa-y-acuerdo-de-la-u-con-casa-de-apuestas-permitira-enfrentar-bien/2026-11-12/171901.html",
-      "fecha_publicacion": "2026-11-12 171901"
     }
   ]
 }
