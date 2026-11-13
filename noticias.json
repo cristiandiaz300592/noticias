@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-13T17:53:08.732530+00:00",
+  "actualizado": "2026-11-13T18:00:32.273305+00:00",
   "noticias": [
+    {
+      "titulo": "Cruzados confirmó su apoyo a la lista de Uauy y Tagle para la ANFP",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/cruzados-confirmo-su-apoyo-a-la-lista-de-uauy-y-tagle-para-la-anfp/2026-11-13/143822.html",
+      "fecha_publicacion": "2026-11-13 143822"
+    },
     {
       "titulo": "A qué hora juegan y dónde ver el amistoso internacional entre Chile vs Colombia",
       "fuente": "BioBioChile",
@@ -98,10 +104,10 @@
       "fecha_publicacion": "2026-11-12 204457"
     },
     {
-      "titulo": "Felipe Faúndez y el duelo con Colombia: Estamos preparados para competir con cualquier selección",
+      "titulo": "La agenda de La Roja en el Mundial Sub 17 Catar 2026",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/felipe-faundez-y-el-duelo-con-colombia-estamos-preparados-para-competir/2026-11-12/194728.html",
-      "fecha_publicacion": "2026-11-12 194728"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-agenda-de-la-roja-en-el-mundial-sub-17-catar-2026/2026-11-11/193425.html",
+      "fecha_publicacion": "2026-11-11 193425"
     }
   ]
 }
