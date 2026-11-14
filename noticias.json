@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T21:30:34.357071+00:00",
+  "actualizado": "2026-11-14T22:00:29.786089+00:00",
   "noticias": [
     {
       "titulo": "El duro descargo de Ronald Fuentes por polémico cierre de la B y Mario Salas lanza llamativa arenga en Cobreloa",
@@ -44,6 +44,12 @@
       "fecha_publicacion": "2026-11-14 13:50"
     },
     {
+      "titulo": "Néstor Lorenzo, DT de Colombia: \"Chile tiene un equipo muy bien trabajado\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nestor-lorenzo-dt-de-colombia-chile-tiene-un-equipo-muy-bien-trabajado/2026-11-14/125429.html",
+      "fecha_publicacion": "2026-11-14 125429"
+    },
+    {
       "titulo": "Marcelo Bielsa reaparece en la órbita de La Roja: aseguran que la ANFP buscará regreso del ’Loco’",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/14/marcelo-bielsa-reaparece-en-la-orbita-de-la-roja-aseguran-que-la-anfp-buscara-regreso-del-loco.shtml",
@@ -80,6 +86,12 @@
       "fecha_publicacion": "2026-11-13 23:39"
     },
     {
+      "titulo": "Vidal tras la caída de La Roja con Colombia: \"Agradecemos el esfuerzo, pero así no se puede\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-tras-la-caida-de-la-roja-con-colombia-agradecemos-el-esfuerzo/2026-11-13/232136.html",
+      "fecha_publicacion": "2026-11-13 232136"
+    },
+    {
       "titulo": "La Roja tuvo otra actuación de bajo nivel y estiró su negativa racha ante Colombia",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-tuvo-otra-actuacion-de-bajo-nivel-y-estiro-su-negativa-racha/2026-11-13/231657.html",
@@ -98,22 +110,16 @@
       "fecha_publicacion": "2026-11-13 21:53"
     },
     {
-      "titulo": "Colo Colo se estrenó como campeón con un triunfo en el amistoso ante Racing en Concepción",
+      "titulo": "Colo Colo venció a Racing y mantuvo el ritmo ganador de cara al clásico con la UC",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-se-estreno-como-campeon-con-un-triunfo-en-el-amistoso-ante/2026-11-13/204442.html",
-      "fecha_publicacion": "2026-11-13 204442"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-vencio-a-racing-y-mantuvo-el-ritmo-ganador-de-cara-al-clasico/2026-11-13/211607.html",
+      "fecha_publicacion": "2026-11-13 211607"
     },
     {
       "titulo": "Terminó la era Sartor: Junta de accionistas aprobó el nuevo directorio de Azul Azul",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/termino-la-era-sartor-junta-de-accionistas-aprobo-el-nuevo-directorio/2026-11-13/174350.html",
       "fecha_publicacion": "2026-11-13 174350"
-    },
-    {
-      "titulo": "La Universidad de Chile le reclamó a Azul Azul por acuerdo con casa de apuestas: \"Va contra los valores\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-universidad-de-chile-le-reclamo-a-azul-azul-por-acuerdo-con-casa-de/2026-11-13/141740.html",
-      "fecha_publicacion": "2026-11-13 141740"
     }
   ]
 }
