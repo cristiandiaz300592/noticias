@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-11-14T20:00:30.237838+00:00",
+  "actualizado": "2026-11-14T20:30:25.628414+00:00",
   "noticias": [
+    {
+      "titulo": "Lichnovsky le respondió a Colo Colo con insultante sobrenombre",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lichnovsky-le-respondio-a-colo-colo-con-insultante-sobrenombre/2026-11-14/170722.html",
+      "fecha_publicacion": "2026-11-14 170722"
+    },
     {
       "titulo": "Continúan apareciendo nombres para dirigir a La Roja: confirman que Gustavo Álvarez está en la terna",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/14/continuan-apareciendo-nombres-para-dirigir-a-la-roja-confirman-que-gustavo-alvarez-esta-en-la-terna.shtml",
       "fecha_publicacion": "2026-11-14 16:53"
+    },
+    {
+      "titulo": "Aníbal Mosa: Pensé en irme, si no compraba más participación me iba",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/anibal-mosa-pense-en-irme-si-no-compraba-mas-participacion-me-iba/2026-11-14/165233.html",
+      "fecha_publicacion": "2026-11-14 165233"
     },
     {
       "titulo": "Dominio continental: Colo Colo y la U destacan en el top 10 de Sudamérica según prestigioso estudio",
@@ -108,18 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/termino-la-era-sartor-junta-de-accionistas-aprobo-el-nuevo-directorio/2026-11-13/174350.html",
       "fecha_publicacion": "2026-11-13 174350"
-    },
-    {
-      "titulo": "La Universidad de Chile le reclamó a Azul Azul por acuerdo con casa de apuestas: \"Va contra los valores\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-universidad-de-chile-le-reclamo-a-azul-azul-por-acuerdo-con-casa-de/2026-11-13/141740.html",
-      "fecha_publicacion": "2026-11-13 141740"
-    },
-    {
-      "titulo": "Con dos figuras del campeón: Vidal y Bolados lideraron el equipo ideal de la fecha 27",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-dos-figuras-del-campeon-vidal-y-bolados-lideraron-el-equipo-ideal/2026-11-12/204457.html",
-      "fecha_publicacion": "2026-11-12 204457"
     }
   ]
 }
