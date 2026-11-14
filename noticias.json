@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-14T22:30:28.742749+00:00",
+  "actualizado": "2026-11-14T23:00:32.283828+00:00",
   "noticias": [
+    {
+      "titulo": "Lautaro de Buin volvió al profesionalismo: venció a Malleco y ascendió a Segunda División",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/14/lautaro-de-buin-volvio-al-profesionalismo-ascendio-a-segunda-division.shtml",
+      "fecha_publicacion": "2026-11-14 19:44"
+    },
     {
       "titulo": "El duro descargo de Ronald Fuentes por polémico cierre de la B y Mario Salas lanza llamativa arenga en Cobreloa",
       "fuente": "Emol",
@@ -96,12 +102,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/13/colombia-chile-amistoso-triunfo-cafetero-en-cali-autogol-maripan.shtml",
       "fecha_publicacion": "2026-11-13 23:04"
-    },
-    {
-      "titulo": "Error en salida y autogol de Guillermo Maripán: el tanto de Colombia para amargar a Chile en amistoso",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/13/colombia-chile-autogol-guillermo-maripan-y-le-llueven-las-criticas.shtml",
-      "fecha_publicacion": "2026-11-13 21:53"
     },
     {
       "titulo": "Colo Colo venció a Racing y mantuvo el ritmo ganador de cara al clásico con la UC",
