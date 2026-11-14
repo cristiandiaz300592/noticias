@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-14T19:30:25.227817+00:00",
+  "actualizado": "2026-11-14T20:00:30.237838+00:00",
   "noticias": [
+    {
+      "titulo": "Continúan apareciendo nombres para dirigir a La Roja: confirman que Gustavo Álvarez está en la terna",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/14/continuan-apareciendo-nombres-para-dirigir-a-la-roja-confirman-que-gustavo-alvarez-esta-en-la-terna.shtml",
+      "fecha_publicacion": "2026-11-14 16:53"
+    },
     {
       "titulo": "Dominio continental: Colo Colo y la U destacan en el top 10 de Sudamérica según prestigioso estudio",
       "fuente": "Cooperativa",
@@ -50,10 +56,10 @@
       "fecha_publicacion": "2026-11-14 005815"
     },
     {
-      "titulo": "La Roja no tuvo remates al arco en la derrota ante Colombia en Cali",
+      "titulo": "Córdova y la caída en Cali: Queda el sabor amargo que ganaron con un gol que ellos no generan",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-no-tuvo-remates-al-arco-en-la-derrota-ante-colombia-en-cali/2026-11-13/234547.html",
-      "fecha_publicacion": "2026-11-13 234547"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-la-caida-en-cali-queda-el-sabor-amargo-que-ganaron-con-un-gol/2026-11-14/003100.html",
+      "fecha_publicacion": "2026-11-14 003100"
     },
     {
       "titulo": "El positivo análisis de Gabriel Suazo tras derrota en Colombia: \"Estamos construyendo un gran equipo\"",
@@ -86,6 +92,12 @@
       "fecha_publicacion": "2026-11-13 21:53"
     },
     {
+      "titulo": "Colo Colo se estrenó como campeón con un triunfo en el amistoso ante Racing en Concepción",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-se-estreno-como-campeon-con-un-triunfo-en-el-amistoso-ante/2026-11-13/204442.html",
+      "fecha_publicacion": "2026-11-13 204442"
+    },
+    {
       "titulo": "Cecilia Pérez en su salida de Azul Azul: Tratamos de buscar lo mejor para la U",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-en-su-salida-de-azul-azul-tratamos-de-buscar-lo-mejor/2026-11-13/182022.html",
@@ -96,12 +108,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/termino-la-era-sartor-junta-de-accionistas-aprobo-el-nuevo-directorio/2026-11-13/174350.html",
       "fecha_publicacion": "2026-11-13 174350"
-    },
-    {
-      "titulo": "El Claro Arena pasó a la final de los Premios Estadios Summit en España",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/el-claro-arena-paso-a-la-final-de-los-premios-estadios-summit-en-espana/2026-11-13/162048.html",
-      "fecha_publicacion": "2026-11-13 162048"
     },
     {
       "titulo": "La Universidad de Chile le reclamó a Azul Azul por acuerdo con casa de apuestas: \"Va contra los valores\"",
