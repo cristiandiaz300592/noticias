@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-14T17:30:36.682840+00:00",
+  "actualizado": "2026-11-14T18:00:30.882596+00:00",
   "noticias": [
+    {
+      "titulo": "Dominio continental: Colo Colo y la U destacan en el top 10 de Sudamérica según prestigioso estudio",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/dominio-continental-colo-colo-y-la-u-destacan-en-el-top-10-de/2026-11-14/145503.html",
+      "fecha_publicacion": "2026-11-14 145503"
+    },
+    {
+      "titulo": "Gustavo Alvarez apareció como candidato para la banca de La Roja",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/gustavo-alvarez-aparecio-como-candidato-para-la-banca-de-la-roja/2026-11-14/141713.html",
+      "fecha_publicacion": "2026-11-14 141713"
+    },
     {
       "titulo": "Arturo Vidal se deshace en críticas hacia Nicolás Córdova tras derrota en amistoso ante Colombia",
       "fuente": "BioBioChile",
@@ -62,10 +74,10 @@
       "fecha_publicacion": "2026-11-13 23:39"
     },
     {
-      "titulo": "La Roja tuvo otra actuación de bajo nivel y estiró su negativa racha ante Colombia",
+      "titulo": "Vidal tras la caída de La Roja con Colombia: \"Agradecemos el esfuerzo, pero así no se puede\"",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-tuvo-otra-actuacion-de-bajo-nivel-y-estiro-su-negativa-racha/2026-11-13/231657.html",
-      "fecha_publicacion": "2026-11-13 231657"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-tras-la-caida-de-la-roja-con-colombia-agradecemos-el-esfuerzo/2026-11-13/232136.html",
+      "fecha_publicacion": "2026-11-13 232136"
     },
     {
       "titulo": "Autogol de Maripán fue clave: Colombia derrotó a Chile en Cali y expuso falencias de La Roja",
@@ -80,16 +92,16 @@
       "fecha_publicacion": "2026-11-13 21:53"
     },
     {
-      "titulo": "¿Cuándo y dónde ver el segundo amistoso entre La Roja y Colombia?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-segundo-amistoso-entre-la-roja-y-colombia/2026-11-13/204647.html",
-      "fecha_publicacion": "2026-11-13 204647"
-    },
-    {
       "titulo": "Colo Colo se estrenó como campeón con un triunfo en el amistoso ante Racing en Concepción",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-se-estreno-como-campeon-con-un-triunfo-en-el-amistoso-ante/2026-11-13/204442.html",
       "fecha_publicacion": "2026-11-13 204442"
+    },
+    {
+      "titulo": "Cecilia Pérez en su salida de Azul Azul: Tratamos de buscar lo mejor para la U",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-en-su-salida-de-azul-azul-tratamos-de-buscar-lo-mejor/2026-11-13/182022.html",
+      "fecha_publicacion": "2026-11-13 182022"
     },
     {
       "titulo": "Terminó la era Sartor: Junta de accionistas aprobó el nuevo directorio de Azul Azul",
@@ -98,22 +110,10 @@
       "fecha_publicacion": "2026-11-13 174350"
     },
     {
-      "titulo": "Hasta cuatro partidos a la misma hora: programan la crucial penúltima fecha de Liga de Primera",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/13/hasta-cuatro-partidos-aprograman-penultima-fecha-liga-de-primera-2026.shtml",
-      "fecha_publicacion": "2026-11-13 16:34"
-    },
-    {
       "titulo": "El Claro Arena pasó a la final de los Premios Estadios Summit en España",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/el-claro-arena-paso-a-la-final-de-los-premios-estadios-summit-en-espana/2026-11-13/162048.html",
       "fecha_publicacion": "2026-11-13 162048"
-    },
-    {
-      "titulo": "La Universidad de Chile le reclamó a Azul Azul por acuerdo con casa de apuestas: \"Va contra los valores\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-universidad-de-chile-le-reclamo-a-azul-azul-por-acuerdo-con-casa-de/2026-11-13/141740.html",
-      "fecha_publicacion": "2026-11-13 141740"
     },
     {
       "titulo": "Con dos figuras del campeón: Vidal y Bolados lideraron el equipo ideal de la fecha 27",
