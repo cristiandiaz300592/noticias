@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-14T02:00:32.312325+00:00",
+  "actualizado": "2026-11-14T02:30:25.612184+00:00",
   "noticias": [
+    {
+      "titulo": "Vidal tras la caída de La Roja con Colombia: \"Agradecemos el esfuerzo, pero así no se puede\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-tras-la-caida-de-la-roja-con-colombia-agradecemos-el-esfuerzo/2026-11-13/232136.html",
+      "fecha_publicacion": "2026-11-13 232136"
+    },
+    {
+      "titulo": "La Roja tuvo otra actuación de bajo nivel y estiró su negativa racha ante Colombia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-tuvo-otra-actuacion-de-bajo-nivel-y-estiro-su-negativa-racha/2026-11-13/231657.html",
+      "fecha_publicacion": "2026-11-13 231657"
+    },
+    {
+      "titulo": "Autogol de Maripán fue clave: Colombia derrotó a Chile en Cali y expuso falencias de La Roja",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/13/colombia-chile-amistoso-triunfo-cafetero-en-cali-autogol-maripan.shtml",
+      "fecha_publicacion": "2026-11-13 23:04"
+    },
     {
       "titulo": "\"King\" en modo DT: La estrategia de Vidal para remontar el partido ante Colombia",
       "fuente": "Cooperativa",
@@ -20,7 +38,7 @@
       "fecha_publicacion": "2026-11-13 214537"
     },
     {
-      "titulo": "De amistoso tuvo poco: Colo Colo vence a Racing en un conflictivo duelo y estrena con victoria su 35 estrella",
+      "titulo": "De amistoso tuvo poco: Colo Colo vence a Racing en un duelo caliente y estrena con victoria su 35.a estrella",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/13/1217085/colocolo-vs-racing.html",
       "fecha_publicacion": "2026-11-13 21:32"
@@ -98,22 +116,10 @@
       "fecha_publicacion": "2026-11-13 12:48"
     },
     {
-      "titulo": "[Radio en vivo🎙] La Roja cae en su amistoso frente a Colombia en Cali",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/radio-en-vivo-la-roja-cae-en-su-amistoso-frente-a-colombia-en-cali/2026-11-13/121322.html",
-      "fecha_publicacion": "2026-11-13 121322"
-    },
-    {
       "titulo": "Eduardo Vargas tras renovar con la U: Formar parte de los 100 años va a ser increíble",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/eduardo-vargas-tras-renovar-con-la-u-formar-parte-de-los-100-anos-va-a/2026-11-12/212818.html",
       "fecha_publicacion": "2026-11-12 212818"
-    },
-    {
-      "titulo": "Con dos figuras del campeón: Vidal y Bolados lideraron el equipo ideal de la fecha 27",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-dos-figuras-del-campeon-vidal-y-bolados-lideraron-el-equipo-ideal/2026-11-12/204457.html",
-      "fecha_publicacion": "2026-11-12 204457"
     }
   ]
 }
