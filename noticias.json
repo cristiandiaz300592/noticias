@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-14T23:07:50.949261+00:00",
+  "actualizado": "2026-11-14T23:30:26.429216+00:00",
   "noticias": [
+    {
+      "titulo": "El botín fue para los ’piratas’: Coquimbo goleó a O’Higgins y conquistó la primera Copa de la Liga",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/14/copa-de-la-liga-coquimbo-unido-goleo-a-ohiggins-en-la-final.shtml",
+      "fecha_publicacion": "2026-11-14 20:27"
+    },
+    {
+      "titulo": "En simultáneo por el Chile 2 y el descenso: ANFP programó la penúltima fecha del torneo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/en-simultaneo-por-el-chile-2-y-el-descenso-anfp-programo-la-penultima/2026-11-14/202443.html",
+      "fecha_publicacion": "2026-11-14 202443"
+    },
     {
       "titulo": "Lautaro de Buin volvió al profesionalismo: venció a Malleco y ascendió a Segunda División",
       "fuente": "BioBioChile",
@@ -32,12 +44,6 @@
       "fecha_publicacion": "2026-11-14 145503"
     },
     {
-      "titulo": "Gustavo Alvarez apareció como candidato para la banca de La Roja",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/gustavo-alvarez-aparecio-como-candidato-para-la-banca-de-la-roja/2026-11-14/141713.html",
-      "fecha_publicacion": "2026-11-14 141713"
-    },
-    {
       "titulo": "Arturo Vidal se deshace en críticas hacia Nicolás Córdova tras derrota en amistoso ante Colombia",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/14/arturo-vidal-se-deshace-en-criticas-hacia-nicolas-cordova-tras-derrota-en-amistoso-ante-colombia.shtml",
@@ -60,12 +66,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-pidio-a-zampedri-aranguiz-y-vargas-para-la-roja-no-importa-la/2026-11-14/103818.html",
       "fecha_publicacion": "2026-11-14 103818"
-    },
-    {
-      "titulo": "Gabriel Suazo: Más allá de las imprecisiones, jugamos al máximo hasta el final",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/gabriel-suazo-mas-alla-de-las-imprecisiones-jugamos-al-maximo-hasta-el/2026-11-14/005815.html",
-      "fecha_publicacion": "2026-11-14 005815"
     },
     {
       "titulo": "Córdova y la caída en Cali: Queda el sabor amargo que ganaron con un gol que ellos no generan",
