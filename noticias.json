@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-14T15:00:32.190803+00:00",
+  "actualizado": "2026-11-14T15:30:26.610621+00:00",
   "noticias": [
+    {
+      "titulo": "Ortiz y su renovación en Colo Colo: Depende cien por ciento de Mosa",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-su-renovacion-en-colo-colo-depende-cien-por-ciento-de-mosa/2026-11-14/120106.html",
+      "fecha_publicacion": "2026-11-14 120106"
+    },
     {
       "titulo": "Marcelo Bielsa reaparece en la órbita de La Roja: aseguran que la ANFP buscará regreso del ’Loco’",
       "fuente": "BioBioChile",
@@ -26,10 +32,10 @@
       "fecha_publicacion": "2026-11-14 005815"
     },
     {
-      "titulo": "La Roja no tuvo remates al arco en la derrota ante Colombia en Cali",
+      "titulo": "Córdova y la caída en Cali: Queda el sabor amargo que ganaron con un gol que ellos no generan",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-no-tuvo-remates-al-arco-en-la-derrota-ante-colombia-en-cali/2026-11-13/234547.html",
-      "fecha_publicacion": "2026-11-13 234547"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-la-caida-en-cali-queda-el-sabor-amargo-que-ganaron-con-un-gol/2026-11-14/003100.html",
+      "fecha_publicacion": "2026-11-14 003100"
     },
     {
       "titulo": "El positivo análisis de Gabriel Suazo tras derrota en Colombia: \"Estamos construyendo un gran equipo\"",
@@ -66,6 +72,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-segundo-amistoso-entre-la-roja-y-colombia/2026-11-13/204647.html",
       "fecha_publicacion": "2026-11-13 204647"
+    },
+    {
+      "titulo": "Colo Colo se estrenó como campeón con un triunfo en el amistoso ante Racing en Concepción",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-se-estreno-como-campeon-con-un-triunfo-en-el-amistoso-ante/2026-11-13/204442.html",
+      "fecha_publicacion": "2026-11-13 204442"
     },
     {
       "titulo": "Colo Colo recibió en Concepción la visita de Maxi, el niño que emocionó a todos en la Teletón",
