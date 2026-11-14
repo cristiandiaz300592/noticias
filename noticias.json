@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-14T02:30:25.612184+00:00",
+  "actualizado": "2026-11-14T03:00:27.369136+00:00",
   "noticias": [
+    {
+      "titulo": "La Roja no tuvo remates al arco en la derrota ante Colombia en Cali",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-no-tuvo-remates-al-arco-en-la-derrota-ante-colombia-en-cali/2026-11-13/234547.html",
+      "fecha_publicacion": "2026-11-13 234547"
+    },
+    {
+      "titulo": "El positivo análisis de Gabriel Suazo tras derrota en Colombia: \"Estamos construyendo un gran equipo\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/13/gabriel-suazo-amistoso-colombia-chile.shtml",
+      "fecha_publicacion": "2026-11-13 23:39"
+    },
     {
       "titulo": "Vidal tras la caída de La Roja con Colombia: \"Agradecemos el esfuerzo, pero así no se puede\"",
       "fuente": "Cooperativa",
@@ -32,16 +44,16 @@
       "fecha_publicacion": "2026-11-13 21:53"
     },
     {
-      "titulo": "[VIDEO] Colombia abrió el marcador ante La Roja gracias a un autogol de Guillermo Maripán",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/video-colombia-abrio-el-marcador-ante-la-roja-gracias-a-un-autogol-de/2026-11-13/214537.html",
-      "fecha_publicacion": "2026-11-13 214537"
-    },
-    {
       "titulo": "De amistoso tuvo poco: Colo Colo vence a Racing en un duelo caliente y estrena con victoria su 35.a estrella",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/13/1217085/colocolo-vs-racing.html",
       "fecha_publicacion": "2026-11-13 21:32"
+    },
+    {
+      "titulo": "¿Cuándo y dónde ver el segundo amistoso entre La Roja y Colombia?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-segundo-amistoso-entre-la-roja-y-colombia/2026-11-13/204647.html",
+      "fecha_publicacion": "2026-11-13 204647"
     },
     {
       "titulo": "Colo Colo se estrenó como campeón con un triunfo en el amistoso ante Racing en Concepción",
@@ -108,18 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/en-colo-colo-adelantaron-futuro-de-de-paul-estara-considerado-para-el/2026-11-13/134124.html",
       "fecha_publicacion": "2026-11-13 134124"
-    },
-    {
-      "titulo": "\"Va para largo lo de Quilín\": aseguran que ANFP busca oficinas en otra comuna tras lío con Peñalolén",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/13/va-para-largo-lo-de-quilin-aseguran-que-anfp-busca-oficinas-en-otra-comuna-tras-lio-con-penalolen.shtml",
-      "fecha_publicacion": "2026-11-13 12:48"
-    },
-    {
-      "titulo": "Eduardo Vargas tras renovar con la U: Formar parte de los 100 años va a ser increíble",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/eduardo-vargas-tras-renovar-con-la-u-formar-parte-de-los-100-anos-va-a/2026-11-12/212818.html",
-      "fecha_publicacion": "2026-11-12 212818"
     }
   ]
 }
