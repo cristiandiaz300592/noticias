@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-14T00:00:31.601948+00:00",
+  "actualizado": "2026-11-14T00:30:29.217624+00:00",
   "noticias": [
+    {
+      "titulo": "Colo Colo se estrenó como campeón con un triunfo en el amistoso ante Racing en Concepción",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-se-estreno-como-campeon-con-un-triunfo-en-el-amistoso-ante/2026-11-13/204442.html",
+      "fecha_publicacion": "2026-11-13 204442"
+    },
     {
       "titulo": "Colo Colo recibió en Concepción la visita de Maxi, el niño que emocionó a todos en la Teletón",
       "fuente": "Cooperativa",
@@ -20,22 +26,10 @@
       "fecha_publicacion": "2026-11-13 191957"
     },
     {
-      "titulo": "Cecilia Pérez en su salida de Azul Azul: Tratamos de buscar lo mejor para la U",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-en-su-salida-de-azul-azul-tratamos-de-buscar-lo-mejor/2026-11-13/182022.html",
-      "fecha_publicacion": "2026-11-13 182022"
-    },
-    {
       "titulo": "Terminó la era Sartor: Junta de accionistas aprobó el nuevo directorio de Azul Azul",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/termino-la-era-sartor-junta-de-accionistas-aprobo-el-nuevo-directorio/2026-11-13/174350.html",
       "fecha_publicacion": "2026-11-13 174350"
-    },
-    {
-      "titulo": "Colo Colo venció a Racing en un amistoso internacional en Concepción",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-vencio-a-racing-en-un-amistoso-internacional-en-concepcion/2026-11-13/171611.html",
-      "fecha_publicacion": "2026-11-13 171611"
     },
     {
       "titulo": "Hasta cuatro partidos a la misma hora: programan la crucial penúltima fecha de Liga de Primera",
@@ -92,9 +86,9 @@
       "fecha_publicacion": "2026-11-13 12:48"
     },
     {
-      "titulo": "[Radio en vivo🎙] La Roja enfrenta su primer amistoso frente a Colombia en Cali",
+      "titulo": "[Radio en vivo🎙] La Roja iguala en su amistoso frente a Colombia en Cali",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/radio-en-vivo-la-roja-enfrenta-su-primer-amistoso-frente-a-colombia/2026-11-13/121322.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/radio-en-vivo-la-roja-iguala-en-su-amistoso-frente-a-colombia-en-cali/2026-11-13/121322.html",
       "fecha_publicacion": "2026-11-13 121322"
     },
     {
