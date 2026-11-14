@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-14T13:30:23.970209+00:00",
+  "actualizado": "2026-11-14T14:00:29.678864+00:00",
   "noticias": [
+    {
+      "titulo": "Vidal pidió a Zampedri, Aránguiz y Vargas para La Roja: \"No importa la edad\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-pidio-a-zampedri-aranguiz-y-vargas-para-la-roja-no-importa-la/2026-11-14/103818.html",
+      "fecha_publicacion": "2026-11-14 103818"
+    },
     {
       "titulo": "A qué hora se enfrentan Coquimbo y O'Higgins por la final de la Copa de la Liga, las formaciones y el premio para el campeón",
       "fuente": "Emol",
@@ -12,12 +18,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/gabriel-suazo-mas-alla-de-las-imprecisiones-jugamos-al-maximo-hasta-el/2026-11-14/005815.html",
       "fecha_publicacion": "2026-11-14 005815"
-    },
-    {
-      "titulo": "Córdova y la caída en Cali: Queda el sabor amargo que ganaron con un gol que ellos no generan",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-la-caida-en-cali-queda-el-sabor-amargo-que-ganaron-con-un-gol/2026-11-14/003100.html",
-      "fecha_publicacion": "2026-11-14 003100"
     },
     {
       "titulo": "La Roja no tuvo remates al arco en la derrota ante Colombia en Cali",
@@ -56,10 +56,10 @@
       "fecha_publicacion": "2026-11-13 21:53"
     },
     {
-      "titulo": "Colo Colo se estrenó como campeón con un triunfo en el amistoso ante Racing en Concepción",
+      "titulo": "¿Cuándo y dónde ver el segundo amistoso entre La Roja y Colombia?",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-se-estreno-como-campeon-con-un-triunfo-en-el-amistoso-ante/2026-11-13/204442.html",
-      "fecha_publicacion": "2026-11-13 204442"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-segundo-amistoso-entre-la-roja-y-colombia/2026-11-13/204647.html",
+      "fecha_publicacion": "2026-11-13 204647"
     },
     {
       "titulo": "Colo Colo recibió en Concepción la visita de Maxi, el niño que emocionó a todos en la Teletón",
@@ -92,10 +92,10 @@
       "fecha_publicacion": "2026-11-13 162048"
     },
     {
-      "titulo": "Sudamericano Sub 20 2027: La Roja ya tiene rivales y un camino exigente para llegar al Mundial",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/13/sudamericano-sub-20-2027-la-roja-ya-tiene-rivales-y-un-camino-exigente-para-llegar-al-mundial.shtml",
-      "fecha_publicacion": "2026-11-13 15:07"
+      "titulo": "La Universidad de Chile le reclamó a Azul Azul por acuerdo con casa de apuestas: \"Va contra los valores\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-universidad-de-chile-le-reclamo-a-azul-azul-por-acuerdo-con-casa-de/2026-11-13/141740.html",
+      "fecha_publicacion": "2026-11-13 141740"
     },
     {
       "titulo": "Con dos figuras del campeón: Vidal y Bolados lideraron el equipo ideal de la fecha 27",
