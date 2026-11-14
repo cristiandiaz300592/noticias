@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T03:00:27.369136+00:00",
+  "actualizado": "2026-11-14T03:30:26.801885+00:00",
   "noticias": [
     {
       "titulo": "La Roja no tuvo remates al arco en la derrota ante Colombia en Cali",
@@ -68,6 +68,12 @@
       "fecha_publicacion": "2026-11-13 202835"
     },
     {
+      "titulo": "Cecilia Pérez en su salida de Azul Azul: Tratamos de buscar lo mejor para la U",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-en-su-salida-de-azul-azul-tratamos-de-buscar-lo-mejor/2026-11-13/182022.html",
+      "fecha_publicacion": "2026-11-13 182022"
+    },
+    {
       "titulo": "Terminó la era Sartor: Junta de accionistas aprobó el nuevo directorio de Azul Azul",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/termino-la-era-sartor-junta-de-accionistas-aprobo-el-nuevo-directorio/2026-11-13/174350.html",
@@ -114,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-universidad-de-chile-le-reclamo-a-azul-azul-por-acuerdo-con-casa-de/2026-11-13/141740.html",
       "fecha_publicacion": "2026-11-13 141740"
-    },
-    {
-      "titulo": "En Colo Colo adelantaron futuro de De Paul: \"Estará considerado para el año que viene\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/en-colo-colo-adelantaron-futuro-de-de-paul-estara-considerado-para-el/2026-11-13/134124.html",
-      "fecha_publicacion": "2026-11-13 134124"
     }
   ]
 }
