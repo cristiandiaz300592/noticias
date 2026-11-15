@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-14T23:30:26.429216+00:00",
+  "actualizado": "2026-11-15T00:00:35.742716+00:00",
   "noticias": [
+    {
+      "titulo": "Nueva baja en defensa: Diego Ulloa fue liberado de La Roja tras sufrir una fractura costal",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nueva-baja-en-defensa-diego-ulloa-fue-liberado-de-la-roja-tras-sufrir/2026-11-14/204644.html",
+      "fecha_publicacion": "2026-11-14 204644"
+    },
+    {
+      "titulo": "La Copa de la Liga fue para Coquimbo: los goles del ’Pirata’ para volver a gritar campeón",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/14/goles-coquimbo-unido-final-copa-de-la-liga-titulo-pirata.shtml",
+      "fecha_publicacion": "2026-11-14 20:42"
+    },
+    {
+      "titulo": "Coquimbo sigue haciendo historia: Golea a O'Higgins, es el campeón de la primera Copa de la Liga y saca cupo a la Libertadores",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/14/1217128/coquimbo-ohiggins-final-copadelaliga-goles.html",
+      "fecha_publicacion": "2026-11-14 20:30"
+    },
     {
       "titulo": "El botín fue para los ’piratas’: Coquimbo goleó a O’Higgins y conquistó la primera Copa de la Liga",
       "fuente": "BioBioChile",
@@ -26,12 +44,6 @@
       "fecha_publicacion": "2026-11-14 17:34"
     },
     {
-      "titulo": "Lichnovsky le respondió a Colo Colo con insultante sobrenombre",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lichnovsky-le-respondio-a-colo-colo-con-insultante-sobrenombre/2026-11-14/170722.html",
-      "fecha_publicacion": "2026-11-14 170722"
-    },
-    {
       "titulo": "Continúan apareciendo nombres para dirigir a La Roja: confirman que Gustavo Álvarez está en la terna",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/14/continuan-apareciendo-nombres-para-dirigir-a-la-roja-confirman-que-gustavo-alvarez-esta-en-la-terna.shtml",
@@ -42,6 +54,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/dominio-continental-colo-colo-y-la-u-destacan-en-el-top-10-de/2026-11-14/145503.html",
       "fecha_publicacion": "2026-11-14 145503"
+    },
+    {
+      "titulo": "Gustavo Alvarez apareció como candidato para la banca de La Roja",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/gustavo-alvarez-aparecio-como-candidato-para-la-banca-de-la-roja/2026-11-14/141713.html",
+      "fecha_publicacion": "2026-11-14 141713"
     },
     {
       "titulo": "Arturo Vidal se deshace en críticas hacia Nicolás Córdova tras derrota en amistoso ante Colombia",
@@ -68,16 +86,10 @@
       "fecha_publicacion": "2026-11-14 103818"
     },
     {
-      "titulo": "Córdova y la caída en Cali: Queda el sabor amargo que ganaron con un gol que ellos no generan",
+      "titulo": "Gabriel Suazo: Más allá de las imprecisiones, jugamos al máximo hasta el final",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-la-caida-en-cali-queda-el-sabor-amargo-que-ganaron-con-un-gol/2026-11-14/003100.html",
-      "fecha_publicacion": "2026-11-14 003100"
-    },
-    {
-      "titulo": "La Roja no tuvo remates al arco en la derrota ante Colombia en Cali",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-no-tuvo-remates-al-arco-en-la-derrota-ante-colombia-en-cali/2026-11-13/234547.html",
-      "fecha_publicacion": "2026-11-13 234547"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/gabriel-suazo-mas-alla-de-las-imprecisiones-jugamos-al-maximo-hasta-el/2026-11-14/005815.html",
+      "fecha_publicacion": "2026-11-14 005815"
     },
     {
       "titulo": "El positivo análisis de Gabriel Suazo tras derrota en Colombia: \"Estamos construyendo un gran equipo\"",
@@ -86,22 +98,10 @@
       "fecha_publicacion": "2026-11-13 23:39"
     },
     {
-      "titulo": "Vidal tras la caída de La Roja con Colombia: \"Agradecemos el esfuerzo, pero así no se puede\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-tras-la-caida-de-la-roja-con-colombia-agradecemos-el-esfuerzo/2026-11-13/232136.html",
-      "fecha_publicacion": "2026-11-13 232136"
-    },
-    {
       "titulo": "La Roja tuvo otra actuación de bajo nivel y estiró su negativa racha ante Colombia",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-tuvo-otra-actuacion-de-bajo-nivel-y-estiro-su-negativa-racha/2026-11-13/231657.html",
       "fecha_publicacion": "2026-11-13 231657"
-    },
-    {
-      "titulo": "Autogol de Maripán fue clave: Colombia derrotó a Chile en Cali y expuso falencias de La Roja",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/13/colombia-chile-amistoso-triunfo-cafetero-en-cali-autogol-maripan.shtml",
-      "fecha_publicacion": "2026-11-13 23:04"
     },
     {
       "titulo": "Colo Colo venció a Racing y mantuvo el ritmo ganador de cara al clásico con la UC",
