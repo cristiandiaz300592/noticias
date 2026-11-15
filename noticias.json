@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T15:00:28.298721+00:00",
+  "actualizado": "2026-11-15T16:00:28.975697+00:00",
   "noticias": [
     {
       "titulo": "’Chupete’ Suazo despierta interés en Primera: dos clubes siguen de cerca al DT revelación de la B 2026",
@@ -74,6 +74,12 @@
       "fecha_publicacion": "2026-11-14 170722"
     },
     {
+      "titulo": "Dominio continental: Colo Colo y la U destacan en el top 10 de Sudamérica según prestigioso estudio",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/dominio-continental-colo-colo-y-la-u-destacan-en-el-top-10-de/2026-11-14/145503.html",
+      "fecha_publicacion": "2026-11-14 145503"
+    },
+    {
       "titulo": "Gustavo Alvarez apareció como candidato para la banca de La Roja",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/gustavo-alvarez-aparecio-como-candidato-para-la-banca-de-la-roja/2026-11-14/141713.html",
@@ -90,18 +96,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/gabriel-suazo-mas-alla-de-las-imprecisiones-jugamos-al-maximo-hasta-el/2026-11-14/005815.html",
       "fecha_publicacion": "2026-11-14 005815"
-    },
-    {
-      "titulo": "Córdova y la caída en Cali: Queda el sabor amargo que ganaron con un gol que ellos no generan",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-la-caida-en-cali-queda-el-sabor-amargo-que-ganaron-con-un-gol/2026-11-14/003100.html",
-      "fecha_publicacion": "2026-11-14 003100"
-    },
-    {
-      "titulo": "Terminó la era Sartor: Junta de accionistas aprobó el nuevo directorio de Azul Azul",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/termino-la-era-sartor-junta-de-accionistas-aprobo-el-nuevo-directorio/2026-11-13/174350.html",
-      "fecha_publicacion": "2026-11-13 174350"
     }
   ]
 }
