@@ -1,11 +1,17 @@
 {
-  "actualizado": "2026-11-15T11:30:27.637943+00:00",
+  "actualizado": "2026-11-15T12:00:28.723240+00:00",
   "noticias": [
+    {
+      "titulo": "Vidal aparece como opción en Rosario Central e hinchas le cierran la puerta: \"Muy caro y problemático\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/15/vidal-aparece-como-opcion-en-rosario-central-e-hinchas-le-cierran-la-puerta-muy-caro-y-problematico.shtml",
+      "fecha_publicacion": "2026-11-15 08:36"
+    },
     {
       "titulo": "Una dura autocrítica, el momento en que pensó irse... Las definiciones de Mosa tras ganar un nuevo título con Colo Colo",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/15/1217140/anibal-mosa-colocolo-titulo-entrevista.html",
-      "fecha_publicacion": "2026-11-15 08:23"
+      "fecha_publicacion": "2026-11-15 08:32"
     },
     {
       "titulo": "Con dedicatoria a La Serena: Los festejos de Coquimbo tras ganar la Copa de la Liga",
@@ -84,12 +90,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/14/arturo-vidal-se-deshace-en-criticas-hacia-nicolas-cordova-tras-derrota-en-amistoso-ante-colombia.shtml",
       "fecha_publicacion": "2026-11-14 13:50"
-    },
-    {
-      "titulo": "Marcelo Bielsa reaparece en la órbita de La Roja: aseguran que la ANFP buscará regreso del ’Loco’",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/14/marcelo-bielsa-reaparece-en-la-orbita-de-la-roja-aseguran-que-la-anfp-buscara-regreso-del-loco.shtml",
-      "fecha_publicacion": "2026-11-14 11:30"
     },
     {
       "titulo": "Vidal pidió a Zampedri, Aránguiz y Vargas para La Roja: \"No importa la edad\"",
