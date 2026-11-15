@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-15T01:00:31.838806+00:00",
+  "actualizado": "2026-11-15T01:30:24.145785+00:00",
   "noticias": [
+    {
+      "titulo": "Con dedicatoria a La Serena: Los festejos de Coquimbo Unido tras ganar la Copa de la Liga",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/14/1217132/coquimbo-unido-campeon-copadeliga-festejos.html",
+      "fecha_publicacion": "2026-11-14 22:00"
+    },
     {
       "titulo": "La Roja perdió a otro defensa: Diego Ulloa fue liberado tras sufrir fractura ante Colombia",
       "fuente": "BioBioChile",
@@ -78,12 +84,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/14/arturo-vidal-se-deshace-en-criticas-hacia-nicolas-cordova-tras-derrota-en-amistoso-ante-colombia.shtml",
       "fecha_publicacion": "2026-11-14 13:50"
-    },
-    {
-      "titulo": "Néstor Lorenzo, DT de Colombia: \"Chile tiene un equipo muy bien trabajado\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nestor-lorenzo-dt-de-colombia-chile-tiene-un-equipo-muy-bien-trabajado/2026-11-14/125429.html",
-      "fecha_publicacion": "2026-11-14 125429"
     },
     {
       "titulo": "Marcelo Bielsa reaparece en la órbita de La Roja: aseguran que la ANFP buscará regreso del ’Loco’",
