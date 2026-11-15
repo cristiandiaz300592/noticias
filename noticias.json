@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-15T00:00:35.742716+00:00",
+  "actualizado": "2026-11-15T00:30:25.004076+00:00",
   "noticias": [
+    {
+      "titulo": "La Roja perdió a otro defensa: Diego Ulloa fue liberado tras sufrir fractura ante Colombia",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/14/la-roja-pierde-a-diego-ulloa-defensa-sufrio-fractura.shtml",
+      "fecha_publicacion": "2026-11-14 21:19"
+    },
     {
       "titulo": "Nueva baja en defensa: Diego Ulloa fue liberado de La Roja tras sufrir una fractura costal",
       "fuente": "Cooperativa",
@@ -42,6 +48,12 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/14/1217120/primerab-definicion-ronaldfuentes-mariosalas.html",
       "fecha_publicacion": "2026-11-14 17:34"
+    },
+    {
+      "titulo": "Lichnovsky le respondió a Colo Colo con insultante sobrenombre",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lichnovsky-le-respondio-a-colo-colo-con-insultante-sobrenombre/2026-11-14/170722.html",
+      "fecha_publicacion": "2026-11-14 170722"
     },
     {
       "titulo": "Continúan apareciendo nombres para dirigir a La Roja: confirman que Gustavo Álvarez está en la terna",
@@ -92,16 +104,10 @@
       "fecha_publicacion": "2026-11-14 005815"
     },
     {
-      "titulo": "El positivo análisis de Gabriel Suazo tras derrota en Colombia: \"Estamos construyendo un gran equipo\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/13/gabriel-suazo-amistoso-colombia-chile.shtml",
-      "fecha_publicacion": "2026-11-13 23:39"
-    },
-    {
-      "titulo": "La Roja tuvo otra actuación de bajo nivel y estiró su negativa racha ante Colombia",
+      "titulo": "Córdova y la caída en Cali: Queda el sabor amargo que ganaron con un gol que ellos no generan",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-tuvo-otra-actuacion-de-bajo-nivel-y-estiro-su-negativa-racha/2026-11-13/231657.html",
-      "fecha_publicacion": "2026-11-13 231657"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-la-caida-en-cali-queda-el-sabor-amargo-que-ganaron-con-un-gol/2026-11-14/003100.html",
+      "fecha_publicacion": "2026-11-14 003100"
     },
     {
       "titulo": "Colo Colo venció a Racing y mantuvo el ritmo ganador de cara al clásico con la UC",
