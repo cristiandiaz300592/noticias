@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-15T12:30:28.264812+00:00",
+  "actualizado": "2026-11-15T13:00:28.228586+00:00",
   "noticias": [
+    {
+      "titulo": "Javier Correa hizo un guiño a Instituto de Córdoba: Todos los días tengo ganas de volver",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/javier-correa-hizo-un-guino-a-instituto-de-cordoba-todos-los-dias-tengo/2026-11-15/094003.html",
+      "fecha_publicacion": "2026-11-15 094003"
+    },
     {
       "titulo": "Vidal aparece como opción en Rosario Central e hinchas le cierran la puerta: \"Muy caro y problemático\"",
       "fuente": "BioBioChile",
@@ -36,12 +42,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/14/goles-coquimbo-unido-final-copa-de-la-liga-titulo-pirata.shtml",
       "fecha_publicacion": "2026-11-14 20:42"
-    },
-    {
-      "titulo": "Coquimbo sigue haciendo historia: Golea a O'Higgins, es el campeón de la primera Copa de la Liga y saca cupo a la Libertadores",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/14/1217128/coquimbo-ohiggins-final-copadelaliga-goles.html",
-      "fecha_publicacion": "2026-11-14 20:30"
     },
     {
       "titulo": "El botín fue para los ’piratas’: Coquimbo goleó a O’Higgins y conquistó la primera Copa de la Liga",
