@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-16T00:00:40.127084+00:00",
+  "actualizado": "2026-11-16T00:30:28.432575+00:00",
   "noticias": [
+    {
+      "titulo": "UC femenina hace historia: eliminó a La U, avanzó a final con Colo Colo y clasificó a Libertadores",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/15/uc-femenina-hace-historia-elimino-a-la-u-avanzo-a-final-con-colo-colo-y-clasifico-a-libertadores.shtml",
+      "fecha_publicacion": "2026-11-15 21:05"
+    },
     {
       "titulo": "Cobreloa y San Luis ganan sus partidos y disputarán una final por el título y el ascenso a Primera División",
       "fuente": "Emol",
@@ -54,12 +60,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/javier-correa-hizo-un-guino-a-instituto-de-cordoba-todos-los-dias-tengo/2026-11-15/094003.html",
       "fecha_publicacion": "2026-11-15 094003"
-    },
-    {
-      "titulo": "Vidal aparece como opción en Rosario Central e hinchas le cierran la puerta: \"Muy caro y problemático\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/15/vidal-aparece-como-opcion-en-rosario-central-e-hinchas-le-cierran-la-puerta-muy-caro-y-problematico.shtml",
-      "fecha_publicacion": "2026-11-15 08:36"
     },
     {
       "titulo": "En simultáneo por el Chile 2 y el descenso: ANFP programó la penúltima fecha del torneo",
