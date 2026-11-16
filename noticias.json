@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-16T17:30:33.080714+00:00",
+  "actualizado": "2026-11-16T18:01:32.992045+00:00",
   "noticias": [
+    {
+      "titulo": "\"Los espero uno por uno\": dirigente se lanza contra hinchas y ANFP tras salvación de su equipo en la B",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/16/los-espero-uno-por-uno-dirigente-se-lanza-contra-hinchas-y-anfp-tras-salvacion-de-su-equipo-en-la-b.shtml",
+      "fecha_publicacion": "2026-11-16 14:44"
+    },
+    {
+      "titulo": "Amistoso de La Roja y Colombia se jugará en el Estadio Monumental",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/amistoso-de-la-roja-y-colombia-se-jugara-en-el-estadio-monumental/2026-11-16/143332.html",
+      "fecha_publicacion": "2026-11-16 143332"
+    },
     {
       "titulo": "No se jugará en el Nacional: Chile vs. Colombia cambia de estadio a un día del partido de revancha",
       "fuente": "BioBioChile",
@@ -8,16 +20,16 @@
       "fecha_publicacion": "2026-11-16 14:00"
     },
     {
+      "titulo": "Nicolás Córdova anticipa en conferencia de prensa el segundo amistoso de La Roja ante Colombia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nicolas-cordova-anticipa-en-conferencia-de-prensa-el-segundo-amistoso-de/2026-11-16/135815.html",
+      "fecha_publicacion": "2026-11-16 135815"
+    },
+    {
       "titulo": "Ronald Fuentes quiere seguir en Unión Española: Me siento un hincha más",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/ronald-fuentes-quiere-seguir-en-union-espanola-me-siento-un-hincha-mas/2026-11-16/134427.html",
       "fecha_publicacion": "2026-11-16 134427"
-    },
-    {
-      "titulo": "Problemas para la Roja: Estadio Nacional fue descartado para amistoso con Colombia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/problemas-para-la-roja-estadio-nacional-fue-descartado-para-amistoso/2026-11-16/131913.html",
-      "fecha_publicacion": "2026-11-16 131913"
     },
     {
       "titulo": "Deportes La Serena lamentó el fallecimiento de Juan Carvajal, leyenda del club",
@@ -56,6 +68,12 @@
       "fecha_publicacion": "2026-11-16 09:14"
     },
     {
+      "titulo": "Fuenzalida: \"La UC siempre podrá contar conmigo porque yo amo al club\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/fuenzalida-la-uc-siempre-podra-contar-conmigo-porque-yo-amo-al-club/2026-11-16/083215.html",
+      "fecha_publicacion": "2026-11-16 083215"
+    },
+    {
       "titulo": "Unión Española tocó fondo: Firmó la peor campaña de su historia y seguirá en el Ascenso",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-toco-fondo-firmo-la-peor-campana-de-su-historia-y/2026-11-16/081650.html",
@@ -80,22 +98,10 @@
       "fecha_publicacion": "2026-11-15 22:24"
     },
     {
-      "titulo": "Definición de la B: Cobreloa y San Luis ya tienen programación para final por título y ascenso",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/15/cobreloa-y-san-luis-ya-tienen-programacion-para-final-por-titulo-y-ascenso.shtml",
-      "fecha_publicacion": "2026-11-15 21:58"
-    },
-    {
       "titulo": "La Roja retomó las prácticas en \"Juan Pinto Durán\" de cara al segundo duelo con Colombia",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-retomo-las-practicas-en-juan-pinto-duran-de-cara-al-segundo/2026-11-15/164715.html",
       "fecha_publicacion": "2026-11-15 164715"
-    },
-    {
-      "titulo": "La alegría del \"Chupete\" Suazo en San Luis y la \"amargura\" de Mario Salas en Cobreloa antes de la gran final por el ascenso",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/15/1217178/chupetesuazo-mariosalas-cobreloa-sanluis-frases.html",
-      "fecha_publicacion": "2026-11-15 06:30"
     },
     {
       "titulo": "En simultáneo por el Chile 2 y el descenso: ANFP programó la penúltima fecha del torneo",
