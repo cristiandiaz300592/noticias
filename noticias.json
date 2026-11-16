@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-16T13:00:33.366533+00:00",
+  "actualizado": "2026-11-16T13:30:34.452802+00:00",
   "noticias": [
+    {
+      "titulo": "Ranking ATP: Garin sufre durísimo desplome y Jarry da importante salto",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/16/1217207/ranking-atp-garin-jarry.html",
+      "fecha_publicacion": "2026-11-16 10:07"
+    },
+    {
+      "titulo": "\"Perdón a mis hijos, les dije que se podía lograr\": el llanto de Fabián Cerda por descenso de Rangers",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/16/perdon-a-mis-hijos-les-dije-que-se-podia-lograr-el-llanto-de-fabian-cerda-por-descenso-de-rangers.shtml",
+      "fecha_publicacion": "2026-11-16 10:03"
+    },
     {
       "titulo": "Fuenzalida: \"La UC siempre podrá contar conmigo porque yo amo al club\"",
       "fuente": "Cooperativa",
@@ -60,12 +72,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-retomo-las-practicas-en-juan-pinto-duran-de-cara-al-segundo/2026-11-15/164715.html",
       "fecha_publicacion": "2026-11-15 164715"
-    },
-    {
-      "titulo": "Wanderers y Copiapó empatan en partidazo y dejan en llamas liguilla de Primera B: así está la tabla",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/15/wanderers-y-copiapo-empatan-en-partidazo-y-dejan-en-llamas-liguilla-de-primera-b-asi-esta-la-tabla.shtml",
-      "fecha_publicacion": "2026-11-15 15:24"
     },
     {
       "titulo": "Javier Correa hizo un guiño a Instituto de Córdoba: Todos los días tengo ganas de volver",
