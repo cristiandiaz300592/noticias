@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-16T20:00:31.473933+00:00",
+  "actualizado": "2026-11-16T20:30:32.083475+00:00",
   "noticias": [
+    {
+      "titulo": "Corporación de Unión Española solicitó la renuncia del directorio y de Sabino Aguad",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/corporacion-de-union-espanola-solicito-la-renuncia-del-directorio-y-de/2026-11-16/165718.html",
+      "fecha_publicacion": "2026-11-16 165718"
+    },
+    {
+      "titulo": "Leandro Hernández superó a Lamine Yamal en un ranking del Observatorio de fútbol CIES",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-supero-a-lamine-yamal-en-un-ranking-del-observatorio/2026-11-16/165558.html",
+      "fecha_publicacion": "2026-11-16 165558"
+    },
     {
       "titulo": "Tras papelón y cambio en Chile-Colombia: IND culpa a DG Medios y show de BTS de mal estado del campo",
       "fuente": "BioBioChile",
@@ -68,12 +80,6 @@
       "fecha_publicacion": "2026-11-16 10:44"
     },
     {
-      "titulo": "Ranking ATP: Garin sufre durísimo desplome y Jarry da importante salto",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/16/1217207/ranking-atp-garin-jarry.html",
-      "fecha_publicacion": "2026-11-16 10:07"
-    },
-    {
       "titulo": "\"Perdón a mis hijos, les dije que se podía lograr\": el llanto de Fabián Cerda por descenso de Rangers",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/16/perdon-a-mis-hijos-les-dije-que-se-podia-lograr-el-llanto-de-fabian-cerda-por-descenso-de-rangers.shtml",
@@ -96,18 +102,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-toco-fondo-firmo-la-peor-campana-de-su-historia-y/2026-11-16/081650.html",
       "fecha_publicacion": "2026-11-16 081650"
-    },
-    {
-      "titulo": "Curicó Unido no dejó pasar descenso de Rangers: lanzó burla que terminó borrando de sus redes",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/16/curico-unido-no-dejo-pasar-descenso-de-rangers-lanzo-burla-que-termino-borrando-de-sus-redes.shtml",
-      "fecha_publicacion": "2026-11-16 07:32"
-    },
-    {
-      "titulo": "En simultáneo por el Chile 2 y el descenso: ANFP programó la penúltima fecha del torneo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/en-simultaneo-por-el-chile-2-y-el-descenso-anfp-programo-la-penultima/2026-11-14/202443.html",
-      "fecha_publicacion": "2026-11-14 202443"
     }
   ]
 }
