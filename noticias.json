@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-16T13:30:34.452802+00:00",
+  "actualizado": "2026-11-16T14:00:39.074329+00:00",
   "noticias": [
+    {
+      "titulo": "ANFP ratifica desafiliación de Santiago City, líder de la Segunda División profesional",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/16/anfp-ratifica-desafiliacion-de-santiago-city-lider-de-segunda-division-por-documentos-falsos.shtml",
+      "fecha_publicacion": "2026-11-16 10:44"
+    },
     {
       "titulo": "Ranking ATP: Garin sufre durísimo desplome y Jarry da importante salto",
       "fuente": "Emol",
@@ -72,12 +78,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-retomo-las-practicas-en-juan-pinto-duran-de-cara-al-segundo/2026-11-15/164715.html",
       "fecha_publicacion": "2026-11-15 164715"
-    },
-    {
-      "titulo": "Javier Correa hizo un guiño a Instituto de Córdoba: Todos los días tengo ganas de volver",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/javier-correa-hizo-un-guino-a-instituto-de-cordoba-todos-los-dias-tengo/2026-11-15/094003.html",
-      "fecha_publicacion": "2026-11-15 094003"
     },
     {
       "titulo": "La alegría del \"Chupete\" Suazo en San Luis y la \"amargura\" de Mario Salas en Cobreloa antes de la gran final por el ascenso",
