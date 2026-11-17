@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-17T15:00:34.483987+00:00",
+  "actualizado": "2026-11-17T15:30:27.920745+00:00",
   "noticias": [
+    {
+      "titulo": "La Serena desmintió posible venta a dueño de Rangers",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/la-serena/la-serena-desmintio-posible-venta-a-dueno-de-rangers/2026-11-17/120159.html",
+      "fecha_publicacion": "2026-11-17 120159"
+    },
     {
       "titulo": "Con una sorpresa y enfoque ofensivo: La Roja alista su once para revancha ante Colombia en Macul",
       "fuente": "BioBioChile",
@@ -78,24 +84,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/marcelo-diaz-se-sumara-a-la-gerencia-tecnica-de-la-u-en-2027/2026-11-16/184444.html",
       "fecha_publicacion": "2026-11-16 184444"
-    },
-    {
-      "titulo": "Leandro Hernández superó a Lamine Yamal en un ranking del Observatorio de fútbol CIES",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-supero-a-lamine-yamal-en-un-ranking-del-observatorio/2026-11-16/165558.html",
-      "fecha_publicacion": "2026-11-16 165558"
-    },
-    {
-      "titulo": "Tras papelón y cambio en Chile-Colombia: IND culpa a DG Medios y show de BTS de mal estado del campo",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/16/tras-papelon-y-cambio-en-chile-colombia-ind-culpa-a-dg-medios-y-show-de-bts-de-mal-estado-del-campo.shtml",
-      "fecha_publicacion": "2026-11-16 16:02"
-    },
-    {
-      "titulo": "Azul Azul definió a Eduardo Alamos como nuevo presidente de su directorio",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/azul-azul-definio-a-eduardo-alamos-como-nuevo-presidente-de-su-directorio/2026-11-16/151818.html",
-      "fecha_publicacion": "2026-11-16 151818"
     },
     {
       "titulo": "Unión Española tocó fondo: Firmó la peor campaña de su historia y seguirá en el Ascenso",
