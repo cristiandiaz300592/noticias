@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-17T15:30:27.920745+00:00",
+  "actualizado": "2026-11-17T16:00:33.248109+00:00",
   "noticias": [
+    {
+      "titulo": "Rangers acudirá al TAS para evitar descenso a Segunda: cuestionan fallo de ANFP en ’caso Arica’",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/17/rangers-acudira-al-tas-para-evitar-descenso-a-segunda-cuestionan-fallo-de-anfp-en-caso-arica.shtml",
+      "fecha_publicacion": "2026-11-17 12:50"
+    },
+    {
+      "titulo": "A qué hora juegan y dónde ver en vivo la revancha entre Chile vs Colombia en Santiago",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/17/a-que-hora-juegan-y-donde-ver-en-vivo-la-revancha-entre-chile-vs-colombia-en-santiago.shtml",
+      "fecha_publicacion": "2026-11-17 12:48"
+    },
     {
       "titulo": "La Serena desmintió posible venta a dueño de Rangers",
       "fuente": "Cooperativa",
@@ -78,18 +90,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/eduardo-alamos-nuevo-presidente-de-azul-azul-nos-interesa-la/2026-11-16/190818.html",
       "fecha_publicacion": "2026-11-16 190818"
-    },
-    {
-      "titulo": "Marcelo Díaz se sumará a la gerencia técnica de la U en 2027",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/marcelo-diaz-se-sumara-a-la-gerencia-tecnica-de-la-u-en-2027/2026-11-16/184444.html",
-      "fecha_publicacion": "2026-11-16 184444"
-    },
-    {
-      "titulo": "Unión Española tocó fondo: Firmó la peor campaña de su historia y seguirá en el Ascenso",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-toco-fondo-firmo-la-peor-campana-de-su-historia-y/2026-11-16/081650.html",
-      "fecha_publicacion": "2026-11-16 081650"
     }
   ]
 }
