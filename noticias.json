@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-17T11:31:28.651084+00:00",
+  "actualizado": "2026-11-17T12:00:32.314945+00:00",
   "noticias": [
+    {
+      "titulo": "Preocupación por infarto de Mario Soto, ídolo de Cobreloa: familia detalló delicado estado de salud",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/17/preocupacion-por-infarto-de-mario-soto-idolo-de-cobreloa-familia-detallo-delicado-estado-de-salud.shtml",
+      "fecha_publicacion": "2026-11-17 08:48"
+    },
+    {
+      "titulo": "Christian Bravo apareció en ranking internacional de arqueros sub 23",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/huachipato/christian-bravo-aparecio-en-ranking-internacional-de-arqueros-sub-23/2026-11-17/083022.html",
+      "fecha_publicacion": "2026-11-17 083022"
+    },
     {
       "titulo": "Nuevo presidente de Azul Azul aborda el anhelado sueño del estadio de La U y fija una exigencia clave",
       "fuente": "BioBioChile",
@@ -108,12 +120,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/16/no-se-jugara-en-el-nacional-chile-vs-colombia-cambia-de-estadio-a-un-dia-del-partido-de-revancha.shtml",
       "fecha_publicacion": "2026-11-16 14:00"
-    },
-    {
-      "titulo": "Unión Española tocó fondo: Firmó la peor campaña de su historia y seguirá en el Ascenso",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-toco-fondo-firmo-la-peor-campana-de-su-historia-y/2026-11-16/081650.html",
-      "fecha_publicacion": "2026-11-16 081650"
     }
   ]
 }
