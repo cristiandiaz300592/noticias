@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T22:00:29.805811+00:00",
+  "actualizado": "2026-11-17T22:30:27.863816+00:00",
   "noticias": [
     {
       "titulo": "Garnero y el pasillo a Colo Colo: No tengo problema en felicitar al justo ganador",
@@ -44,12 +44,6 @@
       "fecha_publicacion": "2026-11-17 12:48"
     },
     {
-      "titulo": "Colo Colo perdió a Javier Correa por el resto de la temporada",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-perdio-a-javier-correa-por-el-resto-de-la-temporada/2026-11-17/124612.html",
-      "fecha_publicacion": "2026-11-17 124612"
-    },
-    {
       "titulo": "La Serena desmintió posible venta a dueño de Rangers",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/la-serena/la-serena-desmintio-posible-venta-a-dueno-de-rangers/2026-11-17/120159.html",
@@ -72,6 +66,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cuentas-de-clark-registran-millonarios-pagos-de-sociedades-ligadas-a/2026-11-16/215545.html",
       "fecha_publicacion": "2026-11-16 215545"
+    },
+    {
+      "titulo": "[Radio en vivo🎙] La Roja y Colombia confirmaron formaciones en el Monumental",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/radio-en-vivo-la-roja-y-colombia-confirmaron-formaciones-en-el/2026-11-16/135815.html",
+      "fecha_publicacion": "2026-11-16 135815"
     }
   ]
 }
