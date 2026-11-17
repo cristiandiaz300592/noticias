@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-16T23:30:27.869550+00:00",
+  "actualizado": "2026-11-17T00:00:34.414831+00:00",
   "noticias": [
+    {
+      "titulo": "La Roja quiere tomarse revancha ante Colombia y cerrar el año con un triunfo en Santiago",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-quiere-tomarse-revancha-ante-colombia-y-cerrar-el-ano-con-un/2026-11-16/202909.html",
+      "fecha_publicacion": "2026-11-16 202909"
+    },
     {
       "titulo": "Nico Córdova explica ausencia de Vargas, Aránguiz, Zampedri y Vidal: \"¿Creen que no veo cómo juegan?\"",
       "fuente": "BioBioChile",
@@ -26,12 +32,6 @@
       "fecha_publicacion": "2026-11-16 184444"
     },
     {
-      "titulo": "La Roja convocó al sub 20 Thomas Coulombe para enfrentar a Colombia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-convoco-al-sub-20-thomas-coulombe-para-enfrentar-a-colombia/2026-11-16/175841.html",
-      "fecha_publicacion": "2026-11-16 175841"
-    },
-    {
       "titulo": "Corporación de Unión Española solicitó la renuncia del directorio y de Sabino Aguad",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/corporacion-de-union-espanola-solicito-la-renuncia-del-directorio-y-de/2026-11-16/165718.html",
@@ -54,12 +54,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/16/chile-vs-colombia-por-la-revancha-en-santiago-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
       "fecha_publicacion": "2026-11-16 15:51"
-    },
-    {
-      "titulo": "Mosa aclaró su frase sobre ser el dirigente más exitoso de Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-aclaro-su-frase-sobre-ser-el-dirigente-mas-exitoso-de-colo-colo/2026-11-16/154202.html",
-      "fecha_publicacion": "2026-11-16 154202"
     },
     {
       "titulo": "Córdova y el amistoso con Colombia: No le doy mucha importancia si es mi último partido o no",
