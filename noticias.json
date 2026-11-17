@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T13:30:29.435731+00:00",
+  "actualizado": "2026-11-17T14:00:31.748197+00:00",
   "noticias": [
     {
       "titulo": "Con una sorpresa y enfoque ofensivo: La Roja alista su once para revancha ante Colombia en Macul",
@@ -86,6 +86,12 @@
       "fecha_publicacion": "2026-11-16 184444"
     },
     {
+      "titulo": "Corporación de Unión Española solicitó la renuncia del directorio y de Sabino Aguad",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/corporacion-de-union-espanola-solicito-la-renuncia-del-directorio-y-de/2026-11-16/165718.html",
+      "fecha_publicacion": "2026-11-16 165718"
+    },
+    {
       "titulo": "Leandro Hernández superó a Lamine Yamal en un ranking del Observatorio de fútbol CIES",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-supero-a-lamine-yamal-en-un-ranking-del-observatorio/2026-11-16/165558.html",
@@ -114,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/amistoso-de-la-roja-y-colombia-se-jugara-en-el-estadio-monumental/2026-11-16/143332.html",
       "fecha_publicacion": "2026-11-16 143332"
-    },
-    {
-      "titulo": "Unión Española tocó fondo: Firmó la peor campaña de su historia y seguirá en el Ascenso",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-toco-fondo-firmo-la-peor-campana-de-su-historia-y/2026-11-16/081650.html",
-      "fecha_publicacion": "2026-11-16 081650"
     }
   ]
 }
