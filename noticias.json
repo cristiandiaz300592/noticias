@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T16:30:27.217756+00:00",
+  "actualizado": "2026-11-17T17:01:38.189132+00:00",
   "noticias": [
     {
       "titulo": "Rangers acudirá al TAS para evitar descenso a Segunda: cuestionan fallo de ANFP en ’caso Arica’",
@@ -12,6 +12,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/17/a-que-hora-juegan-y-donde-ver-en-vivo-la-revancha-entre-chile-vs-colombia-en-santiago.shtml",
       "fecha_publicacion": "2026-11-17 12:48"
+    },
+    {
+      "titulo": "Colo Colo perdió a Javier Correa por el resto de la temporada",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-perdio-a-javier-correa-por-el-resto-de-la-temporada/2026-11-17/124612.html",
+      "fecha_publicacion": "2026-11-17 124612"
     },
     {
       "titulo": "La Serena desmintió posible venta a dueño de Rangers",
@@ -66,12 +72,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cuentas-de-clark-registran-millonarios-pagos-de-sociedades-ligadas-a/2026-11-16/215545.html",
       "fecha_publicacion": "2026-11-16 215545"
-    },
-    {
-      "titulo": "La Roja quiere tomarse revancha ante Colombia y cerrar el año con un triunfo en Santiago",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-quiere-tomarse-revancha-ante-colombia-y-cerrar-el-ano-con-un/2026-11-16/202909.html",
-      "fecha_publicacion": "2026-11-16 202909"
     },
     {
       "titulo": "Nico Córdova explica ausencia de Vargas, Aránguiz, Zampedri y Vidal: \"¿Creen que no veo cómo juegan?\"",
