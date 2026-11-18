@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-18T00:00:29.769060+00:00",
+  "actualizado": "2026-11-18T00:30:27.815166+00:00",
   "noticias": [
+    {
+      "titulo": "El pedido de Vidal para la segunda parte con Colombia: Estamos de local, Chile debe mostrar más",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/el-pedido-de-vidal-para-la-segunda-parte-con-colombia-estamos-de-local/2026-11-17/211410.html",
+      "fecha_publicacion": "2026-11-17 211410"
+    },
     {
       "titulo": "Se lució el chileno: Lawrence Vigouroux tapó penal a colombiano Suárez con enorme atajada",
       "fuente": "BioBioChile",
@@ -62,16 +68,16 @@
       "fecha_publicacion": "2026-11-17 12:48"
     },
     {
+      "titulo": "Colo Colo perdió a Javier Correa por el resto de la temporada",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-perdio-a-javier-correa-por-el-resto-de-la-temporada/2026-11-17/124612.html",
+      "fecha_publicacion": "2026-11-17 124612"
+    },
+    {
       "titulo": "La Serena desmintió posible venta a dueño de Rangers",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/la-serena/la-serena-desmintio-posible-venta-a-dueno-de-rangers/2026-11-17/120159.html",
       "fecha_publicacion": "2026-11-17 120159"
-    },
-    {
-      "titulo": "Christian Bravo apareció en ranking internacional de arqueros sub 23",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/huachipato/christian-bravo-aparecio-en-ranking-internacional-de-arqueros-sub-23/2026-11-17/083022.html",
-      "fecha_publicacion": "2026-11-17 083022"
     },
     {
       "titulo": "Cuentas de Clark registran millonarios pagos de sociedades ligadas a Cerda y Kiblisky",
