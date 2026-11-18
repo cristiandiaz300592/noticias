@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T15:00:32.183847+00:00",
+  "actualizado": "2026-11-18T15:30:28.371100+00:00",
   "noticias": [
     {
       "titulo": "¿Córdova se despidió de los jugadores de la selección?",
@@ -98,12 +98,6 @@
       "fecha_publicacion": "2026-11-17 22:04"
     },
     {
-      "titulo": "Los números de Nicolás Córdova al mando de La Roja",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/los-numeros-de-nicolas-cordova-al-mando-de-la-roja/2026-11-17/214618.html",
-      "fecha_publicacion": "2026-11-17 214618"
-    },
-    {
       "titulo": "¿Cuándo volverá a jugar la selección chilena?",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-volvera-a-jugar-la-seleccion-chilena/2026-11-17/214427.html",
@@ -120,6 +114,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/17/rangers-oficializo-denuncia-al-tas-por-caso-san-marcos-de-arica-club-buscara-evitar-el-descenso.shtml",
       "fecha_publicacion": "2026-11-17 20:48"
+    },
+    {
+      "titulo": "Colo Colo perdió a Javier Correa por el resto de la temporada",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-perdio-a-javier-correa-por-el-resto-de-la-temporada/2026-11-17/124612.html",
+      "fecha_publicacion": "2026-11-17 124612"
     }
   ]
 }
