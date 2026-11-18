@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-18T19:30:30.107625+00:00",
+  "actualizado": "2026-11-18T20:00:35.147344+00:00",
   "noticias": [
+    {
+      "titulo": "Santiago United Academy sella acuerdo en España que podría abrir puertas a jóvenes futbolistas",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/18/santiago-united-academy-sella-acuerdo-en-espana-para-ab.shtml",
+      "fecha_publicacion": "2026-11-18 16:32"
+    },
     {
       "titulo": "Denuncian explosiva alza en pasajes aéreos para la final de Cobreloa en Santiago: oficiarán al Sernac",
       "fuente": "BioBioChile",
@@ -92,12 +98,6 @@
       "fecha_publicacion": "2026-11-18 08:58"
     },
     {
-      "titulo": "\"Dejo un recambio real\": Córdova defendió su proceso en La Roja y elige al DT que debería reemplazarlo",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/18/dejo-un-recambio-real-cordova-defendio-su-proceso-en-la-roja-y-elige-al-dt-que-deberia-reemplazarlo.shtml",
-      "fecha_publicacion": "2026-11-18 07:26"
-    },
-    {
       "titulo": "Los memes destacaron a Vigouroux como salvador de La Roja de Córdova ante Colombia",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/los-memes-destacaron-a-vigouroux-como-salvador-de-la-roja-de-cordova/2026-11-18/001415.html",
@@ -108,18 +108,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-su-continuidad-en-colo-colo-en-estos-dias-nos-pondremos-de/2026-11-17/233807.html",
       "fecha_publicacion": "2026-11-17 233807"
-    },
-    {
-      "titulo": "Milad defendió su gestión en ANFP y negó \"error\" por mantener a Córdova: \"Hemos hecho un gran trabajo\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/17/pablo-milad-repaso-su-gestion-tras-igualdad-de-la-roja-ante-colombia-y-defendio-proceso-de-cordova.shtml",
-      "fecha_publicacion": "2026-11-17 23:11"
-    },
-    {
-      "titulo": "\"Estoy cansado de él\": Arturo Vidal liquidó a Córdova y emplazó a ANFP por no elegir DT para La Roja",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/17/arturo-vidal-liquido-a-nicolas-cordova-y-emplazo-a-anfo-por-dt-la-roja.shtml",
-      "fecha_publicacion": "2026-11-17 22:49"
     }
   ]
 }
