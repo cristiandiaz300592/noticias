@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-18T03:00:30.110840+00:00",
+  "actualizado": "2026-11-18T03:30:31.279949+00:00",
   "noticias": [
+    {
+      "titulo": "Los memes destacaron a Vigouroux como salvador de La Roja de Córdova ante Colombia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/los-memes-destacaron-a-vigouroux-como-salvador-de-la-roja-de-cordova/2026-11-18/001415.html",
+      "fecha_publicacion": "2026-11-18 001415"
+    },
+    {
+      "titulo": "Loyola defendió a Córdova: \"Estamos muy agradecidos del trabajo que hizo con nosotros\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/loyola-defendio-a-cordova-estamos-muy-agradecidos-del-trabajo-que-hizo/2026-11-18/000631.html",
+      "fecha_publicacion": "2026-11-18 000631"
+    },
     {
       "titulo": "Ortiz y su continuidad en Colo Colo: En estos días nos pondremos de acuerdo en los detalles que faltan",
       "fuente": "Cooperativa",
@@ -108,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-perdio-a-javier-correa-por-el-resto-de-la-temporada/2026-11-17/124612.html",
       "fecha_publicacion": "2026-11-17 124612"
-    },
-    {
-      "titulo": "Cuentas de Clark registran millonarios pagos de sociedades ligadas a Cerda y Kiblisky",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cuentas-de-clark-registran-millonarios-pagos-de-sociedades-ligadas-a/2026-11-16/215545.html",
-      "fecha_publicacion": "2026-11-16 215545"
     }
   ]
 }
