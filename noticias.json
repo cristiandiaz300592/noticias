@@ -1,29 +1,41 @@
 {
-  "actualizado": "2026-11-18T01:00:29.159318+00:00",
+  "actualizado": "2026-11-18T01:30:28.901054+00:00",
   "noticias": [
     {
-      "titulo": "El pedido de Vidal para la segunda parte con Colombia: Estamos de local, Chile debe mostrar más",
+      "titulo": "Vidal: Es momento que la ANFP se ponga los pantalones y elija un técnico lo antes posible",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/el-pedido-de-vidal-para-la-segunda-parte-con-colombia-estamos-de-local/2026-11-17/211410.html",
-      "fecha_publicacion": "2026-11-17 211410"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-es-momento-que-la-anfp-se-ponga-los-pantalones-y-elija-un-tecnico/2026-11-17/222214.html",
+      "fecha_publicacion": "2026-11-17 222214"
+    },
+    {
+      "titulo": "La Roja sumó otra opaca actuación y cerró el año con un empate frente a Colombia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sumo-otra-opaca-actuacion-y-cerro-el-ano-con-un-empate-frente-a/2026-11-17/220829.html",
+      "fecha_publicacion": "2026-11-17 220829"
+    },
+    {
+      "titulo": "La Roja es cada vez más inocua: Chile igualó sin goles ante Colombia y cerró el año acrecentando dudas",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/17/amistoso-chile-colombia-estadio-monumental.shtml",
+      "fecha_publicacion": "2026-11-17 22:04"
+    },
+    {
+      "titulo": "Los números de Nicolás Córdova al mando de La Roja",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/los-numeros-de-nicolas-cordova-al-mando-de-la-roja/2026-11-17/214618.html",
+      "fecha_publicacion": "2026-11-17 214618"
+    },
+    {
+      "titulo": "¿Cuándo volverá a jugar la selección chilena?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-volvera-a-jugar-la-seleccion-chilena/2026-11-17/214427.html",
+      "fecha_publicacion": "2026-11-17 214427"
     },
     {
       "titulo": "Se lució el chileno: Lawrence Vigouroux tapó penal a colombiano Suárez con enorme atajada",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/17/se-lucio-el-chileno-lawrence-vigouroux-tapo-penal-a-colombiano-suarez-con-enorme-atajada.shtml",
       "fecha_publicacion": "2026-11-17 20:59"
-    },
-    {
-      "titulo": "[VIDEO] Vigouroux se lució y salvó a La Roja tras gran atajada a un penal de Colombia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/video-vigouroux-se-lucio-y-salvo-a-la-roja-tras-gran-atajada-a-un/2026-11-17/205514.html",
-      "fecha_publicacion": "2026-11-17 205514"
-    },
-    {
-      "titulo": "[VIDEO] \"El arco es de él\": Vidal aplaudió a Vigouroux por el penal atajado a Colombia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/video-el-arco-es-de-el-vidal-aplaudio-a-vigouroux-por-el-penal/2026-11-17/205003.html",
-      "fecha_publicacion": "2026-11-17 205003"
     },
     {
       "titulo": "Rangers oficializó denuncia al TAS por caso San Marcos de Arica: club buscará evitar el descenso",
@@ -84,12 +96,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cuentas-de-clark-registran-millonarios-pagos-de-sociedades-ligadas-a/2026-11-16/215545.html",
       "fecha_publicacion": "2026-11-16 215545"
-    },
-    {
-      "titulo": "[Radio en vivo🎙] La Roja iguala ante Colombia en el Monumental",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/radio-en-vivo-la-roja-iguala-ante-colombia-en-el-monumental/2026-11-16/135815.html",
-      "fecha_publicacion": "2026-11-16 135815"
     }
   ]
 }
