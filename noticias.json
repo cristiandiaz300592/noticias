@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-18T20:30:38.187450+00:00",
+  "actualizado": "2026-11-18T21:00:32.619307+00:00",
   "noticias": [
+    {
+      "titulo": "Joaquín Sosa quiere la renovación de Arturo Vidal: \"Para nosotros es importante\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/joaquin-sosa-quiere-la-renovacion-de-arturo-vidal-para-nosotros-es/2026-11-18/165607.html",
+      "fecha_publicacion": "2026-11-18 165607"
+    },
     {
       "titulo": "Santiago United Academy sella acuerdo en España que podría abrir puertas a jóvenes futbolistas",
       "fuente": "BioBioChile",
@@ -36,12 +42,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/presidente-de-azul-azul-la-crisis-institucional-ya-es-parte-del-pasado/2026-11-18/142913.html",
       "fecha_publicacion": "2026-11-18 142913"
-    },
-    {
-      "titulo": "Sosa y la disputa por el \"Chile 2\": \"A nosotros no nos interesa quién va, el clásico vamos a...",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/sosa-y-la-disputa-por-el-chile-2-a-nosotros-no-nos-interesa-quien/2026-11-18/142347.html",
-      "fecha_publicacion": "2026-11-18 142347"
     },
     {
       "titulo": "Ortiz encamina su continuidad en Colo Colo, pero mete presión a Blanco y Negro con importante exigencia y el tema de Vidal",
@@ -84,18 +84,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/18/mosa-desafia-consenso-por-pellegrini-y-revela-su-apuesta-para-dt-de-la-roja-rumbo-al-mundial-2030.shtml",
       "fecha_publicacion": "2026-11-18 10:15"
-    },
-    {
-      "titulo": "La Roja volvió a caer en el Ranking FIFA tras duelos ante Colombia",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-volvio-a-caer-en-el-ranking-fifa-tras-duelos-ante-colombia/2026-11-18/100459.html",
-      "fecha_publicacion": "2026-11-18 100459"
-    },
-    {
-      "titulo": "Felipe Loyola reveló qué pasó en camarín de La Roja tras empate con Colombia y alabó labor de Córdova",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/18/felipe-loyola-revelo-charla-de-jugadores-con-nico-cordova-la-roja.shtml",
-      "fecha_publicacion": "2026-11-18 08:58"
     },
     {
       "titulo": "Ortiz y su continuidad en Colo Colo: En estos días nos pondremos de acuerdo en los detalles que faltan",
