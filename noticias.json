@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-18T18:30:29.254114+00:00",
+  "actualizado": "2026-11-18T19:00:31.375446+00:00",
   "noticias": [
+    {
+      "titulo": "Denuncian explosiva alza en pasajes aéreos para la final de Cobreloa en Santiago: oficiarán al Sernac",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/18/denuncian-explosiva-alza-en-pasajes-aereos-para-la-final-de-cobreloa-en-santiago-oficiaran-al-sernac.shtml",
+      "fecha_publicacion": "2026-11-18 15:57"
+    },
     {
       "titulo": "Poda de jugadores y reestructuración: presidente de Rangers anunció futuro del club tras descenso",
       "fuente": "BioBioChile",
@@ -114,12 +120,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/17/arturo-vidal-liquido-a-nicolas-cordova-y-emplazo-a-anfo-por-dt-la-roja.shtml",
       "fecha_publicacion": "2026-11-17 22:49"
-    },
-    {
-      "titulo": "La Roja es cada vez más inocua: Chile igualó sin goles ante Colombia y cerró el año acrecentando dudas",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/17/amistoso-chile-colombia-estadio-monumental.shtml",
-      "fecha_publicacion": "2026-11-17 22:04"
     }
   ]
 }
