@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-18T13:00:31.240419+00:00",
+  "actualizado": "2026-11-18T13:30:29.059204+00:00",
   "noticias": [
+    {
+      "titulo": "Mosa desafía consenso por Pellegrini y revela su apuesta para DT de La Roja rumbo al Mundial 2030",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/18/mosa-desafia-consenso-por-pellegrini-y-revela-su-apuesta-para-dt-de-la-roja-rumbo-al-mundial-2030.shtml",
+      "fecha_publicacion": "2026-11-18 10:15"
+    },
+    {
+      "titulo": "La Roja volvió a caer en el Ranking FIFA tras duelos ante Colombia",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-volvio-a-caer-en-el-ranking-fifa-tras-duelos-ante-colombia/2026-11-18/100459.html",
+      "fecha_publicacion": "2026-11-18 100459"
+    },
     {
       "titulo": "Felipe Loyola reveló qué pasó en camarín de La Roja tras empate con Colombia y alabó labor de Córdova",
       "fuente": "BioBioChile",
@@ -86,6 +98,12 @@
       "fecha_publicacion": "2026-11-17 214618"
     },
     {
+      "titulo": "¿Cuándo volverá a jugar la selección chilena?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-volvera-a-jugar-la-seleccion-chilena/2026-11-17/214427.html",
+      "fecha_publicacion": "2026-11-17 214427"
+    },
+    {
       "titulo": "Se lució el chileno: Lawrence Vigouroux tapó penal a colombiano Suárez con enorme atajada",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/17/se-lucio-el-chileno-lawrence-vigouroux-tapo-penal-a-colombiano-suarez-con-enorme-atajada.shtml",
@@ -102,12 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-y-el-pasillo-a-colo-colo-no-tengo-problema-en-felicitar-al/2026-11-17/180558.html",
       "fecha_publicacion": "2026-11-17 180558"
-    },
-    {
-      "titulo": "Colo Colo perdió a Javier Correa por el resto de la temporada",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-perdio-a-javier-correa-por-el-resto-de-la-temporada/2026-11-17/124612.html",
-      "fecha_publicacion": "2026-11-17 124612"
     }
   ]
 }
