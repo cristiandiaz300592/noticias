@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-18T13:30:29.059204+00:00",
+  "actualizado": "2026-11-18T14:00:33.344320+00:00",
   "noticias": [
+    {
+      "titulo": "Bravo pidió DT chileno para La Roja y disparó: \"Mucho acento argentino, parecía Buenos Aires\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/bravo-pidio-dt-chileno-para-la-roja-y-disparo-mucho-acento-argentino/2026-11-18/103312.html",
+      "fecha_publicacion": "2026-11-18 103312"
+    },
     {
       "titulo": "Mosa desafía consenso por Pellegrini y revela su apuesta para DT de La Roja rumbo al Mundial 2030",
       "fuente": "BioBioChile",
@@ -114,12 +120,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/17/rangers-oficializo-denuncia-al-tas-por-caso-san-marcos-de-arica-club-buscara-evitar-el-descenso.shtml",
       "fecha_publicacion": "2026-11-17 20:48"
-    },
-    {
-      "titulo": "Garnero y el pasillo a Colo Colo: No tengo problema en felicitar al justo ganador",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-y-el-pasillo-a-colo-colo-no-tengo-problema-en-felicitar-al/2026-11-17/180558.html",
-      "fecha_publicacion": "2026-11-17 180558"
     }
   ]
 }
