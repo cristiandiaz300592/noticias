@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-18T14:30:28.430969+00:00",
+  "actualizado": "2026-11-18T15:00:32.183847+00:00",
   "noticias": [
+    {
+      "titulo": "¿Córdova se despidió de los jugadores de la selección?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-se-despidio-de-los-jugadores-de-la-seleccion/2026-11-18/113548.html",
+      "fecha_publicacion": "2026-11-18 113548"
+    },
     {
       "titulo": "\"Me pasó algo en mi etapa anterior\": Claudio Bravo explicó por qué prefiere un DT chileno para La Roja",
       "fuente": "BioBioChile",
@@ -44,12 +50,6 @@
       "fecha_publicacion": "2026-11-18 001415"
     },
     {
-      "titulo": "Loyola defendió a Córdova: \"Estamos muy agradecidos del trabajo que hizo con nosotros\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/loyola-defendio-a-cordova-estamos-muy-agradecidos-del-trabajo-que-hizo/2026-11-18/000631.html",
-      "fecha_publicacion": "2026-11-18 000631"
-    },
-    {
       "titulo": "Ortiz y su continuidad en Colo Colo: En estos días nos pondremos de acuerdo en los detalles que faltan",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-su-continuidad-en-colo-colo-en-estos-dias-nos-pondremos-de/2026-11-17/233807.html",
@@ -60,12 +60,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-me-encantaria-que-pudiese-venir-pellegrini-y-coronar-su-carrera/2026-11-17/233637.html",
       "fecha_publicacion": "2026-11-17 233637"
-    },
-    {
-      "titulo": "Vicente Pizarro y la opción de Pellegrini en La Roja: \"Es un referente a nivel país\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vicente-pizarro-y-la-opcion-de-pellegrini-en-la-roja-es-un-referente-a/2026-11-17/232710.html",
-      "fecha_publicacion": "2026-11-17 232710"
     },
     {
       "titulo": "Milad defendió su gestión en ANFP y negó \"error\" por mantener a Córdova: \"Hemos hecho un gran trabajo\"",
@@ -120,6 +114,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/17/se-lucio-el-chileno-lawrence-vigouroux-tapo-penal-a-colombiano-suarez-con-enorme-atajada.shtml",
       "fecha_publicacion": "2026-11-17 20:59"
+    },
+    {
+      "titulo": "Rangers oficializó denuncia al TAS por caso San Marcos de Arica: club buscará evitar el descenso",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/17/rangers-oficializo-denuncia-al-tas-por-caso-san-marcos-de-arica-club-buscara-evitar-el-descenso.shtml",
+      "fecha_publicacion": "2026-11-17 20:48"
     }
   ]
 }
