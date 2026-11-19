@@ -1,17 +1,23 @@
 {
-  "actualizado": "2026-11-19T12:00:31.454714+00:00",
+  "actualizado": "2026-11-19T12:30:28.139284+00:00",
   "noticias": [
+    {
+      "titulo": "Cobreloa pierde a su goleador: Tribunal ANFP dijo ’no’ a apelación y Gotti se perderá final de Ascenso",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/19/cobreloa-pierde-a-su-goleador-tribunal-anfp-dijo-no-a-apelacion-y-gotti-se-perdera-final-de-ascenso.shtml",
+      "fecha_publicacion": "2026-11-19 09:12"
+    },
+    {
+      "titulo": "\"Sin ANFP, sin estadio y La Roja última\": Johnny Herrera repasó sin piedad la administración de Milad",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/19/sin-anfp-sin-estadio-y-la-roja-ultima-johnny-herrera-repaso-sin-piedad-la-administracion-de-milad.shtml",
+      "fecha_publicacion": "2026-11-19 09:05"
+    },
     {
       "titulo": "En Colo Colo se entusiasman con un Alexis Sánchez de amargo presente en la MLS: \"Es tremendo jugador\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/19/en-colo-colo-se-entusiasman-con-un-alexis-sanchez-de-amargo-presente-en-la-mls-es-tremendo-jugador.shtml",
       "fecha_publicacion": "2026-11-19 07:31"
-    },
-    {
-      "titulo": "O'Higgins clasificó a semifinales del Huasileirao tras remontar ante Colchagua",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/ohiggins/o-higgins-clasifico-a-semifinales-del-huasileirao-tras-remontar-ante/2026-11-18/221553.html",
-      "fecha_publicacion": "2026-11-18 221553"
     },
     {
       "titulo": "Maxi Romero será el delantero titular de Colo Colo en el clásico ante la UC",
@@ -48,12 +54,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/18/denuncian-explosiva-alza-en-pasajes-aereos-para-la-final-de-cobreloa-en-santiago-oficiaran-al-sernac.shtml",
       "fecha_publicacion": "2026-11-18 15:57"
-    },
-    {
-      "titulo": "Poda de jugadores y reestructuración: presidente de Rangers anunció futuro del club tras descenso",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/18/poda-de-jugadores-y-reestructuracion-presidente-de-rangers-anuncio-futuro-del-club-tras-descenso.shtml",
-      "fecha_publicacion": "2026-11-18 15:25"
     },
     {
       "titulo": "Lawrence Vigouroux tras ser figura ante Colombia: \"Siempre es hermoso usar esta camiseta\"",
