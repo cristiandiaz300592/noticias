@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-18T23:30:30.891640+00:00",
+  "actualizado": "2026-11-19T00:00:33.293883+00:00",
   "noticias": [
+    {
+      "titulo": "Maxi Romero será el delantero titular de Colo Colo en el clásico ante la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/maxi-romero-sera-el-delantero-titular-de-colo-colo-en-el-clasico-ante-la/2026-11-18/204137.html",
+      "fecha_publicacion": "2026-11-18 204137"
+    },
+    {
+      "titulo": "Mosa abordó posible fichaje de Alexis Sánchez en Colo Colo: \"Quiero ser sumamente cauto\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-abordo-posible-fichaje-de-alexis-sanchez-en-colo-colo-quiero-ser/2026-11-18/204044.html",
+      "fecha_publicacion": "2026-11-18 204044"
+    },
+    {
+      "titulo": "Daniel Garnero y su renovación en la UC: No veo demasiado interés del club",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/daniel-garnero-y-su-renovacion-en-la-uc-no-veo-demasiado-interes-del/2026-11-18/201100.html",
+      "fecha_publicacion": "2026-11-18 201100"
+    },
     {
       "titulo": "Joaquín Sosa quiere la renovación de Arturo Vidal: \"Para nosotros es importante\"",
       "fuente": "Cooperativa",
@@ -38,12 +56,6 @@
       "fecha_publicacion": "2026-11-18 14:44"
     },
     {
-      "titulo": "Presidente de Azul Azul: La crisis institucional ya es parte del pasado",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/presidente-de-azul-azul-la-crisis-institucional-ya-es-parte-del-pasado/2026-11-18/142913.html",
-      "fecha_publicacion": "2026-11-18 142913"
-    },
-    {
       "titulo": "Lawrence Vigouroux tras ser figura ante Colombia: \"Siempre es hermoso usar esta camiseta\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/lawrence-vigouroux-tras-ser-figura-ante-colombia-siempre-es-hermoso/2026-11-18/131528.html",
@@ -72,12 +84,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-volvio-a-caer-en-el-ranking-fifa-tras-duelos-ante-colombia/2026-11-18/100459.html",
       "fecha_publicacion": "2026-11-18 100459"
-    },
-    {
-      "titulo": "Ortiz y su continuidad en Colo Colo: En estos días nos pondremos de acuerdo en los detalles que faltan",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-su-continuidad-en-colo-colo-en-estos-dias-nos-pondremos-de/2026-11-17/233807.html",
-      "fecha_publicacion": "2026-11-17 233807"
     }
   ]
 }
