@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T01:00:29.221645+00:00",
+  "actualizado": "2026-11-20T01:31:26.841674+00:00",
   "noticias": [
     {
       "titulo": "Problema para la UC: Eugenio Mena será baja en el clásico ante Colo Colo",
@@ -12,6 +12,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/19/sadp-de-union-espanola-arremete-contra-corporacion-por-pedir-renuncias-cambian-nombre-al-santa-laura.shtml",
       "fecha_publicacion": "2026-11-19 19:17"
+    },
+    {
+      "titulo": "La fuerte polémica que sacude a Unión Española: El estadio Santa Laura cambiará de nombre",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/19/1217637/union-espanola-santa-laura.html",
+      "fecha_publicacion": "2026-11-19 18:30"
     },
     {
       "titulo": "Cobresal y Audax Italiano levantan el telón de la fecha 28 con duelo clave por la permanencia",
@@ -62,22 +68,10 @@
       "fecha_publicacion": "2026-11-19 145052"
     },
     {
-      "titulo": "Hinchas indignados con programación de ANFP: final Cobreloa-San Luis se topa con O’Higgins-La U",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/19/hinchas-indignados-con-programacion-de-anfp-final-cobreloa-san-luis-se-topa-con-ohiggins-la-u.shtml",
-      "fecha_publicacion": "2026-11-19 14:35"
-    },
-    {
       "titulo": "Castellón y eventual ayuda de Colo Colo: No podemos jugar a que otro equipo haga nuestra pega",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/castellon-y-eventual-ayuda-de-colo-colo-no-podemos-jugar-a-que-otro/2026-11-19/134458.html",
       "fecha_publicacion": "2026-11-19 134458"
-    },
-    {
-      "titulo": "Se viene la gran final inédita del fútbol femenino entre Colo Colo y la UC: Cómo llegan y a qué hora se juega este viernes",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/19/1217555/final-futbolfemenino-colocolouc.html",
-      "fecha_publicacion": "2026-11-19 12:02"
     },
     {
       "titulo": "Lawrence Vigouroux tras ser figura ante Colombia: \"Siempre es hermoso usar esta camiseta\"",
