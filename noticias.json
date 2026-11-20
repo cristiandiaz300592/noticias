@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-20T18:30:30.569120+00:00",
+  "actualizado": "2026-11-20T19:00:36.574510+00:00",
   "noticias": [
+    {
+      "titulo": "Arturo Vidal: Mosa puede decir lo que quiera, no estoy negociando con nadie",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/arturo-vidal-mosa-puede-decir-lo-que-quiera-no-estoy-negociando-con-nadie/2026-11-20/154149.html",
+      "fecha_publicacion": "2026-11-20 154149"
+    },
+    {
+      "titulo": "Garnero desechó idea de un pasillo para Colo Colo: Creo que no se va a hacer",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-desecho-idea-de-un-pasillo-para-colo-colo-creo-que-no-se-va-a/2026-11-20/153846.html",
+      "fecha_publicacion": "2026-11-20 153846"
+    },
     {
       "titulo": "Alcalde de Peñalolén felicita a Uauy, pero le exige pagar deuda de ANFP: \"Las puertas están abiertas\"",
       "fuente": "BioBioChile",
@@ -24,24 +36,6 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/20/1217673/bajas-colocolo-uc-clasico-pasillo.html",
       "fecha_publicacion": "2026-11-20 12:50"
-    },
-    {
-      "titulo": "Colo Colo y la UC palpitan el clásico 190 en conferencia de prensa",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/colo-colo-y-la-uc-palpitan-el-clasico-190-en-conferencia-de-prensa/2026-11-20/123722.html",
-      "fecha_publicacion": "2026-11-20 123722"
-    },
-    {
-      "titulo": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 28",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html",
-      "fecha_publicacion": "2026-11-20 122247"
-    },
-    {
-      "titulo": "Los resultados de la fecha 28 de la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
-      "fecha_publicacion": "2026-11-20 121911"
     },
     {
       "titulo": "ANFP evitó juicio y pagó $16 millones a árbitra que demandó por acoso y discriminación tras despido",
@@ -84,12 +78,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/hinchas-de-union-recordaron-ferrea-defensa-de-julio-martinez-al-santa/2026-11-20/084636.html",
       "fecha_publicacion": "2026-11-20 084636"
-    },
-    {
-      "titulo": "Tribunal también golpea a San Luis: defensa recibió dura sanción y se perderá final ante Cobreloa",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/20/tribunal-tambien-golpea-a-san-luis-defensa-recibio-dura-sancion-y-se-perdera-final-ante-cobreloa.shtml",
-      "fecha_publicacion": "2026-11-20 08:38"
     },
     {
       "titulo": "¿Qué partido será transmitido por TV abierta en la fecha 28 de la Liga de Primera?",
