@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-20T13:13:34.962460+00:00",
+  "actualizado": "2026-11-20T13:30:27.836920+00:00",
   "noticias": [
+    {
+      "titulo": "Azul Azul abrió la puerta al fichaje de Alexis Sánchez en la U: \"Hay que dar esa pelea\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/azul-azul-abrio-la-puerta-al-fichaje-de-alexis-sanchez-en-la-u-hay-que/2026-11-20/102122.html",
+      "fecha_publicacion": "2026-11-20 102122"
+    },
     {
       "titulo": "Alvaro Madrid avisó a la UC: Jamás se piensa en perjudicar o ayudar a un rival",
       "fuente": "Cooperativa",
@@ -50,16 +56,16 @@
       "fecha_publicacion": "2026-11-19 172037"
     },
     {
+      "titulo": "Mosa contó cómo votó Colo Colo en elecciones de la ANFP",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-conto-como-voto-colo-colo-en-elecciones-de-la-anfp/2026-11-19/145052.html",
+      "fecha_publicacion": "2026-11-19 145052"
+    },
+    {
       "titulo": "Castellón y eventual ayuda de Colo Colo: No podemos jugar a que otro equipo haga nuestra pega",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/castellon-y-eventual-ayuda-de-colo-colo-no-podemos-jugar-a-que-otro/2026-11-19/134458.html",
       "fecha_publicacion": "2026-11-19 134458"
-    },
-    {
-      "titulo": "Lawrence Vigouroux tras ser figura ante Colombia: \"Siempre es hermoso usar esta camiseta\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/lawrence-vigouroux-tras-ser-figura-ante-colombia-siempre-es-hermoso/2026-11-18/131528.html",
-      "fecha_publicacion": "2026-11-18 131528"
     }
   ]
 }
