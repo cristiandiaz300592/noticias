@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T14:00:30.031556+00:00",
+  "actualizado": "2026-11-20T14:30:27.235700+00:00",
   "noticias": [
     {
       "titulo": "U. de Chile celebró el cumpleaños de Eduardo Vargas: \"Nacido para hacer historia\"",
@@ -12,6 +12,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/azul-azul-abrio-la-puerta-al-fichaje-de-alexis-sanchez-en-la-u-hay-que/2026-11-20/102122.html",
       "fecha_publicacion": "2026-11-20 102122"
+    },
+    {
+      "titulo": "Por qué el estadio Santa Laura cambia de nombre: El origen de la crisis que sacude a Unión Española",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/20/1217675/unionespanola-santalaura-estadio.html",
+      "fecha_publicacion": "2026-11-20 10:20"
     },
     {
       "titulo": "Alvaro Madrid avisó a la UC: Jamás se piensa en perjudicar o ayudar a un rival",
@@ -48,6 +54,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/19/sadp-de-union-espanola-arremete-contra-corporacion-por-pedir-renuncias-cambian-nombre-al-santa-laura.shtml",
       "fecha_publicacion": "2026-11-19 19:17"
+    },
+    {
+      "titulo": "¿Qué partido será transmitido por TV abierta en la fecha 28 de la Liga de Primera?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/que-partido-sera-transmitido-por-tv-abierta-en-la-fecha-28-de-la-liga/2026-11-19/181505.html",
+      "fecha_publicacion": "2026-11-19 181505"
     },
     {
       "titulo": "Unión Española contra la corporación: Santa Laura se llamará Estadio Universidad SEK",
