@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-20T12:01:34.398844+00:00",
+  "actualizado": "2026-11-20T12:30:32.405015+00:00",
   "noticias": [
+    {
+      "titulo": "Revés para Católica de cara al clásico: Garnero pierde pieza clave para enfrentar a Colo Colo en Macul",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/20/reves-para-catolica-de-cara-al-clasico-garnero-pierde-pieza-clave-para-enfrentar-a-colo-colo-en-macul.shtml",
+      "fecha_publicacion": "2026-11-20 09:23"
+    },
     {
       "titulo": "Hinchas de Unión recordaron férrea defensa de Julio Martínez al Santa Laura",
       "fuente": "Cooperativa",
@@ -32,10 +38,10 @@
       "fecha_publicacion": "2026-11-19 19:17"
     },
     {
-      "titulo": "La polémica que sacude a Unión Española: El estadio Santa Laura cambiará de nombre",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/19/1217637/union-espanola-santa-laura.html",
-      "fecha_publicacion": "2026-11-19 18:30"
+      "titulo": "Unión Española contra la corporación: Santa Laura se llamará Estadio Universidad SEK",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-contra-la-corporacion-santa-laura-se-llamara-estadio/2026-11-19/172941.html",
+      "fecha_publicacion": "2026-11-19 172941"
     },
     {
       "titulo": "Por la permanencia: Cobresal y Audax Italiano levantan el telón de la fecha 28",
@@ -54,12 +60,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-conto-como-voto-colo-colo-en-elecciones-de-la-anfp/2026-11-19/145052.html",
       "fecha_publicacion": "2026-11-19 145052"
-    },
-    {
-      "titulo": "Castellón y eventual ayuda de Colo Colo: No podemos jugar a que otro equipo haga nuestra pega",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/castellon-y-eventual-ayuda-de-colo-colo-no-podemos-jugar-a-que-otro/2026-11-19/134458.html",
-      "fecha_publicacion": "2026-11-19 134458"
     },
     {
       "titulo": "Lawrence Vigouroux tras ser figura ante Colombia: \"Siempre es hermoso usar esta camiseta\"",
