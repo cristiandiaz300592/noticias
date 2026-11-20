@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T17:00:31.333211+00:00",
+  "actualizado": "2026-11-20T17:30:27.988385+00:00",
   "noticias": [
     {
       "titulo": "Gago y el \"Chile 2\": Tenemos muy claro que todo depende de nosotros",
@@ -18,6 +18,12 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/20/1217673/bajas-colocolo-uc-clasico-pasillo.html",
       "fecha_publicacion": "2026-11-20 12:50"
+    },
+    {
+      "titulo": "La previa del clásico entre Colo Colo y Universidad Católica por la fecha 28",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-previa-del-clasico-entre-colo-colo-y-universidad-catolica-por-la/2026-11-20/123722.html",
+      "fecha_publicacion": "2026-11-20 123722"
     },
     {
       "titulo": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 28",
@@ -102,12 +108,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/por-la-permanencia-cobresal-y-audax-italiano-levantan-el-telon-de-la/2026-11-19/172037.html",
       "fecha_publicacion": "2026-11-19 172037"
-    },
-    {
-      "titulo": "Mosa contó cómo votó Colo Colo en elecciones de la ANFP",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-conto-como-voto-colo-colo-en-elecciones-de-la-anfp/2026-11-19/145052.html",
-      "fecha_publicacion": "2026-11-19 145052"
     }
   ]
 }
