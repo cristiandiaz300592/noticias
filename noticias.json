@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T20:30:30.281237+00:00",
+  "actualizado": "2026-11-20T21:00:31.894938+00:00",
   "noticias": [
     {
       "titulo": "Javier Correa fue operado con éxito y comenzó su recuperación en Colo Colo",
@@ -50,9 +50,9 @@
       "fecha_publicacion": "2026-11-20 12:50"
     },
     {
-      "titulo": "Los resultados de la fecha 28 de la Liga de Primera",
+      "titulo": "Cobresal y Audax chocan en el inicio de la fecha 28 de la Liga",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cobresal-y-audax-chocan-en-el-inicio-de-la-fecha-28-de-la-liga/2026-11-20/121911.html",
       "fecha_publicacion": "2026-11-20 121911"
     },
     {
@@ -72,6 +72,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/u-de-chile-celebro-el-cumpleanos-de-eduardo-vargas-nacido-para-hacer/2026-11-20/103209.html",
       "fecha_publicacion": "2026-11-20 103209"
+    },
+    {
+      "titulo": "Azul Azul abrió la puerta al fichaje de Alexis Sánchez en la U: \"Hay que dar esa pelea\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/azul-azul-abrio-la-puerta-al-fichaje-de-alexis-sanchez-en-la-u-hay-que/2026-11-20/102122.html",
+      "fecha_publicacion": "2026-11-20 102122"
     },
     {
       "titulo": "Por qué el estadio Santa Laura cambia de nombre: El origen de la crisis que sacude a Unión Española",
@@ -96,12 +102,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-contra-la-corporacion-santa-laura-se-llamara-estadio/2026-11-19/172941.html",
       "fecha_publicacion": "2026-11-19 172941"
-    },
-    {
-      "titulo": "Por la permanencia: Cobresal y Audax Italiano levantan el telón de la fecha 28",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/por-la-permanencia-cobresal-y-audax-italiano-levantan-el-telon-de-la/2026-11-19/172037.html",
-      "fecha_publicacion": "2026-11-19 172037"
     }
   ]
 }
