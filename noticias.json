@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-21T19:30:25.017073+00:00",
+  "actualizado": "2026-11-21T20:00:29.773685+00:00",
   "noticias": [
+    {
+      "titulo": "La Roja Femenina anunció nómina para los amistosos contra España y Estados Unidos",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-femenina-anuncio-nomina-para-los-amistosos-contra-espana-y/2026-11-21/165546.html",
+      "fecha_publicacion": "2026-11-21 165546"
+    },
     {
       "titulo": "Oficial: Colo Colo anuncia la renovación de Fernando Ortiz para 2027",
       "fuente": "Emol",
@@ -26,12 +32,6 @@
       "fecha_publicacion": "2026-11-21 142122"
     },
     {
-      "titulo": "Coquimbo Unido ganó en el último suspiro y complicó a Everton en zona de copas",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/coquimbo-unido-gano-en-el-ultimo-suspiro-y-complico-a-everton-en-zona-de/2026-11-21/141636.html",
-      "fecha_publicacion": "2026-11-21 141636"
-    },
-    {
       "titulo": "Hinchas de Unión Española se manifestaron contra Segovia fuera del Santa Laura",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/hinchas-de-union-espanola-se-manifestaron-contra-segovia-fuera-del-santa/2026-11-21/123304.html",
@@ -48,12 +48,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/union-la-calera-vencio-en-la-agonia-a-palestino-y-encendio-el-sueno-de/2026-11-20/223501.html",
       "fecha_publicacion": "2026-11-20 223501"
-    },
-    {
-      "titulo": "Investigación reveló chats que vinculan a Cerda en negociación de Sartor para comprar Azul Azul",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/investigacion-revelo-chats-que-vinculan-a-victoriano-cerda-con/2026-11-20/214435.html",
-      "fecha_publicacion": "2026-11-20 214435"
     },
     {
       "titulo": "Colo Colo derrotó a la UC y es pentacampeón de la Liga Femenina: final se definió en penales",
