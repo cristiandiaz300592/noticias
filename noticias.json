@@ -1,17 +1,23 @@
 {
-  "actualizado": "2026-11-21T22:30:27.013650+00:00",
+  "actualizado": "2026-11-21T23:00:32.639731+00:00",
   "noticias": [
+    {
+      "titulo": "[VIDEO] Eduardo Vargas anotó un golazo de sombrerito para la U ante O'Higgins",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-eduardo-vargas-anoto-un-golazo-de-sombrerito-para-la-u-ante/2026-11-21/194056.html",
+      "fecha_publicacion": "2026-11-21 194056"
+    },
+    {
+      "titulo": "[VIDEO] Lichnovsky fue expulsado por un codazo a Castillo y dejó a la U con 10 ante O'Higgins",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-lichnovsky-fue-expulsado-por-un-codazo-a-castillo-y-dejo-a-la-u/2026-11-21/191947.html",
+      "fecha_publicacion": "2026-11-21 191947"
+    },
     {
       "titulo": "Denuncian agresión de jugador a reportero en definición de Tercera B: \"Estoy trabajando\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/21/denuncian-agresion-de-jugador-a-reportero-en-definicion-de-tercera-b-estoy-trabajando.shtml",
       "fecha_publicacion": "2026-11-21 18:30"
-    },
-    {
-      "titulo": "[VIDEO] Hinchas de Colo Colo alentaron con arengazo antes del clásico con la UC",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-hinchas-de-colo-colo-alentaron-con-arengazo-antes-del-clasico/2026-11-21/181646.html",
-      "fecha_publicacion": "2026-11-21 181646"
     },
     {
       "titulo": "Se agudiza el conflicto: hinchas de la Unión enviaron mensaje tras polémica por nombre del Santa Laura",
@@ -62,9 +68,15 @@
       "fecha_publicacion": "2026-11-20 21:39"
     },
     {
-      "titulo": "[Radio en vivo🎙] O'Higgins y la U igualan en la fecha 28 de la Liga",
+      "titulo": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 28",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-o-higgins-y-la-u-igualan-en-la-fecha-28-de-la-liga/2026-11-20/121911.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html",
+      "fecha_publicacion": "2026-11-20 122247"
+    },
+    {
+      "titulo": "[Radio en vivo🎙] La U vence a O'Higgins en la fecha 28 de la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-la-u-vence-a-o-higgins-en-la-fecha-28-de-la-liga-de/2026-11-20/121911.html",
       "fecha_publicacion": "2026-11-20 121911"
     }
   ]
