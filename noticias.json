@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-21T01:30:24.962530+00:00",
+  "actualizado": "2026-11-21T02:00:27.785284+00:00",
   "noticias": [
+    {
+      "titulo": "La U visita a O'Higgins con la misión de ratificar su ventaja sobre la UC por el \"Chile 2\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-visita-a-o-higgins-con-la-mision-de-ratificar-su-ventaja-sobre-la/2026-11-20/224152.html",
+      "fecha_publicacion": "2026-11-20 224152"
+    },
+    {
+      "titulo": "La Calera vive: venció a Palestino en La Cisterna, dejó el fondo y sigue luchando por no descender",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/20/la-calera-vive-vencio-a-palestino-en-la-cisterna-dejo-el-fondo-y-sigue-luchando-por-no-descender.shtml",
+      "fecha_publicacion": "2026-11-20 22:41"
+    },
+    {
+      "titulo": "Unión La Calera venció en la agonía a Palestino y encendió el sueño de la salvación",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/union-la-calera-vencio-en-la-agonia-a-palestino-y-encendio-el-sueno-de/2026-11-20/223501.html",
+      "fecha_publicacion": "2026-11-20 223501"
+    },
     {
       "titulo": "Investigación reveló chats que vinculan a Cerda en negociación de Sartor para comprar Azul Azul",
       "fuente": "Cooperativa",
@@ -92,9 +110,9 @@
       "fecha_publicacion": "2026-11-20 122247"
     },
     {
-      "titulo": "Palestino cae con Unión La Calera por la fecha 28 de la Liga de Primera",
+      "titulo": "Los resultados de la fecha 28 en la Liga de Primera",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/palestino-cae-con-union-la-calera-por-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-28-en-la-liga-de-primera/2026-11-20/121911.html",
       "fecha_publicacion": "2026-11-20 121911"
     },
     {
@@ -102,18 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/azul-azul-abrio-la-puerta-al-fichaje-de-alexis-sanchez-en-la-u-hay-que/2026-11-20/102122.html",
       "fecha_publicacion": "2026-11-20 102122"
-    },
-    {
-      "titulo": "Alvaro Madrid avisó a la UC: Jamás se piensa en perjudicar o ayudar a un rival",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/alvaro-madrid-aviso-a-la-uc-jamas-se-piensa-en-perjudicar-o-ayudar-a-un/2026-11-20/100327.html",
-      "fecha_publicacion": "2026-11-20 100327"
-    },
-    {
-      "titulo": "Hinchas de Unión recordaron férrea defensa de Julio Martínez al Santa Laura",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/hinchas-de-union-recordaron-ferrea-defensa-de-julio-martinez-al-santa/2026-11-20/084636.html",
-      "fecha_publicacion": "2026-11-20 084636"
     }
   ]
 }
