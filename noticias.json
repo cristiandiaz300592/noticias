@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-21T13:00:30.374256+00:00",
+  "actualizado": "2026-11-21T13:30:25.611032+00:00",
   "noticias": [
+    {
+      "titulo": "Todos los ojos en la Primera B: Cómo llegan Cobreloa y San Luis a la gran definición por el título",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/21/1217621/primerab-final-cobreloa-san-luis.html",
+      "fecha_publicacion": "2026-11-21 07:35"
+    },
     {
       "titulo": "Carlos Caszely exigió la renovación de Arturo Vidal: \"Es el hombre más importante de Colo Colo\"",
       "fuente": "Cooperativa",
@@ -68,12 +74,6 @@
       "fecha_publicacion": "2026-11-20 171349"
     },
     {
-      "titulo": "Ortiz evitó ahondar sobre su futuro: El enfoque es el clásico, el resto es secundario",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-evito-ahondar-sobre-su-futuro-el-enfoque-es-el-clasico-el-resto/2026-11-20/161003.html",
-      "fecha_publicacion": "2026-11-20 161003"
-    },
-    {
       "titulo": "Arturo Vidal: Mosa puede decir lo que quiera, no estoy negociando con nadie",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/arturo-vidal-mosa-puede-decir-lo-que-quiera-no-estoy-negociando-con-nadie/2026-11-20/154149.html",
@@ -96,18 +96,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-y-el-chile-2-tenemos-muy-claro-que-todo-depende-de-nosotros/2026-11-20/131242.html",
       "fecha_publicacion": "2026-11-20 131242"
-    },
-    {
-      "titulo": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 28",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html",
-      "fecha_publicacion": "2026-11-20 122247"
-    },
-    {
-      "titulo": "Azul Azul abrió la puerta al fichaje de Alexis Sánchez en la U: \"Hay que dar esa pelea\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/azul-azul-abrio-la-puerta-al-fichaje-de-alexis-sanchez-en-la-u-hay-que/2026-11-20/102122.html",
-      "fecha_publicacion": "2026-11-20 102122"
     }
   ]
 }
