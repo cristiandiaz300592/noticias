@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-21T00:00:29.427404+00:00",
+  "actualizado": "2026-11-21T01:00:30.337315+00:00",
   "noticias": [
+    {
+      "titulo": "Investigación reveló chats que vinculan a Cerda en negociación de Sartor para comprar Azul Azul",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/investigacion-revelo-chats-que-vinculan-a-victoriano-cerda-con/2026-11-20/214435.html",
+      "fecha_publicacion": "2026-11-20 214435"
+    },
+    {
+      "titulo": "Colo Colo derrotó a la UC y es pentacampeón de la Liga Femenina: final se definió en penales",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/20/colo-colo-derroto-a-la-uc-y-es-pentacampeon-de-la-liga-femenina-final-se-definio-en-penales.shtml",
+      "fecha_publicacion": "2026-11-20 21:39"
+    },
+    {
+      "titulo": "Colo Colo sigue haciendo historia: Venció por penales a la UC en dramática final y es pentacampeón del fútbol femenino",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/20/1217754/colocolo-campeon-futbol-femenino.html",
+      "fecha_publicacion": "2026-11-20 21:23"
+    },
     {
       "titulo": "Recoleta golpeó primero y derrotó a Wanderers en playoffs de Ascenso: vuelta será en Valparaíso",
       "fuente": "BioBioChile",
@@ -30,6 +48,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/juan-ignacio-diaz-palpito-el-clasico-con-colo-colo-venimos-muy-bien/2026-11-20/162040.html",
       "fecha_publicacion": "2026-11-20 162040"
+    },
+    {
+      "titulo": "La broma de Daniel Garnero a Fernando Ortiz en la previa del duelo de Colo Colo con la UC y el dardo de Arturo Vidal a Aníbal Mosa",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/20/1217727/colocolo-uc-ortiz-garnero-vidal.html",
+      "fecha_publicacion": "2026-11-20 16:12"
     },
     {
       "titulo": "Ortiz evitó ahondar sobre su futuro: El enfoque es el clásico, el resto es secundario",
@@ -62,40 +86,16 @@
       "fecha_publicacion": "2026-11-20 131242"
     },
     {
-      "titulo": "Las duras bajas en Colo Colo y la UC de cara al clásico del domingo y el debate por el \"pasillo de honor\"",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/20/1217673/bajas-colocolo-uc-clasico-pasillo.html",
-      "fecha_publicacion": "2026-11-20 12:50"
-    },
-    {
-      "titulo": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 28",
+      "titulo": "Palestino iguala con Unión La Calera por la fecha 28 de la Liga de Primera",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html",
-      "fecha_publicacion": "2026-11-20 122247"
-    },
-    {
-      "titulo": "Palestino recibe a Unión La Calera por la fecha 28 de la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/palestino-recibe-a-union-la-calera-por-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/palestino-iguala-con-union-la-calera-por-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
       "fecha_publicacion": "2026-11-20 121911"
-    },
-    {
-      "titulo": "U. de Chile celebró el cumpleaños de Eduardo Vargas: \"Nacido para hacer historia\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/u-de-chile-celebro-el-cumpleanos-de-eduardo-vargas-nacido-para-hacer/2026-11-20/103209.html",
-      "fecha_publicacion": "2026-11-20 103209"
     },
     {
       "titulo": "Azul Azul abrió la puerta al fichaje de Alexis Sánchez en la U: \"Hay que dar esa pelea\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/azul-azul-abrio-la-puerta-al-fichaje-de-alexis-sanchez-en-la-u-hay-que/2026-11-20/102122.html",
       "fecha_publicacion": "2026-11-20 102122"
-    },
-    {
-      "titulo": "Por qué el estadio Santa Laura cambia de nombre: El origen de la crisis que sacude a Unión Española",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/20/1217675/unionespanola-santalaura-estadio.html",
-      "fecha_publicacion": "2026-11-20 10:20"
     },
     {
       "titulo": "Alvaro Madrid avisó a la UC: Jamás se piensa en perjudicar o ayudar a un rival",
