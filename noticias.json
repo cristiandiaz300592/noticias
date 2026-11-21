@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T16:30:28.187302+00:00",
+  "actualizado": "2026-11-21T17:00:39.782063+00:00",
   "noticias": [
     {
       "titulo": "Hinchas de Unión Española se manifestaron contra Segovia fuera del Santa Laura",
@@ -44,12 +44,6 @@
       "fecha_publicacion": "2026-11-20 21:39"
     },
     {
-      "titulo": "Colo Colo sigue haciendo historia: Venció por penales a la UC en dramática final y es pentacampeón del fútbol femenino",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/20/1217754/colocolo-campeon-futbol-femenino.html",
-      "fecha_publicacion": "2026-11-20 21:23"
-    },
-    {
       "titulo": "Recoleta golpeó primero y derrotó a Wanderers en playoffs de Ascenso: vuelta será en Valparaíso",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/20/recoleta-golpeo-primero-y-derroto-a-wanderers-en-playoffs-de-ascenso-vuelta-sera-en-valparaiso.shtml",
@@ -74,15 +68,9 @@
       "fecha_publicacion": "2026-11-20 154149"
     },
     {
-      "titulo": "Gago y el \"Chile 2\": Tenemos muy claro que todo depende de nosotros",
+      "titulo": "Coquimbo y Everton empatan por la fecha 28 de la Liga de Primera",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-y-el-chile-2-tenemos-muy-claro-que-todo-depende-de-nosotros/2026-11-20/131242.html",
-      "fecha_publicacion": "2026-11-20 131242"
-    },
-    {
-      "titulo": "Coquimbo Unido y Everton empatan por la fecha 28 de la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/coquimbo-unido-y-everton-empatan-por-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/coquimbo-y-everton-empatan-por-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
       "fecha_publicacion": "2026-11-20 121911"
     }
   ]
