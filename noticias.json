@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-21T15:00:29.835992+00:00",
+  "actualizado": "2026-11-21T16:00:31.668014+00:00",
   "noticias": [
+    {
+      "titulo": "Hinchas de Unión Española se manifestaron contra Segovia fuera del Santa Laura",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/hinchas-de-union-espanola-se-manifestaron-contra-segovia-fuera-del-santa/2026-11-21/123304.html",
+      "fecha_publicacion": "2026-11-21 123304"
+    },
     {
       "titulo": "Todos los ojos en la Primera B: Cómo llegan Cobreloa y San Luis a la gran definición por el título",
       "fuente": "Emol",
@@ -14,12 +20,6 @@
       "fecha_publicacion": "2026-11-20 232256"
     },
     {
-      "titulo": "La U visita a O'Higgins con la misión de ratificar su ventaja sobre la UC por el \"Chile 2\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-visita-a-o-higgins-con-la-mision-de-ratificar-su-ventaja-sobre-la/2026-11-20/224152.html",
-      "fecha_publicacion": "2026-11-20 224152"
-    },
-    {
       "titulo": "La Calera vive: venció a Palestino en La Cisterna, dejó el fondo y sigue luchando por no descender",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/20/la-calera-vive-vencio-a-palestino-en-la-cisterna-dejo-el-fondo-y-sigue-luchando-por-no-descender.shtml",
@@ -30,6 +30,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/union-la-calera-vencio-en-la-agonia-a-palestino-y-encendio-el-sueno-de/2026-11-20/223501.html",
       "fecha_publicacion": "2026-11-20 223501"
+    },
+    {
+      "titulo": "Investigación reveló chats que vinculan a Cerda en negociación de Sartor para comprar Azul Azul",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/investigacion-revelo-chats-que-vinculan-a-victoriano-cerda-con/2026-11-20/214435.html",
+      "fecha_publicacion": "2026-11-20 214435"
     },
     {
       "titulo": "Colo Colo derrotó a la UC y es pentacampeón de la Liga Femenina: final se definió en penales",
@@ -62,12 +68,6 @@
       "fecha_publicacion": "2026-11-20 20:03"
     },
     {
-      "titulo": "Javier Correa fue operado con éxito y comenzó su recuperación en Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/javier-correa-fue-operado-con-exito-y-comenzo-su-recuperacion-en-colo/2026-11-20/171349.html",
-      "fecha_publicacion": "2026-11-20 171349"
-    },
-    {
       "titulo": "Arturo Vidal: Mosa puede decir lo que quiera, no estoy negociando con nadie",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/arturo-vidal-mosa-puede-decir-lo-que-quiera-no-estoy-negociando-con-nadie/2026-11-20/154149.html",
@@ -86,22 +86,10 @@
       "fecha_publicacion": "2026-11-20 131242"
     },
     {
-      "titulo": "Coquimbo Unido recibe a Everton por la fecha 28 de la Liga de Primera",
+      "titulo": "Coquimbo Unido y Everton empatan por la fecha 28 de la Liga de Primera",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/coquimbo-unido-recibe-a-everton-por-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/coquimbo-unido-y-everton-empatan-por-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
       "fecha_publicacion": "2026-11-20 121911"
-    },
-    {
-      "titulo": "Los resultados de la fecha 28 en la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-28-en-la-liga-de-primera/2026-11-20/121911.html",
-      "fecha_publicacion": "2026-11-20 121911"
-    },
-    {
-      "titulo": "¿Qué partido será transmitido por TV abierta en la fecha 28 de la Liga de Primera?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/que-partido-sera-transmitido-por-tv-abierta-en-la-fecha-28-de-la-liga/2026-11-19/181505.html",
-      "fecha_publicacion": "2026-11-19 181505"
     }
   ]
 }
