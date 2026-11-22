@@ -1,17 +1,23 @@
 {
-  "actualizado": "2026-11-22T21:30:34.632751+00:00",
+  "actualizado": "2026-11-22T22:00:29.633695+00:00",
   "noticias": [
+    {
+      "titulo": "Joaquín Montecinos fue detenido por Carabineros tras empate de Concepción y Huachipato en Talcahuano",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/joaquin-montecinos-fue-detenido-por-carabineros-tras-empate-de-concepcion.shtml",
+      "fecha_publicacion": "2026-11-22 18:38"
+    },
+    {
+      "titulo": "[VIDEO] Con revisión de VAR: Maxi Romero anotó un golazo para Colo Colo ante la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-con-revision-de-var-maxi-romero-anoto-un-golazo-para-colo-colo/2026-11-22/182732.html",
+      "fecha_publicacion": "2026-11-22 182732"
+    },
     {
       "titulo": "La espectacular bienvenida de los hinchas a Colo Colo en el Monumental antes del clásico con la UC",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/la-espectacular-bienvenida-de-los-hinchas-a-colo-colo-en-el-monumental/2026-11-22/181650.html",
       "fecha_publicacion": "2026-11-22 181650"
-    },
-    {
-      "titulo": "Con partidos en simultáneo: La programación de la fecha 29 de la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-partidos-en-simultaneo-la-programacion-de-la-fecha-29-de-la-liga-de/2026-11-22/165207.html",
-      "fecha_publicacion": "2026-11-22 165207"
     },
     {
       "titulo": "Palestino denunció \"acto discriminatorio\" contra hinchas que asistieron a concierto de Ed Sheeran",
