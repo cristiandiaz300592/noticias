@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-22T00:30:26.103545+00:00",
+  "actualizado": "2026-11-22T01:00:30.611340+00:00",
   "noticias": [
+    {
+      "titulo": "Calama vuelve a la A: Cobreloa derrota por penales a San Luis y logra el ansiado regreso a Primera División",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/21/1217806/cobreloa-campeon-primerab-ascenso.html",
+      "fecha_publicacion": "2026-11-21 21:09"
+    },
+    {
+      "titulo": "Cobreloa logra su segundo título de la Primera B en cuatro años: El listado histórico de campeones del ascenso",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/21/1217747/futbol-chileno-primera-b-campeones.html",
+      "fecha_publicacion": "2026-11-21 21:05"
+    },
     {
       "titulo": "El regreso de un histórico a Primera: Cobreloa derrotó a San Luis y es el campeón del Ascenso",
       "fuente": "BioBioChile",
@@ -8,10 +20,10 @@
       "fecha_publicacion": "2026-11-21 20:49"
     },
     {
-      "titulo": "Dura baja para Colo Colo: Vidal quedó fuera del clásico con Universidad Católica por lesión",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/dura-baja-para-colo-colo-vidal-quedo-fuera-del-clasico-con-universidad/2026-11-21/201744.html",
-      "fecha_publicacion": "2026-11-21 201744"
+      "titulo": "Con un jugador menos y gracias a un golazo de Eduardo Vargas, la U vence a O'Higgins y le deja toda la presión a la UC por el Chile 2",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/21/1217805/campeonato-nacional-udechile.html",
+      "fecha_publicacion": "2026-11-21 20:35"
     },
     {
       "titulo": "Con golazo de Eduardo Vargas: La U derrotó a O’Higgins y se afianza en la lucha por el ’Chile 2’",
@@ -72,12 +84,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/20/la-calera-vive-vencio-a-palestino-en-la-cisterna-dejo-el-fondo-y-sigue-luchando-por-no-descender.shtml",
       "fecha_publicacion": "2026-11-20 22:41"
-    },
-    {
-      "titulo": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 28",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html",
-      "fecha_publicacion": "2026-11-20 122247"
     },
     {
       "titulo": "Universidad de Concepción cae ante Ñublense en la fecha 28 de la Liga",
