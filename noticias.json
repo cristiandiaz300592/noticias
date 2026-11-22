@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-22T17:00:30.914820+00:00",
+  "actualizado": "2026-11-22T17:30:28.016463+00:00",
   "noticias": [
+    {
+      "titulo": "Huachipato y D. Concepción protagonizaron reñido empate en medio de la lucha por copas",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-y-d-concepcion-protagonizaron-renido-empate-en-medio-de-la/2026-11-22/141802.html",
+      "fecha_publicacion": "2026-11-22 141802"
+    },
+    {
+      "titulo": "Huachipato y Concepción igualaron por La Liga de Primera: arquero del ’León’ atajó un penal",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/huachipato-y-concepcion-igualaron-por-la-liga-de-primera-arquero-del-leon-atajo-un-penal.shtml",
+      "fecha_publicacion": "2026-11-22 14:12"
+    },
+    {
+      "titulo": "Liguilla de Ascenso: San Marcos de Arica se hizo respetar en casa y tomó ventaja ante Magallanes",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/liguilla-de-ascenso-san-marcos-de-arica-se-hizo-respetar-en-casa-y-tomo-ventaja-ante-magallanes.shtml",
+      "fecha_publicacion": "2026-11-22 14:11"
+    },
     {
       "titulo": "Jugadores de Cobreloa se burlaron de Suazo tras ganar el ascenso: \"Pa Chupete que está muerto\"",
       "fuente": "BioBioChile",
@@ -18,12 +36,6 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217832/colocolo-catolica-formaciones-monumental.html",
       "fecha_publicacion": "2026-11-22 09:35"
-    },
-    {
-      "titulo": "La emocionante arenga del capitán de Cobreloa, un ácido cántico contra \"Chupete\" y más: Lo que no se vio de la final de la B",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217823/cobreloa-campeon-primerab-sanluis-final.html",
-      "fecha_publicacion": "2026-11-22 08:22"
     },
     {
       "titulo": "Mario Salas agradeció a César Bravo por título con Cobreloa: \"Nos entregó un equipo en condiciones\"",
@@ -50,12 +62,6 @@
       "fecha_publicacion": "2026-11-21 223847"
     },
     {
-      "titulo": "Ñublense venció a la UdeC en el Ester Roa y la hundió en La Liga de Primera: ’Campanil’ es colista",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/21/nublense-vencio-a-la-udec-en-el-ester-roa-y-la-hundio-en-la-liga-de-primera-campanil-es-colista.shtml",
-      "fecha_publicacion": "2026-11-21 22:33"
-    },
-    {
       "titulo": "La U venció con un hombre menos a O'Higgins y presionó a la UC en la pelea por el \"Chile 2\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-vencio-con-un-hombre-menos-a-o-higgins-y-presiono-a-la-uc-en-la/2026-11-21/195830.html",
@@ -66,12 +72,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fin-de-la-teleserie-colo-colo-anuncio-la-renovacion-de-fernando-ortiz/2026-11-21/142122.html",
       "fecha_publicacion": "2026-11-21 142122"
-    },
-    {
-      "titulo": "El sentido agradecimiento de Mario Salas, la promesa de \"Chupete\" Suazo: Las frases que dejó el título de Cobreloa",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/21/1217813/frases-cobreloa-campeon-primerab.html",
-      "fecha_publicacion": "2026-11-21 08:28"
     }
   ]
 }
