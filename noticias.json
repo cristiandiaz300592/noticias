@@ -1,11 +1,23 @@
 {
-  "actualizado": "2026-11-22T01:30:26.524951+00:00",
+  "actualizado": "2026-11-22T02:00:30.145876+00:00",
   "noticias": [
     {
-      "titulo": "Fernando Gago tras el triunfo de la U: Tenemos una ventaja y dependemos de nosotros",
+      "titulo": "Antofagasta rescató un empate en su visita a Copiapó y tomó ventaja en serie de Liguilla de Ascenso",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/21/antofagasta-rescato-un-empate-en-su-visita-a-copiapo-y-tomo-ventaja-en-serie-de-liguilla-de-ascenso.shtml",
+      "fecha_publicacion": "2026-11-21 22:59"
+    },
+    {
+      "titulo": "U. de Concepción quedó al borde del descenso tras perder ante Ñublense",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fernando-gago-tras-el-triunfo-de-la-u-tenemos-una-ventaja-y-dependemos/2026-11-21/215537.html",
-      "fecha_publicacion": "2026-11-21 215537"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/u-de-concepcion-quedo-al-borde-del-descenso-tras-perder-ante-nublense/2026-11-21/223847.html",
+      "fecha_publicacion": "2026-11-21 223847"
+    },
+    {
+      "titulo": "Ñublense venció a la UdeC en el Ester Roa y la hundió en La Liga de Primera: ’Campanil’ es colista",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/21/nublense-vencio-a-la-udec-en-el-ester-roa-y-la-hundio-en-la-liga-de-primera-campanil-es-colista.shtml",
+      "fecha_publicacion": "2026-11-21 22:33"
     },
     {
       "titulo": "Calama vuelve a la A: Cobreloa derrota por penales a San Luis y logra el ansiado regreso a Primera División",
@@ -24,12 +36,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/21/el-regreso-de-un-historico-a-primera-cobreloa-derroto-a-san-luis-y-es-el-campeon-del-ascenso.shtml",
       "fecha_publicacion": "2026-11-21 20:49"
-    },
-    {
-      "titulo": "Con un jugador menos y gracias a un golazo de Eduardo Vargas, la U vence a O'Higgins y le deja toda la presión a la UC por el Chile 2",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/21/1217805/campeonato-nacional-udechile.html",
-      "fecha_publicacion": "2026-11-21 20:35"
     },
     {
       "titulo": "Con golazo de Eduardo Vargas: La U derrotó a O’Higgins y se afianza en la lucha por el ’Chile 2’",
@@ -86,9 +92,15 @@
       "fecha_publicacion": "2026-11-21 123304"
     },
     {
-      "titulo": "Universidad de Concepción cae ante Ñublense en la fecha 28 de la Liga",
+      "titulo": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 28",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/universidad-de-concepcion-cae-ante-nublense-en-la-fecha-28-de-la-liga/2026-11-20/121911.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html",
+      "fecha_publicacion": "2026-11-20 122247"
+    },
+    {
+      "titulo": "Los resultados de la fecha 28 de la Liga de Primera 2026",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-28-de-la-liga-de-primera-2026/2026-11-20/121911.html",
       "fecha_publicacion": "2026-11-20 121911"
     }
   ]
