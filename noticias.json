@@ -1,8 +1,20 @@
 {
-  "actualizado": "2026-11-22T12:30:27.277349+00:00",
+  "actualizado": "2026-11-22T13:00:26.786852+00:00",
   "noticias": [
     {
-      "titulo": "Del espectacular gesto del capitán al lado romántico de Mario Salas: Los detalles del festejo de Cobreloa tras ser campeón de la Primera B",
+      "titulo": "Colo Colo sin Vidal y la UC con lesionados... A qué hora es y las probables formaciones de albos y cruzados",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217832/colocolo-catolica-formaciones-monumental.html",
+      "fecha_publicacion": "2026-11-22 09:35"
+    },
+    {
+      "titulo": "La emocionante arenga del capitán de Cobreloa, un ácido cántico contra \"Chupete\" y más: Lo que no se vio de la final de la B",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217823/cobreloa-campeon-primerab-sanluis-final.html",
+      "fecha_publicacion": "2026-11-22 08:22"
+    },
+    {
+      "titulo": "Los detalles del festejo de Cobreloa tras ser campeón de la Primera B",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217817/cobreloa-festejo-campeon-primerab-ascenso.html",
       "fecha_publicacion": "2026-11-22 00:44"
@@ -36,18 +48,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/21/nublense-vencio-a-la-udec-en-el-ester-roa-y-la-hundio-en-la-liga-de-primera-campanil-es-colista.shtml",
       "fecha_publicacion": "2026-11-21 22:33"
-    },
-    {
-      "titulo": "Calama vuelve a la A: Cobreloa derrota por penales a San Luis y logra el ansiado regreso a Primera División",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/21/1217806/cobreloa-campeon-primerab-ascenso.html",
-      "fecha_publicacion": "2026-11-21 21:09"
-    },
-    {
-      "titulo": "Cobreloa logra su segundo título de la Primera B en cuatro años: El listado histórico de campeones del ascenso",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/21/1217747/futbol-chileno-primera-b-campeones.html",
-      "fecha_publicacion": "2026-11-21 21:05"
     },
     {
       "titulo": "El regreso de un histórico a Primera: Cobreloa derrotó a San Luis y es el campeón del Ascenso",
@@ -90,6 +90,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fin-de-la-teleserie-colo-colo-anuncio-la-renovacion-de-fernando-ortiz/2026-11-21/142122.html",
       "fecha_publicacion": "2026-11-21 142122"
+    },
+    {
+      "titulo": "El sentido agradecimiento de Mario Salas, la promesa de \"Chupete\" Suazo: Las frases que dejó el título de Cobreloa",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/21/1217813/frases-cobreloa-campeon-primerab.html",
+      "fecha_publicacion": "2026-11-21 08:28"
     }
   ]
 }
