@@ -1,11 +1,29 @@
 {
-  "actualizado": "2026-11-22T23:00:33.953902+00:00",
+  "actualizado": "2026-11-22T23:30:25.383366+00:00",
   "noticias": [
+    {
+      "titulo": "Colo Colo le sacó brillo a su corona y dominó a la UC en el clásico con un triplete de Maxi Romero",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/colo-colo-le-saco-brillo-a-su-corona-y-domino-a-la-uc-en-el-clasico-con/2026-11-22/201001.html",
+      "fecha_publicacion": "2026-11-22 201001"
+    },
     {
       "titulo": "Mira los goles con que Colo Colo está derrotando a Católica",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217861/goles-colocolo-catolica-clasico.html",
-      "fecha_publicacion": "2026-11-22 19:59"
+      "fecha_publicacion": "2026-11-22 20:04"
+    },
+    {
+      "titulo": "Con triplete de Romero y un sólido Vozinha: Colo Colo le dio baile a Católica en su fiesta de campeón",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/liga-de-primera-colo-colo-gano-a-catolica-en-monumental.shtml",
+      "fecha_publicacion": "2026-11-22 20:03"
+    },
+    {
+      "titulo": "[VIDEO] Romero completó una jornada soñada y anotó el primer triplete de su carrera ante la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-romero-completo-una-jornada-sonada-y-anoto-el-primer-triplete-de/2026-11-22/195831.html",
+      "fecha_publicacion": "2026-11-22 195831"
     },
     {
       "titulo": "[VIDEO] Madrid la armó y Romero repitió para estirar la ventaja de Colo Colo ante la UC",
@@ -18,18 +36,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/joaquin-montecinos-fue-detenido-por-carabineros-tras-empate-de-concepcion.shtml",
       "fecha_publicacion": "2026-11-22 18:38"
-    },
-    {
-      "titulo": "[VIDEO] Con revisión de VAR: Maxi Romero anotó un golazo para Colo Colo ante la UC",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-con-revision-de-var-maxi-romero-anoto-un-golazo-para-colo-colo/2026-11-22/182732.html",
-      "fecha_publicacion": "2026-11-22 182732"
-    },
-    {
-      "titulo": "La espectacular bienvenida de los hinchas a Colo Colo en el Monumental antes del clásico con la UC",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/la-espectacular-bienvenida-de-los-hinchas-a-colo-colo-en-el-monumental/2026-11-22/181650.html",
-      "fecha_publicacion": "2026-11-22 181650"
     },
     {
       "titulo": "Palestino denunció \"acto discriminatorio\" contra hinchas que asistieron a concierto de Ed Sheeran",
@@ -60,12 +66,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/jugadores-de-cobreloa-se-burlaron-de-suazo-tras-ganar-el-ascenso-pa-chupete-que-esta-muerto.shtml",
       "fecha_publicacion": "2026-11-22 11:00"
-    },
-    {
-      "titulo": "[Radio en vivo🎙] Colo Colo vence a Universidad Católica en el clásico 190",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-colo-colo-vence-a-universidad-catolica-en-el-clasico/2026-11-22/100506.html",
-      "fecha_publicacion": "2026-11-22 100506"
     }
   ]
 }
