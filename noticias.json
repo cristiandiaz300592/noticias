@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-21T23:30:26.633805+00:00",
+  "actualizado": "2026-11-22T00:00:32.595557+00:00",
   "noticias": [
+    {
+      "titulo": "El regreso de un histórico a Primera: Cobreloa derrotó a San Luis y es el campeón del Ascenso",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/21/el-regreso-de-un-historico-a-primera-cobreloa-derroto-a-san-luis-y-es-el-campeon-del-ascenso.shtml",
+      "fecha_publicacion": "2026-11-21 20:49"
+    },
     {
       "titulo": "Dura baja para Colo Colo: Vidal quedó fuera del clásico con Universidad Católica por lesión",
       "fuente": "Cooperativa",
@@ -18,12 +24,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-vencio-con-un-hombre-menos-a-o-higgins-y-presiono-a-la-uc-en-la/2026-11-21/195830.html",
       "fecha_publicacion": "2026-11-21 195830"
-    },
-    {
-      "titulo": "[VIDEO] Eduardo Vargas anotó un golazo de sombrerito para la U ante O'Higgins",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-eduardo-vargas-anoto-un-golazo-de-sombrerito-para-la-u-ante/2026-11-21/194056.html",
-      "fecha_publicacion": "2026-11-21 194056"
     },
     {
       "titulo": "Denuncian agresión de jugador a reportero en definición de Tercera B: \"Estoy trabajando\"",
@@ -80,9 +80,9 @@
       "fecha_publicacion": "2026-11-20 122247"
     },
     {
-      "titulo": "Universidad de Concepción enfrenta a Ñublense en la fecha 28 de la Liga",
+      "titulo": "Universidad de Concepción cae ante Ñublense en la fecha 28 de la Liga",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/universidad-de-concepcion-enfrenta-a-nublense-en-la-fecha-28-de-la-liga/2026-11-20/121911.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/universidad-de-concepcion-cae-ante-nublense-en-la-fecha-28-de-la-liga/2026-11-20/121911.html",
       "fecha_publicacion": "2026-11-20 121911"
     }
   ]
