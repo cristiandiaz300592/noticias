@@ -1,11 +1,17 @@
 {
-  "actualizado": "2026-11-22T16:00:37.675417+00:00",
+  "actualizado": "2026-11-22T16:26:52.248639+00:00",
   "noticias": [
     {
       "titulo": "Jugadores de Cobreloa se burlaron de Suazo tras ganar el ascenso: \"Pa Chupete que está muerto\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/jugadores-de-cobreloa-se-burlaron-de-suazo-tras-ganar-el-ascenso-pa-chupete-que-esta-muerto.shtml",
       "fecha_publicacion": "2026-11-22 11:00"
+    },
+    {
+      "titulo": "Colo Colo y U. Católica chocan en el Monumental por el clásico 190",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/colo-colo-y-u-catolica-chocan-en-el-monumental-por-el-clasico-190/2026-11-22/100506.html",
+      "fecha_publicacion": "2026-11-22 100506"
     },
     {
       "titulo": "Colo Colo sin Vidal y la UC con lesionados... A qué hora es y las probables formaciones de albos y cruzados",
@@ -50,22 +56,10 @@
       "fecha_publicacion": "2026-11-21 22:33"
     },
     {
-      "titulo": "El regreso de un histórico a Primera: Cobreloa derrotó a San Luis y es el campeón del Ascenso",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/21/el-regreso-de-un-historico-a-primera-cobreloa-derroto-a-san-luis-y-es-el-campeon-del-ascenso.shtml",
-      "fecha_publicacion": "2026-11-21 20:49"
-    },
-    {
-      "titulo": "La U venció con un hombre menos a O'Higgins y presionó a la UC en la pelea por el \"Chile 2\"",
+      "titulo": "Fin de la teleserie: Colo Colo anunció la renovación de Fernando Ortiz",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-vencio-con-un-hombre-menos-a-o-higgins-y-presiono-a-la-uc-en-la/2026-11-21/195830.html",
-      "fecha_publicacion": "2026-11-21 195830"
-    },
-    {
-      "titulo": "Colo Colo quiere extender sus festejos en el clásico ante una UC que persigue el \"Chile 2\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/colo-colo-quiere-extender-sus-festejos-en-el-clasico-ante-una-uc-que/2026-11-21/162023.html",
-      "fecha_publicacion": "2026-11-21 162023"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fin-de-la-teleserie-colo-colo-anuncio-la-renovacion-de-fernando-ortiz/2026-11-21/142122.html",
+      "fecha_publicacion": "2026-11-21 142122"
     },
     {
       "titulo": "El sentido agradecimiento de Mario Salas, la promesa de \"Chupete\" Suazo: Las frases que dejó el título de Cobreloa",
