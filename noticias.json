@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-22T18:00:29.506326+00:00",
+  "actualizado": "2026-11-22T18:30:29.313351+00:00",
   "noticias": [
+    {
+      "titulo": "Palestino denunció \"acto discriminatorio\" contra hinchas que asistieron a concierto de Ed Sheeran",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/palestino-denuncio-acto-discriminatorio-contra-hinchas-que-asistieron/2026-11-22/150640.html",
+      "fecha_publicacion": "2026-11-22 150640"
+    },
     {
       "titulo": "Huachipato y D. Concepción protagonizaron reñido empate en medio de la lucha por copas",
       "fuente": "Cooperativa",
@@ -42,12 +48,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/mario-salas-agradecio-a-cesar-bravo-por-titulo-con-cobreloa-nos-entrego-un-equipo-en-condiciones.shtml",
       "fecha_publicacion": "2026-11-22 00:13"
-    },
-    {
-      "titulo": "Calama es una fiesta: hinchas de Cobreloa celebran en masa regreso del club a la Liga de Primera",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/21/calama-es-una-fiesta-hinchas-de-cobreloa-celebran-en-masa-regreso-del-club-a-la-liga-de-primera.shtml",
-      "fecha_publicacion": "2026-11-21 23:10"
     },
     {
       "titulo": "U. de Concepción quedó al borde del descenso tras perder ante Ñublense",
