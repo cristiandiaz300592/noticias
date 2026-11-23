@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-23T16:00:32.288199+00:00",
+  "actualizado": "2026-11-23T16:30:30.473976+00:00",
   "noticias": [
+    {
+      "titulo": "Club Deportivo y Social Unión Española: Autorizamos el uso de \"Estadio Santa Laura\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/club-deportivo-y-social-union-espanola-autorizamos-el-uso-de-estadio/2026-11-23/130849.html",
+      "fecha_publicacion": "2026-11-23 130849"
+    },
+    {
+      "titulo": "Alvaro Madrid abordó su continuidad en Colo Colo tras brillar ante la UC: \"Me ilusiona seguir\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/alvaro-madrid-abordo-su-continuidad-en-colo-colo-tras-brillar-ante-la/2026-11-23/130056.html",
+      "fecha_publicacion": "2026-11-23 130056"
+    },
     {
       "titulo": "\"La única culpable\": Segovia acusa a Corporación por cambio de nombre del Santa Laura y recibe réplica",
       "fuente": "BioBioChile",
@@ -18,12 +30,6 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/23/1217897/futuro-chupetesuazo-polemica-cantico.html",
       "fecha_publicacion": "2026-11-23 12:00"
-    },
-    {
-      "titulo": "Felipe Méndez celebró la continuidad de Ortiz en Colo Colo: \"Es la base para el próximo año\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/felipe-mendez-celebro-la-continuidad-de-ortiz-en-colo-colo-es-la-base/2026-11-23/094651.html",
-      "fecha_publicacion": "2026-11-23 094651"
     },
     {
       "titulo": "Palestino golpea la mesa y despide al DT Guillermo Farré a solo dos fechas para el final del torneo",
@@ -74,12 +80,6 @@
       "fecha_publicacion": "2026-11-22 213943"
     },
     {
-      "titulo": "Garnero tras la derrota ante Colo Colo: Nos vamos con un cachetazo fuerte",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-tras-la-derrota-ante-colo-colo-nos-vamos-con-un-cachetazo-fuerte/2026-11-22/213910.html",
-      "fecha_publicacion": "2026-11-22 213910"
-    },
-    {
       "titulo": "Trasandino de Los Andes se coronó campeón de Segunda División y ’voló’ a Primera B luego de 35 años",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/trasandino-de-los-andes-campeon-segunda-division-ascendio-a-primera-b.shtml",
@@ -108,12 +108,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/liga-de-primera-colo-colo-gano-a-catolica-en-monumental.shtml",
       "fecha_publicacion": "2026-11-22 20:03"
-    },
-    {
-      "titulo": "Con partidos en simultáneo: La programación de la fecha 29 de la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-partidos-en-simultaneo-la-programacion-de-la-fecha-29-de-la-liga-de/2026-11-22/165207.html",
-      "fecha_publicacion": "2026-11-22 165207"
     },
     {
       "titulo": "Palestino destituye a su DT a 2 jornadas del cierre del Campeonato Nacional",
