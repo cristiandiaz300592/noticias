@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T17:30:26.493092+00:00",
+  "actualizado": "2026-11-23T18:00:33.538583+00:00",
   "noticias": [
     {
       "titulo": "Informe arbitral complica a Colo Colo: Cabero detalló una serie de incidentes en clásico ante Católica",
@@ -104,12 +104,6 @@
       "fecha_publicacion": "2026-11-22 22:50"
     },
     {
-      "titulo": "La Serena se ilusiona con copas internacionales: ganó a Limache y trepó lugares en Liga de Primera",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/liga-de-primera-limache-cayo-con-la-serena-fecha-28.shtml",
-      "fecha_publicacion": "2026-11-22 22:33"
-    },
-    {
       "titulo": "Resumen: Colo Colo ganó el clásico a la UC y le dio una mano a U en la pelea por el Chile 2",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-gano-el-clasico-a-la-uc-y-le-dio-una-mano-a-u-en-la/2026-11-22/215753.html",
@@ -120,6 +114,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/la-uc-acuso-que-no-tenia-agua-en-el-camarin-del-monumental-tras-la/2026-11-22/213943.html",
       "fecha_publicacion": "2026-11-22 213943"
+    },
+    {
+      "titulo": "Ortiz evitó hablar sobre una renovación de Vidal: No me quiero salir del foco",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-evito-hablar-sobre-una-renovacion-de-vidal-no-me-quiero-salir-del/2026-11-22/211627.html",
+      "fecha_publicacion": "2026-11-22 211627"
     }
   ]
 }
