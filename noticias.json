@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-23T18:30:27.754963+00:00",
+  "actualizado": "2026-11-23T19:00:36.766922+00:00",
   "noticias": [
+    {
+      "titulo": "Preocupación en la U: Eduardo Vargas pasará por el quirófano",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/preocupacion-en-la-u-eduardo-vargas-pasara-por-el-quirofano/2026-11-23/152809.html",
+      "fecha_publicacion": "2026-11-23 152809"
+    },
+    {
+      "titulo": "Bianneider Tamayo despertó interés en el fútbol italiano",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/bianneider-tamayo-desperto-interes-en-el-futbol-italiano/2026-11-23/152623.html",
+      "fecha_publicacion": "2026-11-23 152623"
+    },
     {
       "titulo": "Informe arbitral complica a Colo Colo: Cabero detalló una serie de incidentes en clásico ante Católica",
       "fuente": "BioBioChile",
@@ -98,22 +110,10 @@
       "fecha_publicacion": "2026-11-23 07:25"
     },
     {
-      "titulo": "Resumen: Colo Colo ganó el clásico a la UC y le dio una mano a U en la pelea por el Chile 2",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-gano-el-clasico-a-la-uc-y-le-dio-una-mano-a-u-en-la/2026-11-22/215753.html",
-      "fecha_publicacion": "2026-11-22 215753"
-    },
-    {
       "titulo": "La UC acusó que no tenía agua en el camarín del Monumental tras la derrota con Colo Colo",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/la-uc-acuso-que-no-tenia-agua-en-el-camarin-del-monumental-tras-la/2026-11-22/213943.html",
       "fecha_publicacion": "2026-11-22 213943"
-    },
-    {
-      "titulo": "Ortiz evitó hablar sobre una renovación de Vidal: No me quiero salir del foco",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-evito-hablar-sobre-una-renovacion-de-vidal-no-me-quiero-salir-del/2026-11-22/211627.html",
-      "fecha_publicacion": "2026-11-22 211627"
     },
     {
       "titulo": "Palestino destituye a su DT a 2 jornadas del cierre del Campeonato Nacional",
