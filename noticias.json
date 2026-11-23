@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-23T00:30:29.358907+00:00",
+  "actualizado": "2026-11-23T01:00:29.234908+00:00",
   "noticias": [
+    {
+      "titulo": "La UC acusó que no tenía agua en el camarín del Monumental tras la derrota con Colo Colo",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/la-uc-acuso-que-no-tenia-agua-en-el-camarin-del-monumental-tras-la/2026-11-22/213943.html",
+      "fecha_publicacion": "2026-11-22 213943"
+    },
+    {
+      "titulo": "Garnero tras la derrota ante Colo Colo: Nos vamos con un cachetazo fuerte",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-tras-la-derrota-ante-colo-colo-nos-vamos-con-un-cachetazo-fuerte/2026-11-22/213910.html",
+      "fecha_publicacion": "2026-11-22 213910"
+    },
+    {
+      "titulo": "Trasandino de Los Andes se coronó campeón de Segunda División y ’voló’ a Primera B luego de 35 años",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/trasandino-de-los-andes-campeon-segunda-division-ascendio-a-primera-b.shtml",
+      "fecha_publicacion": "2026-11-22 21:39"
+    },
+    {
+      "titulo": "Ortiz evitó hablar sobre una renovación de Vidal: No me quiero salir del foco",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-evito-hablar-sobre-una-renovacion-de-vidal-no-me-quiero-salir-del/2026-11-22/211627.html",
+      "fecha_publicacion": "2026-11-22 211627"
+    },
     {
       "titulo": "La acusación de la UC tras perder ante Colo Colo y la desafiante conferencia de Garnero",
       "fuente": "Emol",
@@ -56,12 +80,6 @@
       "fecha_publicacion": "2026-11-22 20:03"
     },
     {
-      "titulo": "[VIDEO] Romero completó una jornada soñada y anotó el primer triplete de su carrera ante la UC",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-romero-completo-una-jornada-sonada-y-anoto-el-primer-triplete-de/2026-11-22/195831.html",
-      "fecha_publicacion": "2026-11-22 195831"
-    },
-    {
       "titulo": "Joaquín Montecinos fue detenido por Carabineros tras empate de Concepción y Huachipato en Talcahuano",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/joaquin-montecinos-fue-detenido-por-carabineros-tras-empate-de-concepcion.shtml",
@@ -90,12 +108,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/liguilla-de-ascenso-san-marcos-de-arica-se-hizo-respetar-en-casa-y-tomo-ventaja-ante-magallanes.shtml",
       "fecha_publicacion": "2026-11-22 14:11"
-    },
-    {
-      "titulo": "Jugadores de Cobreloa se burlaron de Suazo tras ganar el ascenso: \"Pa Chupete que está muerto\"",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/jugadores-de-cobreloa-se-burlaron-de-suazo-tras-ganar-el-ascenso-pa-chupete-que-esta-muerto.shtml",
-      "fecha_publicacion": "2026-11-22 11:00"
     }
   ]
 }
