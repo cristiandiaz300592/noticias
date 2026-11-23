@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-23T00:00:31.431919+00:00",
+  "actualizado": "2026-11-23T00:30:29.358907+00:00",
   "noticias": [
+    {
+      "titulo": "La acusación de la UC tras perder ante Colo Colo y la desafiante conferencia de Garnero",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217869/catolica-agua-colocolo-garnero.html",
+      "fecha_publicacion": "2026-11-22 21:11"
+    },
+    {
+      "titulo": "Vidal y su futuro en Colo Colo: \"No me preocupa si es un año más o paro a fin de año\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-y-su-futuro-en-colo-colo-no-me-preocupa-si-es-un-ano-mas-o-paro/2026-11-22/210847.html",
+      "fecha_publicacion": "2026-11-22 210847"
+    },
     {
       "titulo": "La trama de la detención de Joaquín Montecinos tras el empate de Concepción y Huachipato",
       "fuente": "Emol",
@@ -26,7 +38,7 @@
       "fecha_publicacion": "2026-11-22 20:17"
     },
     {
-      "titulo": "Colo Colo le sacó brillo a su corona y dominó a la UC en el clásico con un triplete de Maxi Romero",
+      "titulo": "Colo Colo le sacó brillo a su corona y dominó a la UC en el clásico con un triplete de Maxi...",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/colo-colo-le-saco-brillo-a-su-corona-y-domino-a-la-uc-en-el-clasico-con/2026-11-22/201001.html",
       "fecha_publicacion": "2026-11-22 201001"
@@ -48,12 +60,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-romero-completo-una-jornada-sonada-y-anoto-el-primer-triplete-de/2026-11-22/195831.html",
       "fecha_publicacion": "2026-11-22 195831"
-    },
-    {
-      "titulo": "[VIDEO] Madrid la armó y Romero repitió para estirar la ventaja de Colo Colo ante la UC",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-madrid-la-armo-y-romero-repitio-para-estirar-la-ventaja-de-colo/2026-11-22/191844.html",
-      "fecha_publicacion": "2026-11-22 191844"
     },
     {
       "titulo": "Joaquín Montecinos fue detenido por Carabineros tras empate de Concepción y Huachipato en Talcahuano",
