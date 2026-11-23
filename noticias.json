@@ -1,10 +1,28 @@
 {
-  "actualizado": "2026-11-23T15:00:34.490471+00:00",
+  "actualizado": "2026-11-23T15:30:30.462646+00:00",
   "noticias": [
     {
-      "titulo": "Felipe Méndez celebró la continuidad de Fernando Ortiz en Colo Colo: \"Es la base para el próximo...",
+      "titulo": "\"La única culpable\": Segovia acusa a Corporación por cambio de nombre del Santa Laura y recibe réplica",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/23/la-unica-culpable-segovia-acusa-a-corporacion-por-cambio-de-nombre-del-santa-laura-y-recibe-replica.shtml",
+      "fecha_publicacion": "2026-11-23 12:11"
+    },
+    {
+      "titulo": "Palestino oficializó salida de Guillermo Farré a dos fechas del cierre de la temporada",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/felipe-mendez-celebro-la-continuidad-de-fernando-ortiz-en-colo-colo-es/2026-11-23/094651.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/palestino-oficializo-salida-de-guillermo-farre-a-dos-fechas-del-cierre/2026-11-23/120757.html",
+      "fecha_publicacion": "2026-11-23 120757"
+    },
+    {
+      "titulo": "El incierto futuro de \"Chupete\" Suazo en San Luis y la polémica con jugadores de Cobreloa por potentes cánticos",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/23/1217897/futuro-chupetesuazo-polemica-cantico.html",
+      "fecha_publicacion": "2026-11-23 12:00"
+    },
+    {
+      "titulo": "Felipe Méndez celebró la continuidad de Ortiz en Colo Colo: \"Es la base para el próximo año\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/felipe-mendez-celebro-la-continuidad-de-ortiz-en-colo-colo-es-la-base/2026-11-23/094651.html",
       "fecha_publicacion": "2026-11-23 094651"
     },
     {
@@ -14,16 +32,16 @@
       "fecha_publicacion": "2026-11-23 09:30"
     },
     {
-      "titulo": "Segovia: la corporación es la única culpable del cambio de nombre de Santa Laura",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/segovia-la-corporacion-es-la-unica-culpable-del-cambio-de-nombre-de/2026-11-23/090618.html",
-      "fecha_publicacion": "2026-11-23 090618"
-    },
-    {
       "titulo": "Indignación en la UC con Colo Colo: acusan camarín sin agua e incumplimiento con entradas de cortesía",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/23/indignacion-en-la-uc-con-colo-colo-acusan-camarin-sin-agua-e-incumplimiento-con-entradas-de-cortesia.shtml",
       "fecha_publicacion": "2026-11-23 08:57"
+    },
+    {
+      "titulo": "Leandro Hernández brilla en el podio de los atacantes Sub 22 más técnicos de Sudamérica",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-brilla-en-el-podio-de-los-atacantes-sub-22-mas/2026-11-23/084810.html",
+      "fecha_publicacion": "2026-11-23 084810"
     },
     {
       "titulo": "\"Todo fue show\": el arrepentimiento del crack de Cobreloa por exposición de burlas a ’Chupete’ Suazo",
@@ -68,6 +86,12 @@
       "fecha_publicacion": "2026-11-22 21:39"
     },
     {
+      "titulo": "Ortiz evitó hablar sobre una renovación de Vidal: No me quiero salir del foco",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-evito-hablar-sobre-una-renovacion-de-vidal-no-me-quiero-salir-del/2026-11-22/211627.html",
+      "fecha_publicacion": "2026-11-22 211627"
+    },
+    {
       "titulo": "Vidal y su futuro en Colo Colo: \"No me preocupa si es un año más o paro a fin de año\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-y-su-futuro-en-colo-colo-no-me-preocupa-si-es-un-ano-mas-o-paro/2026-11-22/210847.html",
@@ -96,18 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-partidos-en-simultaneo-la-programacion-de-la-fecha-29-de-la-liga-de/2026-11-22/165207.html",
       "fecha_publicacion": "2026-11-22 165207"
-    },
-    {
-      "titulo": "Huachipato y D. Concepción protagonizaron reñido empate en medio de la lucha por copas",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-y-d-concepcion-protagonizaron-renido-empate-en-medio-de-la/2026-11-22/141802.html",
-      "fecha_publicacion": "2026-11-22 141802"
-    },
-    {
-      "titulo": "El controvertido mensaje de Vidal, la crítica del Club Social a ByN y la furia cruzada: Las frases del triunfo de Colo Colo ante la UC",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217870/frases-colocolo-universidad-catolica-clasico.html",
-      "fecha_publicacion": "2026-11-22 06:28"
     }
   ]
 }
