@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-23T21:30:32.441247+00:00",
+  "actualizado": "2026-11-23T22:31:24.259558+00:00",
   "noticias": [
+    {
+      "titulo": "¿Cuántos días estará en recuperación Eduardo Vargas?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cuantos-dias-estara-en-recuperacion-eduardo-vargas/2026-11-23/184150.html",
+      "fecha_publicacion": "2026-11-23 184150"
+    },
     {
       "titulo": "El drama de Santiago Morning: el escenario que lo tiene rogando para no caer al amateurismo",
       "fuente": "BioBioChile",
@@ -56,12 +62,6 @@
       "fecha_publicacion": "2026-11-23 132744"
     },
     {
-      "titulo": "Informe arbitral detalló el motivo de la expulsión de Lichnovsky ante O'Higgins",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/informe-arbitral-detallo-el-motivo-de-la-expulsion-de-lichnovsky-ante/2026-11-23/132601.html",
-      "fecha_publicacion": "2026-11-23 132601"
-    },
-    {
       "titulo": "Alvaro Madrid abordó su continuidad en Colo Colo tras brillar ante la UC: \"Me ilusiona seguir\"",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/alvaro-madrid-abordo-su-continuidad-en-colo-colo-tras-brillar-ante-la/2026-11-23/130056.html",
@@ -104,10 +104,10 @@
       "fecha_publicacion": "2026-11-23 084810"
     },
     {
-      "titulo": "Palestino destituye a su DT a 2 jornadas del cierre del Campeonato Nacional",
+      "titulo": "\"No sabía si podía volver a jugar\": Duma tras ser campeón con Cobreloa recuerda duro momento",
       "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217857/palestino-dt-guillermo-farre.html",
-      "fecha_publicacion": "2026-11-22 11:02"
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217824/juan-ignacio-duma-cobreloa-campeon.html",
+      "fecha_publicacion": "2026-11-22 19:00"
     }
   ]
 }
