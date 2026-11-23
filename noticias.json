@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T15:30:30.462646+00:00",
+  "actualizado": "2026-11-23T16:00:32.288199+00:00",
   "noticias": [
     {
       "titulo": "\"La única culpable\": Segovia acusa a Corporación por cambio de nombre del Santa Laura y recibe réplica",
@@ -110,16 +110,16 @@
       "fecha_publicacion": "2026-11-22 20:03"
     },
     {
-      "titulo": "Joaquín Montecinos fue detenido por Carabineros tras empate de Concepción y Huachipato en Talcahuano",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/joaquin-montecinos-fue-detenido-por-carabineros-tras-empate-de-concepcion.shtml",
-      "fecha_publicacion": "2026-11-22 18:38"
-    },
-    {
       "titulo": "Con partidos en simultáneo: La programación de la fecha 29 de la Liga de Primera",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-partidos-en-simultaneo-la-programacion-de-la-fecha-29-de-la-liga-de/2026-11-22/165207.html",
       "fecha_publicacion": "2026-11-22 165207"
+    },
+    {
+      "titulo": "Palestino destituye a su DT a 2 jornadas del cierre del Campeonato Nacional",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217857/palestino-dt-guillermo-farre.html",
+      "fecha_publicacion": "2026-11-22 11:02"
     }
   ]
 }
