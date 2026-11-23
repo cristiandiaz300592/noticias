@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T09:30:27.244420+00:00",
+  "actualizado": "2026-11-23T10:00:31.943803+00:00",
   "noticias": [
     {
       "titulo": "Celebró La U y se estrecharon varias luchas: así quedó la tabla de Liga de Primera tras la fecha 28",
@@ -68,22 +68,10 @@
       "fecha_publicacion": "2026-11-22 20:44"
     },
     {
-      "titulo": "Arturo Vidal lanza una \"bomba\" si finalmente no renueva con Colo Colo",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217864/vidal-colocolo-futuro-renovacion.html",
-      "fecha_publicacion": "2026-11-22 20:17"
-    },
-    {
       "titulo": "Colo Colo le sacó brillo a su corona y dominó a la UC en el clásico con un triplete de Maxi...",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/colo-colo-le-saco-brillo-a-su-corona-y-domino-a-la-uc-en-el-clasico-con/2026-11-22/201001.html",
       "fecha_publicacion": "2026-11-22 201001"
-    },
-    {
-      "titulo": "Mira el triplete de Maximiliano Romero con que Colo Colo aplastó a Católica",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217861/goles-colocolo-catolica-clasico.html",
-      "fecha_publicacion": "2026-11-22 20:04"
     },
     {
       "titulo": "Con triplete de Romero y un sólido Vozinha: Colo Colo le dio baile a Católica en su fiesta de campeón",
@@ -120,6 +108,18 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/huachipato-y-concepcion-igualaron-por-la-liga-de-primera-arquero-del-leon-atajo-un-penal.shtml",
       "fecha_publicacion": "2026-11-22 14:12"
+    },
+    {
+      "titulo": "Liguilla de Ascenso: San Marcos de Arica se hizo respetar en casa y tomó ventaja ante Magallanes",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/liguilla-de-ascenso-san-marcos-de-arica-se-hizo-respetar-en-casa-y-tomo-ventaja-ante-magallanes.shtml",
+      "fecha_publicacion": "2026-11-22 14:11"
+    },
+    {
+      "titulo": "El controvertido mensaje de Vidal, la crítica del Club Social a ByN y la furia cruzada: Las frases del triunfo de Colo Colo ante la UC",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217870/frases-colocolo-universidad-catolica-clasico.html",
+      "fecha_publicacion": "2026-11-22 06:28"
     }
   ]
 }
