@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-23T12:00:33.325815+00:00",
+  "actualizado": "2026-11-23T12:30:27.427278+00:00",
   "noticias": [
+    {
+      "titulo": "Segovia: La Corporación es la única culpable del cambio de nombre del Estadio Santa Laura",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/segovia-la-corporacion-es-la-unica-culpable-del-cambio-de-nombre-del/2026-11-23/090618.html",
+      "fecha_publicacion": "2026-11-23 090618"
+    },
     {
       "titulo": "Indignación en la UC con Colo Colo: acusan camarín sin agua e incumplimiento con entradas de cortesía",
       "fuente": "BioBioChile",
@@ -30,12 +36,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/tabla-liga-de-primera-luego-de-la-fecha-28.shtml",
       "fecha_publicacion": "2026-11-22 22:50"
-    },
-    {
-      "titulo": "La Serena superó a Limache en Quillota y apretó la lucha por copas internacionales",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-serena-supero-a-limache-en-quillota-y-apreto-la-lucha-por-copas/2026-11-22/224242.html",
-      "fecha_publicacion": "2026-11-22 224242"
     },
     {
       "titulo": "La Serena se ilusiona con copas internacionales: ganó a Limache y trepó lugares en Liga de Primera",
