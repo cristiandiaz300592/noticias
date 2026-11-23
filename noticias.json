@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-23T17:00:32.429365+00:00",
+  "actualizado": "2026-11-23T17:30:26.493092+00:00",
   "noticias": [
+    {
+      "titulo": "Informe arbitral complica a Colo Colo: Cabero detalló una serie de incidentes en clásico ante Católica",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/23/informe-arbitral-complica-a-colo-colo-cabero-detallo-una-serie-de-incidentes-en-clasico-ante-catolica.shtml",
+      "fecha_publicacion": "2026-11-23 14:18"
+    },
+    {
+      "titulo": "La calculadora para el \"Chile 2\": La U puede asegurar el cupo en la próxima fecha",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-calculadora-para-el-chile-2-la-u-puede-asegurar-el-cupo-en-la/2026-11-23/141715.html",
+      "fecha_publicacion": "2026-11-23 141715"
+    },
+    {
+      "titulo": "Fueron figuras ante la UC y tienen futuro incierto tal como Vidal... Otros tres casos que inquietan en Colo Colo",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/23/1217900/colocolo-renovaciones-vidal-vozinha.html",
+      "fecha_publicacion": "2026-11-23 14:15"
+    },
+    {
+      "titulo": "Universidad de Concepción al límite: La calculadora del descenso a dos fechas del final",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/universidad-de-concepcion-al-limite-la-calculadora-del-descenso-a-dos/2026-11-23/140525.html",
+      "fecha_publicacion": "2026-11-23 140525"
+    },
     {
       "titulo": "Cabero denunció graves incidentes de hinchas de Colo Colo en el clásico ante la UC",
       "fuente": "Cooperativa",
@@ -18,12 +42,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/club-deportivo-y-social-union-espanola-autorizamos-el-uso-de-estadio/2026-11-23/130849.html",
       "fecha_publicacion": "2026-11-23 130849"
-    },
-    {
-      "titulo": "Alvaro Madrid abordó su continuidad en Colo Colo tras brillar ante la UC: \"Me ilusiona seguir\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/alvaro-madrid-abordo-su-continuidad-en-colo-colo-tras-brillar-ante-la/2026-11-23/130056.html",
-      "fecha_publicacion": "2026-11-23 130056"
     },
     {
       "titulo": "\"La única culpable\": Segovia acusa a Corporación por cambio de nombre del Santa Laura y recibe réplica",
@@ -102,24 +120,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/la-uc-acuso-que-no-tenia-agua-en-el-camarin-del-monumental-tras-la/2026-11-22/213943.html",
       "fecha_publicacion": "2026-11-22 213943"
-    },
-    {
-      "titulo": "Trasandino de Los Andes se coronó campeón de Segunda División y ’voló’ a Primera B luego de 35 años",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/trasandino-de-los-andes-campeon-segunda-division-ascendio-a-primera-b.shtml",
-      "fecha_publicacion": "2026-11-22 21:39"
-    },
-    {
-      "titulo": "Ortiz evitó hablar sobre una renovación de Vidal: No me quiero salir del foco",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-evito-hablar-sobre-una-renovacion-de-vidal-no-me-quiero-salir-del/2026-11-22/211627.html",
-      "fecha_publicacion": "2026-11-22 211627"
-    },
-    {
-      "titulo": "Con partidos en simultáneo: La programación de la fecha 29 de la Liga de Primera",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-partidos-en-simultaneo-la-programacion-de-la-fecha-29-de-la-liga-de/2026-11-22/165207.html",
-      "fecha_publicacion": "2026-11-22 165207"
     }
   ]
 }
