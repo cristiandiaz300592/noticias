@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-23T16:30:30.473976+00:00",
+  "actualizado": "2026-11-23T17:00:32.429365+00:00",
   "noticias": [
+    {
+      "titulo": "Cabero denunció graves incidentes de hinchas de Colo Colo en el clásico ante la UC",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/cabero-denuncio-graves-incidentes-de-hinchas-de-colo-colo-en-el-clasico/2026-11-23/132744.html",
+      "fecha_publicacion": "2026-11-23 132744"
+    },
+    {
+      "titulo": "Informe arbitral detalló el motivo de la expulsión de Lichnovsky ante O'Higgins",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/informe-arbitral-detallo-el-motivo-de-la-expulsion-de-lichnovsky-ante/2026-11-23/132601.html",
+      "fecha_publicacion": "2026-11-23 132601"
+    },
     {
       "titulo": "Club Deportivo y Social Unión Española: Autorizamos el uso de \"Estadio Santa Laura\"",
       "fuente": "Cooperativa",
@@ -32,10 +44,22 @@
       "fecha_publicacion": "2026-11-23 12:00"
     },
     {
+      "titulo": "Felipe Méndez celebró la continuidad de Ortiz en Colo Colo: \"Es la base para el próximo año\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/felipe-mendez-celebro-la-continuidad-de-ortiz-en-colo-colo-es-la-base/2026-11-23/094651.html",
+      "fecha_publicacion": "2026-11-23 094651"
+    },
+    {
       "titulo": "Palestino golpea la mesa y despide al DT Guillermo Farré a solo dos fechas para el final del torneo",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/23/aseguran-que-palestino-se-aburrio-del-dt-guillermo-farre-y-lo-despide-a-dos-fechas-del-final.shtml",
       "fecha_publicacion": "2026-11-23 09:30"
+    },
+    {
+      "titulo": "Segovia: la corporación es la única culpable del cambio de nombre de Santa Laura",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/segovia-la-corporacion-es-la-unica-culpable-del-cambio-de-nombre-de/2026-11-23/090618.html",
+      "fecha_publicacion": "2026-11-23 090618"
     },
     {
       "titulo": "Indignación en la UC con Colo Colo: acusan camarín sin agua e incumplimiento con entradas de cortesía",
@@ -92,28 +116,10 @@
       "fecha_publicacion": "2026-11-22 211627"
     },
     {
-      "titulo": "Vidal y su futuro en Colo Colo: \"No me preocupa si es un año más o paro a fin de año\"",
+      "titulo": "Con partidos en simultáneo: La programación de la fecha 29 de la Liga de Primera",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-y-su-futuro-en-colo-colo-no-me-preocupa-si-es-un-ano-mas-o-paro/2026-11-22/210847.html",
-      "fecha_publicacion": "2026-11-22 210847"
-    },
-    {
-      "titulo": "Colo Colo le sacó brillo a su corona y dominó a la UC en el clásico con un triplete de Maxi Romero",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/colo-colo-le-saco-brillo-a-su-corona-y-domino-a-la-uc-en-el-clasico-con/2026-11-22/201001.html",
-      "fecha_publicacion": "2026-11-22 201001"
-    },
-    {
-      "titulo": "Con triplete de Romero y un sólido Vozinha: Colo Colo le dio baile a Católica en su fiesta de campeón",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/liga-de-primera-colo-colo-gano-a-catolica-en-monumental.shtml",
-      "fecha_publicacion": "2026-11-22 20:03"
-    },
-    {
-      "titulo": "Palestino destituye a su DT a 2 jornadas del cierre del Campeonato Nacional",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217857/palestino-dt-guillermo-farre.html",
-      "fecha_publicacion": "2026-11-22 11:02"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-partidos-en-simultaneo-la-programacion-de-la-fecha-29-de-la-liga-de/2026-11-22/165207.html",
+      "fecha_publicacion": "2026-11-22 165207"
     }
   ]
 }
