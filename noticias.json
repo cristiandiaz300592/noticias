@@ -1,10 +1,22 @@
 {
-  "actualizado": "2026-11-23T12:30:27.427278+00:00",
+  "actualizado": "2026-11-23T13:01:25.746402+00:00",
   "noticias": [
     {
-      "titulo": "Segovia: La Corporación es la única culpable del cambio de nombre del Estadio Santa Laura",
+      "titulo": "Felipe Méndez celebró la continuidad de Fernando Ortiz en Colo Colo: \"Es la base para el próximo año\"",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/segovia-la-corporacion-es-la-unica-culpable-del-cambio-de-nombre-del/2026-11-23/090618.html",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/felipe-mendez-celebro-la-continuidad-de-fernando-ortiz-en-colo-colo-es/2026-11-23/094651.html",
+      "fecha_publicacion": "2026-11-23 094651"
+    },
+    {
+      "titulo": "Palestino golpea la mesa y despide al DT Guillermo Farré a solo dos fechas para el final del torneo",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/23/aseguran-que-palestino-se-aburrio-del-dt-guillermo-farre-y-lo-despide-a-dos-fechas-del-final.shtml",
+      "fecha_publicacion": "2026-11-23 09:30"
+    },
+    {
+      "titulo": "Segovia: la corporación es la única culpable del cambio de nombre de Santa Laura",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/segovia-la-corporacion-es-la-unica-culpable-del-cambio-de-nombre-de/2026-11-23/090618.html",
       "fecha_publicacion": "2026-11-23 090618"
     },
     {
@@ -18,12 +30,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/leandro-hernandez-brilla-en-el-podio-de-los-atacantes-sub-22-mas/2026-11-23/084810.html",
       "fecha_publicacion": "2026-11-23 084810"
-    },
-    {
-      "titulo": "Aseguran que Palestino se aburrió del DT Guillermo Farré y lo despide a dos fechas del final",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/23/aseguran-que-palestino-se-aburrio-del-dt-guillermo-farre-y-lo-despide-a-dos-fechas-del-final.shtml",
-      "fecha_publicacion": "2026-11-23 08:47"
     },
     {
       "titulo": "\"Todo fue show\": el arrepentimiento del crack de Cobreloa por exposición de burlas a ’Chupete’ Suazo",
@@ -102,18 +108,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/joaquin-montecinos-fue-detenido-por-carabineros-tras-empate-de-concepcion.shtml",
       "fecha_publicacion": "2026-11-22 18:38"
-    },
-    {
-      "titulo": "Huachipato y D. Concepción protagonizaron reñido empate en medio de la lucha por copas",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-y-d-concepcion-protagonizaron-renido-empate-en-medio-de-la/2026-11-22/141802.html",
-      "fecha_publicacion": "2026-11-22 141802"
-    },
-    {
-      "titulo": "Huachipato y Concepción igualaron por La Liga de Primera: arquero del ’León’ atajó un penal",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/huachipato-y-concepcion-igualaron-por-la-liga-de-primera-arquero-del-leon-atajo-un-penal.shtml",
-      "fecha_publicacion": "2026-11-22 14:12"
     },
     {
       "titulo": "El controvertido mensaje de Vidal, la crítica del Club Social a ByN y la furia cruzada: Las frases del triunfo de Colo Colo ante la UC",
