@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-23T01:30:27.076628+00:00",
+  "actualizado": "2026-11-23T02:00:30.342960+00:00",
   "noticias": [
+    {
+      "titulo": "Celebró La U y se estrecharon varias luchas: así quedó la tabla de Liga de Primera tras la fecha 28",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/tabla-liga-de-primera-luego-de-la-fecha-28.shtml",
+      "fecha_publicacion": "2026-11-22 22:50"
+    },
+    {
+      "titulo": "La Serena superó a Limache en Quillota y apretó la lucha por copas internacionales",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-serena-supero-a-limache-en-quillota-y-apreto-la-lucha-por-copas/2026-11-22/224242.html",
+      "fecha_publicacion": "2026-11-22 224242"
+    },
+    {
+      "titulo": "La Serena se ilusiona con copas internacionales: ganó a Limache y trepó lugares en Liga de Primera",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/liga-de-primera-limache-cayo-con-la-serena-fecha-28.shtml",
+      "fecha_publicacion": "2026-11-22 22:33"
+    },
+    {
+      "titulo": "Resumen: Colo Colo ganó el clásico a la UC y le dio una mano a U en la pelea por el Chile 2",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-gano-el-clasico-a-la-uc-y-le-dio-una-mano-a-u-en-la/2026-11-22/215753.html",
+      "fecha_publicacion": "2026-11-22 215753"
+    },
     {
       "titulo": "La UC acusó que no tenía agua en el camarín del Monumental tras la derrota con Colo Colo",
       "fuente": "Cooperativa",
@@ -44,12 +68,6 @@
       "fecha_publicacion": "2026-11-22 20:44"
     },
     {
-      "titulo": "El campeón Colo Colo vivió una fiesta en el clásico ante la UC y dejó a la U a un paso del Chile 2",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217863/colocolo-universidad-catolica-campeonato-nacional.html",
-      "fecha_publicacion": "2026-11-22 20:19"
-    },
-    {
       "titulo": "Arturo Vidal lanza una \"bomba\" si finalmente no renueva con Colo Colo",
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/22/1217864/vidal-colocolo-futuro-renovacion.html",
@@ -80,6 +98,12 @@
       "fecha_publicacion": "2026-11-22 18:38"
     },
     {
+      "titulo": "Con partidos en simultáneo: La programación de la fecha 29 de la Liga de Primera",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-partidos-en-simultaneo-la-programacion-de-la-fecha-29-de-la-liga-de/2026-11-22/165207.html",
+      "fecha_publicacion": "2026-11-22 165207"
+    },
+    {
       "titulo": "Palestino denunció \"acto discriminatorio\" contra hinchas que asistieron a concierto de Ed Sheeran",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/palestino-denuncio-acto-discriminatorio-contra-hinchas-que-asistieron/2026-11-22/150640.html",
@@ -96,12 +120,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/huachipato-y-concepcion-igualaron-por-la-liga-de-primera-arquero-del-leon-atajo-un-penal.shtml",
       "fecha_publicacion": "2026-11-22 14:12"
-    },
-    {
-      "titulo": "Liguilla de Ascenso: San Marcos de Arica se hizo respetar en casa y tomó ventaja ante Magallanes",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/22/liguilla-de-ascenso-san-marcos-de-arica-se-hizo-respetar-en-casa-y-tomo-ventaja-ante-magallanes.shtml",
-      "fecha_publicacion": "2026-11-22 14:11"
     }
   ]
 }
