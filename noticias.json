@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-24T00:30:32.557323+00:00",
+  "actualizado": "2026-11-24T01:00:27.936829+00:00",
   "noticias": [
+    {
+      "titulo": "Coquimbo recibe a La Calera en busca de abrochar el pase a semis de Copa Chile",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-recibe-a-la-calera-en-busca-de-abrochar-el-pase-a-semis-de-copa/2026-11-23/212021.html",
+      "fecha_publicacion": "2026-11-23 212021"
+    },
     {
       "titulo": "Colina fue doble verdugo en Segunda División: condenó a San Joaquín y Santiago Morning al amateurismo",
       "fuente": "BioBioChile",
@@ -12,12 +18,6 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/23/1217969/santiago-morning-descenso-futbol-amateur.html",
       "fecha_publicacion": "2026-11-23 20:09"
-    },
-    {
-      "titulo": "¿Cuántos días estará en recuperación Eduardo Vargas?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cuantos-dias-estara-en-recuperacion-eduardo-vargas/2026-11-23/184150.html",
-      "fecha_publicacion": "2026-11-23 184150"
     },
     {
       "titulo": "El drama de Santiago Morning: el escenario que lo tiene rogando para no caer al amateurismo",
