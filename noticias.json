@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-24T21:30:27.786098+00:00",
+  "actualizado": "2026-11-24T22:00:40.088443+00:00",
   "noticias": [
+    {
+      "titulo": "Los tres grandes en simultáneo: ANFP reveló programación de la última fecha de la Liga",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-tres-grandes-en-simultaneo-anfp-revelo-programacion-de-la-ultima/2026-11-24/183716.html",
+      "fecha_publicacion": "2026-11-24 183716"
+    },
     {
       "titulo": "Sábado los cupos a Sudamericana y domingo el descenso: así se definirá última fecha de Liga de Primera",
       "fuente": "BioBioChile",
@@ -32,16 +38,16 @@
       "fecha_publicacion": "2026-11-24 15:32"
     },
     {
-      "titulo": "Vidal superó los problemas físicos y volvió a entrenar con Colo Colo",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-supero-los-problemas-fisicos-y-volvio-a-entrenar-con-colo-colo/2026-11-24/142643.html",
-      "fecha_publicacion": "2026-11-24 142643"
-    },
-    {
       "titulo": "Inesperada derrota: Chile tropezó contra Dominicana y se enredó en su grupo del Mundial Sub 17",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/24/mundial-sub-17-chile-tropezo-contra-rep-dominicana.shtml",
       "fecha_publicacion": "2026-11-24 14:08"
+    },
+    {
+      "titulo": "Johnny Herrera elogió a Vozinha: Está empoderado en el arco",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/johnny-herrera-elogio-a-vozinha-esta-empoderado-en-el-arco/2026-11-24/110710.html",
+      "fecha_publicacion": "2026-11-24 110710"
     },
     {
       "titulo": "Correa pidió a Alexis en Colo Colo: Y si no, lo mataremos a patadas en el otro lado",
