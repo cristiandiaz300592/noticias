@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T11:00:44.742021+00:00",
+  "actualizado": "2026-11-24T12:00:37.625355+00:00",
   "noticias": [
     {
       "titulo": "Coquimbo recibe a La Calera en busca de abrochar el pase a semis de Copa Chile",
@@ -12,18 +12,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/23/segunda-division-colina-condeno-a-san-joaquin-y-santiago-morning-al-amateurismo.shtml",
       "fecha_publicacion": "2026-11-23 20:13"
-    },
-    {
-      "titulo": "Mazazo para un histórico: Santiago Morning desciende en la Segunda División Profesional y jugará en el fútbol amateur",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/23/1217969/santiago-morning-descenso-futbol-amateur.html",
-      "fecha_publicacion": "2026-11-23 20:09"
-    },
-    {
-      "titulo": "¿Cuántos días estará en recuperación Eduardo Vargas?",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cuantos-dias-estara-en-recuperacion-eduardo-vargas/2026-11-23/184150.html",
-      "fecha_publicacion": "2026-11-23 184150"
     },
     {
       "titulo": "El drama de Santiago Morning: el escenario que lo tiene rogando para no caer al amateurismo",
@@ -50,6 +38,12 @@
       "fecha_publicacion": "2026-11-23 152809"
     },
     {
+      "titulo": "Bianneider Tamayo despertó interés en el fútbol italiano",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/bianneider-tamayo-desperto-interes-en-el-futbol-italiano/2026-11-23/152623.html",
+      "fecha_publicacion": "2026-11-23 152623"
+    },
+    {
       "titulo": "Universidad de Concepción al límite: La calculadora del descenso a dos fechas del final",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/universidad-de-concepcion-al-limite-la-calculadora-del-descenso-a-dos/2026-11-23/140525.html",
@@ -66,12 +60,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/club-deportivo-y-social-union-espanola-autorizamos-el-uso-de-estadio/2026-11-23/130849.html",
       "fecha_publicacion": "2026-11-23 130849"
-    },
-    {
-      "titulo": "Alvaro Madrid abordó su continuidad en Colo Colo tras brillar ante la UC: \"Me ilusiona seguir\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/alvaro-madrid-abordo-su-continuidad-en-colo-colo-tras-brillar-ante-la/2026-11-23/130056.html",
-      "fecha_publicacion": "2026-11-23 130056"
     },
     {
       "titulo": "Palestino oficializó salida de Guillermo Farré a dos fechas del cierre de la temporada",
