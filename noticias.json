@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-24T12:30:27.165459+00:00",
+  "actualizado": "2026-11-24T12:41:11.093351+00:00",
   "noticias": [
+    {
+      "titulo": "Chile vs República Dominicana por el Mundial Sub-17: a qué hora juegan y dónde verlo en vivo",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/24/chile-vs-republica-dominicana-por-el-mundial-sub-17-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
+      "fecha_publicacion": "2026-11-24 09:37"
+    },
     {
       "titulo": "Coquimbo recibe a La Calera en busca de abrochar el pase a semis de Copa Chile",
       "fuente": "Cooperativa",
@@ -12,6 +18,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/23/segunda-division-colina-condeno-a-san-joaquin-y-santiago-morning-al-amateurismo.shtml",
       "fecha_publicacion": "2026-11-23 20:13"
+    },
+    {
+      "titulo": "¿Cuántos días estará en recuperación Eduardo Vargas?",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cuantos-dias-estara-en-recuperacion-eduardo-vargas/2026-11-23/184150.html",
+      "fecha_publicacion": "2026-11-23 184150"
     },
     {
       "titulo": "El drama de Santiago Morning: el escenario que lo tiene rogando para no caer al amateurismo",
@@ -44,10 +56,10 @@
       "fecha_publicacion": "2026-11-23 152623"
     },
     {
-      "titulo": "Universidad de Concepción al límite: La calculadora del descenso a dos fechas del final",
+      "titulo": "Cabero denunció graves incidentes de hinchas de Colo Colo en el clásico ante la UC",
       "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/universidad-de-concepcion-al-limite-la-calculadora-del-descenso-a-dos/2026-11-23/140525.html",
-      "fecha_publicacion": "2026-11-23 140525"
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/cabero-denuncio-graves-incidentes-de-hinchas-de-colo-colo-en-el-clasico/2026-11-23/132744.html",
+      "fecha_publicacion": "2026-11-23 132744"
     },
     {
       "titulo": "Club Deportivo y Social Unión Española: Autorizamos el uso de \"Estadio Santa Laura\"",
