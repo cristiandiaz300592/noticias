@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-24T19:30:30.218408+00:00",
+  "actualizado": "2026-11-24T20:00:30.313959+00:00",
   "noticias": [
+    {
+      "titulo": "Coquimbo vs La Calera por la última llave de cuartos de Copa Chile: a qué hora juegan y dónde verlo",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/24/coquimbo-vs-la-calera-por-la-ultima-llave-de-cuartos-de-copa-chile-a-que-hora-juegan-y-donde-verlo.shtml",
+      "fecha_publicacion": "2026-11-24 16:58"
+    },
     {
       "titulo": "Coquimbo Unido y Unión La Calera definen el último cupo a semifinales de la Copa Chile",
       "fuente": "Cooperativa",
@@ -42,24 +48,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/correa-pidio-a-alexis-en-colo-colo-y-si-no-lo-mataremos-a-patadas-en/2026-11-24/104121.html",
       "fecha_publicacion": "2026-11-24 104121"
-    },
-    {
-      "titulo": "Los desconocidos detalles del nuevo contrato de Ortiz y cuánto ganará en Colo Colo, y el debate que se arma en torno a Vidal",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/24/1217999/ortiz-contrato-colocolo-futuro-vidal.html",
-      "fecha_publicacion": "2026-11-24 10:12"
-    },
-    {
-      "titulo": "Chile vs República Dominicana por el Mundial Sub-17: a qué hora juegan y dónde verlo en vivo",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/24/chile-vs-republica-dominicana-por-el-mundial-sub-17-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
-      "fecha_publicacion": "2026-11-24 09:37"
-    },
-    {
-      "titulo": "Coquimbo recibe a La Calera en busca de abrochar el pase a semis de Copa Chile",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-recibe-a-la-calera-en-busca-de-abrochar-el-pase-a-semis-de-copa/2026-11-23/212021.html",
-      "fecha_publicacion": "2026-11-23 212021"
     },
     {
       "titulo": "Bianneider Tamayo despertó interés en el fútbol italiano",
