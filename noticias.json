@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-25T16:00:30.783547+00:00",
+  "actualizado": "2026-11-25T16:30:28.348403+00:00",
   "noticias": [
+    {
+      "titulo": "Santiago City presentó apelación para evitar su desafiliación: Segunda Sala fija fecha de revisión",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/25/santiago-city-presento-apelacion-para-evitar-su-desafiliacion-segunda-sala-fija-fecha-de-revision.shtml",
+      "fecha_publicacion": "2026-11-25 13:26"
+    },
+    {
+      "titulo": "Maxi Romero: Está claro que me quiero quedar, pero no depende de mí",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/maxi-romero-esta-claro-que-me-quiero-quedar-pero-no-depende-de-mi/2026-11-25/132111.html",
+      "fecha_publicacion": "2026-11-25 132111"
+    },
     {
       "titulo": "Copa Chile 2026 entra en su recta decisiva: así se jugará la ida y vuelta de las semifinales",
       "fuente": "BioBioChile",
@@ -20,12 +32,6 @@
       "fecha_publicacion": "2026-11-24 222205"
     },
     {
-      "titulo": "La programación para las semifinales de la Copa Chile 2026",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-programacion-para-las-semifinales-de-la-copa-chile-2026/2026-11-24/213650.html",
-      "fecha_publicacion": "2026-11-24 213650"
-    },
-    {
       "titulo": "Se conocieron los nominados para la Gala Crack 2026 del fútbol chileno",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/se-conocieron-los-nominados-para-la-gala-crack-2026-del-futbol-chileno/2026-11-24/212546.html",
@@ -36,6 +42,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/24/coquimbo-avanzo-a-semifinales-de-copa-chile-tras-igualar-con-la-calera-piratas-chocaran-contra-la-u.shtml",
       "fecha_publicacion": "2026-11-24 21:06"
+    },
+    {
+      "titulo": "Los tres grandes en simultáneo: La programación de la última fecha de la Liga",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-tres-grandes-en-simultaneo-la-programacion-de-la-ultima-fecha-de-la/2026-11-24/183716.html",
+      "fecha_publicacion": "2026-11-24 183716"
     }
   ]
 }
