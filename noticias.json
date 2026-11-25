@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-25T11:30:29.126516+00:00",
+  "actualizado": "2026-11-25T12:00:31.153828+00:00",
   "noticias": [
+    {
+      "titulo": "Jugador de Magallanes de luto por muerte de su padre: era barrista de Colo Colo y fue asesinado",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/25/jugador-de-magallanes-de-luto-por-muerte-de-su-padre-era-barrista-de-colo-colo-y-fue-asesinado.shtml",
+      "fecha_publicacion": "2026-11-25 08:35"
+    },
     {
       "titulo": "Referente de Cobreloa explica el factor Mario Salas en el título y aborda la polémica sobre \"Chupete\" Suazo",
       "fuente": "Emol",
@@ -72,12 +78,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vidal-supero-los-problemas-fisicos-y-volvio-a-entrenar-con-colo-colo/2026-11-24/142643.html",
       "fecha_publicacion": "2026-11-24 142643"
-    },
-    {
-      "titulo": "Correa pidió a Alexis en Colo Colo: Y si no, lo mataremos a patadas en el otro lado",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/correa-pidio-a-alexis-en-colo-colo-y-si-no-lo-mataremos-a-patadas-en/2026-11-24/104121.html",
-      "fecha_publicacion": "2026-11-24 104121"
     }
   ]
 }
