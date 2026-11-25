@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-25T17:30:33.121250+00:00",
+  "actualizado": "2026-11-25T18:00:31.968719+00:00",
   "noticias": [
+    {
+      "titulo": "Cobreloa ratificó a Mario Salas como su DT para la temporada 2027: dos jugadores fueron renovados",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/25/cobreloa-ratifico-a-mario-salas-como-su-dt-para-la-temporada-2027-dos-jugadores-fueron-renovados.shtml",
+      "fecha_publicacion": "2026-11-25 14:34"
+    },
+    {
+      "titulo": "Tribunal confirmó la suspensión de Lichnovsky y Morales para duelo ante Concepción",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/tribunal-confirmo-la-suspension-de-lichnovsky-y-morales-para-duelo-ante/2026-11-25/143116.html",
+      "fecha_publicacion": "2026-11-25 143116"
+    },
     {
       "titulo": "La Roja se juega la vida en el Mundial Sub 17: qué necesita Chile para clasificar a 16avos de final",
       "fuente": "BioBioChile",
@@ -36,12 +48,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/se-conocieron-los-nominados-para-la-gala-crack-2026-del-futbol-chileno/2026-11-24/212546.html",
       "fecha_publicacion": "2026-11-24 212546"
-    },
-    {
-      "titulo": "Los tres grandes en simultáneo: La programación de la última fecha de la Liga",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-tres-grandes-en-simultaneo-la-programacion-de-la-ultima-fecha-de-la/2026-11-24/183716.html",
-      "fecha_publicacion": "2026-11-24 183716"
     }
   ]
 }
