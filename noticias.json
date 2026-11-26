@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-26T00:00:37.250886+00:00",
+  "actualizado": "2026-11-26T00:30:29.958924+00:00",
   "noticias": [
+    {
+      "titulo": "Joaquín Larrivey anuncia su adiós a Deportes Concepción: duelo ante La U será su último de local",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/25/joaquin-larrivey-anuncia-su-adios-a-deportes-concepcion-duelo-ante-la-u-sera-su-ultimo-de-local.shtml",
+      "fecha_publicacion": "2026-11-25 21:04"
+    },
+    {
+      "titulo": "Joaquín Larrivey anunció que dejará Deportes Concepción al final de la temporada",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/joaquin-larrivey-anuncio-que-dejara-deportes-concepcion-al-final-de-la/2026-11-25/205442.html",
+      "fecha_publicacion": "2026-11-25 205442"
+    },
     {
       "titulo": "Aníbal Mosa: \"No está arriba de la mesa el nombre de Alexis Sánchez\"",
       "fuente": "Cooperativa",
@@ -42,6 +54,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/cesar-bravo-asoma-como-sucesor-de-ronald-fuentes-en-union-espanola/2026-11-25/164756.html",
       "fecha_publicacion": "2026-11-25 164756"
+    },
+    {
+      "titulo": "Correa superó a Zampedri por amplio margen entre los mejores centrodelanteros de Sudamérica",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/correa-supero-a-zampedri-por-amplio-margen-entre-los-mejores/2026-11-25/145838.html",
+      "fecha_publicacion": "2026-11-25 145838"
     },
     {
       "titulo": "Cobreloa ratificó a Mario Salas como su DT para la temporada 2027: dos jugadores fueron renovados",
