@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-26T22:00:27.782169+00:00",
+  "actualizado": "2026-11-26T22:30:27.583670+00:00",
   "noticias": [
+    {
+      "titulo": "La U implementó rebajas para el cierre de 2026: Estos son los nuevos precios",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-u-implemento-rebajas-para-el-cierre-de-2026-estos-son-los-nuevos/2026-11-26/191304.html",
+      "fecha_publicacion": "2026-11-26 191304"
+    },
+    {
+      "titulo": "Cristián Aubert y Mauricio Etcheverry dejaron Azul Azul",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cristian-aubert-y-mauricio-etcheverry-dejaron-azul-azul/2026-11-26/191230.html",
+      "fecha_publicacion": "2026-11-26 191230"
+    },
+    {
+      "titulo": "Azul Azul definió comisión a cargo del nuevo convenio con la Casa de Estudios",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/azul-azul-definio-comision-a-cargo-del-nuevo-convenio-con-la-casa-de/2026-11-26/190708.html",
+      "fecha_publicacion": "2026-11-26 190708"
+    },
     {
       "titulo": "Garnero y su futuro: Estamos tratando de dejar a Universidad Católica en la Libertadores",
       "fuente": "Cooperativa",
@@ -54,12 +72,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/delegado-del-biobio-y-final-de-copa-chile-en-concepcion-el-municipio/2026-11-26/110724.html",
       "fecha_publicacion": "2026-11-26 110724"
-    },
-    {
-      "titulo": "Presidente de Azul Azul: Iniciamos una nueva etapa con la Casa de Estudios",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/presidente-de-azul-azul-iniciamos-una-nueva-etapa-con-la-casa-de-estudios/2026-11-25/174727.html",
-      "fecha_publicacion": "2026-11-25 174727"
     }
   ]
 }
