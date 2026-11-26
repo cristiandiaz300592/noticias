@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-26T21:30:36.343458+00:00",
+  "actualizado": "2026-11-26T22:00:27.782169+00:00",
   "noticias": [
+    {
+      "titulo": "Garnero y su futuro: Estamos tratando de dejar a Universidad Católica en la Libertadores",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-y-su-futuro-estamos-tratando-de-dejar-a-universidad-catolica-en/2026-11-26/183408.html",
+      "fecha_publicacion": "2026-11-26 183408"
+    },
     {
       "titulo": "Unión Española oficializó salida de Ronald Fuentes tras fracaso en el Ascenso",
       "fuente": "Cooperativa",
@@ -36,6 +42,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/agustin-arce-me-falta-mejorar-la-intensidad-a-veces-soy-un-poco-troton/2026-11-26/151607.html",
       "fecha_publicacion": "2026-11-26 151607"
+    },
+    {
+      "titulo": "CSyD Colo Colo arremetió contra Blanco y Negro por eliminación de beneficios para sus socios",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/csyd-colo-colo-arremetio-contra-blanco-y-negro-por-eliminacion-de/2026-11-26/144027.html",
+      "fecha_publicacion": "2026-11-26 144027"
     },
     {
       "titulo": "Delegado del Biobío y final de Copa Chile en Concepción: El municipio tiene la última palabra",
