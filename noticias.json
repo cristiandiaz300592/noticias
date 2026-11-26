@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-26T18:30:32.797633+00:00",
+  "actualizado": "2026-11-26T19:00:30.278458+00:00",
   "noticias": [
+    {
+      "titulo": "La U compró el pase de Marcelo Morales y aseguró su continuidad hasta 2029",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-u-compro-el-pase-de-marcelo-morales-y-aseguro-su-continuidad-hasta/2026-11-26/155025.html",
+      "fecha_publicacion": "2026-11-26 155025"
+    },
+    {
+      "titulo": "TNT Sports se planta contra ANFP: acusa impacto por ’escritoriazos’ y molestia por reprogramaciones",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/26/tnt-sports-se-planta-contra-anfp-acusa-impacto-por-escritoriazos-y-molestia-por-reprogramaciones.shtml",
+      "fecha_publicacion": "2026-11-26 15:48"
+    },
     {
       "titulo": "CSyD Colo Colo arremetió contra Blanco y Negro por eliminación de beneficios para sus socios",
       "fuente": "Cooperativa",
@@ -20,22 +32,10 @@
       "fecha_publicacion": "2026-11-26 110724"
     },
     {
-      "titulo": "Aníbal Mosa: \"No está arriba de la mesa el nombre de Alexis Sánchez\"",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/anibal-mosa-no-esta-arriba-de-la-mesa-el-nombre-de-alexis-sanchez/2026-11-25/201737.html",
-      "fecha_publicacion": "2026-11-25 201737"
-    },
-    {
       "titulo": "Presidente de Azul Azul: Iniciamos una nueva etapa con la Casa de Estudios",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/presidente-de-azul-azul-iniciamos-una-nueva-etapa-con-la-casa-de-estudios/2026-11-25/174727.html",
       "fecha_publicacion": "2026-11-25 174727"
-    },
-    {
-      "titulo": "Los tres grandes en simultáneo: La programación de la última fecha de la Liga",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-tres-grandes-en-simultaneo-la-programacion-de-la-ultima-fecha-de-la/2026-11-24/183716.html",
-      "fecha_publicacion": "2026-11-24 183716"
     }
   ]
 }
