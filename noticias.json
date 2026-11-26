@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-26T14:00:28.383466+00:00",
+  "actualizado": "2026-11-26T14:30:27.226073+00:00",
   "noticias": [
+    {
+      "titulo": "Delegado presidencial del Biobío por final de Copa Chile en Concepción: \"El municipio tiene la última palabra\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/delegado-presidencial-del-biobio-por-final-de-copa-chile-en-concepcion/2026-11-26/110724.html",
+      "fecha_publicacion": "2026-11-26 110724"
+    },
     {
       "titulo": "Por qué Colo Colo pone en \"lista de espera\" renovación de Vidal, la pregunta que molestó a Mosa y la respuesta por Alexis Sánchez",
       "fuente": "Emol",
@@ -50,22 +56,10 @@
       "fecha_publicacion": "2026-11-25 17:00"
     },
     {
-      "titulo": "Correa superó a Zampedri por amplio margen entre los mejores centrodelanteros de Sudamérica",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/correa-supero-a-zampedri-por-amplio-margen-entre-los-mejores/2026-11-25/145838.html",
-      "fecha_publicacion": "2026-11-25 145838"
-    },
-    {
       "titulo": "Maxi Romero: Está claro que me quiero quedar, pero no depende de mí",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/maxi-romero-esta-claro-que-me-quiero-quedar-pero-no-depende-de-mi/2026-11-25/132111.html",
       "fecha_publicacion": "2026-11-25 132111"
-    },
-    {
-      "titulo": "Los tres grandes en simultáneo: La programación de la última fecha de la Liga",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-tres-grandes-en-simultaneo-la-programacion-de-la-ultima-fecha-de-la/2026-11-24/183716.html",
-      "fecha_publicacion": "2026-11-24 183716"
     }
   ]
 }
