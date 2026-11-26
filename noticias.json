@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-26T16:00:34.830744+00:00",
+  "actualizado": "2026-11-26T16:30:32.093167+00:00",
   "noticias": [
+    {
+      "titulo": "Agustín Arce y duelo ante Concepción: \"La idea es ganar el partido y quedarnos con el Chile 2\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/agustin-arce-y-duelo-ante-concepcion-la-idea-es-ganar-el-partido-y/2026-11-26/125643.html",
+      "fecha_publicacion": "2026-11-26 125643"
+    },
     {
       "titulo": "Delegado del Biobío y final de Copa Chile en Concepción: el municipio tiene la última palabra",
       "fuente": "Cooperativa",
@@ -32,16 +38,16 @@
       "fecha_publicacion": "2026-11-25 194623"
     },
     {
-      "titulo": "Los posibles escenarios para definir Chile 4 de Copa Libertadores: partido único es opción",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/25/los-posibles-escenarios-para-definir-chile-4-de-copa-libertadores-partido-unico-es-opcion.shtml",
-      "fecha_publicacion": "2026-11-25 17:57"
-    },
-    {
       "titulo": "Presidente de Azul Azul: Iniciamos una nueva etapa con la Casa de Estudios",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/presidente-de-azul-azul-iniciamos-una-nueva-etapa-con-la-casa-de-estudios/2026-11-25/174727.html",
       "fecha_publicacion": "2026-11-25 174727"
+    },
+    {
+      "titulo": "La programación para las semifinales de la Copa Chile 2026",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-programacion-para-las-semifinales-de-la-copa-chile-2026/2026-11-24/213650.html",
+      "fecha_publicacion": "2026-11-24 213650"
     },
     {
       "titulo": "Los tres grandes en simultáneo: La programación de la última fecha de la Liga",
