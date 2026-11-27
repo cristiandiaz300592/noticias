@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-27T12:30:28.300413+00:00",
+  "actualizado": "2026-11-27T12:47:24.577563+00:00",
   "noticias": [
+    {
+      "titulo": "A qué hora juegan y dónde ver en vivo el Chile vs Montenegro por el Mundial Sub-17",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/27/a-que-hora-juegan-y-donde-ver-en-vivo-el-chile-vs-montenegro-por-el-mundial-sub-17.shtml",
+      "fecha_publicacion": "2026-11-27 09:31"
+    },
     {
       "titulo": "\"Demasiado roto mala clase\": Revelan chats de los dueños de Sartor sobre la compra de la U",
       "fuente": "Cooperativa",
@@ -50,12 +56,6 @@
       "fecha_publicacion": "2026-11-26 191304"
     },
     {
-      "titulo": "Azul Azul definió comisión a cargo del nuevo convenio con la Casa de Estudios",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/azul-azul-definio-comision-a-cargo-del-nuevo-convenio-con-la-casa-de/2026-11-26/190708.html",
-      "fecha_publicacion": "2026-11-26 190708"
-    },
-    {
       "titulo": "Garnero y su futuro: Estamos tratando de dejar a Universidad Católica en la Libertadores",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-y-su-futuro-estamos-tratando-de-dejar-a-universidad-catolica-en/2026-11-26/183408.html",
@@ -84,12 +84,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/26/tnt-sports-se-planta-contra-anfp-acusa-impacto-por-escritoriazos-y-molestia-por-reprogramaciones.shtml",
       "fecha_publicacion": "2026-11-26 15:48"
-    },
-    {
-      "titulo": "CSyD Colo Colo arremetió contra Blanco y Negro por eliminación de beneficios para sus socios",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/csyd-colo-colo-arremetio-contra-blanco-y-negro-por-eliminacion-de/2026-11-26/144027.html",
-      "fecha_publicacion": "2026-11-26 144027"
     }
   ]
 }
