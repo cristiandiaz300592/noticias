@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T22:30:25.295856+00:00",
+  "actualizado": "2026-11-27T23:00:29.143986+00:00",
   "noticias": [
     {
       "titulo": "La alternativa formación que alista Colo Colo para enfrentar a Deportes La Serena",
@@ -38,12 +38,6 @@
       "fecha_publicacion": "2026-11-27 13:58"
     },
     {
-      "titulo": "Gago sobre Aránguiz: Quiero que renueve",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-sobre-aranguiz-quiero-que-renueve/2026-11-27/133934.html",
-      "fecha_publicacion": "2026-11-27 133934"
-    },
-    {
       "titulo": "Ortiz: Vidal tiene un contrato vigente y considero que es una pieza fundamental",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-vidal-tiene-un-contrato-vigente-y-considero-que-es-una-pieza/2026-11-27/131259.html",
@@ -78,6 +72,12 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/27/1218357/renovacion-vidal-colocolo.html",
       "fecha_publicacion": "2026-11-27 10:37"
+    },
+    {
+      "titulo": "\"Demasiado roto mala clase\": Revelan chats de los dueños de Sartor sobre la compra de la U",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/demasiado-roto-mala-clase-revelan-chats-de-los-duenos-de-sartor-sobre/2026-11-27/082834.html",
+      "fecha_publicacion": "2026-11-27 082834"
     }
   ]
 }
