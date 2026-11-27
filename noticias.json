@@ -1,17 +1,23 @@
 {
-  "actualizado": "2026-11-27T20:30:30.103895+00:00",
+  "actualizado": "2026-11-27T21:00:29.137457+00:00",
   "noticias": [
+    {
+      "titulo": "La alternativa formación que alista Colo Colo para enfrentar a Deportes La Serena",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/la-alternativa-formacion-que-alista-colo-colo-para-enfrentar-a-deportes/2026-11-27/174518.html",
+      "fecha_publicacion": "2026-11-27 174518"
+    },
+    {
+      "titulo": "Defensa de Wanderers relata su versión tras invasión de barristas: \"Entraron a sacar su bandera\"",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/27/defensa-de-wanderers-relata-su-version-tras-invasion-de-barristas-entraron-a-sacar-su-bandera.shtml",
+      "fecha_publicacion": "2026-11-27 17:38"
+    },
     {
       "titulo": "Un viejo conocido: Unión Española presentó a César Bravo como su nuevo DT para \"volver a Primera\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/27/un-viejo-conocido-union-espanola-presento-a-cesar-bravo-como-su-nuevo-dt-para-volver-a-primera.shtml",
       "fecha_publicacion": "2026-11-27 16:43"
-    },
-    {
-      "titulo": "La formación de la U para visitar a Deportes Concepción en la penúltima fecha de la Liga",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-formacion-de-la-u-para-visitar-a-deportes-concepcion-en-la-penultima/2026-11-27/164107.html",
-      "fecha_publicacion": "2026-11-27 164107"
     },
     {
       "titulo": "Chile tiene rival para 16avos de final del Mundial Sub 17: si avanza podría cruzarse con Brasil",
@@ -78,12 +84,6 @@
       "fuente": "Emol",
       "enlace": "https://www.emol.com/noticias/Deportes/2026/11/27/1218357/renovacion-vidal-colocolo.html",
       "fecha_publicacion": "2026-11-27 10:37"
-    },
-    {
-      "titulo": "\"Somos demasiados hinchas de la UC\": nuevos y polémicos chats de Sartor sacuden a La U y Azul Azul",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/27/somos-demasiados-hinchas-de-la-uc-nuevos-y-polemicos-chats-de-sartor-sacuden-a-la-u-y-azul-azul.shtml",
-      "fecha_publicacion": "2026-11-27 10:22"
     }
   ]
 }
