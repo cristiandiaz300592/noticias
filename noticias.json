@@ -1,17 +1,29 @@
 {
-  "actualizado": "2026-11-27T16:30:31.720282+00:00",
+  "actualizado": "2026-11-27T17:00:35.232561+00:00",
   "noticias": [
+    {
+      "titulo": "La Roja se metió en 16avos del Mundial Sub 17: Chile venció a Montenegro y terminó primero de su grupo",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/27/la-roja-se-metio-en-16avos-del-mundial-sub-17-chile-vencio-a-montenegro-y-termino-primero-de-su-grupo.shtml",
+      "fecha_publicacion": "2026-11-27 13:58"
+    },
+    {
+      "titulo": "Gago sobre Aránguiz: Quiero que renueve",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-sobre-aranguiz-quiero-que-renueve/2026-11-27/133934.html",
+      "fecha_publicacion": "2026-11-27 133934"
+    },
+    {
+      "titulo": "Ortiz: Vidal tiene un contrato vigente y considero que es una pieza fundamental",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-vidal-tiene-un-contrato-vigente-y-considero-que-es-una-pieza/2026-11-27/131259.html",
+      "fecha_publicacion": "2026-11-27 131259"
+    },
     {
       "titulo": "Unión Española oficializó a César Bravo como su nuevo entrenador para la temporada",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-oficializo-a-cesar-bravo-como-su-nuevo-entrenador-para-la/2026-11-27/124405.html",
       "fecha_publicacion": "2026-11-27 124405"
-    },
-    {
-      "titulo": "Recurso judicial de San Joaquín puso en jaque duelo entre Colo Colo y La Serena",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/recurso-judicial-de-san-joaquin-puso-en-jaque-duelo-entre-colo-colo-y-la/2026-11-27/120301.html",
-      "fecha_publicacion": "2026-11-27 120301"
     },
     {
       "titulo": "Chats del Caso Sartor destapan gestión por negocio ligado a la ANFP a espaldas de Michael Clark",
@@ -50,12 +62,6 @@
       "fecha_publicacion": "2026-11-27 09:31"
     },
     {
-      "titulo": "\"Demasiado roto mala clase\": Revelan chats de los dueños de Sartor sobre la compra de la U",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/demasiado-roto-mala-clase-revelan-chats-de-los-duenos-de-sartor-sobre/2026-11-27/082834.html",
-      "fecha_publicacion": "2026-11-27 082834"
-    },
-    {
       "titulo": "Las imágenes de la vergüenza tras invasión de barristas de Wanderers a cancha en Valparaíso",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/26/las-imagenes-de-la-verguenza-tras-invasion-de-barristas-de-wanderers-a-cancha-en-valparaiso.shtml",
@@ -66,18 +72,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/26/barristas-de-wanderers-ingresan-a-cancha-en-goleada-de-recoleta-en-liguilla-partido-esta-suspendido.shtml",
       "fecha_publicacion": "2026-11-26 20:51"
-    },
-    {
-      "titulo": "Revancha entre Colo Colo y O'Higgins en Copa Chile sólo será transmitido en HBO Max",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/revancha-entre-colo-colo-y-o-higgins-en-copa-chile-solo-sera-transmitido/2026-11-26/204644.html",
-      "fecha_publicacion": "2026-11-26 204644"
-    },
-    {
-      "titulo": "ANFA castiga con dos años sin jugar a Fernández Vial tras incidente con bengala: club apelará sanción",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/26/anfa-castiga-con-dos-anos-sin-jugar-a-fernandez-vial-tras-incidente-con-bengala-club-apelara-sancion.shtml",
-      "fecha_publicacion": "2026-11-26 20:01"
     },
     {
       "titulo": "La U implementó rebajas para el cierre de 2026: Estos son los nuevos precios",
