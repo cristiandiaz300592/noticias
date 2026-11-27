@@ -1,11 +1,17 @@
 {
-  "actualizado": "2026-11-27T12:00:42.899525+00:00",
+  "actualizado": "2026-11-27T12:30:28.300413+00:00",
   "noticias": [
     {
       "titulo": "\"Demasiado roto mala clase\": Revelan chats de los dueños de Sartor sobre la compra de la U",
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/demasiado-roto-mala-clase-revelan-chats-de-los-duenos-de-sartor-sobre/2026-11-27/082834.html",
       "fecha_publicacion": "2026-11-27 082834"
+    },
+    {
+      "titulo": "Borghi opina con total honestidad por el caso Vidal en Colo Colo, mientras la mamá del \"Rey\" habla del posible retiro",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/27/1218342/vidal-renovacion-colocolo-borghi.html",
+      "fecha_publicacion": "2026-11-27 07:35"
     },
     {
       "titulo": "La U anunció precios rebajados para sus abonos: \"Los 100 años se celebran a estadio lleno\"",
@@ -18,12 +24,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/26/las-imagenes-de-la-verguenza-tras-invasion-de-barristas-de-wanderers-a-cancha-en-valparaiso.shtml",
       "fecha_publicacion": "2026-11-26 22:43"
-    },
-    {
-      "titulo": "Wanderers estaba quedando eliminado de la liguilla de Primera B, pero el partido se suspendió por la invasión de hinchas",
-      "fuente": "Emol",
-      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/26/1218322/santiago-wanderers-incidentes-hinchas-primerab.html",
-      "fecha_publicacion": "2026-11-26 21:00"
     },
     {
       "titulo": "Barristas de Wanderers invadieron cancha en goleada de Recoleta: partido de Liguilla acabó suspendido",
