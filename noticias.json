@@ -1,11 +1,17 @@
 {
-  "actualizado": "2026-11-27T20:00:28.263722+00:00",
+  "actualizado": "2026-11-27T20:30:30.103895+00:00",
   "noticias": [
     {
       "titulo": "Un viejo conocido: Unión Española presentó a César Bravo como su nuevo DT para \"volver a Primera\"",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/27/un-viejo-conocido-union-espanola-presento-a-cesar-bravo-como-su-nuevo-dt-para-volver-a-primera.shtml",
       "fecha_publicacion": "2026-11-27 16:43"
+    },
+    {
+      "titulo": "La formación de la U para visitar a Deportes Concepción en la penúltima fecha de la Liga",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-formacion-de-la-u-para-visitar-a-deportes-concepcion-en-la-penultima/2026-11-27/164107.html",
+      "fecha_publicacion": "2026-11-27 164107"
     },
     {
       "titulo": "Chile tiene rival para 16avos de final del Mundial Sub 17: si avanza podría cruzarse con Brasil",
@@ -78,18 +84,6 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/27/somos-demasiados-hinchas-de-la-uc-nuevos-y-polemicos-chats-de-sartor-sacuden-a-la-u-y-azul-azul.shtml",
       "fecha_publicacion": "2026-11-27 10:22"
-    },
-    {
-      "titulo": "A qué hora juegan y dónde ver en vivo el Chile vs Montenegro por el Mundial Sub-17",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/27/a-que-hora-juegan-y-donde-ver-en-vivo-el-chile-vs-montenegro-por-el-mundial-sub-17.shtml",
-      "fecha_publicacion": "2026-11-27 09:31"
-    },
-    {
-      "titulo": "La U compró el pase de Marcelo Morales y aseguró su continuidad hasta 2029",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-u-compro-el-pase-de-marcelo-morales-y-aseguro-su-continuidad-hasta/2026-11-26/155025.html",
-      "fecha_publicacion": "2026-11-26 155025"
     }
   ]
 }
