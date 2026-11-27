@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-27T13:00:34.966879+00:00",
+  "actualizado": "2026-11-27T13:30:28.576762+00:00",
   "noticias": [
+    {
+      "titulo": "\"Somos demasiados hinchas de la UC\": nuevos y polémicos chats de Sartor sacuden a La U y Azul Azul",
+      "fuente": "BioBioChile",
+      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/27/somos-demasiados-hinchas-de-la-uc-nuevos-y-polemicos-chats-de-sartor-sacuden-a-la-u-y-azul-azul.shtml",
+      "fecha_publicacion": "2026-11-27 10:22"
+    },
     {
       "titulo": "A qué hora juegan y dónde ver en vivo el Chile vs Montenegro por el Mundial Sub-17",
       "fuente": "BioBioChile",
@@ -56,18 +62,6 @@
       "fecha_publicacion": "2026-11-26 191304"
     },
     {
-      "titulo": "Garnero y su futuro: Estamos tratando de dejar a Universidad Católica en la Libertadores",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-y-su-futuro-estamos-tratando-de-dejar-a-universidad-catolica-en/2026-11-26/183408.html",
-      "fecha_publicacion": "2026-11-26 183408"
-    },
-    {
-      "titulo": "Unión Española oficializó salida de Ronald Fuentes tras fracaso en el Ascenso",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-oficializo-salida-de-ronald-fuentes-tras-fracaso-en-el/2026-11-26/180839.html",
-      "fecha_publicacion": "2026-11-26 180839"
-    },
-    {
       "titulo": "Chile vs Montenegro por el Mundial Sub-17: a qué hora juegan y dónde verlo en vivo",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/26/chile-vs-montenegro-por-el-mundial-sub-17-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
@@ -80,10 +74,10 @@
       "fecha_publicacion": "2026-11-26 155025"
     },
     {
-      "titulo": "TNT Sports se planta contra ANFP: acusa impacto por ’escritoriazos’ y molestia por reprogramaciones",
-      "fuente": "BioBioChile",
-      "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/26/tnt-sports-se-planta-contra-anfp-acusa-impacto-por-escritoriazos-y-molestia-por-reprogramaciones.shtml",
-      "fecha_publicacion": "2026-11-26 15:48"
+      "titulo": "CSyD Colo Colo arremetió contra Blanco y Negro por eliminación de beneficios para sus socios",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/csyd-colo-colo-arremetio-contra-blanco-y-negro-por-eliminacion-de/2026-11-26/144027.html",
+      "fecha_publicacion": "2026-11-26 144027"
     }
   ]
 }
