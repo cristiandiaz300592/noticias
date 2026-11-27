@@ -1,11 +1,29 @@
 {
-  "actualizado": "2026-11-27T14:30:29.089179+00:00",
+  "actualizado": "2026-11-27T15:00:32.646248+00:00",
   "noticias": [
+    {
+      "titulo": "Chats del Caso Sartor destapan gestión por negocio ligado a la ANFP a espaldas de Michael Clark",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/chats-del-caso-sartor-destapan-gestion-por-negocio-ligado-a-la-anfp-a/2026-11-27/113214.html",
+      "fecha_publicacion": "2026-11-27 113214"
+    },
+    {
+      "titulo": "Sartor quiso sacar a Milad de la ANFP",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/sartor-quiso-sacar-a-milad-de-la-anfp/2026-11-27/113040.html",
+      "fecha_publicacion": "2026-11-27 113040"
+    },
     {
       "titulo": "Del bochorno al castigo: las sanciones que arriesga Wanderers tras invasión de barristas ante Recoleta",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/27/del-bochorno-al-castigo-las-sanciones-que-arriesga-wanderers-tras-invasion-de-barristas-ante-recoleta.shtml",
       "fecha_publicacion": "2026-11-27 11:16"
+    },
+    {
+      "titulo": "Vota y opina: ¿Debe Colo Colo renovar a Arturo Vidal para 2027?",
+      "fuente": "Emol",
+      "enlace": "https://www.emol.com/noticias/Deportes/2026/11/27/1218357/renovacion-vidal-colocolo.html",
+      "fecha_publicacion": "2026-11-27 10:37"
     },
     {
       "titulo": "\"Somos demasiados hinchas de la UC\": nuevos y polémicos chats de Sartor sacuden a La U y Azul Azul",
@@ -84,12 +102,6 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-u-compro-el-pase-de-marcelo-morales-y-aseguro-su-continuidad-hasta/2026-11-26/155025.html",
       "fecha_publicacion": "2026-11-26 155025"
-    },
-    {
-      "titulo": "CSyD Colo Colo arremetió contra Blanco y Negro por eliminación de beneficios para sus socios",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/csyd-colo-colo-arremetio-contra-blanco-y-negro-por-eliminacion-de/2026-11-26/144027.html",
-      "fecha_publicacion": "2026-11-26 144027"
     }
   ]
 }
