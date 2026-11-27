@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T10:00:30.972551+00:00",
+  "actualizado": "2026-11-27T10:30:27.016191+00:00",
   "noticias": [
     {
       "titulo": "Las imágenes de la vergüenza tras invasión de barristas de Wanderers a cancha en Valparaíso",
@@ -50,12 +50,6 @@
       "fecha_publicacion": "2026-11-26 183408"
     },
     {
-      "titulo": "Unión Española oficializó salida de Ronald Fuentes tras fracaso en el Ascenso",
-      "fuente": "Cooperativa",
-      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-oficializo-salida-de-ronald-fuentes-tras-fracaso-en-el/2026-11-26/180839.html",
-      "fecha_publicacion": "2026-11-26 180839"
-    },
-    {
       "titulo": "Chile vs Montenegro por el Mundial Sub-17: a qué hora juegan y dónde verlo en vivo",
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/26/chile-vs-montenegro-por-el-mundial-sub-17-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
@@ -72,6 +66,12 @@
       "fuente": "BioBioChile",
       "enlace": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/26/tnt-sports-se-planta-contra-anfp-acusa-impacto-por-escritoriazos-y-molestia-por-reprogramaciones.shtml",
       "fecha_publicacion": "2026-11-26 15:48"
+    },
+    {
+      "titulo": "CSyD Colo Colo arremetió contra Blanco y Negro por eliminación de beneficios para sus socios",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/csyd-colo-colo-arremetio-contra-blanco-y-negro-por-eliminacion-de/2026-11-26/144027.html",
+      "fecha_publicacion": "2026-11-26 144027"
     }
   ]
 }
