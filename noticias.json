@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-27T11:00:29.407072+00:00",
+  "actualizado": "2026-11-27T11:30:26.649466+00:00",
   "noticias": [
+    {
+      "titulo": "La U anunció precios rebajados para sus abonos: \"Los 100 años se celebran a estadio lleno\"",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-u-anuncio-precios-rebajados-para-sus-abonos-los-100-anos-se/2026-11-27/073321.html",
+      "fecha_publicacion": "2026-11-27 073321"
+    },
     {
       "titulo": "Las imágenes de la vergüenza tras invasión de barristas de Wanderers a cancha en Valparaíso",
       "fuente": "BioBioChile",
@@ -48,6 +54,12 @@
       "fuente": "Cooperativa",
       "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-y-su-futuro-estamos-tratando-de-dejar-a-universidad-catolica-en/2026-11-26/183408.html",
       "fecha_publicacion": "2026-11-26 183408"
+    },
+    {
+      "titulo": "Unión Española oficializó salida de Ronald Fuentes tras fracaso en el Ascenso",
+      "fuente": "Cooperativa",
+      "enlace": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-oficializo-salida-de-ronald-fuentes-tras-fracaso-en-el/2026-11-26/180839.html",
+      "fecha_publicacion": "2026-11-26 180839"
     },
     {
       "titulo": "Chile vs Montenegro por el Mundial Sub-17: a qué hora juegan y dónde verlo en vivo",
